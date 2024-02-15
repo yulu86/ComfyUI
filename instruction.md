@@ -16,8 +16,23 @@ python -m pip install torch torchvision torchaudio --extra-index-url https://dow
 python -m pip install -r requirements.txt
 ```
 
+- mac
+
+```
+python3 -m pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+python3 -m pip install -r requirements.txt
+```
+
 ### 启动
+
+- windows 
 
 ```
 python main.py
+```
+
+- mac
+
+```
+python3 main.py --force-fp16
 ```
