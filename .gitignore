@@ -18,3 +18,4 @@ venv/
 /user/
 .DS_Store
 comfyui.log
+comfyui.prev**.log
