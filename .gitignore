@@ -19,3 +19,4 @@ venv/
 .DS_Store
 comfyui.log
 comfyui.prev**.log
+00-my-workflows/**/**.png
