@@ -261,8 +261,8 @@
       "id": 20,
       "type": "LoraLoader",
       "pos": [
-        124,
-        826
+        125.42430496215826,
+        859.6666037819607
       ],
       "size": [
         432.77386577458685,
@@ -313,11 +313,37 @@
       ]
     },
     {
+      "id": 19,
+      "type": "SaveImage",
+      "pos": [
+        1527,
+        126
+      ],
+      "size": {
+        "0": 210,
+        "1": 270
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 17
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
       "id": 21,
       "type": "LoraLoader",
       "pos": [
-        128,
-        1024
+        608.4243049621583,
+        859.6666037819607
       ],
       "size": {
         "0": 432.77386474609375,
@@ -366,32 +392,6 @@
         "baobao_v2.safetensors",
         0.5,
         0.5
-      ]
-    },
-    {
-      "id": 19,
-      "type": "SaveImage",
-      "pos": [
-        1527,
-        126
-      ],
-      "size": {
-        "0": 210,
-        "1": 270
-      },
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 17
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "ComfyUI"
       ]
     }
   ],
@@ -527,10 +527,10 @@
     {
       "title": "Lora",
       "bounding": [
-        58,
-        730,
-        682,
-        448
+        59,
+        764,
+        1032,
+        249
       ],
       "color": "#a1309b",
       "font_size": 24
