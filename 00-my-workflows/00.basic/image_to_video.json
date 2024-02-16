@@ -91,7 +91,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        237514639057514,
+        394230774179745,
         "randomize",
         20,
         2.5,
@@ -139,89 +139,6 @@
       "properties": {
         "Node name for S&R": "VAEDecode"
       }
-    },
-    {
-      "id": 10,
-      "type": "SaveAnimatedWEBP",
-      "pos": [
-        1459,
-        376
-      ],
-      "size": {
-        "0": 741.6685791015625,
-        "1": 564.5909423828125
-      },
-      "flags": {},
-      "order": 6,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 10
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SaveAnimatedWEBP"
-      },
-      "widgets_values": [
-        "ComfyUI",
-        10,
-        false,
-        85,
-        "default"
-      ]
-    },
-    {
-      "id": 15,
-      "type": "ImageOnlyCheckpointLoader",
-      "pos": [
-        55,
-        267
-      ],
-      "size": {
-        "0": 369.6000061035156,
-        "1": 98
-      },
-      "flags": {},
-      "order": 0,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            23
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP_VISION",
-          "type": "CLIP_VISION",
-          "links": [
-            24
-          ],
-          "shape": 3,
-          "slot_index": 1
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            25,
-            26
-          ],
-          "shape": 3,
-          "slot_index": 2
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ImageOnlyCheckpointLoader"
-      },
-      "widgets_values": [
-        "svd.safetensors"
-      ]
     },
     {
       "id": 12,
@@ -308,7 +225,7 @@
         "1": 314.0000305175781
       },
       "flags": {},
-      "order": 1,
+      "order": 0,
       "mode": 0,
       "outputs": [
         {
@@ -332,6 +249,92 @@
       "widgets_values": [
         "mountains.png",
         "image"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "SaveAnimatedWEBP",
+      "pos": [
+        1566,
+        558
+      ],
+      "size": {
+        "0": 741.6685791015625,
+        "1": 564.5909423828125
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 10
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveAnimatedWEBP"
+      },
+      "widgets_values": [
+        "ComfyUI",
+        10,
+        false,
+        85,
+        "default",
+        null
+      ],
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 15,
+      "type": "ImageOnlyCheckpointLoader",
+      "pos": [
+        55,
+        267
+      ],
+      "size": {
+        "0": 369.6000061035156,
+        "1": 98
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            23
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP_VISION",
+          "type": "CLIP_VISION",
+          "links": [
+            24
+          ],
+          "shape": 3,
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            25,
+            26
+          ],
+          "shape": 3,
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageOnlyCheckpointLoader"
+      },
+      "widgets_values": [
+        "SVD\\svd_xt.safetensors"
       ]
     }
   ],
