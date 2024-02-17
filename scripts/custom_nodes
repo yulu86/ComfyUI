@@ -1,4 +1,5 @@
 ComfyUI-Manager=https://github.com/ltdrdata/ComfyUI-Manager.git
+AIGODLIKE-ComfyUI-Translation=https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation.git
 ComfyUI-Advanced-ControlNet=https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
 ComfyUI-AnimateDiff-Evolved=https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
 ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
