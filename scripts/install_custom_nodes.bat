@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 set PROPERTIES_FILE=custom_nodes
-set DESTINATION_FOLDER=../custom_nodes2
+set DESTINATION_FOLDER=../custom_nodes
 
 for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr "="') do (
     set "project_name=%%a"
