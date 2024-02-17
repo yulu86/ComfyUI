@@ -23,11 +23,22 @@ python3 -m pip install --pre torch torchvision torchaudio --extra-index-url http
 python3 -m pip install -r requirements.txt
 ```
 
-### 安装[`ComfyUI-Manager`](https://github.com/ltdrdata/ComfyUI-Manager)
+### 安装[`ComfyUI-Manager`](https://github.com/ltdrdata/ComfyUI-Manager)和`自定义节点`
+
+- windows
 
 ```
-cd ./custom_nodes
-git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+cd ./scripts
+./install_custom_nodes.bat
+cd ..
+```
+
+- mac
+
+```
+cd ./scripts
+bash ./install_custom_nodes.shell
+cd ..
 ```
 
 ### 启动
