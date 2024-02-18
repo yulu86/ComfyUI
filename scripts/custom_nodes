@@ -1,6 +1,12 @@
+# ComfyUI Manager
 ComfyUI-Manager=https://github.com/ltdrdata/ComfyUI-Manager.git
+# SDXL提示词风格选择
 sdxl_prompt_styler=https://github.com/twri/sdxl_prompt_styler.git
+# 工具
 ComfyUI_Custom_Nodes_AlekPet=https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
 # AIGODLIKE-ComfyUI-Translation=https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation.git
 ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+# ControlNet预处理器
+comfyui_controlnet_aux=https://github.com/Fannovel16/comfyui_controlnet_aux.git
+# ControlNet高级
 ComfyUI-Advanced-ControlNet=https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
