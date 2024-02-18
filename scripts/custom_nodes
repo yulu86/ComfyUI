@@ -10,3 +10,5 @@ ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.g
 comfyui_controlnet_aux=https://github.com/Fannovel16/comfyui_controlnet_aux.git
 # ControlNet高级
 ComfyUI-Advanced-ControlNet=https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+# AnimateDiff
+ComfyUI-AnimateDiff-Evolved=https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
