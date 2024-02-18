@@ -3,3 +3,4 @@ sdxl_prompt_styler=https://github.com/twri/sdxl_prompt_styler.git
 ComfyUI_Custom_Nodes_AlekPet=https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
 # AIGODLIKE-ComfyUI-Translation=https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation.git
 ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+ComfyUI-Advanced-ControlNet=https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
