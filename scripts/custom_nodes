@@ -15,3 +15,7 @@ ComfyUI-AnimateDiff-Evolved=https://github.com/Kosinkadink/ComfyUI-AnimateDiff-E
 ComfyUI_FizzNodes=https://github.com/FizzleDorf/ComfyUI_FizzNodes.git
 ComfyUI-VideoHelperSuite=https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
 ComfyUI_IPAdapter_plus=https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+# rgthree-comfy
+rgthree-comfy=https://github.com/rgthree/rgthree-comfy.git
+# Gemini插件
+ComfyUI-Gemini=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini.git
