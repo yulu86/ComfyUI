@@ -7,7 +7,7 @@ conda create -n ComfyUI python=3.12
 conda activate ComfyUI
 ```
 
-### 安装`cuda`和`依赖`
+### 安装`pytorch`和`依赖`
 
 - windows
 
@@ -19,8 +19,14 @@ python -m pip install -r requirements.txt
 - mac
 
 ```
-python3 -m pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+python3 -m pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 python3 -m pip install -r requirements.txt
+```
+
+- mac(非silicon)
+```
+pip3 install torch torchvision torchaudio
+pip3 install -r requirements.txt
 ```
 
 ### 安装[`ComfyUI-Manager`](https://github.com/ltdrdata/ComfyUI-Manager)和`自定义节点`
