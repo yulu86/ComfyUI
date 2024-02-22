@@ -19,3 +19,5 @@ ComfyUI_IPAdapter_plus=https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
 rgthree-comfy=https://github.com/rgthree/rgthree-comfy.git
 # Gemini插件
 ComfyUI-Gemini=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini.git
+# 百度翻译
+ComfyUI_Prompt_Translate_to_English=https://github.com/pengchengmi/ComfyUI_Prompt_Translate_to_English.git
