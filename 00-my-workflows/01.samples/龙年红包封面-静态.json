@@ -1,0 +1,936 @@
+{
+  "last_node_id": 34,
+  "last_link_id": 52,
+  "nodes": [
+    {
+      "id": 19,
+      "type": "VAEEncode",
+      "pos": [
+        2180,
+        350
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "pixels",
+          "type": "IMAGE",
+          "link": 41,
+          "label": "pixels"
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 42,
+          "label": "vae"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            43
+          ],
+          "shape": 3,
+          "label": "LATENT",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEEncode"
+      }
+    },
+    {
+      "id": 22,
+      "type": "VAEDecode",
+      "pos": [
+        2870,
+        350
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 48,
+          "label": "samples"
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 49,
+          "label": "vae"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            52
+          ],
+          "shape": 3,
+          "label": "IMAGE",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 25,
+      "type": "SaveImage",
+      "pos": [
+        2870,
+        444
+      ],
+      "size": {
+        "0": 737.7849731445312,
+        "1": 835.9384765625
+      },
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 52,
+          "label": "images"
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "VAEDecode",
+      "pos": [
+        1940,
+        350
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 34,
+          "label": "samples"
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 35,
+          "label": "vae"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            41,
+            51
+          ],
+          "shape": 3,
+          "label": "IMAGE",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 14,
+      "type": "EmptyLatentImage",
+      "pos": [
+        1097.666748046875,
+        850
+      ],
+      "size": {
+        "0": 401.666748046875,
+        "1": 106
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            32
+          ],
+          "shape": 3,
+          "label": "LATENT"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "type": "KSampler",
+      "pos": [
+        1546,
+        351
+      ],
+      "size": {
+        "0": 374.1371765136719,
+        "1": 698.5332641601562
+      },
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 36,
+          "label": "model"
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 31,
+          "label": "positive"
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 30,
+          "label": "negative"
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 32,
+          "label": "latent_image",
+          "slot_index": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            34
+          ],
+          "shape": 3,
+          "label": "LATENT",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        465130009730282,
+        "randomize",
+        5,
+        2,
+        "dpmpp_sde",
+        "karras",
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1098,
+        598
+      ],
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 40,
+          "label": "clip"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            30,
+            47
+          ],
+          "shape": 3,
+          "label": "CONDITIONING",
+          "slot_index": 0
+        }
+      ],
+      "title": "negative prompt 负向提示词",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "bad quality,normal quality, text,"
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 24,
+      "type": "PreviewImage",
+      "pos": [
+        1940,
+        439
+      ],
+      "size": {
+        "0": 550.672607421875,
+        "1": 607.4727783203125
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 51,
+          "label": "images"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      }
+    },
+    {
+      "id": 21,
+      "type": "KSampler",
+      "pos": [
+        2526,
+        477
+      ],
+      "size": {
+        "0": 331.2297668457031,
+        "1": 583.6356811523438
+      },
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 45,
+          "label": "model"
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 46,
+          "label": "positive"
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 47,
+          "label": "negative"
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 44,
+          "label": "latent_image"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            48
+          ],
+          "shape": 3,
+          "label": "LATENT",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        770122097122025,
+        "randomize",
+        5,
+        2,
+        "dpmpp_sde",
+        "karras",
+        0.55
+      ]
+    },
+    {
+      "id": 30,
+      "type": "Note",
+      "pos": [
+        516,
+        133
+      ],
+      "size": {
+        "0": 3124.867919921875,
+        "1": 88.24900817871094
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "title": "文生图工作流_注意事项",
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "此流程适用于所有大模型，但默认配置是根据TurboVisionXL大模型进行的推荐，若更换大模型，需要自行调整参数\n\n——聚梦小课堂（抖音、B站、小红书、视频号、Youtube...全网同名）\n\n专注AI绘画，打造人人都能看懂的AI生产力教程"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 33,
+      "type": "Note",
+      "pos": [
+        545,
+        752
+      ],
+      "size": {
+        "0": 483.6449279785156,
+        "1": 273.2290344238281
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "title": "参数推荐",
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "checkpoint 大模型安装地址：ComfyUI-aki-v1.1\\models\\checkpoints\n\nlora 模型安装地址：ComfyUI-aki-v1.1\\models\\loras\n\n\n\n"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 6,
+      "type": "CLIPTextEncode",
+      "pos": [
+        1098,
+        350
+      ],
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 33,
+          "label": "clip"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            31,
+            46
+          ],
+          "shape": 3,
+          "label": "CONDITIONING",
+          "slot_index": 0
+        }
+      ],
+      "title": "positive prompt 正向提示词",
+      "properties": {
+        "Node name for S&R": "Positive Prompt"
+      },
+      "widgets_values": [
+        "one Chinese dragon,cute,front view,chibi,Porcelain flowers,chinese festival,gold coins, in realistic detailed render style,3D,contourshading, mother-of-pearl iridescence, Bright color, colorful background, holographic,8k,masterpiece, best quality,"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "Note",
+      "pos": [
+        1565,
+        648
+      ],
+      "size": {
+        "0": 336.5909118652344,
+        "1": 156.54840087890625
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "title": "参数推荐",
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "以下参数，只针对TurboVisionXL大模型\n\n大模型作者推荐的参数配置：\n\nsteps 迭代步数: 3 - 5\n\ncfg 提示词引导系数: 1 - 2.25\n\nsample 采用方法： DPM++ SDE 、 DPM++ SDE Karras\n\n"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 34,
+      "type": "Note",
+      "pos": [
+        2546,
+        789
+      ],
+      "size": {
+        "0": 293.18865966796875,
+        "1": 179.06655883789062
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "title": "参数推荐",
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "以下参数，只针对TurboVisionXL大模型\n\n大模型作者推荐的参数配置：\n\nsteps 迭代步数: 3 - 5\n\ncfg 提示词引导系数: 1 - 2.25\n\nsample 采用方法： DPM++ SDE 、 DPM++ SDE Karras\n\n"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 20,
+      "type": "LatentUpscaleBy",
+      "pos": [
+        2530,
+        350
+      ],
+      "size": {
+        "0": 324.6297607421875,
+        "1": 83.9022445678711
+      },
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 43,
+          "label": "samples"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            44
+          ],
+          "shape": 3,
+          "label": "LATENT",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LatentUpscaleBy"
+      },
+      "widgets_values": [
+        "nearest-exact",
+        1.5
+      ]
+    },
+    {
+      "id": 4,
+      "type": "CheckpointLoader|pysssss",
+      "pos": [
+        544.6668548583984,
+        347.33331298828125
+      ],
+      "size": {
+        "0": 489.6666259765625,
+        "1": 161.3333740234375
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            7,
+            45
+          ],
+          "shape": 3,
+          "label": "MODEL",
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            9
+          ],
+          "shape": 3,
+          "label": "CLIP",
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            35,
+            42,
+            49
+          ],
+          "shape": 3,
+          "label": "VAE",
+          "slot_index": 2
+        }
+      ],
+      "title": "Checkpoint Loader 🐍 ",
+      "properties": {
+        "Node name for S&R": "CheckpointLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "turbovisionxlSuperFastXLBasedOnNew_tvxlV431Bakedvae.safetensors",
+          "image": null
+        },
+        "[none]"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        542.6668548583984,
+        552.3333129882812
+      ],
+      "size": {
+        "0": 492.6666259765625,
+        "1": 150
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 7,
+          "label": "model"
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 9,
+          "label": "clip"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            36
+          ],
+          "shape": 3,
+          "label": "MODEL",
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            33,
+            40
+          ],
+          "shape": 3,
+          "label": "CLIP",
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "xl_more_art-full_v1.safetensors",
+          "image": null
+        },
+        0.5,
+        0.3,
+        "[none]"
+      ]
+    }
+  ],
+  "links": [
+    [
+      7,
+      4,
+      0,
+      9,
+      0,
+      "MODEL"
+    ],
+    [
+      9,
+      4,
+      1,
+      9,
+      1,
+      "CLIP"
+    ],
+    [
+      30,
+      7,
+      0,
+      5,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      31,
+      6,
+      0,
+      5,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      32,
+      14,
+      0,
+      5,
+      3,
+      "LATENT"
+    ],
+    [
+      33,
+      9,
+      1,
+      6,
+      0,
+      "CLIP"
+    ],
+    [
+      34,
+      5,
+      0,
+      15,
+      0,
+      "LATENT"
+    ],
+    [
+      35,
+      4,
+      2,
+      15,
+      1,
+      "VAE"
+    ],
+    [
+      36,
+      9,
+      0,
+      5,
+      0,
+      "MODEL"
+    ],
+    [
+      40,
+      9,
+      1,
+      7,
+      0,
+      "CLIP"
+    ],
+    [
+      41,
+      15,
+      0,
+      19,
+      0,
+      "IMAGE"
+    ],
+    [
+      42,
+      4,
+      2,
+      19,
+      1,
+      "VAE"
+    ],
+    [
+      43,
+      19,
+      0,
+      20,
+      0,
+      "LATENT"
+    ],
+    [
+      44,
+      20,
+      0,
+      21,
+      3,
+      "LATENT"
+    ],
+    [
+      45,
+      4,
+      0,
+      21,
+      0,
+      "MODEL"
+    ],
+    [
+      46,
+      6,
+      0,
+      21,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      47,
+      7,
+      0,
+      21,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      48,
+      21,
+      0,
+      22,
+      0,
+      "LATENT"
+    ],
+    [
+      49,
+      4,
+      2,
+      22,
+      1,
+      "VAE"
+    ],
+    [
+      51,
+      15,
+      0,
+      24,
+      0,
+      "IMAGE"
+    ],
+    [
+      52,
+      22,
+      0,
+      25,
+      0,
+      "IMAGE"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "模型",
+      "bounding": [
+        514,
+        233,
+        544,
+        822
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "locked": false
+    },
+    {
+      "title": "提示词&尺寸",
+      "bounding": [
+        1074,
+        234,
+        436,
+        821
+      ],
+      "color": "#8A8",
+      "font_size": 24,
+      "locked": false
+    },
+    {
+      "title": "AI生成",
+      "bounding": [
+        1529,
+        234,
+        976,
+        824
+      ],
+      "color": "#b58b2a",
+      "font_size": 24,
+      "locked": false
+    },
+    {
+      "title": "放大",
+      "bounding": [
+        2520,
+        234,
+        1122,
+        1067
+      ],
+      "color": "#a1309b",
+      "font_size": 24,
+      "locked": false
+    }
+  ],
+  "config": {},
+  "extra": {
+    "workspace_info": {
+      "id": "d3e78c41-ee53-4924-b9b2-e3df047c1523",
+      "name": "龙年红包封面TurboVisionXL"
+    }
+  },
+  "version": 0.4
+}
