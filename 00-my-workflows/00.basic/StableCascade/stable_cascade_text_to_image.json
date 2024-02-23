@@ -3,147 +3,59 @@
   "last_link_id": 117,
   "nodes": [
     {
-      "id": 8,
-      "type": "VAEDecode",
+      "id": 41,
+      "type": "CheckpointLoaderSimple",
       "pos": [
-        1621,
-        267
+        -670,
+        171
       ],
       "size": {
-        "0": 210,
-        "1": 46
-      },
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 98
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 114,
-          "slot_index": 1
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            9
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecode"
-      }
-    },
-    {
-      "id": 46,
-      "type": "Note",
-      "pos": [
-        1622,
-        360
-      ],
-      "size": {
-        "0": 210,
-        "1": 73.69999694824219
+        "0": 336,
+        "1": 98
       },
       "flags": {},
       "order": 0,
       "mode": 0,
-      "properties": {
-        "text": ""
-      },
-      "widgets_values": [
-        "Stage a is what the VAE is called. It decodes the stage b latent into pixel space."
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 44,
-      "type": "Note",
-      "pos": [
-        931,
-        418
-      ],
-      "size": {
-        "0": 272.0986633300781,
-        "1": 138.81549072265625
-      },
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "properties": {
-        "text": ""
-      },
-      "widgets_values": [
-        "This is stage b where the low resolution stage c latent is passed to the stage b model as conditioning. Stage b takes the low resolution latent and upscales it to a higher resolution one. \n\n"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 43,
-      "type": "Note",
-      "pos": [
-        -242,
-        502
-      ],
-      "size": {
-        "0": 287.48663330078125,
-        "1": 173.3572998046875
-      },
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "properties": {
-        "text": ""
-      },
-      "widgets_values": [
-        "This is stage c, the model generates a low resolution latent, the default compression of 42 means that the width and height of the stage c latent are 1024 divided by 42."
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 9,
-      "type": "SaveImage",
-      "pos": [
-        1864,
-        269
-      ],
-      "size": {
-        "0": 971.827392578125,
-        "1": 1000.2752075195312
-      },
-      "flags": {},
-      "order": 12,
-      "mode": 0,
-      "inputs": [
+      "outputs": [
         {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 9
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            110
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            111,
+            112
+          ],
+          "shape": 3,
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": null,
+          "shape": 3
         }
       ],
-      "properties": {},
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
       "widgets_values": [
-        "ComfyUI"
+        "Stable_Cascade\\stable_cascade_stage_c.safetensors"
       ]
     },
     {
       "id": 3,
       "type": "KSampler",
       "pos": [
-        552,
-        293
+        279,
+        151
       ],
       "size": {
         "0": 315,
@@ -189,9 +101,9 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1114059065092052,
+        476860847003477,
         "randomize",
-        20,
+        10,
         4,
         "euler_ancestral",
         "simple",
@@ -199,11 +111,230 @@
       ]
     },
     {
+      "id": 6,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -238,
+        160
+      ],
+      "size": {
+        "0": 432,
+        "1": 192
+      },
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 111
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            107,
+            116
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "evening sunset scenery blue sky nature, glass bottle with a fizzy ice cold freezing rainbow liquid in it"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 7,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -227,
+        433
+      ],
+      "size": {
+        "0": 432,
+        "1": 96
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 112
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            108,
+            117
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Negative Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "text, watermark"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 43,
+      "type": "Note",
+      "pos": [
+        -650,
+        335
+      ],
+      "size": {
+        "0": 287.48663330078125,
+        "1": 173.3572998046875
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "This is stage c, the model generates a low resolution latent, the default compression of 42 means that the width and height of the stage c latent are 1024 divided by 42."
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 42,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        753,
+        161
+      ],
+      "size": {
+        "0": 349.90911865234375,
+        "1": 98
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            113
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            114
+          ],
+          "shape": 3,
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "Stable_Cascade\\stable_cascade_stage_b.safetensors"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "StableCascade_StageB_Conditioning",
+      "pos": [
+        765,
+        316
+      ],
+      "size": {
+        "0": 277.20001220703125,
+        "1": 46
+      },
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 116,
+          "slot_index": 0
+        },
+        {
+          "name": "stage_c",
+          "type": "LATENT",
+          "link": 88
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            86
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StableCascade_StageB_Conditioning"
+      }
+    },
+    {
+      "id": 44,
+      "type": "Note",
+      "pos": [
+        774,
+        419
+      ],
+      "size": [
+        320.66668701171875,
+        99.3333740234375
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "This is stage b where the low resolution stage c latent is passed to the stage b model as conditioning. Stage b takes the low resolution latent and upscales it to a higher resolution one. \n\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
       "id": 33,
       "type": "KSampler",
       "pos": [
-        1278,
-        265
+        1126,
+        270
       ],
       "size": {
         "0": 315,
@@ -249,7 +380,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1079335514322081,
+        912581332366792,
         "randomize",
         10,
         1.1,
@@ -259,18 +390,108 @@
       ]
     },
     {
+      "id": 46,
+      "type": "Note",
+      "pos": [
+        1507,
+        463
+      ],
+      "size": {
+        "0": 210,
+        "1": 73.69999694824219
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "Stage a is what the VAE is called. It decodes the stage b latent into pixel space."
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 8,
+      "type": "VAEDecode",
+      "pos": [
+        1513,
+        164
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 98
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 114,
+          "slot_index": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            9
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [
+        1781,
+        89
+      ],
+      "size": {
+        "0": 971.827392578125,
+        "1": 1000.2752075195312
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 9
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
       "id": 34,
       "type": "StableCascade_EmptyLatentImage",
       "pos": [
-        210,
-        725
+        -130,
+        614
       ],
       "size": {
         "0": 315,
         "1": 150
       },
       "flags": {},
-      "order": 3,
+      "order": 5,
       "mode": 0,
       "outputs": [
         {
@@ -300,227 +521,6 @@
         1024,
         42,
         1
-      ]
-    },
-    {
-      "id": 6,
-      "type": "CLIPTextEncode",
-      "pos": [
-        96,
-        287
-      ],
-      "size": {
-        "0": 432,
-        "1": 192
-      },
-      "flags": {},
-      "order": 6,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 111
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            107,
-            116
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Positive Prompt)",
-      "properties": {
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "evening sunset scenery blue sky nature, glass bottle with a fizzy ice cold freezing rainbow liquid in it"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 36,
-      "type": "StableCascade_StageB_Conditioning",
-      "pos": [
-        960,
-        240
-      ],
-      "size": {
-        "0": 277.20001220703125,
-        "1": 46
-      },
-      "flags": {},
-      "order": 9,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "conditioning",
-          "type": "CONDITIONING",
-          "link": 116,
-          "slot_index": 0
-        },
-        {
-          "name": "stage_c",
-          "type": "LATENT",
-          "link": 88
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            86
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "StableCascade_StageB_Conditioning"
-      }
-    },
-    {
-      "id": 7,
-      "type": "CLIPTextEncode",
-      "pos": [
-        96,
-        528
-      ],
-      "size": {
-        "0": 432,
-        "1": 96
-      },
-      "flags": {},
-      "order": 7,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 112
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            108,
-            117
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Negative Prompt)",
-      "properties": {
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "text, watermark"
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 41,
-      "type": "CheckpointLoaderSimple",
-      "pos": [
-        -261,
-        356
-      ],
-      "size": {
-        "0": 336,
-        "1": 98
-      },
-      "flags": {},
-      "order": 4,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            110
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            111,
-            112
-          ],
-          "shape": 3,
-          "slot_index": 1
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CheckpointLoaderSimple"
-      },
-      "widgets_values": [
-        "Stable_Cascade\\stable_cascade_stage_c.safetensors"
-      ]
-    },
-    {
-      "id": 42,
-      "type": "CheckpointLoaderSimple",
-      "pos": [
-        960,
-        96
-      ],
-      "size": {
-        "0": 349.90911865234375,
-        "1": 98
-      },
-      "flags": {},
-      "order": 5,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            113
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": null,
-          "shape": 3
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            114
-          ],
-          "shape": 3,
-          "slot_index": 2
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CheckpointLoaderSimple"
-      },
-      "widgets_values": [
-        "Stable_Cascade\\stable_cascade_stage_b.safetensors"
       ]
     }
   ],
@@ -650,10 +650,10 @@
     {
       "title": "Stage B",
       "bounding": [
-        877,
-        -63,
-        736,
-        662
+        717,
+        69,
+        746,
+        473
       ],
       "color": "#8A8",
       "font_size": 24,
@@ -662,10 +662,10 @@
     {
       "title": "Stage C",
       "bounding": [
-        -284,
-        188,
-        1159,
-        491
+        -690,
+        70,
+        1304,
+        474
       ],
       "color": "#b06634",
       "font_size": 24,
