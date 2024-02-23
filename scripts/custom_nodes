@@ -1,5 +1,7 @@
 # ComfyUI Manager
 ComfyUI-Manager=https://github.com/ltdrdata/ComfyUI-Manager.git
+# stability comfyui nodes
+stability-ComfyUI-nodes=https://github.com/Stability-AI/stability-ComfyUI-nodes.git
 # SDXL提示词风格选择
 sdxl_prompt_styler=https://github.com/twri/sdxl_prompt_styler.git
 # 工具
