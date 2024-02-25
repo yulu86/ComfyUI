@@ -1,6 +1,6 @@
 {
-  "last_node_id": 58,
-  "last_link_id": 140,
+  "last_node_id": 59,
+  "last_link_id": 141,
   "nodes": [
     {
       "id": 41,
@@ -632,46 +632,6 @@
       ]
     },
     {
-      "id": 52,
-      "type": "VAEDecode",
-      "pos": [
-        3278.266833496092,
-        81.79990234374998
-      ],
-      "size": {
-        "0": 210,
-        "1": 46
-      },
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 127
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 128
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            129
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecode"
-      }
-    },
-    {
       "id": 56,
       "type": "ImageOnlyCheckpointLoader",
       "pos": [
@@ -987,16 +947,56 @@
       ]
     },
     {
-      "id": 53,
-      "type": "SaveAnimatedWEBP",
+      "id": 52,
+      "type": "VAEDecode",
       "pos": [
-        2478,
-        459
+        3278.266833496092,
+        81.79990234374998
       ],
       "size": {
-        "0": 748.5219116210938,
-        "1": 850.1921997070312
+        "0": 210,
+        "1": 46
       },
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 127
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 128
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            141
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 59,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        2505,
+        475
+      ],
+      "size": [
+        558.7299194335938,
+        842.7299194335938
+      ],
       "flags": {},
       "order": 23,
       "mode": 0,
@@ -1004,22 +1004,53 @@
         {
           "name": "images",
           "type": "IMAGE",
-          "link": 129
+          "link": 141
+        },
+        {
+          "name": "audio",
+          "type": "VHS_AUDIO",
+          "link": null
+        },
+        {
+          "name": "batch_manager",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "slot_index": 2
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null,
+          "shape": 3,
+          "slot_index": 0
         }
       ],
       "properties": {
-        "Node name for S&R": "SaveAnimatedWEBP"
+        "Node name for S&R": "VHS_VideoCombine"
       },
-      "widgets_values": [
-        "ComfyUI",
-        8,
-        false,
-        85,
-        "default",
-        null
-      ],
-      "color": "#233",
-      "bgcolor": "#355"
+      "widgets_values": {
+        "frame_rate": 8,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 19,
+        "save_metadata": true,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "AnimateDiff_00003.mp4",
+            "subfolder": "",
+            "type": "output",
+            "format": "video/h264-mp4"
+          }
+        }
+      }
     },
     {
       "id": 51,
@@ -1083,8 +1114,8 @@
         "randomize",
         10,
         2.5,
-        "uni_pc",
-        "simple",
+        "dpmpp_sde_gpu",
+        "karras",
         1
       ]
     }
@@ -1291,14 +1322,6 @@
       "VAE"
     ],
     [
-      129,
-      52,
-      0,
-      53,
-      0,
-      "IMAGE"
-    ],
-    [
       130,
       56,
       1,
@@ -1369,6 +1392,14 @@
       51,
       4,
       "INT"
+    ],
+    [
+      141,
+      52,
+      0,
+      59,
+      0,
+      "IMAGE"
     ]
   ],
   "groups": [
