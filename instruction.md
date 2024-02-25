@@ -19,9 +19,14 @@ python -m pip install -r requirements.txt
 - mac
 
 ```
-python3 -m pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+python3 -m pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 python3 -m pip install -r requirements.txt
 ```
+
+> 如果启动报错 `AttributeError: module 'mpmath' has no attribute 'rational'`，执行以下命令：
+> ```
+> python3 -m pip install mpmath==1.3.0
+> ```
 
 - mac(非silicon)
 ```
@@ -43,7 +48,7 @@ cd ..
 
 ```
 cd ./scripts
-bash ./install_custom_nodes.shell
+bash ./install_custom_nodes.sh
 cd ..
 ```
 
