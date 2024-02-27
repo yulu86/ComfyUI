@@ -19,6 +19,6 @@ venv/
 .DS_Store
 comfyui.log
 comfyui.prev**.log
-00-my-workflows/**/**.png
-!/00-my-workflows/00.basic/**/**.png
-!/00-my-workflows/02.work/**/**.png
+my-workflows/**/**.png
+!/my-workflows/00.basic/**/**.png
+!/my-workflows/02.work/**/**.png
