@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 set PROPERTIES_FILE=custom_nodes
 set DESTINATION_FOLDER=../custom_nodes
 
-for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr "="') do (
+for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr /v "^#" ^| findstr "="') do (
     set "project_name=%%a"
     set "git_path=%%b"
     set "proxy_git_path=https://gh-proxy.com/!git_path!"
