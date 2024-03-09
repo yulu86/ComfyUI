@@ -11,7 +11,7 @@ for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr /v "^#
 
     if not exist "%DESTINATION_FOLDER%\!project_name!\" (
         echo Cloning project !project_name! from !git_path!...
-        git clone !proxy_git_path! "%DESTINATION_FOLDER%\!project_name!"
+        git clone !proxy_git_path! "%DESTINATION_FOLDER%\!project_name!" --recursive
         if exist "%DESTINATION_FOLDER%\!project_name!\requirements.txt" (
           python -m pip install -r "%DESTINATION_FOLDER%\!project_name!\requirements.txt"
         )
