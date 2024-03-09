@@ -1,14 +1,15 @@
 # ComfyUI Manager
 ComfyUI-Manager=https://github.com/ltdrdata/ComfyUI-Manager.git
-# stability comfyui nodes
-stability-ComfyUI-nodes=https://github.com/Stability-AI/stability-ComfyUI-nodes.git
+# 瑞士军刀
+ComfyUI_Custom_Nodes_AlekPet=https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
+# 自定义脚本
+ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+# Gemini插件
+ComfyUI-Gemini=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini.git
+# 百度翻译
+ComfyUI_Prompt_Translate_to_English=https://github.com/pengchengmi/ComfyUI_Prompt_Translate_to_English.git
 # SDXL提示词风格选择
 sdxl_prompt_styler=https://github.com/twri/sdxl_prompt_styler.git
-# 工具
-ComfyUI_Custom_Nodes_AlekPet=https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
-# 全局输入
-cg-use-everywhere=https://github.com/chrisgoringe/cg-use-everywhere
-ComfyUI-Custom-Scripts=https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
 # ControlNet预处理器
 comfyui_controlnet_aux=https://github.com/Fannovel16/comfyui_controlnet_aux.git
 # ControlNet高级
@@ -18,13 +19,7 @@ ComfyUI-AnimateDiff-Evolved=https://github.com/Kosinkadink/ComfyUI-AnimateDiff-E
 ComfyUI_FizzNodes=https://github.com/FizzleDorf/ComfyUI_FizzNodes.git
 ComfyUI-VideoHelperSuite=https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
 ComfyUI_IPAdapter_plus=https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
-# ComfyUI-Impact-Pack
-ComfyUI-Impact-Pack=https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 # rgthree-comfy
 rgthree-comfy=https://github.com/rgthree/rgthree-comfy.git
-# Gemini插件
-ComfyUI-Gemini=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini.git
-# 百度翻译
-ComfyUI_Prompt_Translate_to_English=https://github.com/pengchengmi/ComfyUI_Prompt_Translate_to_English.git
-
+# 图片尺寸
 Derfuu_ComfyUI_ModdedNodes=https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes.git
