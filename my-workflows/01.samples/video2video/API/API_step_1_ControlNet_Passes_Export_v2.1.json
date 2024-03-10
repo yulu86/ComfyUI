@@ -759,7 +759,7 @@
   "191": {
     "inputs": {
       "upscale_method": "nearest-exact",
-      "scale_by": 0.7000000000000001,
+      "scale_by": 1,
       "image": [
         "51",
         0
