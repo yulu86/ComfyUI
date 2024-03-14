@@ -411,7 +411,7 @@
         26
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -630,7 +630,7 @@
       ],
       "size": {
         "0": 210,
-        "1": 80
+        "1": 82
       },
       "flags": {
         "collapsed": false
@@ -3431,41 +3431,6 @@
       ]
     },
     {
-      "id": 4,
-      "type": "Text Multiline",
-      "pos": [
-        170,
-        990
-      ],
-      "size": {
-        "0": 414.5828552246094,
-        "1": 115.55594635009766
-      },
-      "flags": {},
-      "order": 30,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Positive",
-      "properties": {
-        "Node name for S&R": "Text Multiline"
-      },
-      "widgets_values": [
-        "(masterpiece, top quality, best quality, official art, beautiful and aesthetic), Extreme detailed, Sexy ,1girl, blond, blue dress, blue hairband, blue eyes, blond hair"
-      ],
-      "color": "#006900",
-      "bgcolor": "#087d0a"
-    },
-    {
       "id": 82,
       "type": "ColorMatch",
       "pos": [
@@ -3523,7 +3488,7 @@
       ],
       "size": {
         "0": 210,
-        "1": 80
+        "1": 82
       },
       "flags": {},
       "order": 80,
@@ -3660,7 +3625,7 @@
         "1": 110
       },
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "title": "Color Match",
       "properties": {
@@ -3808,7 +3773,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -3867,7 +3832,7 @@
         "1": 60
       },
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "outputs": [
         {
@@ -3891,41 +3856,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 153,
-      "type": "Int Literal",
-      "pos": [
-        170,
-        -330
-      ],
-      "size": {
-        "0": 210,
-        "1": 60
-      },
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            234
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "title": "Batch Range",
-      "properties": {
-        "Node name for S&R": "Int Literal"
-      },
-      "widgets_values": [
-        10
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 95,
       "type": "String to Text",
       "pos": [
@@ -3937,7 +3867,7 @@
         "1": 60
       },
       "flags": {},
-      "order": 34,
+      "order": 32,
       "mode": 0,
       "outputs": [
         {
@@ -4028,60 +3958,6 @@
       ],
       "color": "#33009f",
       "bgcolor": "#4700b3"
-    },
-    {
-      "id": 1,
-      "type": "CheckpointLoaderSimple",
-      "pos": [
-        180,
-        1490
-      ],
-      "size": {
-        "0": 320,
-        "1": 100
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            8
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            9
-          ],
-          "shape": 3,
-          "slot_index": 1
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [],
-          "shape": 3,
-          "slot_index": 2
-        }
-      ],
-      "title": "Load AD Checkpoint",
-      "properties": {
-        "Node name for S&R": "CheckpointLoaderSimple"
-      },
-      "widgets_values": [
-        "cardosAnime_v20.safetensors"
-      ],
-      "color": "#002a85",
-      "bgcolor": "#053e99"
     },
     {
       "id": 20,
@@ -4235,7 +4111,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 36,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -4278,7 +4154,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 37,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -4445,6 +4321,130 @@
         1,
         false
       ]
+    },
+    {
+      "id": 4,
+      "type": "Text Multiline",
+      "pos": [
+        170,
+        990
+      ],
+      "size": {
+        "0": 414.5828552246094,
+        "1": 115.55594635009766
+      },
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive",
+      "properties": {
+        "Node name for S&R": "Text Multiline"
+      },
+      "widgets_values": [
+        "(masterpiece, top quality, best quality, photorealistic, beautiful and aesthetic), Extreme detailed, Sexy ,1girl, blond, orange dress, red hairband, green_eyes, black hair, white_bra, breasts_out, long_dress, night_club_background"
+      ],
+      "color": "#006900",
+      "bgcolor": "#087d0a"
+    },
+    {
+      "id": 153,
+      "type": "Int Literal",
+      "pos": [
+        170,
+        -330
+      ],
+      "size": {
+        "0": 210,
+        "1": 60
+      },
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            234
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "title": "Batch Range",
+      "properties": {
+        "Node name for S&R": "Int Literal"
+      },
+      "widgets_values": [
+        3
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 1,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        180,
+        1490
+      ],
+      "size": {
+        "0": 320,
+        "1": 100
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            8
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            9
+          ],
+          "shape": 3,
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [],
+          "shape": 3,
+          "slot_index": 2
+        }
+      ],
+      "title": "Load AD Checkpoint",
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "dreamshaper_8.safetensors"
+      ],
+      "color": "#002a85",
+      "bgcolor": "#053e99"
     }
   ],
   "links": [

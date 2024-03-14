@@ -1507,7 +1507,6 @@
       },
       "widgets_values": [
         "688",
-        "688",
         "688"
       ]
     },
@@ -1551,47 +1550,8 @@
       },
       "widgets_values": [
         "1224",
-        "1224",
         "1224"
       ]
-    },
-    {
-      "id": 32,
-      "type": "PrimitiveNode",
-      "pos": [
-        380,
-        210
-      ],
-      "size": {
-        "0": 210,
-        "1": 82
-      },
-      "flags": {},
-      "order": 10,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            44
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "image_load_cap"
-          }
-        }
-      ],
-      "title": "Batch Range",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        10,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 24,
@@ -1605,7 +1565,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "outputs": [
         {
@@ -1640,7 +1600,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "outputs": [
         {
@@ -1839,7 +1799,7 @@
       },
       "widgets_values": [
         "F:\\#Projects\\1) SD Animation\\15) Anime Tell me\\LCM_Raw_Refined",
-        10,
+        3,
         0
       ],
       "color": "#323",
@@ -1899,7 +1859,7 @@
         "1": 160
       },
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "title": "LCM Model",
       "properties": {
@@ -1959,7 +1919,7 @@
         "1": 363.5209045410156
       },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "title": "#4 AnimateDiff Face Fix - LCM v2.1",
       "properties": {
@@ -1984,7 +1944,7 @@
         "1": 200
       },
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "title": "AnimateDiff",
       "properties": {
@@ -2008,7 +1968,7 @@
         "1": 82
       },
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "outputs": [
         {
@@ -2121,7 +2081,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2182,7 +2142,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "inputs": [
         {
@@ -2241,7 +2201,7 @@
         "1": 60
       },
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 0,
       "outputs": [
         {
@@ -2276,7 +2236,7 @@
         "1": 160
       },
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "outputs": [
         {
@@ -2311,7 +2271,7 @@
         "1": 60
       },
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "outputs": [
         {
@@ -2346,7 +2306,7 @@
         "1": 70
       },
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "outputs": [
         {
@@ -2368,62 +2328,6 @@
       ],
       "color": "#003376",
       "bgcolor": "#00478a"
-    },
-    {
-      "id": 1,
-      "type": "CheckpointLoaderSimple",
-      "pos": [
-        360,
-        1460
-      ],
-      "size": {
-        "0": 320,
-        "1": 100
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 23,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            8
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            9
-          ],
-          "shape": 3,
-          "slot_index": 1
-        },
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            122
-          ],
-          "shape": 3,
-          "slot_index": 2
-        }
-      ],
-      "title": "Load AD Checkpoint",
-      "properties": {
-        "Node name for S&R": "CheckpointLoaderSimple"
-      },
-      "widgets_values": [
-        "cardosAnime_v20.safetensors"
-      ],
-      "color": "#0034a9",
-      "bgcolor": "#0048bd"
     },
     {
       "id": 71,
@@ -2562,6 +2466,100 @@
         1,
         false
       ]
+    },
+    {
+      "id": 32,
+      "type": "PrimitiveNode",
+      "pos": [
+        380,
+        210
+      ],
+      "size": {
+        "0": 210,
+        "1": 82
+      },
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            44
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "image_load_cap"
+          }
+        }
+      ],
+      "title": "Batch Range",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        3,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 1,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        360,
+        1460
+      ],
+      "size": {
+        "0": 320,
+        "1": 100
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 23,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            8
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            9
+          ],
+          "shape": 3,
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            122
+          ],
+          "shape": 3,
+          "slot_index": 2
+        }
+      ],
+      "title": "Load AD Checkpoint",
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "dreamshaper_8.safetensors"
+      ],
+      "color": "#0034a9",
+      "bgcolor": "#0048bd"
     }
   ],
   "links": [
