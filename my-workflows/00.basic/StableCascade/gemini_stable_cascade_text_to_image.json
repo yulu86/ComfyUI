@@ -1,0 +1,860 @@
+{
+  "last_node_id": 49,
+  "last_link_id": 121,
+  "nodes": [
+    {
+      "id": 41,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        -670,
+        171
+      ],
+      "size": {
+        "0": 336,
+        "1": 98
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            110
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            111,
+            112
+          ],
+          "shape": 3,
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "Stable_Cascade\\stable_cascade_stage_c.safetensors"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -227,
+        433
+      ],
+      "size": {
+        "0": 432,
+        "1": 96
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 112
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            108,
+            117
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Negative Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "text, watermark"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 43,
+      "type": "Note",
+      "pos": [
+        -650,
+        335
+      ],
+      "size": {
+        "0": 287.48663330078125,
+        "1": 173.3572998046875
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "This is stage c, the model generates a low resolution latent, the default compression of 42 means that the width and height of the stage c latent are 1024 divided by 42."
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 42,
+      "type": "CheckpointLoaderSimple",
+      "pos": [
+        753,
+        161
+      ],
+      "size": {
+        "0": 349.90911865234375,
+        "1": 98
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            113
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": null,
+          "shape": 3
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            114
+          ],
+          "shape": 3,
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CheckpointLoaderSimple"
+      },
+      "widgets_values": [
+        "Stable_Cascade\\stable_cascade_stage_b.safetensors"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "StableCascade_StageB_Conditioning",
+      "pos": [
+        765,
+        316
+      ],
+      "size": {
+        "0": 277.20001220703125,
+        "1": 46
+      },
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 116,
+          "slot_index": 0
+        },
+        {
+          "name": "stage_c",
+          "type": "LATENT",
+          "link": 88
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            86
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StableCascade_StageB_Conditioning"
+      }
+    },
+    {
+      "id": 44,
+      "type": "Note",
+      "pos": [
+        774,
+        419
+      ],
+      "size": {
+        "0": 320.66668701171875,
+        "1": 99.3333740234375
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "This is stage b where the low resolution stage c latent is passed to the stage b model as conditioning. Stage b takes the low resolution latent and upscales it to a higher resolution one. \n\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 46,
+      "type": "Note",
+      "pos": [
+        1507,
+        463
+      ],
+      "size": {
+        "0": 210,
+        "1": 73.69999694824219
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "properties": {
+        "text": ""
+      },
+      "widgets_values": [
+        "Stage a is what the VAE is called. It decodes the stage b latent into pixel space."
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 8,
+      "type": "VAEDecode",
+      "pos": [
+        1513,
+        164
+      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 98
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 114,
+          "slot_index": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            9
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [
+        1781,
+        89
+      ],
+      "size": {
+        "0": 971.827392578125,
+        "1": 1000.2752075195312
+      },
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 9
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 34,
+      "type": "StableCascade_EmptyLatentImage",
+      "pos": [
+        -130,
+        614
+      ],
+      "size": {
+        "0": 315,
+        "1": 150
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "stage_c",
+          "type": "LATENT",
+          "links": [
+            82
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "stage_b",
+          "type": "LATENT",
+          "links": [
+            83
+          ],
+          "shape": 3,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StableCascade_EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        42,
+        1
+      ]
+    },
+    {
+      "id": 48,
+      "type": "DisplayText_Zho",
+      "pos": [
+        -302,
+        -202
+      ],
+      "size": [
+        643.3333740234375,
+        197.66653442382812
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 118,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            119
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DisplayText_Zho"
+      },
+      "widgets_values": [
+        "",
+        "Journey through a mysterious and ancient forest, revealing a forgotten cave entrance hidden among towering trees and lush foliage in the soft light of dawn."
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 6,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -220,
+        264
+      ],
+      "size": [
+        423.9998779296875,
+        57.66656494140625
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 111
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 119,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            107,
+            116
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "evening sunset scenery blue sky nature, glass bottle with a fizzy ice cold freezing rainbow liquid in it"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 33,
+      "type": "KSampler",
+      "pos": [
+        1126,
+        270
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 113,
+          "slot_index": 0
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 86
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 117
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 83
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 120,
+          "widget": {
+            "name": "seed"
+          },
+          "slot_index": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            98
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        88888888,
+        "randomize",
+        10,
+        1.1,
+        "euler_ancestral",
+        "simple",
+        1
+      ]
+    },
+    {
+      "id": 49,
+      "type": "PrimitiveNode",
+      "pos": [
+        494,
+        -198
+      ],
+      "size": [
+        350.9362762870128,
+        99.24063486167364
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            120,
+            121
+          ],
+          "widget": {
+            "name": "seed"
+          },
+          "slot_index": 0
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        88888888,
+        "fixed"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "KSampler",
+      "pos": [
+        279,
+        151
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 110,
+          "slot_index": 0
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 107
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 108
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 82
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 121,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            88
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        88888888,
+        "randomize",
+        20,
+        4,
+        "euler_ancestral",
+        "simple",
+        1
+      ]
+    },
+    {
+      "id": 47,
+      "type": "Gemini_API_S_Zho",
+      "pos": [
+        -670,
+        -238
+      ],
+      "size": {
+        "0": 310,
+        "1": 250
+      },
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            118
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Gemini_API_S_Zho"
+      },
+      "widgets_values": [
+        "text = '出深林找上路径过一山坡约有七八里远果然望见一座洞府' # @param {type:\"string\"}\n\nprompt = \"You are creating a prompt for Stable Diffusion to generate an image. Please generate a text prompt for %s. Only respond with the prompt itself, but embellish it as needed but keep it under 80 tokens.\" % text",
+        "gemini-pro",
+        false
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    }
+  ],
+  "links": [
+    [
+      9,
+      8,
+      0,
+      9,
+      0,
+      "IMAGE"
+    ],
+    [
+      82,
+      34,
+      0,
+      3,
+      3,
+      "LATENT"
+    ],
+    [
+      83,
+      34,
+      1,
+      33,
+      3,
+      "LATENT"
+    ],
+    [
+      86,
+      36,
+      0,
+      33,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      88,
+      3,
+      0,
+      36,
+      1,
+      "LATENT"
+    ],
+    [
+      98,
+      33,
+      0,
+      8,
+      0,
+      "LATENT"
+    ],
+    [
+      107,
+      6,
+      0,
+      3,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      108,
+      7,
+      0,
+      3,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      110,
+      41,
+      0,
+      3,
+      0,
+      "MODEL"
+    ],
+    [
+      111,
+      41,
+      1,
+      6,
+      0,
+      "CLIP"
+    ],
+    [
+      112,
+      41,
+      1,
+      7,
+      0,
+      "CLIP"
+    ],
+    [
+      113,
+      42,
+      0,
+      33,
+      0,
+      "MODEL"
+    ],
+    [
+      114,
+      42,
+      2,
+      8,
+      1,
+      "VAE"
+    ],
+    [
+      116,
+      6,
+      0,
+      36,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      117,
+      7,
+      0,
+      33,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      118,
+      47,
+      0,
+      48,
+      0,
+      "STRING"
+    ],
+    [
+      119,
+      48,
+      0,
+      6,
+      1,
+      "STRING"
+    ],
+    [
+      120,
+      49,
+      0,
+      33,
+      4,
+      "INT"
+    ],
+    [
+      121,
+      49,
+      0,
+      3,
+      4,
+      "INT"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "Stage B",
+      "bounding": [
+        717,
+        69,
+        746,
+        473
+      ],
+      "color": "#8A8",
+      "font_size": 24,
+      "locked": false
+    },
+    {
+      "title": "Stage C",
+      "bounding": [
+        -690,
+        70,
+        1304,
+        474
+      ],
+      "color": "#b06634",
+      "font_size": 24,
+      "locked": false
+    }
+  ],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}
