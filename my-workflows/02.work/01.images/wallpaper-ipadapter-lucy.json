@@ -1,6 +1,6 @@
 {
   "last_node_id": 78,
-  "last_link_id": 156,
+  "last_link_id": 157,
   "nodes": [
     {
       "id": 23,
@@ -420,7 +420,7 @@
       },
       "flags": {},
       "order": 39,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -539,45 +539,6 @@
       ],
       "properties": {
         "Node name for S&R": "VAEDecode"
-      }
-    },
-    {
-      "id": 50,
-      "type": "Reroute",
-      "pos": [
-        1190,
-        1540
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 24,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 105
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            106,
-            107,
-            119,
-            139
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
       }
     },
     {
@@ -976,7 +937,7 @@
       },
       "flags": {},
       "order": 36,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1001,7 +962,7 @@
       },
       "flags": {},
       "order": 40,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1459,7 +1420,7 @@
       },
       "flags": {},
       "order": 34,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -1474,7 +1435,7 @@
         {
           "name": "positive",
           "type": "CONDITIONING",
-          "link": null
+          "link": 157
         },
         {
           "name": "negative",
@@ -1839,6 +1800,46 @@
         44444444,
         "fixed"
       ]
+    },
+    {
+      "id": 50,
+      "type": "Reroute",
+      "pos": [
+        1190,
+        1540
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 105
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            106,
+            107,
+            119,
+            139,
+            157
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
     }
   ],
   "links": [
@@ -2369,6 +2370,14 @@
       49,
       0,
       "*"
+    ],
+    [
+      157,
+      50,
+      0,
+      59,
+      2,
+      "CONDITIONING"
     ]
   ],
   "groups": [
