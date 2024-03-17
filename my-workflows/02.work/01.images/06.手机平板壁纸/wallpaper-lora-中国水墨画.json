@@ -1,6 +1,6 @@
 {
-  "last_node_id": 82,
-  "last_link_id": 162,
+  "last_node_id": 84,
+  "last_link_id": 164,
   "nodes": [
     {
       "id": 23,
@@ -145,7 +145,7 @@
         "1": 559.3334350585938
       },
       "flags": {},
-      "order": 40,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -182,98 +182,6 @@
       "properties": {
         "Node name for S&R": "PreviewImage"
       }
-    },
-    {
-      "id": 62,
-      "type": "UltimateSDUpscale",
-      "pos": [
-        3141.993002840908,
-        1864.8429099953382
-      ],
-      "size": {
-        "0": 315,
-        "1": 614
-      },
-      "flags": {},
-      "order": 41,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 137
-        },
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 138
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 139
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 140
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 141
-        },
-        {
-          "name": "upscale_model",
-          "type": "UPSCALE_MODEL",
-          "link": 142,
-          "slot_index": 5
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 143,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            136
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UltimateSDUpscale"
-      },
-      "widgets_values": [
-        2,
-        707287760074643,
-        "randomize",
-        7,
-        1.2000000000000002,
-        "dpmpp_sde",
-        "karras",
-        0.2,
-        "Linear",
-        512,
-        512,
-        8,
-        32,
-        "None",
-        1,
-        64,
-        8,
-        16,
-        true,
-        false
-      ]
     },
     {
       "id": 50,
@@ -546,7 +454,7 @@
       },
       "flags": {},
       "order": 38,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "images",
@@ -557,98 +465,6 @@
       "properties": {
         "Node name for S&R": "PreviewImage"
       }
-    },
-    {
-      "id": 59,
-      "type": "UltimateSDUpscale",
-      "pos": [
-        2313.031903475671,
-        1862.609293540259
-      ],
-      "size": {
-        "0": 315,
-        "1": 614
-      },
-      "flags": {},
-      "order": 36,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 126
-        },
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 127
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 132
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 131
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 130
-        },
-        {
-          "name": "upscale_model",
-          "type": "UPSCALE_MODEL",
-          "link": 134,
-          "slot_index": 5
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 133,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            135
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UltimateSDUpscale"
-      },
-      "widgets_values": [
-        2,
-        707287760074643,
-        "randomize",
-        7,
-        1.2000000000000002,
-        "dpmpp_sde",
-        "karras",
-        0.2,
-        "Linear",
-        512,
-        512,
-        8,
-        32,
-        "None",
-        1,
-        64,
-        8,
-        16,
-        true,
-        false
-      ]
     },
     {
       "id": 63,
@@ -662,8 +478,8 @@
         "1": 559.3334350585938
       },
       "flags": {},
-      "order": 42,
-      "mode": 0,
+      "order": 43,
+      "mode": 4,
       "inputs": [
         {
           "name": "images",
@@ -735,7 +551,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        707287760074643,
+        796675711637643,
         "randomize",
         7,
         1.2,
@@ -842,7 +658,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        707287760074643,
+        796675711637643,
         "randomize",
         7,
         1.2,
@@ -958,7 +774,7 @@
       },
       "widgets_values": [
         "你是stable diffusion提示词生成器，帮我生成关于",
-        "中国水墨画风格的荷花"
+        "中国水墨画风格的荷花和鱼"
       ]
     },
     {
@@ -1149,7 +965,7 @@
         "1": 46
       },
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -1420,74 +1236,6 @@
       ]
     },
     {
-      "id": 54,
-      "type": "KSampler",
-      "pos": [
-        3144.9333178710917,
-        1220.613233947754
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 118
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 119
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 120
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 112
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 121,
-          "widget": {
-            "name": "seed"
-          },
-          "slot_index": 4
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            113
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        707287760074643,
-        "randomize",
-        7,
-        1.2,
-        "dpmpp_sde",
-        "karras",
-        0.6
-      ]
-    },
-    {
       "id": 81,
       "type": "ConcatText_Zho",
       "pos": [
@@ -1567,7 +1315,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        707287760074643,
+        796675711637643,
         "randomize"
       ]
     },
@@ -1612,7 +1360,7 @@
       },
       "widgets_values": [
         "",
-        "ink wash painting, lotus, Chinese, traditional, oriental, serene, tranquil, elegant, delicate, petals, leaves, stem, water, pond, lake, reflection, brushstrokes, black, white, grey, sumi ink, rice paper, chineseLandscapepainting, detailed, best quality,"
+        "Chinese, ink, wash, painting, lotus, fish, serene, ethereal, delicate, brushstrokes, flowing, water, ripples, movement, harmony, balance, simplicity, elegance, traditional, cultural, symbolic, vivid, colors, vibrant, hues, nature, tranquility, peaceful, chineseLandscapepainting, detailed, best quality,"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -1832,54 +1580,18 @@
       "bgcolor": "#353"
     },
     {
-      "id": 82,
-      "type": "PrimitiveNode",
-      "pos": [
-        2095,
-        108
-      ],
-      "size": {
-        "0": 342.329833984375,
-        "1": 101.66705322265625
-      },
-      "flags": {},
-      "order": 7,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            161
-          ],
-          "widget": {
-            "name": "text_2"
-          }
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "中国水墨画风格的荷花"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 25,
       "type": "PrimitiveNode",
       "pos": [
         1729,
         108
       ],
-      "size": [
-        343.76604003906186,
-        106
-      ],
+      "size": {
+        "0": 210,
+        "1": 106
+      },
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "outputs": [
         {
@@ -1950,6 +1662,348 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 59,
+      "type": "UltimateSDUpscale",
+      "pos": [
+        2313.031903475671,
+        1862.609293540259
+      ],
+      "size": {
+        "0": 315,
+        "1": 614
+      },
+      "flags": {},
+      "order": 36,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 126
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 127
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 132
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 131
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 130
+        },
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 134,
+          "slot_index": 5
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 133,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            135,
+            163
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UltimateSDUpscale"
+      },
+      "widgets_values": [
+        2,
+        796675711637643,
+        "randomize",
+        7,
+        1.2000000000000002,
+        "dpmpp_sde",
+        "karras",
+        0.2,
+        "Linear",
+        512,
+        512,
+        8,
+        32,
+        "None",
+        1,
+        64,
+        8,
+        16,
+        true,
+        false
+      ]
+    },
+    {
+      "id": 62,
+      "type": "UltimateSDUpscale",
+      "pos": [
+        3141.993002840908,
+        1864.8429099953382
+      ],
+      "size": {
+        "0": 315,
+        "1": 614
+      },
+      "flags": {},
+      "order": 42,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 137
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 138
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 139
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 140
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 141
+        },
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 142,
+          "slot_index": 5
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 143,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            136,
+            164
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UltimateSDUpscale"
+      },
+      "widgets_values": [
+        2,
+        796675711637643,
+        "randomize",
+        7,
+        1.2000000000000002,
+        "dpmpp_sde",
+        "karras",
+        0.2,
+        "Linear",
+        512,
+        512,
+        8,
+        32,
+        "None",
+        1,
+        64,
+        8,
+        16,
+        true,
+        false
+      ]
+    },
+    {
+      "id": 84,
+      "type": "SaveImage",
+      "pos": [
+        3101.4249276733394,
+        2604.2668190185564
+      ],
+      "size": {
+        "0": 381.6915283203125,
+        "1": 481.33984375
+      },
+      "flags": {},
+      "order": 44,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 164
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "chinese_painting_pad"
+      ]
+    },
+    {
+      "id": 83,
+      "type": "SaveImage",
+      "pos": [
+        2672.424927673339,
+        2609.2668190185564
+      ],
+      "size": [
+        381.6915283203125,
+        481.33984375
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 163
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "chinese_painting_phone"
+      ]
+    },
+    {
+      "id": 82,
+      "type": "PrimitiveNode",
+      "pos": [
+        2095,
+        108
+      ],
+      "size": {
+        "0": 342.329833984375,
+        "1": 101.66705322265625
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            161
+          ],
+          "widget": {
+            "name": "text_2"
+          }
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "中国水墨画风格的荷花和鱼"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 54,
+      "type": "KSampler",
+      "pos": [
+        3144.9333178710917,
+        1220.613233947754
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 118
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 119
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 120
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 112
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 121,
+          "widget": {
+            "name": "seed"
+          },
+          "slot_index": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            113
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        796675711637643,
+        "randomize",
+        7,
+        1.2,
+        "dpmpp_sde",
+        "karras",
+        0.4
+      ]
     }
   ],
   "links": [
@@ -2504,6 +2558,22 @@
       64,
       1,
       "STRING"
+    ],
+    [
+      163,
+      59,
+      0,
+      83,
+      0,
+      "IMAGE"
+    ],
+    [
+      164,
+      62,
+      0,
+      84,
+      0,
+      "IMAGE"
     ]
   ],
   "groups": [
@@ -2636,6 +2706,18 @@
         356
       ],
       "color": "#a1309b",
+      "font_size": 24,
+      "locked": false
+    },
+    {
+      "title": "Save Images",
+      "bounding": [
+        2663,
+        2530,
+        831,
+        570
+      ],
+      "color": "#8A8",
       "font_size": 24,
       "locked": false
     }
