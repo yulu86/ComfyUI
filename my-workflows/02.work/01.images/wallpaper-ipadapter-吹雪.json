@@ -264,7 +264,7 @@
       },
       "flags": {},
       "order": 38,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -289,7 +289,7 @@
       },
       "flags": {},
       "order": 32,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -433,98 +433,6 @@
       }
     },
     {
-      "id": 62,
-      "type": "UltimateSDUpscale",
-      "pos": [
-        3373.1805087002826,
-        1901.6046530983656
-      ],
-      "size": {
-        "0": 315,
-        "1": 614
-      },
-      "flags": {},
-      "order": 39,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 137
-        },
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 138
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 139
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 140
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 141
-        },
-        {
-          "name": "upscale_model",
-          "type": "UPSCALE_MODEL",
-          "link": 142,
-          "slot_index": 5
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 143,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            136
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UltimateSDUpscale"
-      },
-      "widgets_values": [
-        2,
-        99799458865040,
-        "randomize",
-        7,
-        1.2000000000000002,
-        "dpmpp_sde",
-        "karras",
-        0.2,
-        "Linear",
-        512,
-        512,
-        8,
-        32,
-        "None",
-        1,
-        64,
-        8,
-        16,
-        true,
-        false
-      ]
-    },
-    {
       "id": 55,
       "type": "VAEDecode",
       "pos": [
@@ -537,7 +445,7 @@
       },
       "flags": {},
       "order": 37,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -848,47 +756,7 @@
       },
       "widgets_values": [
         "",
-        "Fubuki, One-Punch Man, long flowing green hair, piercing blue eyes, pale skin, athletic build, striking pose, piercing gaze, white and green skin-tight bodysuit, revealing midriff, black gloves, white boots, flowing cape, dynamic lighting, highly detailed, intricate, sharp focus, 8K, detailed, best quality,"
-      ]
-    },
-    {
-      "id": 48,
-      "type": "PrimitiveNode",
-      "pos": [
-        1687,
-        2075
-      ],
-      "size": {
-        "0": 210,
-        "1": 82
-      },
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            100,
-            101,
-            121,
-            133,
-            143
-          ],
-          "widget": {
-            "name": "seed"
-          },
-          "slot_index": 0
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        99799458865040,
-        "randomize"
+        "Fubuki, a young woman with long green hair tied back into a high ponytail featuring a large, white bow. Her eyes are green and she has a pale complexion, She wears a white dress with a short, black skirt over it, along with black gloves and boots. Her dress has a long, flowing cape attached to it, which she typically wears over her shoulders like a scarf. The cape is black on the outside and white on the inside, and has a jagged edge, The dress is adorned with several zippers and buckles, and she wears a small white choker around her neck, detailed, best quality,"
       ]
     },
     {
@@ -903,7 +771,7 @@
         "1": 106
       },
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "outputs": [
         {
@@ -1042,7 +910,7 @@
       },
       "flags": {},
       "order": 36,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1120,98 +988,6 @@
       ]
     },
     {
-      "id": 59,
-      "type": "UltimateSDUpscale",
-      "pos": [
-        2576.333584872159,
-        1902.2430197975843
-      ],
-      "size": {
-        "0": 315,
-        "1": 614
-      },
-      "flags": {},
-      "order": 34,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 126
-        },
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 127
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 132
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 131
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 130
-        },
-        {
-          "name": "upscale_model",
-          "type": "UPSCALE_MODEL",
-          "link": 134,
-          "slot_index": 5
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 133,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            135
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UltimateSDUpscale"
-      },
-      "widgets_values": [
-        2,
-        99799458865040,
-        "randomize",
-        7,
-        1.2000000000000002,
-        "dpmpp_sde",
-        "karras",
-        0.2,
-        "Linear",
-        512,
-        512,
-        8,
-        32,
-        "None",
-        1,
-        64,
-        8,
-        16,
-        true,
-        false
-      ]
-    },
-    {
       "id": 63,
       "type": "PreviewImage",
       "pos": [
@@ -1224,7 +1000,7 @@
       },
       "flags": {},
       "order": 40,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -1296,81 +1072,13 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        99799458865040,
+        850006133618241,
         "randomize",
         7,
         1.2,
         "dpmpp_sde",
         "karras",
         0.6
-      ]
-    },
-    {
-      "id": 54,
-      "type": "KSampler",
-      "pos": [
-        3144.9333178710917,
-        1220.613233947754
-      ],
-      "size": {
-        "0": 315,
-        "1": 262
-      },
-      "flags": {},
-      "order": 35,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 118
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 119
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 120
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 112
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 121,
-          "widget": {
-            "name": "seed"
-          },
-          "slot_index": 4
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            113
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        99799458865040,
-        "randomize",
-        7,
-        1.2,
-        "dpmpp_sde",
-        "karras",
-        0.4
       ]
     },
     {
@@ -1413,7 +1121,7 @@
       },
       "widgets_values": [
         "",
-        "Fubuki, One-Punch Man, long flowing green hair, piercing blue eyes, pale skin, athletic build, striking pose, piercing gaze, white and green skin-tight bodysuit, revealing midriff, black gloves, white boots, flowing cape, dynamic lighting, highly detailed, intricate, sharp focus, 8K"
+        "Fubuki, a young woman with long green hair tied back into a high ponytail featuring a large, white bow. Her eyes are green and she has a pale complexion, She wears a white dress with a short, black skirt over it, along with black gloves and boots. Her dress has a long, flowing cape attached to it, which she typically wears over her shoulders like a scarf. The cape is black on the outside and white on the inside, and has a jagged edge, The dress is adorned with several zippers and buckles, and she wears a small white choker around her neck"
       ]
     },
     {
@@ -1428,7 +1136,7 @@
         "1": 58
       },
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "outputs": [
         {
@@ -1484,7 +1192,7 @@
         "1": 103.00030517578125
       },
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "outputs": [
         {
@@ -1668,7 +1376,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        99799458865040,
+        850006133618241,
         "randomize",
         7,
         1.2,
@@ -1689,7 +1397,7 @@
         "1": 314
       },
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "outputs": [
         {
@@ -1777,7 +1485,7 @@
         "1": 200
       },
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [
         {
@@ -1818,7 +1526,7 @@
         "1": 106
       },
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "outputs": [
         {
@@ -1839,6 +1547,298 @@
         "sai-anime",
         "fixed",
         ""
+      ]
+    },
+    {
+      "id": 48,
+      "type": "PrimitiveNode",
+      "pos": [
+        1687,
+        2075
+      ],
+      "size": {
+        "0": 210,
+        "1": 82
+      },
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            100,
+            101,
+            121,
+            133,
+            143
+          ],
+          "widget": {
+            "name": "seed"
+          },
+          "slot_index": 0
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        850006133618241,
+        "fixed"
+      ]
+    },
+    {
+      "id": 54,
+      "type": "KSampler",
+      "pos": [
+        3144.9333178710917,
+        1220.613233947754
+      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 118
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 119
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 120
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 112
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 121,
+          "widget": {
+            "name": "seed"
+          },
+          "slot_index": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            113
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        850006133618241,
+        "randomize",
+        7,
+        1.2,
+        "dpmpp_sde",
+        "karras",
+        0.6
+      ]
+    },
+    {
+      "id": 59,
+      "type": "UltimateSDUpscale",
+      "pos": [
+        2576.333584872159,
+        1902.2430197975843
+      ],
+      "size": {
+        "0": 315,
+        "1": 614
+      },
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 126
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 127
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 132
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 131
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 130
+        },
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 134,
+          "slot_index": 5
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 133,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            135
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UltimateSDUpscale"
+      },
+      "widgets_values": [
+        2,
+        850006133618241,
+        "randomize",
+        7,
+        1.2000000000000002,
+        "dpmpp_sde",
+        "karras",
+        0.2,
+        "Linear",
+        512,
+        512,
+        8,
+        32,
+        "None",
+        1,
+        64,
+        8,
+        16,
+        true,
+        false
+      ]
+    },
+    {
+      "id": 62,
+      "type": "UltimateSDUpscale",
+      "pos": [
+        3373.1805087002826,
+        1901.6046530983656
+      ],
+      "size": {
+        "0": 315,
+        "1": 614
+      },
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 137
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 138
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 139
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 140
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 141
+        },
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 142,
+          "slot_index": 5
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 143,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            136
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UltimateSDUpscale"
+      },
+      "widgets_values": [
+        2,
+        850006133618241,
+        "randomize",
+        7,
+        1.2000000000000002,
+        "dpmpp_sde",
+        "karras",
+        0.2,
+        "Linear",
+        512,
+        512,
+        8,
+        32,
+        "None",
+        1,
+        64,
+        8,
+        16,
+        true,
+        false
       ]
     }
   ],
