@@ -16,8 +16,12 @@ for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr /v "^#
           python -m pip install -r "%DESTINATION_FOLDER%\!project_name!\requirements.txt"
         )
     ) else (
-        echo Project already exists. Skipping clone. Project Name: !project_name! 
-    )    
+        echo Project already exists. Update project Name: !project_name!
+        git --git-dir=%DESTINATION_FOLDER%\!project_name!/.git --work-tree=%DESTINATION_FOLDER%\!project_name! pull
+        if exist "%DESTINATION_FOLDER%\!project_name!\requirements.txt" (
+          python -m pip install -r "%DESTINATION_FOLDER%\!project_name!\requirements.txt"
+        )
+    )
 )
 
 endlocal
