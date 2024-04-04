@@ -16,6 +16,11 @@ python -m pip install torch torchvision torchaudio --extra-index-url https://dow
 python -m pip install -r requirements.txt
 ```
 
+> 更新troch的方式
+> ```
+> python -m pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+> ```
+
 - mac
 
 ```
