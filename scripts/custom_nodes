@@ -62,3 +62,5 @@ eden_comfy_pipelines=https://github.com/edenartlab/eden_comfy_pipelines.git
 ComfyUI-Impact-Pack=https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 # 插帧循环动画
 ComfyUI-DynamiCrafterWrapper=https://github.com/kijai/ComfyUI-DynamiCrafterWrapper.git
+# 插帧
+ComfyUI-Frame-Interpolation=https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git

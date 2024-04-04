@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt
 
 > 更新troch的方式
 > ```
-> python -m pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+> python -m pip install --upgrade torch torchvision torchaudio torchmetrics torchsde torchvision --index-url https://download.pytorch.org/whl/cu121
 > ```
 
 - mac
