@@ -20,6 +20,8 @@ ComfyUI_FizzNodes=https://github.com/FizzleDorf/ComfyUI_FizzNodes.git
 ComfyUI-VideoHelperSuite=https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
 # 角色一致性
 ComfyUI_IPAdapter_plus=https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+# 透明图层
+ComfyUI-layerdiffuse=https://github.com/huchenlei/ComfyUI-layerdiffuse.git
 # rgthree-comfy
 rgthree-comfy=https://github.com/rgthree/rgthree-comfy.git
 # WAS Node Suite
