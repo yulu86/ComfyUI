@@ -60,3 +60,5 @@ ComfyUI-Logic=https://github.com/theUpsider/ComfyUI-Logic.git
 eden_comfy_pipelines=https://github.com/edenartlab/eden_comfy_pipelines.git
 # ComfyUI-Impact-Pack
 ComfyUI-Impact-Pack=https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+# 插帧循环动画
+ComfyUI-DynamiCrafterWrapper=https://github.com/kijai/ComfyUI-DynamiCrafterWrapper.git
