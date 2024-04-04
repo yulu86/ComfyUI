@@ -22,6 +22,8 @@ ComfyUI-VideoHelperSuite=https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
 ComfyUI_IPAdapter_plus=https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
 # 透明图层
 ComfyUI-layerdiffuse=https://github.com/huchenlei/ComfyUI-layerdiffuse.git
+ComfyUI-Inference-Core-Nodes=https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes.git
+ComfyUI_essentials=https://github.com/cubiq/ComfyUI_essentials.git
 # rgthree-comfy
 rgthree-comfy=https://github.com/rgthree/rgthree-comfy.git
 # WAS Node Suite
