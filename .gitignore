@@ -25,3 +25,4 @@ my-workflows/**/**.png
 **/verify/**
 web/lib/fabric.js
 **/**.whl
+**/logs/
