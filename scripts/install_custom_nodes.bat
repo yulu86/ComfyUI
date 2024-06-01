@@ -7,21 +7,24 @@ set DESTINATION_FOLDER=../custom_nodes
 for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr /v "^#" ^| findstr "="') do (
     set "project_name=%%a"
     set "git_path=%%b"
-    set "proxy_git_path=https://gh-proxy.com/!git_path!"
 
     if not exist "%DESTINATION_FOLDER%\!project_name!\" (
         echo Cloning project !project_name! from !git_path!...
-        git clone !proxy_git_path! "%DESTINATION_FOLDER%\!project_name!" --recursive
-        if exist "%DESTINATION_FOLDER%\!project_name!\requirements.txt" (
-          python -m pip install -r "%DESTINATION_FOLDER%\!project_name!\requirements.txt"
-        )
+        git clone !git_path! "%DESTINATION_FOLDER%\!project_name!" --recursive
     ) else (
         echo Project already exists. Update project Name: !project_name!
         git --git-dir=%DESTINATION_FOLDER%\!project_name!/.git --work-tree=%DESTINATION_FOLDER%\!project_name! pull
-        if exist "%DESTINATION_FOLDER%\!project_name!\requirements.txt" (
-          python -m pip install -r "%DESTINATION_FOLDER%\!project_name!\requirements.txt"
-        )
+        @REM git --git-dir=%DESTINATION_FOLDER%\!project_name!/.git --work-tree=%DESTINATION_FOLDER%\!project_name! remote set-url origin !git_path!
     )
+
+    call :install_requirements "%DESTINATION_FOLDER%!\%project_name%"
 )
 
 endlocal
+exit /b
+
+:install_requirements
+if exist "%~1\requirements.txt" (
+    python -m pip install -r "%~1\requirements.txt"
+)
+exit /b 0
