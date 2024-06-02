@@ -26,3 +26,4 @@ my-workflows/**/**.png
 web/lib/fabric.js
 **/**.whl
 **/logs/
+tmp/
