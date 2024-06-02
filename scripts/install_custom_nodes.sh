@@ -15,7 +15,7 @@ update_or_clone_project(){
 
     if [ ! -d "$DESTINATION_FOLDER/$project" ]; then
         echo "Cloning project $project from $path..."
-        git clone "$path" "$DESTINATION_FOLDER/$project"
+        git clone --depth 1 "$path" "$DESTINATION_FOLDER/$project"
     else
         echo "Project already exists. Updating project Name: $project"
         git --git-dir="$DESTINATION_FOLDER/$project/.git" --work-tree="$DESTINATION_FOLDER/$project" pull
