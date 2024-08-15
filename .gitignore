@@ -29,3 +29,5 @@ web/lib/fabric.js
 **/**.whl
 **/logs/
 tmp/
+web_custom_versions/
+.DS_Store
