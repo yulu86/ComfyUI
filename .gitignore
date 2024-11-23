@@ -32,3 +32,5 @@ web/lib/fabric.js
 tmp/
 web_custom_versions/
 .DS_Store
+models/*
+models
