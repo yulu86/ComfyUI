@@ -66,3 +66,5 @@ ComfyUI-Impact-Pack=git@github.com:ltdrdata/ComfyUI-Impact-Pack.git
 ComfyUI-DynamiCrafterWrapper=git@github.com:kijai/ComfyUI-DynamiCrafterWrapper.git
 # 插帧
 ComfyUI-Frame-Interpolation=git@github.com:Fannovel16/ComfyUI-Frame-Interpolation.git
+# 细节增强
+ComfyUI-Detail-Daemon=https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
