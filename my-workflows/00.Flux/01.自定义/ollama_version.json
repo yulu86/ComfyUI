@@ -1,6 +1,6 @@
 {
-  "last_node_id": 41,
-  "last_link_id": 120,
+  "last_node_id": 43,
+  "last_link_id": 123,
   "nodes": [
     {
       "id": 22,
@@ -14,7 +14,7 @@
         46
       ],
       "flags": {},
-      "order": 14,
+      "order": 15,
       "mode": 0,
       "inputs": [
         {
@@ -58,7 +58,7 @@
         124.53733825683594
       ],
       "flags": {},
-      "order": 15,
+      "order": 16,
       "mode": 0,
       "inputs": [
         {
@@ -126,7 +126,7 @@
         46
       ],
       "flags": {},
-      "order": 16,
+      "order": 17,
       "mode": 0,
       "inputs": [
         {
@@ -247,7 +247,7 @@
         58
       ],
       "flags": {},
-      "order": 13,
+      "order": 14,
       "mode": 0,
       "inputs": [
         {
@@ -461,7 +461,7 @@
         "Node name for S&R": "RandomNoise"
       },
       "widgets_values": [
-        838299326783172,
+        631391068801257,
         "randomize"
       ],
       "color": "#2a363b",
@@ -511,7 +511,7 @@
         106
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [
         {
@@ -614,7 +614,7 @@
         81.22635650634766
       ],
       "flags": {},
-      "order": 11,
+      "order": 13,
       "mode": 0,
       "inputs": [
         {
@@ -625,7 +625,7 @@
         {
           "name": "text",
           "type": "STRING",
-          "link": 120,
+          "link": 123,
           "widget": {
             "name": "text"
           }
@@ -656,38 +656,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 39,
-      "type": "PreviewText",
-      "pos": [
-        1351.569091796875,
-        707.995849609375
-      ],
-      "size": [
-        673.1817626953125,
-        512.42431640625
-      ],
-      "flags": {},
-      "order": 10,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 119,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewText"
-      },
-      "widgets_values": [
-        "London Street View is a digital representation of the city's streets, showcasing its iconic landmarks, diverse neighborhoods, and bustling atmosphere. Here's a detailed description of what you might see on a virtual tour of London:\n\n**Landmarks and Iconic Spots:**\n\n* Buckingham Palace: The grand entrance to the palace, complete with the famous \"Change, Please!\" sign, is often seen at street level.\n* Tower Bridge: The iconic bridge's imposing structure, with its distinctive curved towers, dominates the London skyline.\n* Big Ben (The Elizabeth Tower): The clock tower's majestic presence is evident, with its gleaming white exterior and dark, ornate details.\n* The Shard: This sleek, modern skyscraper rises high above the city, offering breathtaking views of London from its observation deck.\n\n**Neighborhoods and Markets:**\n\n* Covent Garden: This historic square is bustling with street performers, upscale shops, and lively restaurants.\n* Camden Market: A vibrant hub for alternative fashion, music, and food, Camden's market stalls and eclectic crowd create a unique atmosphere.\n* Brick Lane Market: This East End institution offers a mix of vintage goods, street food, and trendy boutiques.\n* Notting Hill: The colorful houses and picturesque streets of this iconic neighborhood are perfect for a leisurely stroll.\n\n**Street Life and Architecture:**\n\n* Busy thoroughfares like Oxford Street, Regent Street, and Bond Street are lined with upscale shops, cafes, and restaurants.\n* Traditional British pubs, such as the Ye Olde Trip to Jerusalem in Covent Garden or the Spaniards Inn in Hampstead, offer a warm welcome for locals and tourists alike.\n* Iconic department stores like Harrods and Liberty London showcase their opulent interiors and luxurious products.\n* The city's many parks and green spaces, including Hyde Park, Regent's Park, and St. James's Park, provide tranquil oases amidst the urban bustle.\n\n**Transportation:**\n\n* The iconic red double-decker buses are a symbol of London's public transportation system.\n* Underground stations like Leicester Square, Covent Garden, and King's Cross offer convenient access to the city's vast network of subway lines.\n* Pedestrian-friendly streets allow for easy exploration on foot, while bike-share programs and designated cycling lanes encourage eco-friendly transportation.\n\n**Day and Night Scenery:**\n\n* During the day, the city comes alive with sunlight casting long shadows across the pavement.\n* As dusk falls, streetlights illuminate the sidewalks, creating a warm, golden glow that highlights London's nighttime charm.\n* At night, the city transforms into a dazzling spectacle of twinkling lights, neon signs, and bustling energy.\n\n**Seasonal Variations:**\n\n* Spring brings blooming flowers and lush greenery to the city's parks and gardens.\n* Summer months (June to August) are characterized by warm weather, festivals like Wimbledon and Notting Hill Carnival, and outdoor events in the many public spaces.\n* Autumn foliage adds a pop of color to the city's streets, with changing leaves on trees along the Thames River and in London's many parks.\n* Winter brings festive decorations, ice skating rinks, and cozy atmosphere to the city's pubs and cafes.\n\n**People-Watching:**\n\n* Londoners from all walks of life go about their daily routines, from commuters rushing to work to tourists exploring the city.\n* From street performers to artists displaying their wares, the city is filled with creatives and entrepreneurs showcasing their talents.\n* The diverse crowd includes people from all over the world, each with their own unique story and perspective.\n\n**Noise and Ambiance:**\n\n* London's busy streets are accompanied by a constant hum of traffic, construction work, and chatter from pedestrians.\n* The sound of buses rumbling along the pavement creates a familiar background noise.\n* At night, the city takes on a different atmosphere, with the sounds of music, laughter, and conversation mingling in the air.\n\nThis detailed description should give you an idea of what to expect when taking a virtual tour of London Street View. The city is full of life, energy, and endless possibilities, making it one of the most exciting cities in the world to explore."
-      ]
-    },
-    {
       "id": 9,
       "type": "SaveImage",
       "pos": [
@@ -699,7 +667,7 @@
         1060.3828125
       ],
       "flags": {},
-      "order": 17,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -715,15 +683,97 @@
       ]
     },
     {
-      "id": 41,
-      "type": "OllamaGenerate",
+      "id": 39,
+      "type": "PreviewText",
       "pos": [
-        1363.701904296875,
-        153.06549072265625
+        1309.62255859375,
+        662.0156860351562
       ],
       "size": [
-        624,
-        471.33331298828125
+        673.1817626953125,
+        512.42431640625
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 122,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewText"
+      },
+      "widgets_values": [
+        "The image is a black-and-white cartoon illustration of two women in an office setting, with one woman presenting a graph and the other enjoying donuts.\n\n*   The woman on the left has short hair and is wearing a long skirt. She is pointing to a line graph on the whiteboard behind her.\n    *   The graph shows a steady increase over time, with five data points marked by small circles.\n    *   The woman's expression suggests she is excited about the trend in the data.\n*   The woman on the right has shoulder-length hair and is wearing glasses. She is sitting at a desk, holding a box of donuts and smiling.\n    *   There are several donuts scattered around her desk, including some that have been eaten.\n    *   The box of donuts reads \"Donut\" in bold letters.\n\nThe overall atmosphere of the image is lighthearted and playful, suggesting that the women are enjoying their work together."
+      ]
+    },
+    {
+      "id": 42,
+      "type": "OllamaVision",
+      "pos": [
+        1281.0821533203125,
+        183.33847045898438
+      ],
+      "size": [
+        735.5733642578125,
+        401.29998779296875
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 121
+        }
+      ],
+      "outputs": [
+        {
+          "name": "description",
+          "type": "STRING",
+          "links": [
+            122,
+            123
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaVision"
+      },
+      "widgets_values": [
+        "describe the image as detailed as you can, output need no title, only the description text.",
+        "enable",
+        "http://192.168.3.227:11434",
+        "llama3.2-vision:latest",
+        5,
+        "text",
+        680156063,
+        "randomize",
+        [
+          false,
+          true
+        ]
+      ]
+    },
+    {
+      "id": 43,
+      "type": "LoadImage",
+      "pos": [
+        1494.802490234375,
+        -186.50836181640625
+      ],
+      "size": [
+        315,
+        314
       ],
       "flags": {},
       "order": 7,
@@ -731,29 +781,26 @@
       "inputs": [],
       "outputs": [
         {
-          "name": "response",
-          "type": "STRING",
+          "name": "IMAGE",
+          "type": "IMAGE",
           "links": [
-            119,
-            120
+            121
           ],
           "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
         }
       ],
       "properties": {
-        "Node name for S&R": "OllamaGenerate"
+        "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "describe London street view as detailed as you can\n",
-        "enable",
-        "http://192.168.3.227:11434",
-        "llama3.2:3b",
-        5,
-        "text",
-        [
-          false,
-          true
-        ]
+        "屏幕截图 2023-08-06 135244.png",
+        "image"
       ]
     }
   ],
@@ -903,16 +950,24 @@
       "LATENT"
     ],
     [
-      119,
-      41,
+      121,
+      43,
+      0,
+      42,
+      0,
+      "IMAGE"
+    ],
+    [
+      122,
+      42,
       0,
       39,
       0,
       "STRING"
     ],
     [
-      120,
-      41,
+      123,
+      42,
       0,
       6,
       1,
@@ -937,10 +992,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917358,
+      "scale": 0.9090909090909091,
       "offset": [
-        -184.82238348937238,
-        97.91097627958038
+        -729.5730153046298,
+        253.6423696694469
       ]
     },
     "groupNodes": {}
