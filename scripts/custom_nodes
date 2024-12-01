@@ -14,3 +14,21 @@ ComfyUi_String_Function_Tree=git@github.com:wolfden/ComfyUi_String_Function_Tree
 efficiency-nodes-comfyui=git@github.com:jags111/efficiency-nodes-comfyui.git
 # 细节增强
 ComfyUI-Detail-Daemon=git@github.com:Jonseed/ComfyUI-Detail-Daemon.git
+# SD
+stability-ComfyUI-nodes=git@github.com:Stability-AI/stability-ComfyUI-nodes.git
+# ComfyUI-WD14
+ComfyUI-WD14-Tagger=git@github.com:sipherxyz/comfyui-art-venture.git
+# comfyui-art-venture
+comfyui-art-venture=https://github.com/sipherxyz/comfyui-art-venture.git
+# cg-use-everywhere
+cg-use-everywhere=git@github.com:chrisgoringe/cg-use-everywhere.git
+# ComfyUI-Easy-Use
+ComfyUI-Easy-Use=git@github.com:yolain/ComfyUI-Easy-Use.git
+# ComfyUI-Inspire-Pack
+ComfyUI-Inspire-Pack=git@github.com:ltdrdata/ComfyUI-Inspire-Pack.git
+# ComfyUI_Comfyroll_CustomNodes
+ComfyUI_Comfyroll_CustomNodes=git@github.com:Suzie1/ComfyUI_Comfyroll_CustomNodes.git
+# ComfyLiterals
+ComfyLiterals=git@github.com:M1kep/ComfyLiterals.git
+# Comfyui_TTP_Toolset
+Comfyui_TTP_Toolset=git@github.com:TTPlanetPig/Comfyui_TTP_Toolset.git
