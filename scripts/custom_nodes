@@ -2,69 +2,15 @@
 ComfyUI-Manager=git@github.com:ltdrdata/ComfyUI-Manager.git
 # 瑞士军刀
 ComfyUI_Custom_Nodes_AlekPet=git@github.com:AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
-# 自定义脚本
-ComfyUI-Custom-Scripts=git@github.com:pythongosssss/ComfyUI-Custom-Scripts.git
-# Gemini插件
-# ComfyUI-Gemini=git@github.com:ZHO-ZHO-ZHO/ComfyUI-Gemini.git
 # Ollama插件
 comfyui-ollama=git@github.com:stavsap/comfyui-ollama.git
 # 百度翻译
 ComfyUI_Prompt_Translate_to_English=git@github.com:pengchengmi/ComfyUI_Prompt_Translate_to_English.git
-# SDXL提示词风格选择
-sdxl_prompt_styler=git@github.com:twri/sdxl_prompt_styler.git
-# ControlNet预处理器
-comfyui_controlnet_aux=git@github.com:Fannovel16/comfyui_controlnet_aux.git
-# ControlNet高级
-ComfyUI-Advanced-ControlNet=git@github.com:Kosinkadink/ComfyUI-Advanced-ControlNet.git
-# AnimateDiff
-ComfyUI-AnimateDiff-Evolved=git@github.com:Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
-ComfyUI_FizzNodes=git@github.com:FizzleDorf/ComfyUI_FizzNodes.git
-ComfyUI-VideoHelperSuite=git@github.com:Kosinkadink/ComfyUI-VideoHelperSuite.git
-# 角色一致性
-ComfyUI_IPAdapter_plus=git@github.com:cubiq/ComfyUI_IPAdapter_plus.git
-# 透明图层
-ComfyUI-layerdiffuse=git@github.com:huchenlei/ComfyUI-layerdiffuse.git
-ComfyUI-Inference-Core-Nodes=git@github.com:LykosAI/ComfyUI-Inference-Core-Nodes.git
-ComfyUI_essentials=git@github.com:cubiq/ComfyUI_essentials.git
 # rgthree-comfy
 rgthree-comfy=git@github.com:rgthree/rgthree-comfy.git
-# WAS Node Suite
-was-node-suite-comfyui=git@github.com:WASasquatch/was-node-suite-comfyui.git
-# 图片尺寸
-Derfuu_ComfyUI_ModdedNodes=git@github.com:Derfuu/Derfuu_ComfyUI_ModdedNodes.git
-# SD放大
-ComfyUI_UltimateSDUpscale=git@github.com:ssitu/ComfyUI_UltimateSDUpscale.git
-# comfy-image-saver
-comfy-image-saver=git@github.com:giriss/comfy-image-saver.git
-# ComfyUI_Comfyroll_CustomNodes
-ComfyUI_Comfyroll_CustomNodes=git@github.com:Suzie1/ComfyUI_Comfyroll_CustomNodes.git
-# ComfyUI_smZNodes
-ComfyUI_smZNodes=git@github.com:shiimizu/ComfyUI_smZNodes.git
-# ComfyUI-KJNodes
-ComfyUI-KJNodes=git@github.com:kijai/ComfyUI-KJNodes.git
-# ymc-node-suite-comfyui
-ymc-node-suite-comfyui=git@github.com:YMC-GitHub/ymc-node-suite-comfyui.git
-# stability-ComfyUI-nodes
-stability-ComfyUI-nodes=git@github.com:Stability-AI/stability-ComfyUI-nodes.git
 # ComfyUi_String_Function_Tree
 ComfyUi_String_Function_Tree=git@github.com:wolfden/ComfyUi_String_Function_Tree.git
-# sd-dynamic-thresholding
-sd-dynamic-thresholding=git@github.com:mcmonkeyprojects/sd-dynamic-thresholding.git
-# ComfyUI_Noise
-ComfyUI_Noise=git@github.com:BlenderNeko/ComfyUI_Noise.git
-# ComfyUI_experiments
-ComfyUI_experiments=git@github.com:comfyanonymous/ComfyUI_experiments.git
 # 效率节点
 efficiency-nodes-comfyui=git@github.com:jags111/efficiency-nodes-comfyui.git
-# ComfyUI-Logic
-ComfyUI-Logic=git@github.com:theUpsider/ComfyUI-Logic.git
-# eden_comfy_pipelines
-eden_comfy_pipelines=git@github.com:edenartlab/eden_comfy_pipelines.git
-# ComfyUI-Impact-Pack
-ComfyUI-Impact-Pack=git@github.com:ltdrdata/ComfyUI-Impact-Pack.git
-# 插帧循环动画
-ComfyUI-DynamiCrafterWrapper=git@github.com:kijai/ComfyUI-DynamiCrafterWrapper.git
-# 插帧
-ComfyUI-Frame-Interpolation=git@github.com:Fannovel16/ComfyUI-Frame-Interpolation.git
 # 细节增强
 ComfyUI-Detail-Daemon=https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
