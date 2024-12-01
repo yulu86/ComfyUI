@@ -13,4 +13,4 @@ ComfyUi_String_Function_Tree=git@github.com:wolfden/ComfyUi_String_Function_Tree
 # 效率节点
 efficiency-nodes-comfyui=git@github.com:jags111/efficiency-nodes-comfyui.git
 # 细节增强
-ComfyUI-Detail-Daemon=https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
+ComfyUI-Detail-Daemon=git@github.com:Jonseed/ComfyUI-Detail-Daemon.git
