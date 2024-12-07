@@ -17,7 +17,7 @@ for /f "tokens=1,* delims==" %%a in ('type "%PROPERTIES_FILE%" ^| findstr /v "^#
         @REM git --git-dir=%DESTINATION_FOLDER%\!project_name!/.git --work-tree=%DESTINATION_FOLDER%\!project_name! remote set-url origin !git_path!
     )
 
-    call :install_requirements "%DESTINATION_FOLDER%!\%project_name%"
+    call :install_requirements "%DESTINATION_FOLDER%\!project_name!"
 )
 
 endlocal
@@ -26,5 +26,8 @@ exit /b
 :install_requirements
 if exist "%~1\requirements.txt" (
     python -m pip install -r "%~1\requirements.txt"
+    echo install requirements.txt done
+) else (
+    echo No requirements.txt found in %~1
 )
 exit /b 0
