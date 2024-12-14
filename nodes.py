@@ -11,7 +11,7 @@ import time
 import random
 import logging
 
-from PIL import Image, ImageOps, ImageSequence, ImageFile
+from PIL import Image, ImageOps, ImageSequence
 from PIL.PngImagePlugin import PngInfo
 
 import numpy as np
@@ -644,9 +644,7 @@ class LoraLoader:
             if self.loaded_lora[0] == lora_path:
                 lora = self.loaded_lora[1]
             else:
-                temp = self.loaded_lora
                 self.loaded_lora = None
-                del temp
 
         if lora is None:
             lora = comfy.utils.load_torch_file(lora_path, safe_load=True)
@@ -2149,8 +2147,10 @@ def init_builtin_extra_nodes():
         "nodes_torch_compile.py",
         "nodes_mochi.py",
         "nodes_slg.py",
+        "nodes_mahiro.py",
         "nodes_lt.py",
         "nodes_hooks.py",
+        "nodes_load_3d.py",
     ]
 
     import_failed = []
