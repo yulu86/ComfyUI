@@ -32,3 +32,5 @@ ComfyUI_Comfyroll_CustomNodes=git@github.com:Suzie1/ComfyUI_Comfyroll_CustomNode
 ComfyLiterals=git@github.com:M1kep/ComfyLiterals.git
 # Comfyui_TTP_Toolset
 Comfyui_TTP_Toolset=git@github.com:TTPlanetPig/Comfyui_TTP_Toolset.git
+# comfy-image-saver
+comfy-image-saver=git@github.com:giriss/comfy-image-saver.git
