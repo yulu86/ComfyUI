@@ -34,3 +34,5 @@ ComfyLiterals=git@github.com:M1kep/ComfyLiterals.git
 Comfyui_TTP_Toolset=git@github.com:TTPlanetPig/Comfyui_TTP_Toolset.git
 # comfy-image-saver
 comfy-image-saver=git@github.com:giriss/comfy-image-saver.git
+# ComfyUI-GGUF
+ComfyUI-GGUF=git@github.com:city96/ComfyUI-GGUF.git
