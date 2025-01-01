@@ -44,3 +44,9 @@ ComfyUI_UltimateSDUpscale=https://gh-proxy.com/https://github.com/ssitu/ComfyUI_
 ComfyUI-Image-Filters=https://gh-proxy.com/https://github.com/spacepxl/ComfyUI-Image-Filters.git
 # ComfyUI_essentials
 ComfyUI_essentials=https://gh-proxy.com/https://github.com/ComfyUI_essentials.git
+# ComfyUI-Impact-Pack
+ComfyUI-Impact-Pack=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+# ComfyUI-Impact-Subpack
+ComfyUI-Impact-Subpack=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git
+# ComfyUI-AdvancedLivePortrait
+ComfyUI-AdvancedLivePortrait=https://gh-proxy.com/https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait.git
