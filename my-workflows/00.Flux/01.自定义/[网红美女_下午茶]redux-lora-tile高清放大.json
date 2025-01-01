@@ -824,7 +824,7 @@
         78
       ],
       "flags": {},
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -872,7 +872,7 @@
         106
       ],
       "flags": {},
-      "order": 21,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -1017,7 +1017,7 @@
         106
       ],
       "flags": {},
-      "order": 27,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -1581,7 +1581,7 @@
         78
       ],
       "flags": {},
-      "order": 19,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -1627,7 +1627,7 @@
         126
       ],
       "flags": {},
-      "order": 25,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -1686,7 +1686,7 @@
         76
       ],
       "flags": {},
-      "order": 30,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -1892,7 +1892,7 @@
         78
       ],
       "flags": {},
-      "order": 20,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -1938,7 +1938,7 @@
         126
       ],
       "flags": {},
-      "order": 26,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -1997,7 +1997,7 @@
         76
       ],
       "flags": {},
-      "order": 31,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -2088,46 +2088,6 @@
       },
       "widgets_values": [
         "high_网红下午茶_"
-      ]
-    },
-    {
-      "id": 63,
-      "type": "PrimitiveNode",
-      "pos": [
-        -592.7384643554688,
-        517.1088256835938
-      ],
-      "size": [
-        301.1532287597656,
-        82
-      ],
-      "flags": {},
-      "order": 12,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            166,
-            189,
-            257,
-            267
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        4104,
-        "fixed"
       ]
     },
     {
@@ -2255,7 +2215,7 @@
         82
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2334,7 +2294,7 @@
         106
       ],
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2454,6 +2414,46 @@
             "url": "/api/view?filename=rgthree.compare._temp_gsdnp_00028_.png&type=temp&subfolder=&rand=0.2489045872752098"
           }
         ]
+      ]
+    },
+    {
+      "id": 63,
+      "type": "PrimitiveNode",
+      "pos": [
+        -592.7384643554688,
+        517.1088256835938
+      ],
+      "size": [
+        301.1532287597656,
+        82
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            166,
+            189,
+            257,
+            267
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        4104,
+        "randomize"
       ]
     }
   ],
@@ -3197,10 +3197,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.3855432894295318,
+      "scale": 0.7513148009015783,
       "offset": [
-        2419.41488832881,
-        1597.7233150533077
+        1325.8489545630093,
+        700.9713895984138
       ]
     },
     "groupNodes": {},
