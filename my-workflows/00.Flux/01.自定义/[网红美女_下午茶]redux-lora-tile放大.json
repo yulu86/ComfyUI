@@ -304,8 +304,8 @@
       "id": 83,
       "type": "Reroute",
       "pos": [
-        534.2232055664062,
-        866.7793579101562
+        502.78375244140625,
+        469.5008544921875
       ],
       "size": [
         75,
@@ -342,8 +342,8 @@
       "id": 82,
       "type": "Reroute",
       "pos": [
-        534.2232055664062,
-        906.3794555664062
+        502.78375244140625,
+        509.10089111328125
       ],
       "size": [
         75,
@@ -380,8 +380,8 @@
       "id": 81,
       "type": "Reroute",
       "pos": [
-        534.2232055664062,
-        951.1124877929688
+        502.78375244140625,
+        553.8340454101562
       ],
       "size": [
         75,
@@ -414,33 +414,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 79,
-      "type": "PreviewImage",
-      "pos": [
-        1252.4517822265625,
-        861.5242309570312
-      ],
-      "size": [
-        713.8821411132812,
-        629.7911376953125
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 198
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": []
     },
     {
       "id": 66,
@@ -547,85 +520,11 @@
       ]
     },
     {
-      "id": 45,
-      "type": "PreviewImage",
-      "pos": [
-        1254.404052734375,
-        166.96429443359375
-      ],
-      "size": [
-        713.8821411132812,
-        629.7911376953125
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 220
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": []
-    },
-    {
-      "id": 80,
-      "type": "Image Comparer (rgthree)",
-      "pos": [
-        2035.08642578125,
-        61.775184631347656
-      ],
-      "size": [
-        1599.117431640625,
-        1436.80322265625
-      ],
-      "flags": {},
-      "order": 49,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "image_a",
-          "type": "IMAGE",
-          "link": 221,
-          "dir": 3
-        },
-        {
-          "name": "image_b",
-          "type": "IMAGE",
-          "link": 200,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "comparer_mode": "Slide"
-      },
-      "widgets_values": [
-        [
-          {
-            "name": "A",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gsdnp_00027_.png&type=temp&subfolder=&rand=0.35640212655464953"
-          },
-          {
-            "name": "B",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gsdnp_00028_.png&type=temp&subfolder=&rand=0.2489045872752098"
-          }
-        ]
-      ]
-    },
-    {
       "id": 39,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
-        -651.0933837890625,
-        172.2327880859375
+        -590.2269897460938,
+        -632.3462524414062
       ],
       "size": [
         340.20001220703125,
@@ -690,11 +589,11 @@
       ]
     },
     {
-      "id": 43,
-      "type": "EmptyLatentImage",
+      "id": 11,
+      "type": "DualCLIPLoader",
       "pos": [
-        625.1072998046875,
-        382.5459899902344
+        -584.5801391601562,
+        -419.3925476074219
       ],
       "size": [
         315,
@@ -702,39 +601,6 @@
       ],
       "flags": {},
       "order": 0,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            127
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "EmptyLatentImage"
-      },
-      "widgets_values": [
-        1024,
-        768,
-        1
-      ]
-    },
-    {
-      "id": 11,
-      "type": "DualCLIPLoader",
-      "pos": [
-        -645.4465942382812,
-        385.1863708496094
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -761,15 +627,15 @@
       "id": 10,
       "type": "VAELoader",
       "pos": [
-        -647.0599365234375,
-        543.3074340820312
+        -586.1935424804688,
+        -261.2715148925781
       ],
       "size": [
         311.81634521484375,
         60.429901123046875
       ],
       "flags": {},
-      "order": 2,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -794,8 +660,8 @@
       "id": 84,
       "type": "Reroute",
       "pos": [
-        534.2232055664062,
-        824.9797973632812
+        502.78375244140625,
+        427.7012634277344
       ],
       "size": [
         75,
@@ -832,15 +698,15 @@
       "id": 93,
       "type": "UNETLoader",
       "pos": [
-        -640.7880249023438,
-        28.997020721435547
+        -579.9215698242188,
+        -775.58203125
       ],
       "size": [
         315,
         82
       ],
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -865,8 +731,8 @@
       "id": 91,
       "type": "CLIPTextEncode",
       "pos": [
-        162.2693328857422,
-        539.8749389648438
+        223.13551330566406,
+        -264.70404052734375
       ],
       "size": [
         285.453369140625,
@@ -918,8 +784,8 @@
       "id": 6,
       "type": "CLIPTextEncode",
       "pos": [
-        172.6345977783203,
-        306.7497863769531
+        233.50071716308594,
+        -497.8291931152344
       ],
       "size": [
         285.6000061035156,
@@ -1186,7 +1052,7 @@
       },
       "widgets_values": [
         "enable",
-        272712478895617,
+        774136091163465,
         "fixed",
         20,
         1,
@@ -1244,8 +1110,8 @@
       "id": 42,
       "type": "KSampler",
       "pos": [
-        618.7646484375,
-        62.78322982788086
+        679.631103515625,
+        -741.7958984375
       ],
       "size": [
         315,
@@ -1322,7 +1188,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        272712478895617,
+        774136091163465,
         "randomize",
         32,
         1,
@@ -1374,15 +1240,15 @@
       "id": 99,
       "type": "PrimitiveNode",
       "pos": [
-        -78.3958969116211,
-        853.1729736328125
+        -127.1991958618164,
+        425.6556396484375
       ],
       "size": [
         265.6356201171875,
         106
       ],
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1413,15 +1279,15 @@
       "id": 100,
       "type": "PrimitiveNode",
       "pos": [
-        -74.49169158935547,
-        1008.3675537109375
+        -123.29499053955078,
+        580.8505249023438
       ],
       "size": [
         258.80340576171875,
         106
       ],
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1452,8 +1318,8 @@
       "id": 101,
       "type": "CLIPVisionEncode",
       "pos": [
-        -289.1668395996094,
-        -429.1914978027344
+        -230.20257568359375,
+        -1239.4766845703125
       ],
       "size": [
         290,
@@ -1495,15 +1361,15 @@
       "id": 102,
       "type": "StyleModelLoader",
       "pos": [
-        -309.1668395996094,
-        -309.1914367675781
+        -250.2025604248047,
+        -1119.476318359375
       ],
       "size": [
         340,
         60
       ],
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -1526,15 +1392,15 @@
       "id": 103,
       "type": "CLIPVisionLoader",
       "pos": [
-        -649.1666870117188,
-        -539.1915893554688
+        -590.2026977539062,
+        -1349.4765625
       ],
       "size": [
         370,
         60
       ],
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -1558,8 +1424,8 @@
       "id": 41,
       "type": "FluxGuidance",
       "pos": [
-        150.10406494140625,
-        423.9249572753906
+        210.97023010253906,
+        -380.65399169921875
       ],
       "size": [
         317.4000244140625,
@@ -1596,8 +1462,8 @@
       "id": 104,
       "type": "StyleModelApply",
       "pos": [
-        50.83313751220703,
-        -429.1914978027344
+        109.79720306396484,
+        -1239.4766845703125
       ],
       "size": [
         320,
@@ -1646,15 +1512,15 @@
       "id": 106,
       "type": "LoadImage",
       "pos": [
-        -648.1666870117188,
-        -431.1914978027344
+        -589.2026977539062,
+        -1241.4766845703125
       ],
       "size": [
         315,
         314
       ],
       "flags": {},
-      "order": 8,
+      "order": 7,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -1685,15 +1551,15 @@
       "id": 90,
       "type": "SDXLPromptStyler",
       "pos": [
-        -274.17974853515625,
-        16.909412384033203
+        -213.31358337402344,
+        -787.669677734375
       ],
       "size": [
         391.8108215332031,
         606.1542358398438
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1747,7 +1613,7 @@
         106
       ],
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -1793,7 +1659,7 @@
         82
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -1909,8 +1775,8 @@
       "id": 44,
       "type": "VAEDecode",
       "pos": [
-        890.1246948242188,
-        583.0762329101562
+        950.9910888671875,
+        -221.50270080566406
       ],
       "size": [
         210,
@@ -1946,45 +1812,6 @@
         "Node name for S&R": "VAEDecode"
       },
       "widgets_values": []
-    },
-    {
-      "id": 63,
-      "type": "PrimitiveNode",
-      "pos": [
-        -669.8477172851562,
-        705.4895629882812
-      ],
-      "size": [
-        301.1532287597656,
-        82
-      ],
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            166,
-            189,
-            257
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        272712478895617,
-        "randomize"
-      ]
     },
     {
       "id": 70,
@@ -2027,15 +1854,15 @@
       "id": 115,
       "type": "Simple String",
       "pos": [
-        1322.2177734375,
-        -797.3951416015625
+        1263.16552734375,
+        -782.3635864257812
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 12,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2058,15 +1885,15 @@
       "id": 112,
       "type": "CR Integer To String",
       "pos": [
-        1318.7255859375,
-        -669.6843872070312
+        1259.67333984375,
+        -654.65283203125
       ],
       "size": [
         315,
         78
       ],
       "flags": {},
-      "order": 18,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -2097,15 +1924,15 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        272712478895617
+        774136091163465
       ]
     },
     {
       "id": 114,
       "type": "CR Text Concatenate",
       "pos": [
-        1679.6573486328125,
-        -755.92041015625
+        1620.6051025390625,
+        -740.8888549804688
       ],
       "size": [
         315,
@@ -2163,8 +1990,8 @@
       "id": 116,
       "type": "easy showAnything",
       "pos": [
-        2044.3394775390625,
-        -740.4365844726562
+        1985.2872314453125,
+        -725.405029296875
       ],
       "size": [
         289.333251953125,
@@ -2193,19 +2020,93 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "low_网红下午茶_743958513341252"
+        "low_网红下午茶_734662375269746"
       ]
+    },
+    {
+      "id": 43,
+      "type": "EmptyLatentImage",
+      "pos": [
+        685.9737548828125,
+        -422.0329284667969
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            127
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        768,
+        2
+      ]
+    },
+    {
+      "id": 62,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1044.720458984375,
+        672.8419799804688
+      ],
+      "size": [
+        305.7521667480469,
+        90.78459930419922
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            164,
+            190,
+            240
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "steps"
+          }
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        32,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 109,
       "type": "SaveImage",
       "pos": [
-        1323.714599609375,
-        -541.5541381835938
+        1264.662353515625,
+        -526.5225830078125
       ],
       "size": [
-        611.3694458007812,
-        404.0600891113281
+        494.339111328125,
+        348.2291564941406
       ],
       "flags": {},
       "order": 35,
@@ -2234,15 +2135,116 @@
       ]
     },
     {
-      "id": 62,
-      "type": "PrimitiveNode",
+      "id": 80,
+      "type": "Image Comparer (rgthree)",
       "pos": [
-        -1044.720458984375,
-        672.8419799804688
+        2050.80517578125,
+        -100.13713836669922
       ],
       "size": [
-        305.7521667480469,
-        90.78459930419922
+        1599.117431640625,
+        1436.80322265625
+      ],
+      "flags": {},
+      "order": 49,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image_a",
+          "type": "IMAGE",
+          "link": 221,
+          "dir": 3
+        },
+        {
+          "name": "image_b",
+          "type": "IMAGE",
+          "link": 200,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "comparer_mode": "Slide"
+      },
+      "widgets_values": [
+        [
+          {
+            "name": "A",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_gsdnp_00027_.png&type=temp&subfolder=&rand=0.35640212655464953"
+          },
+          {
+            "name": "B",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_gsdnp_00028_.png&type=temp&subfolder=&rand=0.2489045872752098"
+          }
+        ]
+      ]
+    },
+    {
+      "id": 79,
+      "type": "PreviewImage",
+      "pos": [
+        1287.0352783203125,
+        679.1764526367188
+      ],
+      "size": [
+        713.8821411132812,
+        629.7911376953125
+      ],
+      "flags": {},
+      "order": 48,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 198
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 45,
+      "type": "PreviewImage",
+      "pos": [
+        1288.643310546875,
+        -49.96702575683594
+      ],
+      "size": [
+        713.8821411132812,
+        629.7911376953125
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 220
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 63,
+      "type": "PrimitiveNode",
+      "pos": [
+        -592.7384643554688,
+        517.1088256835938
+      ],
+      "size": [
+        301.1532287597656,
+        82
       ],
       "flags": {},
       "order": 13,
@@ -2253,26 +2255,24 @@
           "name": "INT",
           "type": "INT",
           "links": [
-            164,
-            190,
-            240
+            166,
+            189,
+            257
           ],
           "slot_index": 0,
           "widget": {
-            "name": "steps"
+            "name": "seed"
           }
         }
       ],
-      "title": "Steps",
+      "title": "Seed",
       "properties": {
         "Run widget replace on values": false
       },
       "widgets_values": [
-        32,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
+        774136091163465,
+        "randomize"
+      ]
     }
   ],
   "links": [
@@ -2856,10 +2856,10 @@
   "groups": [
     {
       "id": 2,
-      "title": "Flux Dev & Lora",
+      "title": "01. Flux Dev & Lora",
       "bounding": [
-        -661.0933837890625,
-        -56.690589904785156,
+        -600.2269897460938,
+        -861.2696533203125,
         1771.218017578125,
         695.766845703125
       ],
@@ -2884,8 +2884,8 @@
       "id": 4,
       "title": "Reroute",
       "bounding": [
-        524.2232055664062,
-        781.3798217773438,
+        492.7836608886719,
+        384.1012878417969,
         95,
         205.73269653320312
       ],
@@ -2923,8 +2923,8 @@
       "id": 7,
       "title": "Sampler",
       "bounding": [
-        -88.3958969116211,
-        779.5729370117188,
+        -137.19920349121094,
+        352.0555419921875,
         285.6356201171875,
         344.79461669921875
       ],
@@ -2934,10 +2934,10 @@
     },
     {
       "id": 8,
-      "title": "Redux Model",
+      "title": "02. 可选Redux Model",
       "bounding": [
-        -659.1666870117188,
-        -612.7915649414062,
+        -600.2026977539062,
+        -1423.076416015625,
         1040,
         507.6000061035156
       ],
@@ -2949,12 +2949,12 @@
       "id": 9,
       "title": "Save Low Image",
       "bounding": [
-        1308.7255859375,
-        -870.9951171875,
-        1034.947265625,
-        758.8344116210938
+        1249.67333984375,
+        -855.9635620117188,
+        1028.5052490234375,
+        690.1192626953125
       ],
-      "color": "#3f789e",
+      "color": "#a1309b",
       "font_size": 24,
       "flags": {}
     }
@@ -2962,10 +2962,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7513148009015777,
+      "scale": 0.4240976183724851,
       "offset": [
-        -503.4259819975924,
-        548.1284947453765
+        2381.874289672204,
+        995.5111384436764
       ]
     },
     "groupNodes": {},
