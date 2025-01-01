@@ -36,3 +36,11 @@ Comfyui_TTP_Toolset=git@github.com:TTPlanetPig/Comfyui_TTP_Toolset.git
 comfy-image-saver=git@github.com:giriss/comfy-image-saver.git
 # ComfyUI-GGUF
 ComfyUI-GGUF=git@github.com:city96/ComfyUI-GGUF.git
+# was-node-suite-comfyui
+was-node-suite-comfyui=https://gh-proxy.com/https://github.com/WASasquatch/was-node-suite-comfyui.git
+# ComfyUI_UltimateSDUpscale
+ComfyUI_UltimateSDUpscale=https://gh-proxy.com/https://github.com/ssitu/ComfyUI_UltimateSDUpscale.git
+# ComfyUI-Image-Filters
+ComfyUI-Image-Filters=https://gh-proxy.com/https://github.com/spacepxl/ComfyUI-Image-Filters.git
+# ComfyUI_essentials
+ComfyUI_essentials=https://gh-proxy.com/https://github.com/ComfyUI_essentials.git
