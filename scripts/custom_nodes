@@ -50,3 +50,11 @@ ComfyUI-Impact-Pack=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Imp
 ComfyUI-Impact-Subpack=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git
 # ComfyUI-AdvancedLivePortrait
 ComfyUI-AdvancedLivePortrait=https://gh-proxy.com/https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait.git
+# comfy_mtb
+comfy_mtb=https://gh-proxy.com/https://github.com/melMass/comfy_mtb.git
+# ComfyUI-KJNodes
+ComfyUI-KJNodes=https://gh-proxy.com/https://github.com/kijai/ComfyUI-KJNodes.git
+# ComfyUI-FluxTrainer
+ComfyUI-FluxTrainer=https://gh-proxy.com/https://github.com/kijai/ComfyUI-FluxTrainer.git
+# ComfyUI-Redux-Prompt
+ComfyUI_AdvancedRefluxControl=https://gh-proxy.com/https://github.com/CY-CHENYUE/ComfyUI-Redux-Prompt.git
