@@ -1818,7 +1818,7 @@
         "Node name for S&R": "RandomNoise"
       },
       "widgets_values": [
-        634451423595874,
+        512246413582919,
         "randomize"
       ]
     },
@@ -3549,7 +3549,7 @@
       },
       "widgets_values": [
         "enable",
-        634451423595874,
+        512246413582919,
         "fixed",
         40,
         1,
@@ -3602,60 +3602,6 @@
       "bgcolor": "#355"
     },
     {
-      "id": 365,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -2278.751953125,
-        -571.3056030273438
-      ],
-      "size": [
-        774.4290161132812,
-        593.4654541015625
-      ],
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            718
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            719
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (slender:1.5), (large breasts:1.5), (breasts_out:1.5), (professional lighting, bokeh), (small head:1.4), bare shoulders, pureerosface, black_hair, shoulder_length_hair, slick_hair, (wearing white loose-fitting shirt and light-blue slim jeans), (white loose-fitting shirt), (light-blue slim jeans)",
-        "CG, comic, anime, drawing, (low res), logo, text, watermark, words, nude, NSFW, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), (freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, (complex_background:2), (rich_background:2)",
-        "base",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 361,
       "type": "Display Int (rgthree)",
       "pos": [
@@ -3685,7 +3631,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        634451423595874,
+        512246413582919,
         ""
       ],
       "color": "#232",
@@ -3703,7 +3649,7 @@
         85.18737030029297
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3726,7 +3672,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        634451423595874,
+        512246413582919,
         "randomize"
       ],
       "color": "#232",
@@ -3744,7 +3690,7 @@
         178
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3764,6 +3710,60 @@
       },
       "color": "#432",
       "bgcolor": "#653"
+    },
+    {
+      "id": 365,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -2278.751953125,
+        -571.3056030273438
+      ],
+      "size": [
+        774.4290161132812,
+        593.4654541015625
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            718
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            719
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style), a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl, (slim body), (tall girl), idol, (fashion girl), cute, smile,(skin dentation), (slender:1.5), (large breasts:1.5), (breasts_out:1.5), (professional lighting, bokeh), (small head:1.4), bare shoulders, pureerosface, black_hair, shoulder_length_hair, slick_hair, (wearing white loose-fitting shirt and light-blue slim jeans), (white loose-fitting shirt), (light-blue slim jeans)",
+        "CG, comic, anime, drawing, (low res), logo, text, watermark, words, nude, NSFW, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), (freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, (complex_background:2), (rich_background:2), (short girl), (fat girl)",
+        "base",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -4729,10 +4729,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7513148009015777,
+      "scale": 1,
       "offset": [
-        3045.5615235634177,
-        761.2974644991314
+        2198.408191445656,
+        937.3930154404809
       ]
     },
     "ue_links": []
