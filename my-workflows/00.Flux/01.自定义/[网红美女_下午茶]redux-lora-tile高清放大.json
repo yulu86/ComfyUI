@@ -1,6 +1,6 @@
 {
-  "last_node_id": 130,
-  "last_link_id": 279,
+  "last_node_id": 133,
+  "last_link_id": 280,
   "nodes": [
     {
       "id": 71,
@@ -14,8 +14,8 @@
         26
       ],
       "flags": {},
-      "order": 47,
-      "mode": 0,
+      "order": 48,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -51,8 +51,8 @@
         46
       ],
       "flags": {},
-      "order": 48,
-      "mode": 0,
+      "order": 49,
+      "mode": 2,
       "inputs": [
         {
           "name": "pixels",
@@ -92,8 +92,8 @@
         142
       ],
       "flags": {},
-      "order": 46,
-      "mode": 0,
+      "order": 47,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -172,8 +172,8 @@
         26
       ],
       "flags": {},
-      "order": 51,
-      "mode": 0,
+      "order": 52,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -208,7 +208,7 @@
         26
       ],
       "flags": {},
-      "order": 30,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -246,7 +246,7 @@
         26
       ],
       "flags": {},
-      "order": 23,
+      "order": 24,
       "mode": 0,
       "inputs": [
         {
@@ -323,8 +323,8 @@
         126
       ],
       "flags": {},
-      "order": 43,
-      "mode": 0,
+      "order": 44,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -390,8 +390,8 @@
         76
       ],
       "flags": {},
-      "order": 44,
-      "mode": 0,
+      "order": 45,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -597,7 +597,7 @@
         59
       ],
       "flags": {},
-      "order": 25,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -650,7 +650,7 @@
         59
       ],
       "flags": {},
-      "order": 24,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -703,8 +703,8 @@
         334
       ],
       "flags": {},
-      "order": 49,
-      "mode": 0,
+      "order": 50,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -782,7 +782,7 @@
       },
       "widgets_values": [
         "enable",
-        24799592919007,
+        27706930276790,
         "fixed",
         20,
         1,
@@ -911,7 +911,7 @@
         58
       ],
       "flags": {},
-      "order": 34,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -949,7 +949,7 @@
         122
       ],
       "flags": {},
-      "order": 29,
+      "order": 30,
       "mode": 4,
       "inputs": [
         {
@@ -1038,7 +1038,7 @@
         46
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -1080,8 +1080,8 @@
         76
       ],
       "flags": {},
-      "order": 45,
-      "mode": 0,
+      "order": 46,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1118,7 +1118,7 @@
       ],
       "flags": {},
       "order": 6,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -1149,7 +1149,7 @@
       ],
       "flags": {},
       "order": 21,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "int_",
@@ -1179,7 +1179,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        24799592919007
+        27706930276790
       ]
     },
     {
@@ -1194,8 +1194,8 @@
         126
       ],
       "flags": {},
-      "order": 27,
-      "mode": 0,
+      "order": 28,
+      "mode": 2,
       "inputs": [
         {
           "name": "text1",
@@ -1253,8 +1253,8 @@
         76
       ],
       "flags": {},
-      "order": 32,
-      "mode": 0,
+      "order": 33,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1290,8 +1290,8 @@
         348.2291564941406
       ],
       "flags": {},
-      "order": 40,
-      "mode": 0,
+      "order": 41,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1327,7 +1327,7 @@
         262
       ],
       "flags": {},
-      "order": 37,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -1397,7 +1397,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        24799592919007,
+        27706930276790,
         "randomize",
         32,
         1,
@@ -1419,7 +1419,7 @@
       ],
       "flags": {},
       "order": 22,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "int_",
@@ -1449,7 +1449,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        24799592919007
+        27706930276790
       ]
     },
     {
@@ -1464,8 +1464,8 @@
         126
       ],
       "flags": {},
-      "order": 28,
-      "mode": 0,
+      "order": 29,
+      "mode": 2,
       "inputs": [
         {
           "name": "text1",
@@ -1523,8 +1523,8 @@
         76
       ],
       "flags": {},
-      "order": 33,
-      "mode": 0,
+      "order": 34,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1560,8 +1560,8 @@
         348.2291564941406
       ],
       "flags": {},
-      "order": 55,
-      "mode": 0,
+      "order": 56,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1598,7 +1598,7 @@
       ],
       "flags": {},
       "order": 7,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -1628,8 +1628,8 @@
         222
       ],
       "flags": {},
-      "order": 42,
-      "mode": 0,
+      "order": 43,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -1686,8 +1686,8 @@
         118
       ],
       "flags": {},
-      "order": 52,
-      "mode": 0,
+      "order": 53,
+      "mode": 2,
       "inputs": [
         {
           "name": "tiles",
@@ -1742,7 +1742,7 @@
       ],
       "flags": {},
       "order": 8,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -1944,46 +1944,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 63,
-      "type": "PrimitiveNode",
-      "pos": [
-        -145.40501403808594,
-        128.44219970703125
-      ],
-      "size": [
-        301.1532287597656,
-        82
-      ],
-      "flags": {},
-      "order": 12,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            166,
-            189,
-            257,
-            267
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        24799592919007,
-        "fixed"
-      ]
-    },
-    {
       "id": 99,
       "type": "PrimitiveNode",
       "pos": [
@@ -1995,7 +1955,7 @@
         106
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2034,7 +1994,7 @@
         106
       ],
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2073,7 +2033,7 @@
         26
       ],
       "flags": {},
-      "order": 36,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -2111,7 +2071,7 @@
         26
       ],
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -2150,8 +2110,8 @@
         150
       ],
       "flags": {},
-      "order": 50,
-      "mode": 0,
+      "order": 51,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -2197,7 +2157,7 @@
       ],
       "flags": {},
       "order": 19,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -2239,8 +2199,8 @@
         106
       ],
       "flags": {},
-      "order": 26,
-      "mode": 0,
+      "order": 27,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -2282,8 +2242,8 @@
         78
       ],
       "flags": {},
-      "order": 31,
-      "mode": 0,
+      "order": 32,
+      "mode": 2,
       "inputs": [
         {
           "name": "_float",
@@ -2319,43 +2279,6 @@
       ]
     },
     {
-      "id": 97,
-      "type": "easy showAnything",
-      "pos": [
-        -1068.3966064453125,
-        768.8489990234375
-      ],
-      "size": [
-        289.333251953125,
-        76
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 236,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "output",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy showAnything"
-      },
-      "widgets_values": [
-        "4"
-      ]
-    },
-    {
       "id": 45,
       "type": "PreviewImage",
       "pos": [
@@ -2367,7 +2290,7 @@
         629.7911376953125
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -2394,8 +2317,8 @@
         629.7911376953125
       ],
       "flags": {},
-      "order": 53,
-      "mode": 0,
+      "order": 54,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -2421,8 +2344,8 @@
         1436.80322265625
       ],
       "flags": {},
-      "order": 54,
-      "mode": 0,
+      "order": 55,
+      "mode": 2,
       "inputs": [
         {
           "name": "image_a",
@@ -2446,14 +2369,126 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_stbku_00017_.png&type=temp&subfolder=&rand=0.5465301986318281"
+            "url": "/api/view?filename=rgthree.compare._temp_bsjlf_00003_.png&type=temp&subfolder=&rand=0.21205026479064393"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_stbku_00018_.png&type=temp&subfolder=&rand=0.18662604076654676"
+            "url": "/api/view?filename=rgthree.compare._temp_bsjlf_00004_.png&type=temp&subfolder=&rand=0.3017337104567248"
           }
         ]
+      ]
+    },
+    {
+      "id": 97,
+      "type": "easy showAnything",
+      "pos": [
+        -1068.3966064453125,
+        768.8489990234375
+      ],
+      "size": [
+        289.333251953125,
+        76
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 236,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "4"
+      ]
+    },
+    {
+      "id": 133,
+      "type": "Display Int (rgthree)",
+      "pos": [
+        -146.4131622314453,
+        190.17425537109375
+      ],
+      "size": [
+        315,
+        76
+      ],
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "input",
+          "type": "INT",
+          "link": 280,
+          "widget": {
+            "name": "input"
+          },
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Int (rgthree)"
+      },
+      "widgets_values": [
+        27706930276790,
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "type": "PrimitiveNode",
+      "pos": [
+        -157.5050048828125,
+        42.935516357421875
+      ],
+      "size": [
+        301.1532287597656,
+        82
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            166,
+            189,
+            257,
+            267,
+            280
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        27706930276790,
+        "randomize"
       ]
     },
     {
@@ -3106,6 +3141,14 @@
       64,
       0,
       "IMAGE"
+    ],
+    [
+      280,
+      63,
+      0,
+      133,
+      0,
+      "INT"
     ]
   ],
   "groups": [
@@ -3204,10 +3247,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917362,
+      "scale": 0.7513148009015782,
       "offset": [
-        1878.106723632809,
-        1469.3885407511384
+        599.3252887143743,
+        648.1014144244002
       ]
     },
     "groupNodes": {},
