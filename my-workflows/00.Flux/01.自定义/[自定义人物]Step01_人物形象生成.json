@@ -1818,7 +1818,7 @@
         "Node name for S&R": "RandomNoise"
       },
       "widgets_values": [
-        34266505894706,
+        634451423595874,
         "randomize"
       ]
     },
@@ -3549,7 +3549,7 @@
       },
       "widgets_values": [
         "enable",
-        34266505894706,
+        634451423595874,
         "fixed",
         40,
         1,
@@ -3685,7 +3685,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        34266505894706,
+        634451423595874,
         ""
       ],
       "color": "#232",
@@ -3726,7 +3726,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        34266505894706,
+        634451423595874,
         "randomize"
       ],
       "color": "#232",
@@ -4729,10 +4729,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.3310000000000004,
+      "scale": 0.7513148009015777,
       "offset": [
-        4056.5429110450978,
-        504.1522195774835
+        3045.5615235634177,
+        761.2974644991314
       ]
     },
     "ue_links": []
