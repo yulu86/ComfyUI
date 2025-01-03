@@ -1,6 +1,6 @@
 {
-  "last_node_id": 146,
-  "last_link_id": 300,
+  "last_node_id": 149,
+  "last_link_id": 303,
   "nodes": [
     {
       "id": 71,
@@ -14,8 +14,8 @@
         26
       ],
       "flags": {},
-      "order": 57,
-      "mode": 0,
+      "order": 60,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -51,8 +51,8 @@
         46
       ],
       "flags": {},
-      "order": 58,
-      "mode": 0,
+      "order": 61,
+      "mode": 2,
       "inputs": [
         {
           "name": "pixels",
@@ -92,8 +92,8 @@
         142
       ],
       "flags": {},
-      "order": 56,
-      "mode": 0,
+      "order": 59,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -172,8 +172,8 @@
         26
       ],
       "flags": {},
-      "order": 61,
-      "mode": 0,
+      "order": 64,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -208,7 +208,7 @@
         26
       ],
       "flags": {},
-      "order": 45,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -246,7 +246,7 @@
         26
       ],
       "flags": {},
-      "order": 30,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -284,7 +284,7 @@
         26
       ],
       "flags": {},
-      "order": 25,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -323,8 +323,8 @@
         126
       ],
       "flags": {},
-      "order": 53,
-      "mode": 0,
+      "order": 56,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -390,8 +390,8 @@
         76
       ],
       "flags": {},
-      "order": 54,
-      "mode": 0,
+      "order": 57,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -412,7 +412,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "1104"
+        "1376"
       ]
     },
     {
@@ -497,8 +497,8 @@
         334
       ],
       "flags": {},
-      "order": 59,
-      "mode": 0,
+      "order": 62,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -576,7 +576,7 @@
       },
       "widgets_values": [
         "enable",
-        512761711788310,
+        232314940602850,
         "fixed",
         20,
         1,
@@ -599,7 +599,7 @@
         122
       ],
       "flags": {},
-      "order": 42,
+      "order": 45,
       "mode": 4,
       "inputs": [
         {
@@ -649,7 +649,7 @@
         46
       ],
       "flags": {},
-      "order": 48,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -691,8 +691,8 @@
         76
       ],
       "flags": {},
-      "order": 55,
-      "mode": 0,
+      "order": 58,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -713,7 +713,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "824"
+        "864"
       ]
     },
     {
@@ -759,7 +759,7 @@
         78
       ],
       "flags": {},
-      "order": 27,
+      "order": 29,
       "mode": 2,
       "inputs": [
         {
@@ -790,7 +790,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        512761711788310
+        232314940602850
       ]
     },
     {
@@ -805,7 +805,7 @@
         126
       ],
       "flags": {},
-      "order": 34,
+      "order": 35,
       "mode": 2,
       "inputs": [
         {
@@ -864,7 +864,7 @@
         76
       ],
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 2,
       "inputs": [
         {
@@ -901,7 +901,7 @@
         348.2291564941406
       ],
       "flags": {},
-      "order": 50,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -938,7 +938,7 @@
         262
       ],
       "flags": {},
-      "order": 47,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -1008,7 +1008,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        512761711788310,
+        232314940602850,
         "randomize",
         32,
         1,
@@ -1029,8 +1029,8 @@
         78
       ],
       "flags": {},
-      "order": 28,
-      "mode": 0,
+      "order": 30,
+      "mode": 2,
       "inputs": [
         {
           "name": "int_",
@@ -1060,7 +1060,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        512761711788310
+        232314940602850
       ]
     },
     {
@@ -1075,8 +1075,8 @@
         126
       ],
       "flags": {},
-      "order": 35,
-      "mode": 0,
+      "order": 36,
+      "mode": 2,
       "inputs": [
         {
           "name": "text1",
@@ -1134,8 +1134,8 @@
         76
       ],
       "flags": {},
-      "order": 40,
-      "mode": 0,
+      "order": 41,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1156,7 +1156,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "high_网红下午茶_123306256821837"
+        "high_网红下午茶_96753273593445"
       ]
     },
     {
@@ -1171,8 +1171,8 @@
         348.2291564941406
       ],
       "flags": {},
-      "order": 65,
-      "mode": 0,
+      "order": 68,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1209,7 +1209,7 @@
       ],
       "flags": {},
       "order": 3,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -1239,8 +1239,8 @@
         222
       ],
       "flags": {},
-      "order": 52,
-      "mode": 0,
+      "order": 55,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -1297,8 +1297,8 @@
         118
       ],
       "flags": {},
-      "order": 62,
-      "mode": 0,
+      "order": 65,
+      "mode": 2,
       "inputs": [
         {
           "name": "tiles",
@@ -1353,7 +1353,7 @@
       ],
       "flags": {},
       "order": 4,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -1433,7 +1433,7 @@
         106
       ],
       "flags": {},
-      "order": 23,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -1557,7 +1557,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -1595,7 +1595,7 @@
         26
       ],
       "flags": {},
-      "order": 49,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -1634,8 +1634,8 @@
         150
       ],
       "flags": {},
-      "order": 60,
-      "mode": 0,
+      "order": 63,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -1680,8 +1680,8 @@
         106
       ],
       "flags": {},
-      "order": 22,
-      "mode": 0,
+      "order": 24,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -1723,8 +1723,8 @@
         106
       ],
       "flags": {},
-      "order": 31,
-      "mode": 0,
+      "order": 33,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -1766,8 +1766,8 @@
         78
       ],
       "flags": {},
-      "order": 36,
-      "mode": 0,
+      "order": 37,
+      "mode": 2,
       "inputs": [
         {
           "name": "_float",
@@ -1814,7 +1814,7 @@
         629.7911376953125
       ],
       "flags": {},
-      "order": 51,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -1841,8 +1841,8 @@
         629.7911376953125
       ],
       "flags": {},
-      "order": 63,
-      "mode": 0,
+      "order": 66,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1868,8 +1868,8 @@
         1436.80322265625
       ],
       "flags": {},
-      "order": 64,
-      "mode": 0,
+      "order": 67,
+      "mode": 2,
       "inputs": [
         {
           "name": "image_a",
@@ -1893,12 +1893,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_bsjlf_00003_.png&type=temp&subfolder=&rand=0.21205026479064393"
+            "url": "/api/view?filename=rgthree.compare._temp_zbnpr_00001_.png&type=temp&subfolder=&rand=0.6208631075551383"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_bsjlf_00004_.png&type=temp&subfolder=&rand=0.3017337104567248"
+            "url": "/api/view?filename=rgthree.compare._temp_zbnpr_00002_.png&type=temp&subfolder=&rand=0.1260643025833046"
           }
         ]
       ]
@@ -1915,8 +1915,8 @@
         76
       ],
       "flags": {},
-      "order": 41,
-      "mode": 0,
+      "order": 42,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1952,7 +1952,7 @@
         59
       ],
       "flags": {},
-      "order": 37,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -1994,78 +1994,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 140,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -1683.742431640625,
-        -1122.0987548828125
-      ],
-      "size": [
-        462.8099060058594,
-        544.8870849609375
-      ],
-      "flags": {},
-      "order": 8,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            288
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "Describe disney cartoon style of a group cute 18-yo asian girls laughing on street. Please response as detailed as you can. output only text, no title.",
-        false,
-        "http://127.0.0.1:11434",
-        "",
-        "You are an art expert, gracefully describing your knowledge in art domain.",
-        486127630,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        5,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 101,
       "type": "CLIPVisionEncode",
       "pos": [
@@ -2077,7 +2005,7 @@
         78
       ],
       "flags": {},
-      "order": 24,
+      "order": 26,
       "mode": 4,
       "inputs": [
         {
@@ -2120,7 +2048,7 @@
         60
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -2151,7 +2079,7 @@
         314
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -2190,7 +2118,7 @@
         60
       ],
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -2224,7 +2152,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 32,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -2292,65 +2220,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 138,
-      "type": "CR Text Input Switch",
-      "pos": [
-        -1063.9376220703125,
-        -1066.72412109375
-      ],
-      "size": [
-        315,
-        126
-      ],
-      "flags": {},
-      "order": 26,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 288,
-          "widget": {
-            "name": "text1"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 292,
-          "widget": {
-            "name": "text2"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            289,
-            293
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Text Input Switch"
-      },
-      "widgets_values": [
-        2,
-        "",
-        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron"
-      ]
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -2362,7 +2231,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2401,7 +2270,7 @@
         204.48487854003906
       ],
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2438,7 +2307,7 @@
         352.4667053222656
       ],
       "flags": {},
-      "order": 33,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -2469,7 +2338,7 @@
         58
       ],
       "flags": {},
-      "order": 44,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -2507,7 +2376,7 @@
         59
       ],
       "flags": {},
-      "order": 38,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -2560,7 +2429,7 @@
         60.429901123046875
       ],
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2594,7 +2463,7 @@
         106
       ],
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2616,83 +2485,6 @@
       ]
     },
     {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -558.3383178710938,
-        -627.6220703125
-      ],
-      "size": [
-        340.20001220703125,
-        166
-      ],
-      "flags": {},
-      "order": 21,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 232,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": true,
-          "lora": "墨幽-Flux-Lora-网图_MYH-1.1.safetensors",
-          "strength": 0.35,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "BustyWomen-v3.safetensors",
-          "strength": 0.55,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 145,
       "type": "ControlNetApplySD3",
       "pos": [
@@ -2704,7 +2496,7 @@
         186
       ],
       "flags": {},
-      "order": 43,
+      "order": 46,
       "mode": 4,
       "inputs": [
         {
@@ -2776,7 +2568,7 @@
         67.7606430053711
       ],
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -2811,7 +2603,7 @@
         352.1552734375
       ],
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -2843,6 +2635,375 @@
       "bgcolor": "#335"
     },
     {
+      "id": 138,
+      "type": "CR Text Input Switch",
+      "pos": [
+        -1063.9376220703125,
+        -1066.72412109375
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 303,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 292,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            289,
+            293
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch"
+      },
+      "widgets_values": [
+        2,
+        "",
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron"
+      ]
+    },
+    {
+      "id": 147,
+      "type": "BaiduTranslate",
+      "pos": [
+        -2252.018798828125,
+        -1649.3687744140625
+      ],
+      "size": [
+        456.90472412109375,
+        402.9242248535156
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            301
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BaiduTranslate"
+      },
+      "widgets_values": [
+        "",
+        "en",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 140,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2249.568115234375,
+        -1102.772705078125
+      ],
+      "size": [
+        462.8099060058594,
+        544.8870849609375
+      ],
+      "flags": {},
+      "order": 18,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            302
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "Describe disney cartoon style of a group cute 18-yo asian girls laughing on street. Please response as detailed as you can. output only text, no title.",
+        false,
+        "http://127.0.0.1:11434",
+        "",
+        "You are an art expert, gracefully describing your knowledge in art domain.",
+        2100404804,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        5,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 148,
+      "type": "CR Text Input Switch",
+      "pos": [
+        -1599.2249755859375,
+        -1066.3624267578125
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 301,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 302,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            303
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch"
+      },
+      "widgets_values": [
+        2,
+        "",
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron"
+      ]
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2236.197265625,
+        -477.1735534667969
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "(portait:0.8),"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -558.3383178710938,
+        -627.6220703125
+      ],
+      "size": [
+        340.20001220703125,
+        166
+      ],
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 232,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": true,
+          "lora": "墨幽-Flux-Lora-网图_MYH-1.1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "BustyWomen-v3.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 143,
+      "type": "easy prompt",
+      "pos": [
+        -1708.093994140625,
+        -439.9804382324219
+      ],
+      "size": [
+        504.8484802246094,
+        208.48483276367188
+      ],
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            292
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "Node name for S&R": "easy prompt"
+      },
+      "widgets_values": [
+        "This is a high-resolution everyday scene image with a natural style,(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, cute, smile, (skin dentation), (full body), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, wide shoulders, pureerosface_v1 ,gradient background,",
+        "none",
+        "natural lighting",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 133,
       "type": "Display Int (rgthree)",
       "pos": [
@@ -2854,7 +3015,7 @@
         76
       ],
       "flags": {},
-      "order": 29,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -2873,52 +3034,11 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        512761711788310,
+        232314940602850,
         ""
       ],
       "color": "#323",
       "bgcolor": "#535"
-    },
-    {
-      "id": 143,
-      "type": "easy prompt",
-      "pos": [
-        -1708.093994140625,
-        -439.9804382324219
-      ],
-      "size": [
-        504.8484802246094,
-        208.48483276367188
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "links": [
-            292
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Positive Prompt",
-      "properties": {
-        "Node name for S&R": "easy prompt"
-      },
-      "widgets_values": [
-        "This is a high-resolution everyday scene image with a natural style,(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, cute, smile, (skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, wide shoulders, pureerosface_v1 ,gradient background,",
-        "none",
-        "sunset over sea",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 63,
@@ -2932,7 +3052,7 @@
         82
       ],
       "flags": {},
-      "order": 19,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2957,7 +3077,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        512761711788310,
+        232314940602850,
         "randomize"
       ],
       "color": "#232",
@@ -2967,15 +3087,15 @@
       "id": 130,
       "type": "Fast Groups Muter (rgthree)",
       "pos": [
-        -2288.040283203125,
-        -637.6929931640625
+        -3011.29833984375,
+        -569.740234375
       ],
       "size": [
         515.7156982421875,
-        298
+        322
       ],
       "flags": {},
-      "order": 20,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3623,14 +3743,6 @@
       "COMBO"
     ],
     [
-      288,
-      140,
-      0,
-      138,
-      0,
-      "STRING"
-    ],
-    [
       289,
       138,
       0,
@@ -3709,6 +3821,30 @@
       145,
       3,
       "VAE"
+    ],
+    [
+      301,
+      147,
+      0,
+      148,
+      0,
+      "STRING"
+    ],
+    [
+      302,
+      140,
+      0,
+      148,
+      1,
+      "STRING"
+    ],
+    [
+      303,
+      148,
+      0,
+      138,
+      0,
+      "STRING"
     ]
   ],
   "groups": [
@@ -3820,8 +3956,8 @@
       "id": 14,
       "title": "00. Ollama",
       "bounding": [
-        -1729.5555419921875,
-        -1206.1671142578125,
+        -2295.38134765625,
+        -1186.841064453125,
         541.7631225585938,
         647.2197875976562
       ],
@@ -3841,19 +3977,40 @@
       "color": "#3f789e",
       "font_size": 24,
       "flags": {}
+    },
+    {
+      "id": 16,
+      "title": "00. Translate",
+      "bounding": [
+        -2293.15576171875,
+        -1746.5897216796875,
+        540.2515869140625,
+        526.2501220703125
+      ],
+      "color": "#8AA",
+      "font_size": 24,
+      "flags": {}
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917358,
+      "scale": 0.6830134553650709,
       "offset": [
-        2558.7607167737206,
-        1071.0883897983385
+        928.6603901325819,
+        914.2724464827352
       ]
     },
     "groupNodes": {},
-    "ue_links": []
+    "ue_links": [],
+    "node_versions": {
+      "comfy-core": "v0.3.10-204-g13915d06",
+      "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
+      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
+      "ComfyUI_Prompt_Translate_to_English": "d93c791391a918d868a72a9f786d1c9e37d5d6ec",
+      "comfyui-ollama": "3f10b99a1bbc1b99d27ec10a7eb569d43aea7200"
+    }
   },
   "version": 0.4
 }
