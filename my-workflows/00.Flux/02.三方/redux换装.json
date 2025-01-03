@@ -1,0 +1,983 @@
+{
+  "last_node_id": 37,
+  "last_link_id": 47,
+  "nodes": [
+    {
+      "id": 18,
+      "type": "ToBasicPipe",
+      "pos": [
+        1259.3958740234375,
+        316.8135070800781
+      ],
+      "size": [
+        241.79998779296875,
+        106
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 34
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 36
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 15
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 40
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 13
+        }
+      ],
+      "outputs": [
+        {
+          "name": "basic_pipe",
+          "type": "BASIC_PIPE",
+          "links": [
+            22
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ToBasicPipe"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 32,
+      "type": "EmptyLatentImage",
+      "pos": [
+        1240.4140625,
+        501.7538757324219
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            31
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1024,
+        1024,
+        1
+      ]
+    },
+    {
+      "id": 16,
+      "type": "ConditioningZeroOut",
+      "pos": [
+        865.3627319335938,
+        514.3802490234375
+      ],
+      "size": [
+        210,
+        26
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 11
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            13
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ConditioningZeroOut"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 26,
+      "type": "VAEDecode",
+      "pos": [
+        2049.69580078125,
+        555.5867919921875
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 24
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 25
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            26
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 27,
+      "type": "PreviewImage",
+      "pos": [
+        2320.744384765625,
+        -82.45092010498047
+      ],
+      "size": [
+        519.760009765625,
+        520.4866943359375
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 26
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 13,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -621.2710571289062,
+        328.6316833496094
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            37
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "clip_l.safetensors",
+        "t5xxl_fp16.safetensors",
+        "flux"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "VAELoader",
+      "pos": [
+        -243.0889892578125,
+        538.3890991210938
+      ],
+      "size": [
+        311.81634521484375,
+        60.429901123046875
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            15,
+            25
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "ae.safetensors"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -249.83737182617188,
+        214.29730224609375
+      ],
+      "size": [
+        340.20001220703125,
+        166
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 33,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 37,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            34
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            35,
+            36
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": true,
+          "lora": "墨幽-Flux-Lora-网图_MYH-1.1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "type": "UNETLoader",
+      "pos": [
+        -243.45249938964844,
+        28.02554702758789
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            33
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "myhumanFlux_myh11.safetensors",
+        "default"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 24,
+      "type": "ImpactKSamplerBasicPipe",
+      "pos": [
+        1617.3958740234375,
+        304.8135070800781
+      ],
+      "size": [
+        367.79998779296875,
+        242
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "basic_pipe",
+          "type": "BASIC_PIPE",
+          "link": 22
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 31
+        },
+        {
+          "name": "scheduler_func_opt",
+          "type": "SCHEDULER_FUNC",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "BASIC_PIPE",
+          "type": "BASIC_PIPE",
+          "links": null
+        },
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            24
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImpactKSamplerBasicPipe"
+      },
+      "widgets_values": [
+        709506644211967,
+        "randomize",
+        32,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 30,
+      "type": "LoadImage",
+      "pos": [
+        306.6076965332031,
+        -537.6068725585938
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            29
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [
+            32
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "clipspace/clipspace-mask-4601479.700000001.png [input]",
+        "image"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "StyleModelLoader",
+      "pos": [
+        298.94158935546875,
+        -768.3435668945312
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STYLE_MODEL",
+          "type": "STYLE_MODEL",
+          "links": [
+            18,
+            41
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StyleModelLoader"
+      },
+      "widgets_values": [
+        "flux1-redux-dev.safetensors"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "CLIPVisionLoader",
+      "pos": [
+        304.18798828125,
+        -661.0269775390625
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP_VISION",
+          "type": "CLIP_VISION",
+          "links": [
+            27,
+            42
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPVisionLoader"
+      },
+      "widgets_values": [
+        "sigclip_vision_patch14_384.safetensors"
+      ]
+    },
+    {
+      "id": 34,
+      "type": "LoadImage",
+      "pos": [
+        315.6653137207031,
+        -165.05419921875
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            46
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "img_00015_.jpeg",
+        "image"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "CLIPTextEncodeFlux",
+      "pos": [
+        184.06256103515625,
+        314.8135681152344
+      ],
+      "size": [
+        513.333251953125,
+        297.3333740234375
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 35
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            11,
+            16
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncodeFlux"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, A confident model strutting down the runway. Bright stage lights illuminating the model as she gracefully walks, capturing the audience's attention.The atmosphere is electric, with photographers snapping pictures and the crowd cheering in admiration.",
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, A confident model strutting down the runway. Bright stage lights illuminating the model as she gracefully walks, capturing the audience's attention.The atmosphere is electric, with photographers snapping pictures and the crowd cheering in admiration.",
+        3.5,
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "type": "ReduxAdvanced",
+      "pos": [
+        806.81298828125,
+        -567.0540771484375
+      ],
+      "size": [
+        315,
+        234
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 16
+        },
+        {
+          "name": "style_model",
+          "type": "STYLE_MODEL",
+          "link": 18
+        },
+        {
+          "name": "clip_vision",
+          "type": "CLIP_VISION",
+          "link": 27
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 29
+        },
+        {
+          "name": "mask",
+          "type": "MASK",
+          "link": 32,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            39
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ReduxAdvanced"
+      },
+      "widgets_values": [
+        3,
+        "area",
+        "keep aspect ratio",
+        1,
+        0.1
+      ]
+    },
+    {
+      "id": 35,
+      "type": "ReduxAdvanced",
+      "pos": [
+        808.7261352539062,
+        -240.32066345214844
+      ],
+      "size": [
+        315,
+        234
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 39
+        },
+        {
+          "name": "style_model",
+          "type": "STYLE_MODEL",
+          "link": 41
+        },
+        {
+          "name": "clip_vision",
+          "type": "CLIP_VISION",
+          "link": 42
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 46
+        },
+        {
+          "name": "mask",
+          "type": "MASK",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            40
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ReduxAdvanced"
+      },
+      "widgets_values": [
+        2,
+        "area",
+        "keep aspect ratio",
+        1,
+        0.1
+      ]
+    }
+  ],
+  "links": [
+    [
+      11,
+      15,
+      0,
+      16,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      13,
+      16,
+      0,
+      18,
+      4,
+      "CONDITIONING"
+    ],
+    [
+      15,
+      14,
+      0,
+      18,
+      2,
+      "VAE"
+    ],
+    [
+      16,
+      15,
+      0,
+      11,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      18,
+      19,
+      0,
+      11,
+      1,
+      "STYLE_MODEL"
+    ],
+    [
+      22,
+      18,
+      0,
+      24,
+      0,
+      "BASIC_PIPE"
+    ],
+    [
+      24,
+      24,
+      1,
+      26,
+      0,
+      "LATENT"
+    ],
+    [
+      25,
+      14,
+      0,
+      26,
+      1,
+      "VAE"
+    ],
+    [
+      26,
+      26,
+      0,
+      27,
+      0,
+      "IMAGE"
+    ],
+    [
+      27,
+      28,
+      0,
+      11,
+      2,
+      "CLIP_VISION"
+    ],
+    [
+      29,
+      30,
+      0,
+      11,
+      3,
+      "IMAGE"
+    ],
+    [
+      31,
+      32,
+      0,
+      24,
+      1,
+      "LATENT"
+    ],
+    [
+      32,
+      30,
+      1,
+      11,
+      4,
+      "MASK"
+    ],
+    [
+      33,
+      12,
+      0,
+      33,
+      0,
+      "MODEL"
+    ],
+    [
+      34,
+      33,
+      0,
+      18,
+      0,
+      "MODEL"
+    ],
+    [
+      35,
+      33,
+      1,
+      15,
+      0,
+      "CLIP"
+    ],
+    [
+      36,
+      33,
+      1,
+      18,
+      1,
+      "CLIP"
+    ],
+    [
+      37,
+      13,
+      0,
+      33,
+      1,
+      "CLIP"
+    ],
+    [
+      39,
+      11,
+      0,
+      35,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      40,
+      35,
+      0,
+      18,
+      3,
+      "CONDITIONING"
+    ],
+    [
+      41,
+      19,
+      0,
+      35,
+      1,
+      "STYLE_MODEL"
+    ],
+    [
+      42,
+      28,
+      0,
+      35,
+      2,
+      "CLIP_VISION"
+    ],
+    [
+      46,
+      34,
+      0,
+      35,
+      3,
+      "IMAGE"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.620921323059155,
+      "offset": [
+        708.814540128317,
+        1257.8397625861003
+      ]
+    },
+    "node_versions": {
+      "ComfyUI-Impact-Pack": "8e8621df49434e065f7a9de60fc9523252fdaa39",
+      "comfy-core": "v0.3.10-206-ge0999911",
+      "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
+      "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a"
+    },
+    "ue_links": []
+  },
+  "version": 0.4
+}
