@@ -4266,10 +4266,10 @@
             410,
             411
           ],
+          "slot_index": 0,
           "widget": {
             "name": "seed"
-          },
-          "slot_index": 0
+          }
         }
       ],
       "properties": {
@@ -6429,7 +6429,7 @@
         1219.349853515625,
         690.3986206054688
       ],
-      "color": "#3f789e",
+      "color": "#A88",
       "font_size": 24,
       "flags": {}
     },
@@ -6461,14 +6461,14 @@
     },
     {
       "id": 11,
-      "title": "Params & Rerouter",
+      "title": "00. Params & Rerouter",
       "bounding": [
         -1996.5028076171875,
         890.7387084960938,
         1028.647216796875,
         342.5944519042969
       ],
-      "color": "#b58b2a",
+      "color": "#A88",
       "font_size": 24,
       "flags": {}
     },
@@ -6554,16 +6554,16 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.020217693954801,
+      "scale": 0.8431551189709128,
       "offset": [
-        3588.150731063033,
-        703.8554008395702
+        3970.566967285343,
+        1081.047353834807
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
-      "comfy-core": "v0.3.10-208-g84f650c4",
+      "comfy-core": "v0.3.10-213-g33df4baf",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_Prompt_Translate_to_English": "d93c791391a918d868a72a9f786d1c9e37d5d6ec",
       "comfyui-ollama": "3f10b99a1bbc1b99d27ec10a7eb569d43aea7200",
