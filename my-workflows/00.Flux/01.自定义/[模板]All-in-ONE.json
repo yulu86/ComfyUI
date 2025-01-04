@@ -3577,47 +3577,6 @@
       ]
     },
     {
-      "id": 143,
-      "type": "easy prompt",
-      "pos": [
-        -1708.093994140625,
-        -439.9804382324219
-      ],
-      "size": [
-        504.8484802246094,
-        208.48483276367188
-      ],
-      "flags": {},
-      "order": 26,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "links": [
-            292
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Positive Prompt",
-      "properties": {
-        "Node name for S&R": "easy prompt"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, cute, smile, (skin dentation), (full_body:1.8), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, looking at viewer, depth of field, (small head:1.4), gradient background,",
-        "none",
-        "none",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 43,
       "type": "EmptyLatentImage",
       "pos": [
@@ -3629,7 +3588,7 @@
         106
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3648,7 +3607,9 @@
         800,
         1280,
         1
-      ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 133,
@@ -3699,7 +3660,7 @@
         82
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3742,7 +3703,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4254,7 +4215,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5084,7 +5045,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5171,7 +5132,7 @@
         370
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5191,6 +5152,47 @@
       },
       "color": "#322",
       "bgcolor": "#533"
+    },
+    {
+      "id": 143,
+      "type": "easy prompt",
+      "pos": [
+        -1708.093994140625,
+        -439.9804382324219
+      ],
+      "size": [
+        504.8484802246094,
+        208.48483276367188
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            292
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "Node name for S&R": "easy prompt"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, cute, smile, (skin dentation), (full_body:1.8), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, looking at viewer, depth of field, (small head:1.4), gradient background,",
+        "none",
+        "none",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -6554,10 +6556,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8431551189709128,
+      "scale": 1.020217693954805,
       "offset": [
-        3970.566967285343,
-        1081.047353834807
+        -375.2241099787548,
+        821.9328151655327
       ]
     },
     "groupNodes": {},
