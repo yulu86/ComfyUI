@@ -1,41 +1,41 @@
 # ComfyUI Manager
-ComfyUI-Manager=git@github.com:ltdrdata/ComfyUI-Manager.git
+ComfyUI-Manager=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Manager.git
 # 瑞士军刀
-ComfyUI_Custom_Nodes_AlekPet=git@github.com:AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
+ComfyUI_Custom_Nodes_AlekPet=https://gh-proxy.com/https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
 # Ollama插件
-comfyui-ollama=git@github.com:stavsap/comfyui-ollama.git
+comfyui-ollama=https://gh-proxy.com/https://github.com/stavsap/comfyui-ollama.git
 # 百度翻译
-ComfyUI_Prompt_Translate_to_English=git@github.com:pengchengmi/ComfyUI_Prompt_Translate_to_English.git
+ComfyUI_Prompt_Translate_to_English=https://gh-proxy.com/https://github.com/pengchengmi/ComfyUI_Prompt_Translate_to_English.git
 # rgthree-comfy
-rgthree-comfy=git@github.com:rgthree/rgthree-comfy.git
+rgthree-comfy=https://gh-proxy.com/https://github.com/rgthree/rgthree-comfy.git
 # ComfyUi_String_Function_Tree
-ComfyUi_String_Function_Tree=git@github.com:wolfden/ComfyUi_String_Function_Tree.git
+ComfyUi_String_Function_Tree=https://gh-proxy.com/https://github.com/wolfden/ComfyUi_String_Function_Tree.git
 # 效率节点
-efficiency-nodes-comfyui=git@github.com:jags111/efficiency-nodes-comfyui.git
+efficiency-nodes-comfyui=https://gh-proxy.com/https://github.com/jags111/efficiency-nodes-comfyui.git
 # 细节增强
-ComfyUI-Detail-Daemon=git@github.com:Jonseed/ComfyUI-Detail-Daemon.git
+ComfyUI-Detail-Daemon=https://gh-proxy.com/https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
 # SD
-stability-ComfyUI-nodes=git@github.com:Stability-AI/stability-ComfyUI-nodes.git
+stability-ComfyUI-nodes=https://gh-proxy.com/https://github.com/Stability-AI/stability-ComfyUI-nodes.git
 # ComfyUI-WD14
-ComfyUI-WD14-Tagger=git@github.com:sipherxyz/comfyui-art-venture.git
+ComfyUI-WD14-Tagger=https://gh-proxy.com/https://github.com/sipherxyz/comfyui-art-venture.git
 # comfyui-art-venture
 comfyui-art-venture=https://github.com/sipherxyz/comfyui-art-venture.git
 # cg-use-everywhere
-cg-use-everywhere=git@github.com:chrisgoringe/cg-use-everywhere.git
+cg-use-everywhere=https://gh-proxy.com/https://github.com/chrisgoringe/cg-use-everywhere.git
 # ComfyUI-Easy-Use
-ComfyUI-Easy-Use=git@github.com:yolain/ComfyUI-Easy-Use.git
+ComfyUI-Easy-Use=https://gh-proxy.com/https://github.com/yolain/ComfyUI-Easy-Use.git
 # ComfyUI-Inspire-Pack
-ComfyUI-Inspire-Pack=git@github.com:ltdrdata/ComfyUI-Inspire-Pack.git
+ComfyUI-Inspire-Pack=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git
 # ComfyUI_Comfyroll_CustomNodes
-ComfyUI_Comfyroll_CustomNodes=git@github.com:Suzie1/ComfyUI_Comfyroll_CustomNodes.git
+ComfyUI_Comfyroll_CustomNodes=https://gh-proxy.com/https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
 # ComfyLiterals
-ComfyLiterals=git@github.com:M1kep/ComfyLiterals.git
+ComfyLiterals=https://gh-proxy.com/https://github.com/M1kep/ComfyLiterals.git
 # Comfyui_TTP_Toolset
-Comfyui_TTP_Toolset=git@github.com:TTPlanetPig/Comfyui_TTP_Toolset.git
+Comfyui_TTP_Toolset=https://gh-proxy.com/https://github.com/TTPlanetPig/Comfyui_TTP_Toolset.git
 # comfy-image-saver
-comfy-image-saver=git@github.com:giriss/comfy-image-saver.git
+comfy-image-saver=https://gh-proxy.com/https://github.com/giriss/comfy-image-saver.git
 # ComfyUI-GGUF
-ComfyUI-GGUF=git@github.com:city96/ComfyUI-GGUF.git
+ComfyUI-GGUF=https://gh-proxy.com/https://github.com/city96/ComfyUI-GGUF.git
 # was-node-suite-comfyui
 was-node-suite-comfyui=https://gh-proxy.com/https://github.com/WASasquatch/was-node-suite-comfyui.git
 # ComfyUI_UltimateSDUpscale
