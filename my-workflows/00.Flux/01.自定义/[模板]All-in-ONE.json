@@ -537,7 +537,7 @@
       },
       "widgets_values": [
         "enable",
-        275177291375593,
+        596258024790259,
         "fixed",
         20,
         1,
@@ -1304,7 +1304,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        316872463,
+        386825829,
         "randomize",
         40,
         0.9,
@@ -3058,7 +3058,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        275177291375593,
+        596258024790259,
         "randomize",
         32,
         1,
@@ -3193,37 +3193,6 @@
       }
     },
     {
-      "id": 139,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -1008.40234375,
-        -767.6976318359375
-      ],
-      "size": [
-        399.53326416015625,
-        254.86009216308594
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 293,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ]
-    },
-    {
       "id": 63,
       "type": "PrimitiveNode",
       "pos": [
@@ -3260,7 +3229,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        275177291375593,
+        596258024790259,
         "randomize"
       ],
       "color": "#232",
@@ -3709,7 +3678,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        1056839150056417,
+        17544315147270,
         "randomize"
       ],
       "color": "#232",
@@ -3745,7 +3714,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        1056839150056417,
+        17544315147270,
         "528024702155601"
       ],
       "color": "#322",
@@ -3831,7 +3800,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        1056839150056417
+        17544315147270
       ]
     },
     {
@@ -4001,7 +3970,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        275177291375593
+        596258024790259
       ]
     },
     {
@@ -4097,44 +4066,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_low_1029891677098544"
-      ]
-    },
-    {
-      "id": 109,
-      "type": "SaveImage",
-      "pos": [
-        1817.0948486328125,
-        -359.1973876953125
-      ],
-      "size": [
-        686.3257446289062,
-        560.382568359375
-      ],
-      "flags": {},
-      "order": 97,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 254
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 387,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "SaveImage"
-      },
-      "widgets_values": [
-        "low_网红下午茶_"
+        "网红_low_928300417100862"
       ]
     },
     {
@@ -4261,7 +4193,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        275177291375593
+        596258024790259
       ]
     },
     {
@@ -4800,7 +4732,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1056839150056417,
+        17544315147270,
         "randomize",
         32,
         1,
@@ -4881,50 +4813,6 @@
       },
       "widgets_values": [
         800
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 43,
-      "type": "EmptyLatentImage",
-      "pos": [
-        979.1315307617188,
-        -259.7140197753906
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "height",
-          "type": "INT",
-          "link": 417,
-          "widget": {
-            "name": "height"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            127
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "EmptyLatentImage"
-      },
-      "widgets_values": [
-        1280,
-        1280,
-        1
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -5132,7 +5020,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        275177291375593,
+        596258024790259,
         ""
       ],
       "color": "#323",
@@ -5196,6 +5084,118 @@
       "bgcolor": "#653"
     },
     {
+      "id": 43,
+      "type": "EmptyLatentImage",
+      "pos": [
+        979.1315307617188,
+        -259.7140197753906
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 417,
+          "widget": {
+            "name": "height"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            127
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1280,
+        1280,
+        2
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 109,
+      "type": "SaveImage",
+      "pos": [
+        1817.0948486328125,
+        -359.1973876953125
+      ],
+      "size": [
+        686.3257446289062,
+        560.382568359375
+      ],
+      "flags": {},
+      "order": 97,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 254
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 387,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage"
+      },
+      "widgets_values": [
+        "low_网红下午茶_"
+      ]
+    },
+    {
+      "id": 139,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1008.40234375,
+        -767.6976318359375
+      ],
+      "size": [
+        399.53326416015625,
+        254.86009216308594
+      ],
+      "flags": {},
+      "order": 56,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 293,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ]
+    },
+    {
       "id": 143,
       "type": "easy prompt",
       "pos": [
@@ -5225,9 +5225,9 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, cute, smile, (skin dentation), (full_body:1.8), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, looking at viewer, depth of field, (small head:1.4), gradient background,",
+        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, looking at viewer, depth of field, (small head:1.4), gradient background, A stunning influencer strolling gracefully down a vibrant city street, surrounded by colorful murals and bustling cafes.\nCaptivating beauty with flowing hair, enjoying the lively atmosphere of urban life, as passersby admire her presence. Radiating confidence and charm, she interacts with her fans while capturing the essence of the city in her candid moments.",
         "none",
-        "natural lighting",
+        "none",
         [
           false,
           true
@@ -6664,10 +6664,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6334749203387903,
+      "scale": 0.9274706308680252,
       "offset": [
-        1197.2225812072693,
-        1181.2994305228374
+        -442.2882760153951,
+        280.9429986114708
       ]
     },
     "groupNodes": {},
