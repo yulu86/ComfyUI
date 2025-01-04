@@ -6,6 +6,9 @@ DESTINATION_FOLDER="../custom_nodes"
 install_requirements() {
     if [ -d "$1/requirements.txt" ]; then
         python3 -m pip install -r "$1/requirements.txt"
+        echo "日志：文件 $1/requirements.txt 已安装"
+    else
+        echo "日志：文件 $1/requirements.txt 不存在"
     fi
 }
 
@@ -15,7 +18,7 @@ update_or_clone_project(){
 
     if [ ! -d "$DESTINATION_FOLDER/$project" ]; then
         echo "Cloning project $project from $path..."
-        git clone --depth 1 "$path" "$DESTINATION_FOLDER/$project"
+        git clone --depth 1 "$path" "$DESTINATION_FOLDER/$project" --recursive
     else
         echo "Project already exists. Updating project Name: $project"
         git --git-dir="$DESTINATION_FOLDER/$project/.git" --work-tree="$DESTINATION_FOLDER/$project" pull
