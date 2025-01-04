@@ -502,7 +502,7 @@
       },
       "widgets_values": [
         "enable",
-        773424160328389,
+        321080674815263,
         "fixed",
         20,
         1,
@@ -690,140 +690,6 @@
         64,
         64,
         8
-      ]
-    },
-    {
-      "id": 94,
-      "type": "easy mathFloat",
-      "pos": [
-        -1254.5709228515625,
-        2541.181884765625
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 47,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "FLOAT",
-          "link": 237,
-          "widget": {
-            "name": "a"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            234
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy mathFloat"
-      },
-      "widgets_values": [
-        4,
-        2,
-        "divide"
-      ]
-    },
-    {
-      "id": 95,
-      "type": "easy mathFloat",
-      "pos": [
-        -1257.2322998046875,
-        2708.783203125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 54,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "FLOAT",
-          "link": 234,
-          "widget": {
-            "name": "a"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            235
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy mathFloat"
-      },
-      "widgets_values": [
-        4,
-        2,
-        "multiply"
-      ]
-    },
-    {
-      "id": 96,
-      "type": "CR Float To Integer",
-      "pos": [
-        -1255.4578857421875,
-        2878.829833984375
-      ],
-      "size": [
-        315,
-        78
-      ],
-      "flags": {},
-      "order": 65,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "_float",
-          "type": "FLOAT",
-          "link": 235,
-          "widget": {
-            "name": "_float"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            236,
-            238,
-            239
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Float To Integer"
-      },
-      "widgets_values": [
-        0
       ]
     },
     {
@@ -1135,7 +1001,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        1635984884,
+        300679747,
         "randomize",
         40,
         0.9,
@@ -2573,7 +2439,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        773424160328389,
+        321080674815263,
         "randomize",
         32,
         1,
@@ -2744,7 +2610,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        773424160328389,
+        321080674815263,
         "randomize"
       ],
       "color": "#232",
@@ -3109,7 +2975,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_redux_674513580938711"
+        "巴黎圣诞节街拍_redux_694205406034365"
       ]
     },
     {
@@ -3149,12 +3015,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gyckr_00003_.png&type=temp&subfolder=&rand=0.9297097116716828"
+            "url": "/api/view?filename=rgthree.compare._temp_rroer_00001_.png&type=temp&subfolder=&rand=0.6271291429397559"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gyckr_00004_.png&type=temp&subfolder=&rand=0.20406236608653372"
+            "url": "/api/view?filename=rgthree.compare._temp_rroer_00002_.png&type=temp&subfolder=&rand=0.35121392882302227"
           }
         ]
       ]
@@ -3193,7 +3059,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        694205406034365,
+        996630746304715,
         "randomize"
       ],
       "color": "#232",
@@ -3229,8 +3095,8 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        694205406034365,
-        "674513580938711"
+        996630746304715,
+        "694205406034365"
       ],
       "color": "#322",
       "bgcolor": "#533"
@@ -3315,7 +3181,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        694205406034365
+        996630746304715
       ]
     },
     {
@@ -3485,7 +3351,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        773424160328389
+        321080674815263
       ]
     },
     {
@@ -3708,7 +3574,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        773424160328389
+        321080674815263
       ]
     },
     {
@@ -3804,7 +3670,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_high_1031107072212984"
+        "巴黎圣诞节街拍_high_98400974442963"
       ]
     },
     {
@@ -3844,12 +3710,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_hqqdo_00001_.png&type=temp&subfolder=&rand=0.9368701458221429"
+            "url": "/api/view?filename=rgthree.compare._temp_upddi_00001_.png&type=temp&subfolder=&rand=0.6779609663798489"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_hqqdo_00002_.png&type=temp&subfolder=&rand=0.9112848599256331"
+            "url": "/api/view?filename=rgthree.compare._temp_upddi_00002_.png&type=temp&subfolder=&rand=0.6470777459712527"
           }
         ]
       ]
@@ -3945,7 +3811,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "网红_redux_676215153084153_00001_.png",
+        "巴黎圣诞节街拍_redux_694205406034365_00001_.png",
         "image"
       ],
       "color": "#232",
@@ -4114,7 +3980,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "飞鱼服.jpg",
+        "lingerie.jpg",
         "image"
       ],
       "color": "#232",
@@ -4159,7 +4025,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "clipspace/clipspace-mask-8626122.9.png [input]",
+        "clipspace/clipspace-mask-3088572.5.png [input]",
         "image"
       ],
       "color": "#232",
@@ -4247,7 +4113,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        694205406034365,
+        996630746304715,
         "randomize",
         32,
         1,
@@ -4495,7 +4361,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        773424160328389,
+        321080674815263,
         ""
       ],
       "color": "#323",
@@ -4729,40 +4595,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 130,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": [
-        -3011.29833984375,
-        -569.740234375
-      ],
-      "size": [
-        515.7156982421875,
-        370
-      ],
-      "flags": {},
-      "order": 25,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 151,
       "type": "StyleModelLoader",
       "pos": [
@@ -4774,7 +4606,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5075,7 +4907,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5107,7 +4939,7 @@
         234.8047332763672
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5131,7 +4963,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5166,7 +4998,7 @@
         204.48487854003906
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5248,7 +5080,7 @@
         82
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5283,7 +5115,7 @@
         234.8047332763672
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5307,7 +5139,7 @@
         208.48483276367188
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5335,6 +5167,180 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 94,
+      "type": "easy mathFloat",
+      "pos": [
+        -1254.5709228515625,
+        2541.181884765625
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 47,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "FLOAT",
+          "link": 237,
+          "widget": {
+            "name": "a"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            234
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy mathFloat"
+      },
+      "widgets_values": [
+        4,
+        2,
+        "divide"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 95,
+      "type": "easy mathFloat",
+      "pos": [
+        -1257.2322998046875,
+        2708.783203125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "FLOAT",
+          "link": 234,
+          "widget": {
+            "name": "a"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            235
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy mathFloat"
+      },
+      "widgets_values": [
+        4,
+        2,
+        "multiply"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 96,
+      "type": "CR Float To Integer",
+      "pos": [
+        -1255.4578857421875,
+        2878.829833984375
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "_float",
+          "type": "FLOAT",
+          "link": 235,
+          "widget": {
+            "name": "_float"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            236,
+            238,
+            239
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Float To Integer"
+      },
+      "widgets_values": [
+        0
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 130,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": [
+        -3011.29833984375,
+        -569.740234375
+      ],
+      "size": [
+        515.7156982421875,
+        370
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
     }
   ],
   "links": [
@@ -6725,10 +6731,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1120770250040493,
+      "scale": 0.6277384888265507,
       "offset": [
-        2220.1362740875206,
-        420.9600874573444
+        5024.345734916471,
+        1622.5346899671458
       ]
     },
     "groupNodes": {},
