@@ -373,7 +373,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "872"
+        "1376"
       ]
     },
     {
@@ -537,7 +537,7 @@
       },
       "widgets_values": [
         "enable",
-        955559258810669,
+        864530647989841,
         "fixed",
         20,
         1,
@@ -582,7 +582,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "1392"
+        "864"
       ]
     },
     {
@@ -636,7 +636,7 @@
       "widgets_values": [
         "4x_NMKD-Superscale-SP_178000_G.pth",
         "rescale",
-        6,
+        4,
         1024,
         "lanczos",
         "true",
@@ -739,7 +739,7 @@
         106
       ],
       "flags": {},
-      "order": 44,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -765,7 +765,7 @@
         "Node name for S&R": "easy mathFloat"
       },
       "widgets_values": [
-        6,
+        4,
         2,
         "divide"
       ]
@@ -782,7 +782,7 @@
         106
       ],
       "flags": {},
-      "order": 52,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -825,7 +825,7 @@
         78
       ],
       "flags": {},
-      "order": 60,
+      "order": 65,
       "mode": 2,
       "inputs": [
         {
@@ -873,7 +873,7 @@
         76
       ],
       "flags": {},
-      "order": 70,
+      "order": 74,
       "mode": 2,
       "inputs": [
         {
@@ -895,7 +895,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "6"
+        "4"
       ]
     },
     {
@@ -1304,7 +1304,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        1372754073,
+        1217264958,
         "randomize",
         40,
         0.9,
@@ -1954,7 +1954,7 @@
         130
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -2006,7 +2006,7 @@
         102
       ],
       "flags": {},
-      "order": 72,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -2079,7 +2079,7 @@
         102
       ],
       "flags": {},
-      "order": 62,
+      "order": 61,
       "mode": 2,
       "inputs": [
         {
@@ -2309,7 +2309,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 71,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -2628,7 +2628,7 @@
         330
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 2,
       "inputs": [
         {
@@ -2718,7 +2718,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 64,
       "mode": 2,
       "inputs": [
         {
@@ -2756,7 +2756,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 63,
       "mode": 2,
       "inputs": [
         {
@@ -3058,7 +3058,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        955559258810669,
+        864530647989841,
         "randomize",
         32,
         1,
@@ -3229,7 +3229,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        955559258810669,
+        864530647989841,
         "randomize"
       ],
       "color": "#232",
@@ -3247,7 +3247,7 @@
         26
       ],
       "flags": {},
-      "order": 63,
+      "order": 62,
       "mode": 2,
       "inputs": [
         {
@@ -3283,7 +3283,7 @@
         26
       ],
       "flags": {},
-      "order": 73,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -3321,7 +3321,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 73,
       "mode": 2,
       "inputs": [
         {
@@ -3359,7 +3359,7 @@
         330
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -3594,7 +3594,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_redux_528024702155601"
+        "网红_redux_674513580938711"
       ]
     },
     {
@@ -3634,12 +3634,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_anygd_00013_.png&type=temp&subfolder=&rand=0.7856212828330895"
+            "url": "/api/view?filename=rgthree.compare._temp_gyckr_00003_.png&type=temp&subfolder=&rand=0.9297097116716828"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_anygd_00014_.png&type=temp&subfolder=&rand=0.7586307457390924"
+            "url": "/api/view?filename=rgthree.compare._temp_gyckr_00004_.png&type=temp&subfolder=&rand=0.20406236608653372"
           }
         ]
       ]
@@ -3678,7 +3678,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        676215153084153,
+        992913718471552,
         "randomize"
       ],
       "color": "#232",
@@ -3714,8 +3714,8 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        676215153084153,
-        "528024702155601"
+        992913718471552,
+        "674513580938711"
       ],
       "color": "#322",
       "bgcolor": "#533"
@@ -3800,7 +3800,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        676215153084153
+        992913718471552
       ]
     },
     {
@@ -3970,7 +3970,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        955559258810669
+        864530647989841
       ]
     },
     {
@@ -4066,7 +4066,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_low_740071048487864"
+        "网红_low_904349034966052"
       ]
     },
     {
@@ -4193,7 +4193,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        955559258810669
+        864530647989841
       ]
     },
     {
@@ -4289,7 +4289,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红_high_586528171613399"
+        "网红_high_1031107072212984"
       ]
     },
     {
@@ -4329,12 +4329,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_nsovh_00001_.png&type=temp&subfolder=&rand=0.39163203708874783"
+            "url": "/api/view?filename=rgthree.compare._temp_hqqdo_00001_.png&type=temp&subfolder=&rand=0.9368701458221429"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_nsovh_00002_.png&type=temp&subfolder=&rand=0.9550550520107788"
+            "url": "/api/view?filename=rgthree.compare._temp_hqqdo_00002_.png&type=temp&subfolder=&rand=0.9112848599256331"
           }
         ]
       ]
@@ -4430,7 +4430,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "网红_redux_7595937662313_00001_.png",
+        "网红_redux_676215153084153_00001_.png",
         "image"
       ],
       "color": "#232",
@@ -4491,7 +4491,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 2,
       "inputs": [
         {
@@ -4599,7 +4599,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "lingerie.jpg",
+        "飞鱼服.jpg",
         "image"
       ],
       "color": "#232",
@@ -4644,7 +4644,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "clipspace/clipspace-mask-5681273.1.png [input]",
+        "clipspace/clipspace-mask-8626122.9.png [input]",
         "image"
       ],
       "color": "#232",
@@ -4732,7 +4732,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        676215153084153,
+        992913718471552,
         "randomize",
         32,
         1,
@@ -4740,46 +4740,6 @@
         "ddim_uniform",
         1
       ]
-    },
-    {
-      "id": 65,
-      "type": "PrimitiveNode",
-      "pos": [
-        -515.0932006835938,
-        2576.3154296875
-      ],
-      "size": [
-        210,
-        82
-      ],
-      "flags": {},
-      "order": 23,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            172,
-            237
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "rescale_factor"
-          }
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        6,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 220,
@@ -4793,7 +4753,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4829,7 +4789,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4871,7 +4831,7 @@
         106
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -4917,7 +4877,7 @@
         106
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4959,7 +4919,7 @@
         106
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5020,68 +4980,11 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        955559258810669,
+        864530647989841,
         ""
       ],
       "color": "#323",
       "bgcolor": "#535"
-    },
-    {
-      "id": 130,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": [
-        -3011.29833984375,
-        -569.740234375
-      ],
-      "size": [
-        515.7156982421875,
-        370
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2249.910888671875,
-        -476.3668518066406
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 29,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "properties": {},
-      "widgets_values": [
-        "(portait:0.8), (far_shot:1.8),"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     },
     {
       "id": 43,
@@ -5095,7 +4998,7 @@
         106
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -5207,7 +5110,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 30,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5246,7 +5149,7 @@
         208.48483276367188
       ],
       "flags": {},
-      "order": 31,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5274,6 +5177,104 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 65,
+      "type": "PrimitiveNode",
+      "pos": [
+        -515.0932006835938,
+        2576.3154296875
+      ],
+      "size": [
+        210,
+        82
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            172,
+            237
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "rescale_factor"
+          }
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        4,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 130,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": [
+        -3011.29833984375,
+        -569.740234375
+      ],
+      "size": [
+        515.7156982421875,
+        370
+      ],
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2273.08203125,
+        -457.0574645996094
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:0.8), (far_shot:1.8),"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -6664,16 +6665,16 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.9881156659323436,
+      "scale": 0.6277384888265415,
       "offset": [
-        1915.9574801538517,
-        666.8118794089078
+        3016.351910337953,
+        1667.9719663900237
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
-      "comfy-core": "v0.3.10-213-g33df4baf",
+      "comfy-core": "v0.3.10-225-gf74680c9",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_Prompt_Translate_to_English": "d93c791391a918d868a72a9f786d1c9e37d5d6ec",
       "comfyui-ollama": "3f10b99a1bbc1b99d27ec10a7eb569d43aea7200",
