@@ -426,7 +426,7 @@
       },
       "widgets_values": [
         "enable",
-        755760775985874,
+        195952157227539,
         "fixed",
         20,
         1,
@@ -1905,7 +1905,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        755760775985874,
+        195952157227539,
         "randomize",
         40,
         1,
@@ -2259,7 +2259,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        155937749121683,
+        445415572025603,
         "randomize"
       ],
       "color": "#232",
@@ -2295,7 +2295,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        155937749121683,
+        445415572025603,
         "582852026162093"
       ],
       "color": "#322",
@@ -2382,7 +2382,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        755760775985874
+        195952157227539
       ]
     },
     {
@@ -2478,7 +2478,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女过新年_low_693824899352369"
+        "美女过新年_low_2673770500067"
       ]
     },
     {
@@ -2524,7 +2524,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        755760775985874
+        195952157227539
       ]
     },
     {
@@ -2862,7 +2862,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        155937749121683,
+        445415572025603,
         "randomize",
         40,
         1,
@@ -2902,7 +2902,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        755760775985874,
+        195952157227539,
         ""
       ],
       "color": "#323",
@@ -3509,7 +3509,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        155937749121683
+        445415572025603
       ]
     },
     {
@@ -3965,95 +3965,6 @@
       "widgets_values": [
         "myhumanFlux_myh11.safetensors",
         "default"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        214
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Flux Realistic Asian girls face Flux_02_(1girl).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
-          "strength": 0.45,
-          "strengthTwo": null
-        },
-        null,
-        ""
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -4627,7 +4538,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        322260922003122,
+        871233975716882,
         "371182853408753"
       ],
       "color": "#322",
@@ -4676,7 +4587,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        322260922003122
+        871233975716882
       ]
     },
     {
@@ -5754,7 +5665,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        755760775985874,
+        195952157227539,
         "randomize"
       ],
       "color": "#232",
@@ -5794,7 +5705,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        322260922003122,
+        871233975716882,
         "randomize"
       ],
       "color": "#232",
@@ -5916,7 +5827,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        322260922003122,
+        871233975716882,
         "randomize",
         20,
         1,
@@ -6035,13 +5946,102 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \na gorgeous young woman in her twenties, with glowing skin and a slender figure, dressed in a chic and alluring outfit featuring a shimmering gold top, tailored white pants, and stylish high-heeled boots. She sits in an elegant booth at a high-end restaurant, savoring a sumptuous Lunar New Year feast. The table is laden with delicacies like Peking duck, braised fish, and noodles, served with red wine, cola, and freshly squeezed orange juice in beautiful porcelain tableware. The restaurant’s decor exudes festive joy with pastel macaron-colored balloons, inflatable New Year symbols, and snake-themed plush toys. The ambiance is enhanced by soft, warm lighting, polished wood accents, and a sophisticated contemporary style.",
+        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \na stunning woman in her early twenties, with long wavy hair, wearing a trendy and sensual outfit consisting of a red silk blouse, a short black skirt, and statement earrings, sitting at a luxurious restaurant table for Lunar New Year. The table is filled with traditional Chinese dishes like sweet and sour pork, spring rolls, and hot pot, accompanied by fine red wine, cola, and orange juice. The restaurant is designed with a festive theme, showcasing pastel-colored balloons, snake mascot figurines, and inflatable decorations, creating a cheerful and contemporary atmosphere with soft golden lighting, glossy marble floors, and sleek, modern furnishings.",
         "none",
         "none",
         [
           false,
           true
         ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        214
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Flux Realistic Asian girls face Flux_02_(1girl).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
+          "strength": 0.45,
+          "strengthTwo": null
+        },
+        null,
+        ""
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7606,10 +7606,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8954302432553192,
+      "scale": 1.083470594338937,
       "offset": [
-        2181.171499332473,
-        871.9973258642084
+        -784.2282976534083,
+        868.6008411086179
       ]
     },
     "groupNodes": {},
