@@ -502,7 +502,7 @@
       },
       "widgets_values": [
         "enable",
-        1034155515450683,
+        521753409258167,
         "fixed",
         20,
         1,
@@ -1001,7 +1001,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        2097472119,
+        600283935,
         "randomize",
         40,
         0.9,
@@ -2439,7 +2439,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1034155515450683,
+        521753409258167,
         "randomize",
         50,
         1,
@@ -2568,7 +2568,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        1034155515450683,
+        521753409258167,
         "randomize"
       ],
       "color": "#232",
@@ -2879,7 +2879,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        866024082838202,
+        217142090269033,
         "randomize"
       ],
       "color": "#232",
@@ -2915,7 +2915,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        866024082838202,
+        217142090269033,
         "582852026162093"
       ],
       "color": "#322",
@@ -3002,7 +3002,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        1034155515450683
+        521753409258167
       ]
     },
     {
@@ -3098,7 +3098,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女街拍_low_723259089902411"
+        "网红美女咖啡店_low_1034155515450683"
       ]
     },
     {
@@ -3188,7 +3188,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        1034155515450683
+        521753409258167
       ]
     },
     {
@@ -3571,7 +3571,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        866024082838202,
+        217142090269033,
         "randomize",
         50,
         1,
@@ -3611,7 +3611,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        1034155515450683,
+        521753409258167,
         ""
       ],
       "color": "#323",
@@ -4299,7 +4299,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        866024082838202
+        217142090269033
       ]
     },
     {
@@ -5175,7 +5175,9 @@
         515.7156982421875,
         370
       ],
-      "flags": {},
+      "flags": {
+        "pinned": true
+      },
       "order": 25,
       "mode": 0,
       "inputs": [],
@@ -6976,10 +6978,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8954302432552809,
+      "scale": 0.8140274938684373,
       "offset": [
-        1103.4792826499945,
-        777.2263289523083
+        3731.7223298537665,
+        860.6103385526108
       ]
     },
     "groupNodes": {},
