@@ -502,7 +502,7 @@
       },
       "widgets_values": [
         "enable",
-        931804074504253,
+        850046335489977,
         "fixed",
         20,
         1,
@@ -999,9 +999,9 @@
         "Describe disney cartoon style of a group cute 18-yo asian girls laughing on street. Please response as detailed as you can. output only text, no title.",
         false,
         "http://127.0.0.1:11434",
-        "glm4:9b",
+        "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        1015942892,
+        998372335,
         "randomize",
         40,
         0.9,
@@ -2439,7 +2439,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        931804074504253,
+        850046335489977,
         "randomize",
         32,
         1,
@@ -2568,7 +2568,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        931804074504253,
+        850046335489977,
         "randomize"
       ],
       "color": "#232",
@@ -2879,7 +2879,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        621495550143506,
+        333232087805719,
         "randomize"
       ],
       "color": "#232",
@@ -2915,7 +2915,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        621495550143506,
+        333232087805719,
         "582852026162093"
       ],
       "color": "#322",
@@ -3002,7 +3002,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        931804074504253
+        850046335489977
       ]
     },
     {
@@ -3098,7 +3098,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女圣诞节_low_716264085045718"
+        "美女圣诞节_low_150512590924327"
       ]
     },
     {
@@ -3188,7 +3188,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        931804074504253
+        850046335489977
       ]
     },
     {
@@ -3668,7 +3668,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        621495550143506,
+        333232087805719,
         "randomize",
         32,
         1,
@@ -3708,7 +3708,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        931804074504253,
+        850046335489977,
         ""
       ],
       "color": "#323",
@@ -4710,7 +4710,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        621495550143506
+        333232087805719
       ]
     },
     {
@@ -5433,6 +5433,30 @@
       ]
     },
     {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2244.99609375,
+        -356.9998474121094
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:0.8), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
       "id": 224,
       "type": "Note",
       "pos": [
@@ -5444,14 +5468,14 @@
         234.8047332763672
       ],
       "flags": {},
-      "order": 31,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - AI提示词",
       "properties": {},
       "widgets_values": [
-        "你是一个AI绘画提示词生成器，请帮我生成\"美女圣诞节在高级酒店的餐厅庆祝，桌上放满了美食和美酒，包含烤牛排、披萨、沙拉、橙汁、红酒、可乐等，周围有挂满彩灯和装饰礼物的圣诞树和包装精美的礼物\"的提示词。请尽可能详细描述周围的场景、光影和事物，输出3句英文作为提示词，请不要描述她的服装。"
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。Prompts是需要包含在图像中的内容，包含风格、内容主体等15-50个描述性形容词或关键词，尽可能详细的描述周围的场景，以增加画面丰富程度。如果主题中包含人物，Prompts还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“美女圣诞节在高级酒店的餐厅庆祝，桌上放满了美食和美酒，周围有挂满彩灯和装饰礼物的圣诞树和包装精美的礼物”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -5468,7 +5492,7 @@
         277.0857238769531
       ],
       "flags": {},
-      "order": 32,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5486,7 +5510,7 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, A luxurious hotel restaurant elegantly decorated for Christmas, featuring a beautifully set table overflowing with gourmet dishes such as succulent roasted beef steak, delicious pizza, fresh salad, and an array of beverages including orange juice, red wine, and cola. The ambiance is warm and inviting, with soft lighting casting a gentle glow over the scene. Surrounding the table, a magnificent Christmas tree adorned with twinkling fairy lights and colorful ornaments creates a festive atmosphere, while beautifully wrapped gifts in vibrant paper are placed around the tree, adding to the holiday cheer. The soft flicker of candlelight reflects off the polished tableware, enhancing the luxurious feel of the setting, while the cheerful sounds of laughter and clinking glasses fill the air, capturing the joyous spirit of a Christmas celebration.",
+        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, elegant woman celebrating Christmas in a luxurious hotel restaurant, wearing a stunning red evening gown with intricate lace details, long flowing hair adorned with festive ornaments, sitting at a beautifully set table filled with gourmet dishes and fine wines, surrounded by a lavishly decorated Christmas tree twinkling with colorful lights, shimmering ornaments, and an array of exquisitely wrapped gifts, warm and inviting atmosphere with soft golden lighting, cheerful laughter in the background, snow gently falling outside the large windows, creating a magical winter wonderland feel.",
         "none",
         "none",
         [
@@ -5496,30 +5520,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2244.99609375,
-        -356.9998474121094
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "(portait:0.8), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -6934,16 +6934,16 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.223284727504526,
+      "scale": 2.3838358666569204,
       "offset": [
-        2601.2568493695094,
-        786.1590523140139
+        -1707.218986327549,
+        417.49222539968923
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
-      "comfy-core": "v0.3.10-232-g061f12d5",
+      "comfy-core": "v0.3.10-234-g10650e9a",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_Prompt_Translate_to_English": "d93c791391a918d868a72a9f786d1c9e37d5d6ec",
       "comfyui-ollama": "3f10b99a1bbc1b99d27ec10a7eb569d43aea7200",
