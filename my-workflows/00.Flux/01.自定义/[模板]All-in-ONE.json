@@ -5510,7 +5510,7 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (holding_phone_in_her_hands:2), (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, beautiful woman, celebrating Christmas, luxurious hotel restaurant, wearing an elegant red evening gown, subtle sparkle details, long wavy hair, radiant smile, sitting at a lavishly decorated dining table, table filled with gourmet dishes, wine glasses, champagne bottle, festive Christmas decorations, Christmas tree adorned with colorful lights and ornaments, intricately wrapped gifts beneath the tree, warm ambient lighting, soft golden tones, elegant and joyful atmosphere, cinematic photography style, detailed textures, high resolution",
+        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, beautiful woman, celebrating Christmas, luxurious hotel restaurant, wearing an elegant red evening gown, subtle sparkle details, long wavy hair, radiant smile, sitting at a lavishly decorated dining table, table filled with gourmet dishes, wine glasses, champagne bottle, festive Christmas decorations, Christmas tree adorned with colorful lights and ornaments, intricately wrapped gifts beneath the tree, warm ambient lighting, soft golden tones, elegant and joyful atmosphere, cinematic photography style, detailed textures, high resolution",
         "none",
         "none",
         [
@@ -6934,10 +6934,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.814027493868403,
+      "scale": 1.2232847275045375,
       "offset": [
-        2031.465371764515,
-        415.35707562780436
+        2538.7342566009597,
+        689.66662767765
       ]
     },
     "groupNodes": {},
