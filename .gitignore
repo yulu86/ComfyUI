@@ -22,7 +22,6 @@ venv/
 .DS_Store
 comfyui.log
 comfyui.prev**.log
-my-workflows/**/**.png
 !/my-workflows/00.basic/**/**.png
 !/my-workflows/02.work/**/**.png
 **/verify/**
