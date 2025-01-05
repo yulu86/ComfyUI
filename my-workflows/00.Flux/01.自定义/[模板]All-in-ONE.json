@@ -426,7 +426,7 @@
       },
       "widgets_values": [
         "enable",
-        297704732520128,
+        512381578777389,
         "fixed",
         20,
         1,
@@ -815,7 +815,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        1924466784,
+        2066876452,
         "randomize",
         40,
         0.9,
@@ -2024,7 +2024,7 @@
         26
       ],
       "flags": {},
-      "order": 54,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -2133,7 +2133,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        297704732520128,
+        512381578777389,
         "randomize",
         50,
         1,
@@ -2219,7 +2219,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        297704732520128,
+        512381578777389,
         "randomize"
       ],
       "color": "#232",
@@ -2530,7 +2530,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        266179761082688,
+        38996286384561,
         "randomize"
       ],
       "color": "#232",
@@ -2566,7 +2566,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        266179761082688,
+        38996286384561,
         "582852026162093"
       ],
       "color": "#322",
@@ -2653,7 +2653,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        297704732520128
+        512381578777389
       ]
     },
     {
@@ -2749,7 +2749,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "网红美女咖啡店_low_1067385293214065"
+        "网红美女咖啡店_low_115317942556586"
       ]
     },
     {
@@ -2795,7 +2795,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        297704732520128
+        512381578777389
       ]
     },
     {
@@ -3133,7 +3133,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        266179761082688,
+        38996286384561,
         "randomize",
         50,
         1,
@@ -3173,7 +3173,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        297704732520128,
+        512381578777389,
         ""
       ],
       "color": "#323",
@@ -3780,7 +3780,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        266179761082688
+        38996286384561
       ]
     },
     {
@@ -4724,41 +4724,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -2110.46923828125,
-        -476.21453857421875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            378
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "网红美女咖啡店"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 84,
       "type": "Reroute",
       "pos": [
@@ -4987,7 +4952,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), logo, text, watermark, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), (freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans ",
-        "cinematic",
+        "photographic",
         "No",
         "",
         [
@@ -5014,7 +4979,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5124,7 +5089,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5169,7 +5134,7 @@
         76
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -5187,7 +5152,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        488035758367221,
+        564090665675134,
         "1124186705531333"
       ],
       "color": "#322",
@@ -5205,7 +5170,7 @@
         78
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -5236,7 +5201,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        488035758367221
+        564090665675134
       ]
     },
     {
@@ -5483,7 +5448,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5529,7 +5494,7 @@
         26
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 2,
       "inputs": [
         {
@@ -5622,7 +5587,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5843,7 +5808,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5865,7 +5830,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        488035758367221,
+        564090665675134,
         "randomize"
       ],
       "color": "#232",
@@ -5950,7 +5915,7 @@
         82
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5983,7 +5948,7 @@
         58
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6136,7 +6101,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        488035758367221,
+        564090665675134,
         "randomize",
         20,
         1,
@@ -6159,55 +6124,49 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - AI提示词",
       "properties": {},
       "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-80个描述性形容词或关键词，尽可能详细地描述周围的场景，以增加画面丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“美女穿着时尚且性感的服饰，在独立咖啡店和咖啡，咖啡杯是白色精致的瓷器，金色的边，桌上放着LV包和精致包装的礼物”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。"
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-80个描述性形容词或关键词，尽可能详细地描述周围的场景，以增加画面丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“20多岁的美女穿着时尚且性感的服饰，在高级餐厅里吃年夜饭，高级的餐桌上摆满精致的中式餐具和中国的美味佳肴和红酒、可乐、橙汁，餐厅里布置的风格是庆祝农历新年的喜庆风格”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。"
       ],
       "color": "#432",
       "bgcolor": "#653"
     },
     {
-      "id": 143,
-      "type": "easy prompt",
+      "id": 199,
+      "type": "Simple String",
       "pos": [
-        -1712.3250732421875,
-        -394.9553527832031
+        -2110.46923828125,
+        -476.21453857421875
       ],
       "size": [
-        527.3053588867188,
-        277.0857238769531
+        315,
+        58
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
         {
-          "name": "prompt",
+          "name": "STRING",
           "type": "STRING",
           "links": [
-            292
+            378
           ],
           "slot_index": 0
         }
       ],
-      "title": "Positive Prompt",
+      "title": "图片名称",
       "properties": {
-        "Node name for S&R": "easy prompt"
+        "Node name for S&R": "Simple String"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, \nA beautiful woman, wearing fashionable and sexy clothing, a fitted red dress with a slit, high heels, long wavy brown hair, flawless makeup, sitting elegantly in an independent coffee shop, holding a white porcelain coffee cup with golden rims, surrounded by a cozy and modern atmosphere, warm lighting, wooden tables and chairs, a luxurious LV bag on the table, a delicately wrapped gift box with a ribbon, subtle steam rising from the coffee, large windows with natural light, green plants in the background, artistic decorations on the walls.",
-        "none",
-        "none",
-        [
-          false,
-          true
-        ]
+        "美女过新年"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -6224,7 +6183,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6244,9 +6203,50 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "cinematic",
+        "photographic",
         "fixed",
         ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 143,
+      "type": "easy prompt",
+      "pos": [
+        -1712.3250732421875,
+        -394.9553527832031
+      ],
+      "size": [
+        527.3053588867188,
+        277.0857238769531
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            292
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "Node name for S&R": "easy prompt"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \nA fashionable woman in her early 20s, with flawless skin and straight black hair tied in a sleek ponytail, wearing a bold red cheongsam with intricate gold embroidery and matching stiletto heels. She sits confidently at a round dining table in a luxurious restaurant, enjoying a Lunar New Year feast. The table is decorated with silk tablecloths, traditional Chinese porcelain, and a variety of drinks, including red wine, soda, and orange juice. Dishes include Peking duck, dumplings, longevity noodles, and sticky rice cake. The restaurant is adorned with vibrant New Year decorations, such as firecrackers, Chinese knots, red banners with blessings, and golden ingots. Warm lighting casts a festive glow, creating a cheerful yet refined scene.",
+        "none",
+        "none",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7853,10 +7853,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.3138428376721218,
+      "scale": 1.4420993610650994,
       "offset": [
-        2631.118622057565,
-        2245.220280599956
+        -973.5217816837969,
+        398.2561915778077
       ]
     },
     "groupNodes": {},
