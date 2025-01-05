@@ -1,5 +1,5 @@
 {
-  "last_node_id": 242,
+  "last_node_id": 243,
   "last_link_id": 436,
   "nodes": [
     {
@@ -14,7 +14,7 @@
         26
       ],
       "flags": {},
-      "order": 109,
+      "order": 110,
       "mode": 2,
       "inputs": [
         {
@@ -51,7 +51,7 @@
         46
       ],
       "flags": {},
-      "order": 110,
+      "order": 111,
       "mode": 2,
       "inputs": [
         {
@@ -92,7 +92,7 @@
         142
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -172,7 +172,7 @@
         26
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -208,7 +208,7 @@
         26
       ],
       "flags": {},
-      "order": 90,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -284,7 +284,7 @@
         126
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -351,7 +351,7 @@
         76
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -423,7 +423,7 @@
         334
       ],
       "flags": {},
-      "order": 111,
+      "order": 112,
       "mode": 2,
       "inputs": [
         {
@@ -508,7 +508,7 @@
         1,
         "ipndm",
         "ddim_uniform",
-        32,
+        50,
         10000,
         "disable"
       ]
@@ -525,7 +525,7 @@
         76
       ],
       "flags": {},
-      "order": 107,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -562,7 +562,7 @@
         222
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -620,7 +620,7 @@
         26
       ],
       "flags": {},
-      "order": 92,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -658,7 +658,7 @@
         150
       ],
       "flags": {},
-      "order": 112,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -704,7 +704,7 @@
         76
       ],
       "flags": {},
-      "order": 70,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -775,7 +775,7 @@
         186
       ],
       "flags": {},
-      "order": 86,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -1036,7 +1036,7 @@
         126
       ],
       "flags": {},
-      "order": 50,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -1095,7 +1095,7 @@
         126
       ],
       "flags": {},
-      "order": 35,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -1186,7 +1186,7 @@
         58
       ],
       "flags": {},
-      "order": 89,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -1224,7 +1224,7 @@
         234
       ],
       "flags": {},
-      "order": 77,
+      "order": 78,
       "mode": 4,
       "inputs": [
         {
@@ -1297,7 +1297,7 @@
         234
       ],
       "flags": {},
-      "order": 82,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -1370,7 +1370,7 @@
         130
       ],
       "flags": {},
-      "order": 61,
+      "order": 62,
       "mode": 2,
       "inputs": [
         {
@@ -1422,7 +1422,7 @@
         102
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 2,
       "inputs": [
         {
@@ -1468,7 +1468,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 78,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -1495,7 +1495,7 @@
         102
       ],
       "flags": {},
-      "order": 62,
+      "order": 63,
       "mode": 2,
       "inputs": [
         {
@@ -1576,7 +1576,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 36,
+      "order": 37,
       "mode": 2,
       "inputs": [
         {
@@ -1621,7 +1621,7 @@
         26
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 2,
       "inputs": [
         {
@@ -1725,7 +1725,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 71,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -1752,7 +1752,7 @@
         234
       ],
       "flags": {},
-      "order": 51,
+      "order": 52,
       "mode": 2,
       "inputs": [
         {
@@ -1825,7 +1825,7 @@
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -1864,7 +1864,7 @@
         138
       ],
       "flags": {},
-      "order": 83,
+      "order": 84,
       "mode": 2,
       "inputs": [
         {
@@ -2002,7 +2002,7 @@
         46
       ],
       "flags": {},
-      "order": 91,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -2044,7 +2044,7 @@
         330
       ],
       "flags": {},
-      "order": 53,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -2134,7 +2134,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 66,
       "mode": 2,
       "inputs": [
         {
@@ -2172,7 +2172,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 65,
       "mode": 2,
       "inputs": [
         {
@@ -2210,7 +2210,7 @@
         26
       ],
       "flags": {},
-      "order": 34,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -2249,7 +2249,7 @@
         26
       ],
       "flags": {},
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -2289,7 +2289,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -2330,7 +2330,7 @@
         26
       ],
       "flags": {},
-      "order": 48,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -2369,7 +2369,7 @@
         262
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2441,7 +2441,7 @@
       "widgets_values": [
         1034155515450683,
         "randomize",
-        32,
+        50,
         1,
         "ipndm",
         "ddim_uniform",
@@ -2460,7 +2460,7 @@
         26
       ],
       "flags": {},
-      "order": 55,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -2500,7 +2500,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -2586,7 +2586,7 @@
         26
       ],
       "flags": {},
-      "order": 63,
+      "order": 64,
       "mode": 2,
       "inputs": [
         {
@@ -2622,7 +2622,7 @@
         26
       ],
       "flags": {},
-      "order": 73,
+      "order": 74,
       "mode": 2,
       "inputs": [
         {
@@ -2660,7 +2660,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 75,
       "mode": 2,
       "inputs": [
         {
@@ -2698,7 +2698,7 @@
         330
       ],
       "flags": {},
-      "order": 54,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -2790,7 +2790,7 @@
         130
       ],
       "flags": {},
-      "order": 93,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -2897,7 +2897,7 @@
         76
       ],
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 2,
       "inputs": [
         {
@@ -2933,7 +2933,7 @@
         58
       ],
       "flags": {},
-      "order": 79,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -2971,7 +2971,7 @@
         78
       ],
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -3017,7 +3017,7 @@
         154
       ],
       "flags": {},
-      "order": 66,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -3076,7 +3076,7 @@
         76
       ],
       "flags": {},
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -3113,7 +3113,7 @@
         26
       ],
       "flags": {},
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3157,7 +3157,7 @@
         78
       ],
       "flags": {},
-      "order": 40,
+      "order": 41,
       "mode": 2,
       "inputs": [
         {
@@ -3203,7 +3203,7 @@
         76
       ],
       "flags": {},
-      "order": 88,
+      "order": 89,
       "mode": 2,
       "inputs": [
         {
@@ -3240,7 +3240,7 @@
         1902.8538818359375
       ],
       "flags": {},
-      "order": 115,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -3287,7 +3287,7 @@
         26
       ],
       "flags": {},
-      "order": 81,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -3330,7 +3330,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -3370,7 +3370,7 @@
         164.31304931640625
       ],
       "flags": {},
-      "order": 37,
+      "order": 38,
       "mode": 2,
       "inputs": [
         {
@@ -3501,7 +3501,7 @@
         262
       ],
       "flags": {},
-      "order": 87,
+      "order": 88,
       "mode": 2,
       "inputs": [
         {
@@ -3573,7 +3573,7 @@
       "widgets_values": [
         866024082838202,
         "randomize",
-        32,
+        50,
         1,
         "ipndm",
         "ddim_uniform",
@@ -3592,7 +3592,7 @@
         76
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -3784,7 +3784,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 69,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3839,7 +3839,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -3891,7 +3891,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), logo, text, watermark, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), (freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans ",
-        "cinematic",
+        "photographic",
         "No",
         "",
         [
@@ -3918,7 +3918,7 @@
         106
       ],
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 2,
       "inputs": [
         {
@@ -3963,7 +3963,7 @@
         106
       ],
       "flags": {},
-      "order": 52,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -4008,7 +4008,7 @@
         78
       ],
       "flags": {},
-      "order": 60,
+      "order": 61,
       "mode": 2,
       "inputs": [
         {
@@ -4094,7 +4094,7 @@
         154
       ],
       "flags": {},
-      "order": 85,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -4154,7 +4154,7 @@
         118
       ],
       "flags": {},
-      "order": 114,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -4209,7 +4209,7 @@
         154
       ],
       "flags": {},
-      "order": 80,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -4268,7 +4268,7 @@
         78
       ],
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 2,
       "inputs": [
         {
@@ -4314,7 +4314,7 @@
         76
       ],
       "flags": {},
-      "order": 84,
+      "order": 85,
       "mode": 2,
       "inputs": [
         {
@@ -4351,7 +4351,7 @@
         205.58164978027344
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -4378,7 +4378,7 @@
         592.815673828125
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -4425,7 +4425,7 @@
         46
       ],
       "flags": {},
-      "order": 98,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -4468,7 +4468,7 @@
         511.977294921875
       ],
       "flags": {},
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -4484,217 +4484,6 @@
       "widgets_values": []
     },
     {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1675.3724365234375,
-        111.75550842285156
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 21,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "cinematic",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 62,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1076.6583251953125,
-        243.8854217529297
-      ],
-      "size": [
-        305.7521667480469,
-        90.78459930419922
-      ],
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            164,
-            190,
-            240,
-            424
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "steps"
-          }
-        }
-      ],
-      "title": "Steps",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        32,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 98,
-      "type": "easy mathInt",
-      "pos": [
-        -1076.6583251953125,
-        379.6600036621094
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 47,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "link": 240,
-          "widget": {
-            "name": "a"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            241
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale steps",
-      "properties": {
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        32,
-        12,
-        "add"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -333.6468505859375,
-        230.5314178466797
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 23,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            242,
-            244,
-            422
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ipndm",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "PrimitiveNode",
-      "pos": [
-        -329.2467041015625,
-        383.5258483886719
-      ],
-      "size": [
-        258.80340576171875,
-        106
-      ],
-      "flags": {},
-      "order": 24,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            243,
-            245,
-            423
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "title": "Scheduler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ddim_uniform",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 6,
       "type": "CLIPTextEncode",
       "pos": [
@@ -4708,7 +4497,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 68,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -4761,7 +4550,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 25,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4799,7 +4588,7 @@
         254.86009216308594
       ],
       "flags": {},
-      "order": 58,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -4832,7 +4621,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 97,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -4899,7 +4688,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -4964,7 +4753,7 @@
         602
       ],
       "flags": {},
-      "order": 117,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -5027,7 +4816,7 @@
         602
       ],
       "flags": {},
-      "order": 116,
+      "order": 117,
       "mode": 2,
       "inputs": [
         {
@@ -5079,65 +4868,6 @@
       ]
     },
     {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -2110.46923828125,
-        -476.21453857421875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 26,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            378
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "美女街拍"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2244.708740234375,
-        -67.67406463623047
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-80个描述性形容词或关键词，尽可能详细地描述周围的场景，以增加画面丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“美女穿着时尚且性感的服饰，在充满漂亮现代化时尚装饰的街头摆出动态姿势”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 93,
       "type": "UNETLoader",
       "pos": [
@@ -5149,7 +4879,7 @@
         82
       ],
       "flags": {},
-      "order": 28,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5184,7 +4914,7 @@
         106
       ],
       "flags": {},
-      "order": 45,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -5228,7 +4958,7 @@
         214
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -5317,7 +5047,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 29,
+      "order": 23,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5349,7 +5079,7 @@
         78
       ],
       "flags": {},
-      "order": 103,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -5402,7 +5132,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 30,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5446,7 +5176,7 @@
         370
       ],
       "flags": {},
-      "order": 31,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5479,8 +5209,10 @@
         460.3273620605469,
         234.8047332763672
       ],
-      "flags": {},
-      "order": 32,
+      "flags": {
+        "pinned": true
+      },
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5491,6 +5223,133 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
+    },
+    {
+      "id": 62,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1074.346923828125,
+        228.6298370361328
+      ],
+      "size": [
+        305.7521667480469,
+        90.78459930419922
+      ],
+      "flags": {},
+      "order": 27,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            164,
+            190,
+            240,
+            424
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "steps"
+          }
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        50,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 98,
+      "type": "easy mathInt",
+      "pos": [
+        -1076.6583251953125,
+        379.6600036621094
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 49,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "link": 240,
+          "widget": {
+            "name": "a"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            241
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale steps",
+      "properties": {
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        50,
+        16,
+        "add"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1675.3724365234375,
+        111.75550842285156
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "photographic",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 143,
@@ -5504,7 +5363,7 @@
         277.0857238769531
       ],
       "flags": {},
-      "order": 33,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5522,13 +5381,184 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, \nA beautiful woman in a seductive yet stylish outfit, posing with confidence on a contemporary street filled with fashionable decorations. She has long, wavy hair and a stunning appearance with glowing skin. She’s wearing a fitted black dress with a daring slit, paired with high heels that give her a sophisticated look. Her posture is dynamic, with one hand on her waist and the other raised in a playful gesture, showcasing her curvy figure. The street around her is lined with sleek buildings, lush plants, and colorful street art. The atmosphere is chic, illuminated with soft golden lighting, and stylish shops and cafes can be seen in the background.",
+        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, \nbeautiful woman, fashionable and sexy clothing, trendy outfit, sitting in a cozy and modern independent coffee shop, sipping coffee, luxurious LV handbag on the wooden table, delicate small gifts beside the bag, warm ambient lighting, artistic interior design, exposed brick walls, wooden furniture, lush green plants, stylish makeup, long wavy hair, confident and relaxed posture, subtle smile, natural light from large windows, urban chic vibes, attention to detail, high resolution, photorealistic style",
         "none",
         "none",
         [
           false,
           true
         ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2244.708740234375,
+        -67.67406463623047
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-80个描述性形容词或关键词，尽可能详细地描述周围的场景，以增加画面丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“美女穿着时尚且性感的服饰，在独立咖啡店和咖啡，桌上放着LV包和精致的小礼物”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 100,
+      "type": "PrimitiveNode",
+      "pos": [
+        -329.2467041015625,
+        383.5258483886719
+      ],
+      "size": [
+        258.80340576171875,
+        106
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            243,
+            245,
+            423
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ddim_uniform",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -333.6468505859375,
+        230.5314178466797
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            242,
+            244,
+            422
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ipndm",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 243,
+      "type": "Note",
+      "pos": [
+        -1107.1409912109375,
+        553.9972534179688
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 步数和采样器选择Tips",
+      "properties": {},
+      "widgets_values": [
+        "真人：\nSteps = 50,\nUpscale steps = 16,\nSampler = ipndm,\nScheduler = ddim_uniform\n\n动画：\nSteps = 30,\nUpscale steps = 12,\nSampler = deis,\nScheduler = ddim_uniform\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -2110.46923828125,
+        -476.21453857421875
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            378
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "网红美女咖啡店"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -6946,16 +6976,16 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9849732675807896,
+      "scale": 0.8954302432552809,
       "offset": [
-        3016.5914168147983,
-        937.1860644625447
+        1103.4792826499945,
+        777.2263289523083
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
-      "comfy-core": "v0.3.10-244-g662f9db9",
+      "comfy-core": "v0.3.10-246-g1642ccea",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_Prompt_Translate_to_English": "d93c791391a918d868a72a9f786d1c9e37d5d6ec",
       "comfyui-ollama": "3f10b99a1bbc1b99d27ec10a7eb569d43aea7200",
@@ -6966,8 +6996,8 @@
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
       "comfy-image-saver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
       "was-node-suite-comfyui": "056badacda52e88d29d6a65f9509cd3115ace0f2",
-      "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
-      "ComfyUI-GGUF": "3dc384b23366983b28222cbf681b808053949a43"
+      "ComfyUI-GGUF": "3dc384b23366983b28222cbf681b808053949a43",
+      "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079"
     }
   },
   "version": 0.4
