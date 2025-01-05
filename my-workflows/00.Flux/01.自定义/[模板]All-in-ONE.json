@@ -426,13 +426,13 @@
       },
       "widgets_values": [
         "enable",
-        655436468565201,
+        989654348358449,
         "fixed",
         20,
         1,
         "ipndm",
         "ddim_uniform",
-        50,
+        40,
         10000,
         "disable"
       ]
@@ -815,7 +815,7 @@
         "http://127.0.0.1:11434",
         "",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        528748252,
+        920624550,
         "randomize",
         40,
         0.9,
@@ -2024,7 +2024,7 @@
         26
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2133,9 +2133,9 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        655436468565201,
+        989654348358449,
         "randomize",
-        50,
+        40,
         1,
         "ipndm",
         "ddim_uniform",
@@ -2219,7 +2219,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        655436468565201,
+        989654348358449,
         "randomize"
       ],
       "color": "#232",
@@ -2530,7 +2530,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        948154675845241,
+        766359168247570,
         "randomize"
       ],
       "color": "#232",
@@ -2566,7 +2566,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        948154675845241,
+        766359168247570,
         "582852026162093"
       ],
       "color": "#322",
@@ -2653,7 +2653,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        655436468565201
+        989654348358449
       ]
     },
     {
@@ -2749,7 +2749,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女过新年_low_1020561748713370"
+        "美女过新年_low_655436468565201"
       ]
     },
     {
@@ -2795,7 +2795,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        655436468565201
+        989654348358449
       ]
     },
     {
@@ -3133,9 +3133,9 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        948154675845241,
+        766359168247570,
         "randomize",
-        50,
+        40,
         1,
         "ipndm",
         "ddim_uniform",
@@ -3173,7 +3173,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        655436468565201,
+        989654348358449,
         ""
       ],
       "color": "#323",
@@ -3780,7 +3780,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        948154675845241
+        766359168247570
       ]
     },
     {
@@ -4482,48 +4482,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 62,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1074.346923828125,
-        228.6298370361328
-      ],
-      "size": [
-        305.7521667480469,
-        90.78459930419922
-      ],
-      "flags": {},
-      "order": 24,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            164,
-            190,
-            240,
-            424
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "steps"
-          }
-        }
-      ],
-      "title": "Steps",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        50,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 98,
       "type": "easy mathInt",
       "pos": [
@@ -4535,7 +4493,7 @@
         106
       ],
       "flags": {},
-      "order": 53,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -4562,7 +4520,7 @@
         "Node name for S&R": "easy mathInt"
       },
       "widgets_values": [
-        50,
+        40,
         16,
         "add"
       ],
@@ -4581,7 +4539,7 @@
         106
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4623,7 +4581,7 @@
         106
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4652,32 +4610,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 243,
-      "type": "Note",
-      "pos": [
-        -1107.1409912109375,
-        553.9972534179688
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 步数和采样器选择Tips",
-      "properties": {},
-      "widgets_values": [
-        "真人：\nSteps = 50,\nUpscale steps = 16,\nSampler = ipndm,\nScheduler = ddim_uniform\n\n动画：\nSteps = 30,\nUpscale steps = 12,\nSampler = deis,\nScheduler = ddim_uniform\n"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     },
     {
       "id": 84,
@@ -4935,7 +4867,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 28,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5045,7 +4977,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5090,7 +5022,7 @@
         76
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -5108,7 +5040,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        771833347272748,
+        834796937430573,
         "1124186705531333"
       ],
       "color": "#322",
@@ -5126,7 +5058,7 @@
         78
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -5157,7 +5089,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        771833347272748
+        834796937430573
       ]
     },
     {
@@ -5404,7 +5336,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 30,
+      "order": 28,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5450,7 +5382,7 @@
         26
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -5543,7 +5475,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5764,7 +5696,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 32,
+      "order": 30,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5786,7 +5718,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        771833347272748,
+        834796937430573,
         "randomize"
       ],
       "color": "#232",
@@ -5871,7 +5803,7 @@
         82
       ],
       "flags": {},
-      "order": 33,
+      "order": 31,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5904,7 +5836,7 @@
         58
       ],
       "flags": {},
-      "order": 34,
+      "order": 32,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6057,7 +5989,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        771833347272748,
+        834796937430573,
         "randomize",
         20,
         1,
@@ -6078,7 +6010,7 @@
         58
       ],
       "flags": {},
-      "order": 35,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6113,7 +6045,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 36,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6154,7 +6086,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6178,7 +6110,7 @@
         277.0857238769531
       ],
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6246,10 +6178,78 @@
       "widgets_values": [
         1024,
         1280,
-        1
+        2
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 62,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1074.346923828125,
+        228.6298370361328
+      ],
+      "size": [
+        305.7521667480469,
+        90.78459930419922
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            164,
+            190,
+            240,
+            424
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "steps"
+          }
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        40,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 243,
+      "type": "Note",
+      "pos": [
+        -1107.1409912109375,
+        553.9972534179688
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 步数和采样器选择Tips",
+      "properties": {},
+      "widgets_values": [
+        "真人：\nSteps = 40,\nUpscale steps = 16,\nSampler = ipndm,\nScheduler = ddim_uniform\n\n动画：\nSteps = 30,\nUpscale steps = 12,\nSampler = deis,\nScheduler = ddim_uniform\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -7853,10 +7853,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.0834705943389238,
+      "scale": 1.5863092971716204,
       "offset": [
-        -766.8570954244176,
-        475.4978796077909
+        1143.1288775930493,
+        -60.10533032827067
       ]
     },
     "groupNodes": {},
