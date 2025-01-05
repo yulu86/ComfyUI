@@ -502,7 +502,7 @@
       },
       "widgets_values": [
         "enable",
-        651387705934799,
+        931804074504253,
         "fixed",
         20,
         1,
@@ -1001,7 +1001,7 @@
         "http://127.0.0.1:11434",
         "glm4:9b",
         "You are an art expert, gracefully describing your knowledge in art domain.",
-        2057484557,
+        1015942892,
         "randomize",
         40,
         0.9,
@@ -2439,7 +2439,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        651387705934799,
+        931804074504253,
         "randomize",
         32,
         1,
@@ -2568,7 +2568,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        651387705934799,
+        931804074504253,
         "randomize"
       ],
       "color": "#232",
@@ -2879,7 +2879,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        800247011298775,
+        621495550143506,
         "randomize"
       ],
       "color": "#232",
@@ -2915,7 +2915,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        800247011298775,
+        621495550143506,
         "582852026162093"
       ],
       "color": "#322",
@@ -3002,7 +3002,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        651387705934799
+        931804074504253
       ]
     },
     {
@@ -3098,7 +3098,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女圣诞节_low_735412616838153"
+        "美女圣诞节_low_716264085045718"
       ]
     },
     {
@@ -3188,7 +3188,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        651387705934799
+        931804074504253
       ]
     },
     {
@@ -3668,7 +3668,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        800247011298775,
+        621495550143506,
         "randomize",
         32,
         1,
@@ -3708,7 +3708,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        651387705934799,
+        931804074504253,
         ""
       ],
       "color": "#323",
@@ -4288,30 +4288,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2244.99609375,
-        -356.9998474121094
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 23,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "(portait:0.8), (far_shot:1.8),"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 220,
       "type": "Int Literal",
       "pos": [
@@ -4323,7 +4299,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4734,7 +4710,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        800247011298775
+        621495550143506
       ]
     },
     {
@@ -4813,7 +4789,7 @@
         370
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5098,7 +5074,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5137,7 +5113,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5225,7 +5201,7 @@
         106
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5267,7 +5243,7 @@
         106
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5364,7 +5340,7 @@
         58
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5388,30 +5364,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2244.708740234375,
-        -67.67406463623047
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "你是一个AI绘画提示词生成器，请帮我生成\"美女圣诞节在酒吧庆祝，周围充满快乐的年轻男女，穿着时尚，桌上放满了美食和美酒，周围有圣诞树和礼物\"的提示词。请尽可能详细描述周围的场景、光影和事物，输出3句英文作为提示词，请不要描述她的服装。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 136,
       "type": "PrimitiveNode",
       "pos": [
@@ -5423,7 +5375,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5481,6 +5433,30 @@
       ]
     },
     {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2244.708740234375,
+        -67.67406463623047
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "你是一个AI绘画提示词生成器，请帮我生成\"美女圣诞节在高级酒店的餐厅庆祝，桌上放满了美食和美酒，包含烤牛排、披萨、沙拉、橙汁、红酒、可乐等，周围有挂满彩灯和装饰礼物的圣诞树和包装精美的礼物\"的提示词。请尽可能详细描述周围的场景、光影和事物，输出3句英文作为提示词，请不要描述她的服装。"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
       "id": 143,
       "type": "easy prompt",
       "pos": [
@@ -5492,7 +5468,7 @@
         277.0857238769531
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5510,7 +5486,7 @@
         "Node name for S&R": "easy prompt"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, A vibrant Christmas celebration in a cozy bar, filled with joyful young men and women laughing and toasting, surrounded by twinkling fairy lights and colorful decorations. A festive atmosphere with a beautifully adorned Christmas tree in the corner, glimmering ornaments reflecting the warm glow of candlelight on tables overflowing with delicious food and exquisite drinks. The scene is alive with cheerful conversations and clinking glasses, as the soft music creates a perfect backdrop for this joyful gathering, with wrapped gifts nestled under the tree adding to the holiday spirit.",
+        "(This is a high-resolution everyday scene image with a natural style),(far_shot:1.8), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (mid_shot:1.5), sexy, smile, (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view), looking at viewer, depth of field, (small head:1.4), gradient background, A luxurious hotel restaurant elegantly decorated for Christmas, featuring a beautifully set table overflowing with gourmet dishes such as succulent roasted beef steak, delicious pizza, fresh salad, and an array of beverages including orange juice, red wine, and cola. The ambiance is warm and inviting, with soft lighting casting a gentle glow over the scene. Surrounding the table, a magnificent Christmas tree adorned with twinkling fairy lights and colorful ornaments creates a festive atmosphere, while beautifully wrapped gifts in vibrant paper are placed around the tree, adding to the holiday cheer. The soft flicker of candlelight reflects off the polished tableware, enhancing the luxurious feel of the setting, while the cheerful sounds of laughter and clinking glasses fill the air, capturing the joyous spirit of a Christmas celebration.",
         "none",
         "none",
         [
@@ -5520,6 +5496,30 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2244.99609375,
+        -356.9998474121094
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:0.8), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -6934,10 +6934,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.4801745202804724,
+      "scale": 1.223284727504526,
       "offset": [
-        -1316.8972425245015,
-        439.44711859045594
+        2601.2568493695094,
+        786.1590523140139
       ]
     },
     "groupNodes": {},
