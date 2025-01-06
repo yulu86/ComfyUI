@@ -426,7 +426,7 @@
       },
       "widgets_values": [
         "enable",
-        90245206775036,
+        336987870302229,
         "fixed",
         20,
         1,
@@ -1905,7 +1905,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        90245206775036,
+        336987870302229,
         "randomize",
         40,
         1,
@@ -2259,7 +2259,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        217635731548224,
+        59502865420048,
         "randomize"
       ],
       "color": "#232",
@@ -2295,7 +2295,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        217635731548224,
+        59502865420048,
         "582852026162093"
       ],
       "color": "#322",
@@ -2382,7 +2382,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        90245206775036
+        336987870302229
       ]
     },
     {
@@ -2478,7 +2478,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女圣诞节_low_1008337909414762"
+        "美女圣诞节_low_169985450324986"
       ]
     },
     {
@@ -2524,7 +2524,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        90245206775036
+        336987870302229
       ]
     },
     {
@@ -2815,7 +2815,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        217635731548224,
+        59502865420048,
         "randomize",
         40,
         1,
@@ -2855,7 +2855,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        90245206775036,
+        336987870302229,
         ""
       ],
       "color": "#323",
@@ -3426,7 +3426,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        217635731548224
+        59502865420048
       ]
     },
     {
@@ -3799,7 +3799,7 @@
         106
       ],
       "flags": {},
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -4010,7 +4010,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -4262,7 +4262,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        395307216731047,
+        485597883064605,
         "371182853408753"
       ],
       "color": "#322",
@@ -4311,7 +4311,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        395307216731047
+        485597883064605
       ]
     },
     {
@@ -5085,92 +5085,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -333.6468505859375,
-        230.5314178466797
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            242,
-            244,
-            422,
-            475
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ipndm",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "PrimitiveNode",
-      "pos": [
-        -329.2467041015625,
-        383.5258483886719
-      ],
-      "size": [
-        258.80340576171875,
-        106
-      ],
-      "flags": {},
-      "order": 29,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            243,
-            245,
-            423,
-            476
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "title": "Scheduler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ddim_uniform",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 63,
       "type": "PrimitiveNode",
       "pos": [
@@ -5182,7 +5096,7 @@
         82
       ],
       "flags": {},
-      "order": 30,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5207,7 +5121,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        90245206775036,
+        336987870302229,
         "randomize"
       ],
       "color": "#232",
@@ -5225,7 +5139,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 31,
+      "order": 29,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5247,7 +5161,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        395307216731047,
+        485597883064605,
         "randomize"
       ],
       "color": "#232",
@@ -5327,7 +5241,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        395307216731047,
+        485597883064605,
         "randomize",
         20,
         1,
@@ -5350,7 +5264,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 56,
       "mode": 4,
       "inputs": [
         {
@@ -5472,7 +5386,7 @@
         58
       ],
       "flags": {},
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5551,7 +5465,7 @@
         58
       ],
       "flags": {},
-      "order": 33,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5937,48 +5851,6 @@
       "widgets_values": []
     },
     {
-      "id": 143,
-      "type": "easy prompt",
-      "pos": [
-        -1712.3250732421875,
-        -394.9553527832031
-      ],
-      "size": [
-        527.3053588867188,
-        277.0857238769531
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "links": [
-            482,
-            483
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Positive Prompt",
-      "properties": {
-        "Node name for S&R": "easy prompt"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \nA stunning woman in her twenties, dressed in a fashionable and seductive outfit, is celebrating Christmas at a luxurious, upscale restaurant. She sits in a booth near the wall, surrounded by a warm and sophisticated atmosphere. The table is elegantly set with a crisp white tablecloth, featuring fine Western tableware and beautifully arranged dishes. There is a juicy 3-minute steak with a golden-brown crust, creamy egg pudding with a rich texture, and a light, colorful fish and tomato salad with a tangy dressing. On the table, high-quality red wine is poured into crystal glasses, with sparkling water in ornate glasses beside it. The festive ambiance is amplified by a large, beautifully decorated Christmas tree adorned with sparkling lights, shiny tinsel, and colorful ornaments, with wrapped gifts placed beneath it. The room is further decorated with soft pastel macaroon-colored balloons and playful inflatable characters, enhancing the fun, cheerful vibe. The modern chairs surrounding the table are sleek and stylish, matching the elegant interior. The woman has long, straight hair, flowing with a gentle wave. Her radiant face is framed by soft makeup, and she wears a fitted, sophisticated black dress with a plunging neckline, paired with elegant high heels and a delicate bracelet. She holds a glass of red wine in one hand, smiling as she raises it for a toast, sitting poised yet relaxed. The entire scene exudes luxury, festivity, and the magic of a joyful Christmas celebration.",
-        "none",
-        "none",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 224,
       "type": "Note",
       "pos": [
@@ -5992,17 +5864,103 @@
       "flags": {
         "pinned": true
       },
-      "order": 35,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - AI提示词",
       "properties": {},
       "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“20多岁的美女穿着时尚且性感的服饰，在高级餐厅里庆祝圣诞节，坐在靠墙的座位，高级的餐桌上摆满精致的西式餐具和餐盘，3分熟的烤牛排、奶油鸡蛋布丁、小西红柿鱼肉沙拉等食物摆盘精致，桌上还有高级的红酒、气泡水，餐厅里布置着圣诞树和礼物，包含马卡龙色的气球、充气玩偶。白色的桌布和具有设计感的椅子。”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。"
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。请生成“20多岁的美女穿着时尚且性感的服饰，在高级餐厅里庆祝圣诞节，坐在靠墙的座位，高级的餐桌上摆满精致的西式餐具和餐盘，3分熟的烤牛排切成均匀的小块，露出粉色鲜嫩过的颜色，奶油鸡蛋布丁、小西红柿鱼肉沙拉等食物摆盘精致，桌上还有高级的红酒、气泡水，气泡水里泡着新鲜的柠檬片，餐厅里布置着圣诞树和礼物，包含马卡龙色的气球和\"2025\"字样形状的彩色充气气球。白色的桌布和具有未来设计感的椅子。”的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍。把你觉得生成结果最好的提示词放在前面。"
       ],
       "color": "#432",
       "bgcolor": "#653"
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -333.6468505859375,
+        230.5314178466797
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            242,
+            244,
+            422,
+            475
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ipndm",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 100,
+      "type": "PrimitiveNode",
+      "pos": [
+        -329.2467041015625,
+        383.5258483886719
+      ],
+      "size": [
+        258.80340576171875,
+        106
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            243,
+            245,
+            423,
+            476
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ddim_uniform",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 62,
@@ -6016,7 +5974,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6042,6 +6000,48 @@
       "widgets_values": [
         40,
         "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 143,
+      "type": "easy prompt",
+      "pos": [
+        -1712.3250732421875,
+        -394.9553527832031
+      ],
+      "size": [
+        527.3053588867188,
+        277.0857238769531
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            482,
+            483
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Positive Prompt",
+      "properties": {
+        "Node name for S&R": "easy prompt"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \nA stylish and sexy woman in her twenties, wearing a fashionable red velvet dress with delicate lace details, sitting at an elegant table in a luxurious restaurant. Her long, shiny black hair cascades down her back, and she has soft, radiant makeup with a bold red lip. She has a slender yet curvy figure, exuding a confident yet graceful posture. The table is adorned with fine white china, a gleaming set of silverware, and crystal glasses. On the table, there is a perfectly seared medium-rare steak, sliced into even small cubes revealing its pink, tender interior. Beside it, there is a creamy egg pudding, delicate and smooth, along with a fresh salad of cherry tomatoes and fish, arranged with exquisite precision. A glass of rich red wine is placed in front of her, and a sparkling water with fresh lemon slices floats in a chic glass. The restaurant is elegantly decorated for Christmas, with a beautifully lit Christmas tree adorned with gold and silver ornaments and presents piled underneath. Colorful balloons in pastel shades, including a \"2025\" inflatable balloon, float in the air. The chairs surrounding the table have a futuristic, minimalist design, and the white tablecloth adds to the sense of sophistication. Soft, warm lighting fills the room, enhancing the festive, upscale atmosphere.",
+        "none",
+        "none",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7606,10 +7606,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8954302432553429,
+      "scale": 1.083470594338971,
       "offset": [
-        1540.0339946527179,
-        673.4508987417129
+        1171.3201965465544,
+        879.8816074293403
       ]
     },
     "groupNodes": {},
