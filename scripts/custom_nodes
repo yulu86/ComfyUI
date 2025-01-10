@@ -64,9 +64,3 @@ ComfyUI_AdvancedRefluxControl=https://gh-proxy.com/https://github.com/kaibioinfo
 ComfyUI_LayerStyle=https://gh-proxy.com/https://github.com/chflame163/ComfyUI_LayerStyle.git
 # ComfyUI_IPAdapter_plus
 ComfyUI_IPAdapter_plus=https://gh-proxy.com/https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
-# comfyui_segment_anything
-comfyui_segment_anything=https://gh-proxy.com/https://github.com/storyicon/comfyui_segment_anything.git
-# ComfyUI-YoloWorld-EfficientSAM
-ComfyUI-YoloWorld-EfficientSAM=https://gh-proxy.com/https://github.com/ZHO-ZHO-ZHO/ComfyUI-YoloWorld-EfficientSAM.git
-# ComfyUI-Yolo-World-EfficientSAM
-ComfyUI-Yolo-World-EfficientSAM=https://gh-proxy.com/https://github.com/ycyy/ComfyUI-Yolo-World-EfficientSAM.git
