@@ -771,7 +771,7 @@
         58
       ],
       "flags": {},
-      "order": 99,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -809,7 +809,7 @@
         234
       ],
       "flags": {},
-      "order": 85,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -1814,7 +1814,7 @@
         26
       ],
       "flags": {},
-      "order": 63,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -2285,7 +2285,7 @@
         154
       ],
       "flags": {},
-      "order": 74,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2344,7 +2344,7 @@
         76
       ],
       "flags": {},
-      "order": 83,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -2427,7 +2427,7 @@
         76
       ],
       "flags": {},
-      "order": 98,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -2464,7 +2464,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 90,
       "mode": 2,
       "inputs": [
         {
@@ -2843,7 +2843,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 77,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2991,7 +2991,7 @@
         154
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -3106,7 +3106,7 @@
         154
       ],
       "flags": {},
-      "order": 88,
+      "order": 89,
       "mode": 2,
       "inputs": [
         {
@@ -3211,7 +3211,7 @@
         76
       ],
       "flags": {},
-      "order": 93,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -3320,7 +3320,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -3597,7 +3597,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 100,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -3638,7 +3638,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -3717,7 +3717,7 @@
         186
       ],
       "flags": {},
-      "order": 96,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -3916,7 +3916,7 @@
         76
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -3995,7 +3995,7 @@
         154
       ],
       "flags": {},
-      "order": 90,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -4239,7 +4239,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4286,7 +4286,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -5167,7 +5167,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -5293,7 +5293,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -5388,43 +5388,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -2150.402587890625,
-        -131.7042999267578
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            378
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "emmi_fukada"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 197,
       "type": "Reroute",
       "pos": [
@@ -5436,7 +5399,7 @@
         26
       ],
       "flags": {},
-      "order": 56,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -5475,7 +5438,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5514,7 +5477,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5543,32 +5506,6 @@
           false,
           true
         ]
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2226.72216796875,
-        -643.3020629882812
-      ],
-      "size": [
-        456.9431457519531,
-        159.67581176757812
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\na character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -5618,30 +5555,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 277,
-      "type": "Note",
-      "pos": [
-        -2722.67626953125,
-        -578.6913452148438
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词。注意，请不要描述她的服饰，仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 153,
       "type": "ReduxAdvanced",
       "pos": [
@@ -5653,7 +5566,7 @@
         234
       ],
       "flags": {},
-      "order": 91,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -5726,7 +5639,7 @@
         314
       ],
       "flags": {},
-      "order": 35,
+      "order": 32,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5769,7 +5682,7 @@
         58
       ],
       "flags": {},
-      "order": 36,
+      "order": 33,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5804,7 +5717,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -6055,7 +5968,7 @@
         238
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -6150,7 +6063,7 @@
         82
       ],
       "flags": {},
-      "order": 37,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6174,32 +6087,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2227.111083984375,
-        -434.5198669433594
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"Okita Anri\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -6211,7 +6098,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 39,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6243,6 +6130,121 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2226.7392578125,
+        -609.88232421875
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"Okita Anri\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 277,
+      "type": "Note",
+      "pos": [
+        -2226.7392578125,
+        -327.64617919921875
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词。注意，请不要描述她的服饰，仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -2158.401611328125,
+        -40.02364730834961
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            378
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "yua_mikami"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2226.7392578125,
+        -819.27978515625
+      ],
+      "size": [
+        456.9431457519531,
+        159.67581176757812
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\na character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -7836,10 +7838,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5559917313492563,
+      "scale": 1.3109994191500702,
       "offset": [
-        1477.4782411975375,
-        -2617.7020892855057
+        2786.8262517956173,
+        680.441307168343
       ]
     },
     "groupNodes": {},
