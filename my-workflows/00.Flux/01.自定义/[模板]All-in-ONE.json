@@ -1,6 +1,6 @@
 {
-  "last_node_id": 276,
-  "last_link_id": 488,
+  "last_node_id": 277,
+  "last_link_id": 489,
   "nodes": [
     {
       "id": 71,
@@ -14,7 +14,7 @@
         26
       ],
       "flags": {},
-      "order": 123,
+      "order": 124,
       "mode": 2,
       "inputs": [
         {
@@ -51,7 +51,7 @@
         46
       ],
       "flags": {},
-      "order": 124,
+      "order": 125,
       "mode": 2,
       "inputs": [
         {
@@ -92,7 +92,7 @@
         142
       ],
       "flags": {},
-      "order": 122,
+      "order": 123,
       "mode": 2,
       "inputs": [
         {
@@ -171,7 +171,7 @@
         26
       ],
       "flags": {},
-      "order": 127,
+      "order": 128,
       "mode": 2,
       "inputs": [
         {
@@ -207,7 +207,7 @@
         126
       ],
       "flags": {},
-      "order": 119,
+      "order": 120,
       "mode": 2,
       "inputs": [
         {
@@ -273,7 +273,7 @@
         76
       ],
       "flags": {},
-      "order": 120,
+      "order": 121,
       "mode": 2,
       "inputs": [
         {
@@ -346,7 +346,7 @@
         334
       ],
       "flags": {},
-      "order": 125,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -425,7 +425,7 @@
       },
       "widgets_values": [
         "enable",
-        604625115057139,
+        579078543999763,
         "fixed",
         20,
         1,
@@ -448,7 +448,7 @@
         76
       ],
       "flags": {},
-      "order": 121,
+      "order": 122,
       "mode": 2,
       "inputs": [
         {
@@ -485,7 +485,7 @@
         222
       ],
       "flags": {},
-      "order": 118,
+      "order": 119,
       "mode": 2,
       "inputs": [
         {
@@ -543,7 +543,7 @@
         150
       ],
       "flags": {},
-      "order": 126,
+      "order": 127,
       "mode": 2,
       "inputs": [
         {
@@ -589,7 +589,7 @@
         76
       ],
       "flags": {},
-      "order": 77,
+      "order": 78,
       "mode": 2,
       "inputs": [
         {
@@ -771,7 +771,7 @@
         58
       ],
       "flags": {},
-      "order": 98,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -809,7 +809,7 @@
         234
       ],
       "flags": {},
-      "order": 84,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -835,7 +835,7 @@
         {
           "name": "mask",
           "type": "MASK",
-          "link": null,
+          "link": 489,
           "shape": 7
         }
       ],
@@ -845,79 +845,6 @@
           "type": "CONDITIONING",
           "links": [
             312
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": null
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ReduxAdvanced"
-      },
-      "widgets_values": [
-        2,
-        "area",
-        "keep aspect ratio",
-        1,
-        0.1
-      ]
-    },
-    {
-      "id": 153,
-      "type": "ReduxAdvanced",
-      "pos": [
-        1245.16943359375,
-        -1037.914794921875
-      ],
-      "size": [
-        315,
-        234
-      ],
-      "flags": {},
-      "order": 90,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "conditioning",
-          "type": "CONDITIONING",
-          "link": 312
-        },
-        {
-          "name": "style_model",
-          "type": "STYLE_MODEL",
-          "link": 310
-        },
-        {
-          "name": "clip_vision",
-          "type": "CLIP_VISION",
-          "link": 311
-        },
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 309
-        },
-        {
-          "name": "mask",
-          "type": "MASK",
-          "link": null,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            313
           ],
           "slot_index": 0
         },
@@ -955,7 +882,7 @@
         130
       ],
       "flags": {},
-      "order": 68,
+      "order": 69,
       "mode": 2,
       "inputs": [
         {
@@ -1007,7 +934,7 @@
         102
       ],
       "flags": {},
-      "order": 79,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -1053,7 +980,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 85,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -1080,7 +1007,7 @@
         102
       ],
       "flags": {},
-      "order": 69,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -1162,7 +1089,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 40,
+      "order": 41,
       "mode": 2,
       "inputs": [
         {
@@ -1207,7 +1134,7 @@
         26
       ],
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 2,
       "inputs": [
         {
@@ -1311,7 +1238,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 78,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -1338,7 +1265,7 @@
         234
       ],
       "flags": {},
-      "order": 58,
+      "order": 59,
       "mode": 2,
       "inputs": [
         {
@@ -1411,7 +1338,7 @@
         58
       ],
       "flags": {},
-      "order": 66,
+      "order": 67,
       "mode": 2,
       "inputs": [
         {
@@ -1450,7 +1377,7 @@
         138
       ],
       "flags": {},
-      "order": 91,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -1588,7 +1515,7 @@
         46
       ],
       "flags": {},
-      "order": 100,
+      "order": 101,
       "mode": 2,
       "inputs": [
         {
@@ -1630,7 +1557,7 @@
         330
       ],
       "flags": {},
-      "order": 60,
+      "order": 61,
       "mode": 2,
       "inputs": [
         {
@@ -1720,7 +1647,7 @@
         26
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 2,
       "inputs": [
         {
@@ -1758,7 +1685,7 @@
         26
       ],
       "flags": {},
-      "order": 71,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -1796,7 +1723,7 @@
         262
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -1866,7 +1793,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        604625115057139,
+        579078543999763,
         "randomize",
         40,
         1,
@@ -1887,7 +1814,7 @@
         26
       ],
       "flags": {},
-      "order": 62,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -1927,7 +1854,7 @@
         26
       ],
       "flags": {},
-      "order": 70,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -1963,7 +1890,7 @@
         26
       ],
       "flags": {},
-      "order": 80,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -2001,7 +1928,7 @@
         26
       ],
       "flags": {},
-      "order": 81,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -2039,7 +1966,7 @@
         330
       ],
       "flags": {},
-      "order": 61,
+      "order": 62,
       "mode": 2,
       "inputs": [
         {
@@ -2131,7 +2058,7 @@
         130
       ],
       "flags": {},
-      "order": 102,
+      "order": 103,
       "mode": 2,
       "inputs": [
         {
@@ -2220,7 +2147,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        124760185257071,
+        435690734166203,
         "randomize"
       ],
       "color": "#232",
@@ -2238,7 +2165,7 @@
         76
       ],
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 2,
       "inputs": [
         {
@@ -2256,7 +2183,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        124760185257071,
+        435690734166203,
         "582852026162093"
       ],
       "color": "#322",
@@ -2274,7 +2201,7 @@
         58
       ],
       "flags": {},
-      "order": 86,
+      "order": 87,
       "mode": 2,
       "inputs": [
         {
@@ -2312,7 +2239,7 @@
         78
       ],
       "flags": {},
-      "order": 47,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -2343,7 +2270,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        604625115057139
+        579078543999763
       ]
     },
     {
@@ -2358,7 +2285,7 @@
         154
       ],
       "flags": {},
-      "order": 73,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2417,7 +2344,7 @@
         76
       ],
       "flags": {},
-      "order": 82,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -2439,7 +2366,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "emmi_fukada_low_298846162072063"
+        "emmi_fukada_low_800134323784066"
       ]
     },
     {
@@ -2454,7 +2381,7 @@
         78
       ],
       "flags": {},
-      "order": 48,
+      "order": 49,
       "mode": 2,
       "inputs": [
         {
@@ -2485,7 +2412,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        604625115057139
+        579078543999763
       ]
     },
     {
@@ -2500,7 +2427,7 @@
         76
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -2537,7 +2464,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 89,
       "mode": 2,
       "inputs": [
         {
@@ -2580,7 +2507,7 @@
         26
       ],
       "flags": {},
-      "order": 53,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -2620,7 +2547,7 @@
         164.31304931640625
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 2,
       "inputs": [
         {
@@ -2706,7 +2633,7 @@
         262
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -2776,7 +2703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        124760185257071,
+        435690734166203,
         "randomize",
         40,
         1,
@@ -2797,7 +2724,7 @@
         76
       ],
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -2816,7 +2743,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        604625115057139,
+        579078543999763,
         ""
       ],
       "color": "#323",
@@ -2903,79 +2830,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 106,
-      "type": "LoadImage",
-      "pos": [
-        90.76995086669922,
-        -823.13232421875
-      ],
-      "size": [
-        315,
-        314
-      ],
-      "flags": {},
-      "order": 14,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            306
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "dress.webp",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 151,
-      "type": "StyleModelLoader",
-      "pos": [
-        82.89153289794922,
-        -1038.519775390625
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 15,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STYLE_MODEL",
-          "type": "STYLE_MODEL",
-          "links": [
-            307,
-            310
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "StyleModelLoader"
-      },
-      "widgets_values": [
-        "flux1-redux-dev.safetensors"
-      ]
-    },
-    {
       "id": 91,
       "type": "CLIPTextEncode",
       "pos": [
@@ -2989,7 +2843,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3042,7 +2896,7 @@
         106
       ],
       "flags": {},
-      "order": 45,
+      "order": 46,
       "mode": 2,
       "inputs": [
         {
@@ -3087,7 +2941,7 @@
         78
       ],
       "flags": {},
-      "order": 67,
+      "order": 68,
       "mode": 2,
       "inputs": [
         {
@@ -3137,7 +2991,7 @@
         154
       ],
       "flags": {},
-      "order": 93,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -3197,7 +3051,7 @@
         118
       ],
       "flags": {},
-      "order": 128,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -3252,7 +3106,7 @@
         154
       ],
       "flags": {},
-      "order": 87,
+      "order": 88,
       "mode": 2,
       "inputs": [
         {
@@ -3311,7 +3165,7 @@
         78
       ],
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 2,
       "inputs": [
         {
@@ -3342,7 +3196,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        124760185257071
+        435690734166203
       ]
     },
     {
@@ -3357,7 +3211,7 @@
         76
       ],
       "flags": {},
-      "order": 92,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -3394,7 +3248,7 @@
         205.58164978027344
       ],
       "flags": {},
-      "order": 103,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -3421,7 +3275,7 @@
         46
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -3466,7 +3320,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -3521,7 +3375,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -3586,7 +3440,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 16,
+      "order": 14,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -3620,7 +3474,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 17,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3654,7 +3508,7 @@
         106
       ],
       "flags": {},
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -3702,7 +3556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -3743,7 +3597,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -3784,7 +3638,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 63,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -3824,7 +3678,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -3863,7 +3717,7 @@
         186
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 4,
       "inputs": [
         {
@@ -3935,7 +3789,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 18,
+      "order": 16,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -3980,7 +3834,7 @@
         76
       ],
       "flags": {},
-      "order": 51,
+      "order": 52,
       "mode": 2,
       "inputs": [
         {
@@ -3998,7 +3852,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        5609258504793,
+        774048746240086,
         "371182853408753"
       ],
       "color": "#322",
@@ -4016,7 +3870,7 @@
         78
       ],
       "flags": {},
-      "order": 50,
+      "order": 51,
       "mode": 2,
       "inputs": [
         {
@@ -4047,7 +3901,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        5609258504793
+        774048746240086
       ]
     },
     {
@@ -4062,7 +3916,7 @@
         76
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -4099,7 +3953,7 @@
         46
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -4141,7 +3995,7 @@
         154
       ],
       "flags": {},
-      "order": 89,
+      "order": 90,
       "mode": 2,
       "inputs": [
         {
@@ -4200,7 +4054,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 19,
+      "order": 17,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4246,7 +4100,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -4284,7 +4138,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 117,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -4339,7 +4193,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 20,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4385,7 +4239,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 83,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -4432,7 +4286,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 74,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -4477,7 +4331,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -4519,7 +4373,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 114,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -4562,7 +4416,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 116,
+      "order": 117,
       "mode": 2,
       "inputs": [
         {
@@ -4627,7 +4481,7 @@
         82
       ],
       "flags": {},
-      "order": 21,
+      "order": 19,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4660,7 +4514,7 @@
         58
       ],
       "flags": {},
-      "order": 22,
+      "order": 20,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4693,7 +4547,7 @@
         138
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -4769,7 +4623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 23,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4793,7 +4647,7 @@
         82
       ],
       "flags": {},
-      "order": 24,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4818,7 +4672,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        604625115057139,
+        579078543999763,
         "randomize"
       ],
       "color": "#232",
@@ -4836,7 +4690,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 25,
+      "order": 23,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4858,7 +4712,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        5609258504793,
+        774048746240086,
         "randomize"
       ],
       "color": "#232",
@@ -4876,7 +4730,7 @@
         262
       ],
       "flags": {},
-      "order": 109,
+      "order": 110,
       "mode": 2,
       "inputs": [
         {
@@ -4938,7 +4792,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        5609258504793,
+        774048746240086,
         "randomize",
         20,
         1,
@@ -4946,50 +4800,6 @@
         "ddim_uniform",
         1
       ]
-    },
-    {
-      "id": 43,
-      "type": "EmptyLatentImage",
-      "pos": [
-        976.0031127929688,
-        -296.7618408203125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "height",
-          "type": "INT",
-          "link": 417,
-          "widget": {
-            "name": "height"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            127
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "EmptyLatentImage"
-      },
-      "widgets_values": [
-        1080,
-        1280,
-        1
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 220,
@@ -5003,7 +4813,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5041,7 +4851,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -5106,7 +4916,7 @@
         620.7426147460938
       ],
       "flags": {},
-      "order": 115,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -5153,7 +4963,7 @@
         620.3939819335938
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -5200,7 +5010,7 @@
         1727.60693359375
       ],
       "flags": {},
-      "order": 129,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -5247,7 +5057,7 @@
         602
       ],
       "flags": {},
-      "order": 131,
+      "order": 132,
       "mode": 2,
       "inputs": [
         {
@@ -5310,7 +5120,7 @@
         602
       ],
       "flags": {},
-      "order": 130,
+      "order": 131,
       "mode": 2,
       "inputs": [
         {
@@ -5373,7 +5183,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 112,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -5400,7 +5210,7 @@
         106
       ],
       "flags": {},
-      "order": 27,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5443,7 +5253,7 @@
         106
       ],
       "flags": {},
-      "order": 28,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5486,7 +5296,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5528,7 +5338,7 @@
         106
       ],
       "flags": {},
-      "order": 59,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -5575,7 +5385,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 65,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -5654,7 +5464,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 30,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5701,7 +5511,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -5769,7 +5579,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 31,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5809,7 +5619,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5833,32 +5643,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2226.72216796875,
-        -643.3020629882812
-      ],
-      "size": [
-        456.9431457519531,
-        159.67581176757812
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 197,
       "type": "Reroute",
       "pos": [
@@ -5870,7 +5654,7 @@
         26
       ],
       "flags": {},
-      "order": 55,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -5909,7 +5693,7 @@
         82
       ],
       "flags": {},
-      "order": 34,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5933,32 +5717,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2227.111083984375,
-        -434.5198669433594
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -5970,7 +5728,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 36,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5998,51 +5756,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1692.5859375,
-        -382.6662292480469
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 主题",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "emmifukada, Eimi Fukada, a stunning Japanese girl, wearing black glasses, poses elegantly in a modern chic cafe, her fashionable outfit reflecting a contemporary style. She wears a white blouse with lace detailing, tucked into a high-waisted pleated skirt in a pastel pink shade. Her long, silky black hair is styled in loose waves, cascading down her shoulders, and she wears minimalistic makeup with a natural finish—just a hint of blush and nude lipstick. Her posture is poised, sitting on a velvet armchair, one leg crossed over the other, gently sipping on a coffee cup with a serene expression. The cafe’s interior features soft ambient lighting, with wooden tables, potted plants, and a large window offering a view of a city skyline in the distance. The scene is stylish, with a blend of modern and cozy, creating a calm yet fashionable atmosphere.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 39,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
@@ -6054,7 +5767,7 @@
         214
       ],
       "flags": {},
-      "order": 56,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -6132,41 +5845,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 139,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -1105.00146484375,
-        -765.0095825195312
-      ],
-      "size": [
-        688.4075317382812,
-        270.49505615234375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 64,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 487,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -6178,8 +5856,8 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 38,
-      "mode": 0,
+      "order": 33,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -6210,6 +5888,355 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2226.72216796875,
+        -643.3020629882812
+      ],
+      "size": [
+        456.9431457519531,
+        159.67581176757812
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\na character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 139,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1105.00146484375,
+        -765.0095825195312
+      ],
+      "size": [
+        688.4075317382812,
+        270.49505615234375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 487,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 43,
+      "type": "EmptyLatentImage",
+      "pos": [
+        976.0031127929688,
+        -296.7618408203125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 417,
+          "widget": {
+            "name": "height"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            127
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        1080,
+        1280,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 277,
+      "type": "Note",
+      "pos": [
+        -2722.67626953125,
+        -578.6913452148438
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词。注意，请不要描述她的服饰，仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 153,
+      "type": "ReduxAdvanced",
+      "pos": [
+        1245.16943359375,
+        -1037.914794921875
+      ],
+      "size": [
+        315,
+        234
+      ],
+      "flags": {},
+      "order": 91,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 312
+        },
+        {
+          "name": "style_model",
+          "type": "STYLE_MODEL",
+          "link": 310
+        },
+        {
+          "name": "clip_vision",
+          "type": "CLIP_VISION",
+          "link": 311
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 309
+        },
+        {
+          "name": "mask",
+          "type": "MASK",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            313
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ReduxAdvanced"
+      },
+      "widgets_values": [
+        2,
+        "area",
+        "keep aspect ratio",
+        1,
+        0.1
+      ]
+    },
+    {
+      "id": 106,
+      "type": "LoadImage",
+      "pos": [
+        90.76995086669922,
+        -823.13232421875
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            306
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [
+            489
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "clipspace/clipspace-mask-253644.png [input]",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 151,
+      "type": "StyleModelLoader",
+      "pos": [
+        82.89153289794922,
+        -1038.519775390625
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STYLE_MODEL",
+          "type": "STYLE_MODEL",
+          "links": [
+            307,
+            310
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "StyleModelLoader"
+      },
+      "widgets_values": [
+        "flux1-redux-dev.safetensors"
+      ]
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2227.111083984375,
+        -434.5198669433594
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"eimi fukada\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1692.5859375,
+        -382.6662292480469
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "emmifukada, Portrait of Eimi Fukada, a Japanese adult film actress, standing in a luxurious Tokyo apartment, the sun casting soft golden light through large windows, creating a warm ambiance. She has long, silky black hair, a delicate face with gentle features, and a bright smile. Her outfit is a modern, fashionable red dress with lace details, tight-fitting at the waist and flowing at the bottom, paired with elegant high heels. The background shows a cozy, stylish room with minimalist furniture and subtle Japanese decor, including bamboo plants and traditional calligraphy art on the wall. The overall vibe is sophisticated, yet playful, with a sense of grace and poise. Her posture is confident, one hand resting on the window sill, the other holding a glass of champagne, exuding an aura of charm and elegance. Soft lighting enhances the gentle contours of her face and body, highlighting her natural beauty. Her eyes sparkle with confidence and mystery",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -7684,6 +7711,14 @@
       90,
       0,
       "STRING"
+    ],
+    [
+      489,
+      106,
+      1,
+      150,
+      4,
+      "MASK"
     ]
   ],
   "groups": [
@@ -7795,17 +7830,17 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9849732675807744,
+      "scale": 0.7400249944258308,
       "offset": [
-        2168.5908778611397,
-        1139.6343900955465
+        -157.36750175213987,
+        742.9436456452197
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
       "ComfyUI-Easy-Use": "be8306b17ad96aa7326bcc8012cc7c3489a94ab5",
-      "comfy-core": "v0.3.10-288-g3d713955",
+      "comfy-core": "v0.3.10-293-g8e01731e",
       "Comfyui_TTP_Toolset": "6cd176d87da9141c7621728499c9b5a820c35465",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
