@@ -1633,7 +1633,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        631848136053801,
+        461652272564741,
         "randomize",
         40,
         1,
@@ -1987,7 +1987,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        595837470374328,
+        226256246968402,
         "randomize"
       ],
       "color": "#232",
@@ -2023,7 +2023,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        595837470374328,
+        226256246968402,
         "582852026162093"
       ],
       "color": "#322",
@@ -2110,7 +2110,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        631848136053801
+        461652272564741
       ]
     },
     {
@@ -2206,7 +2206,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "eimifukada_low_776546035884989"
+        "eimifukada_low_589401616677636"
       ]
     },
     {
@@ -2252,7 +2252,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        631848136053801
+        461652272564741
       ]
     },
     {
@@ -2543,7 +2543,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        595837470374328,
+        226256246968402,
         "randomize",
         40,
         1,
@@ -2583,7 +2583,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        631848136053801,
+        461652272564741,
         ""
       ],
       "color": "#323",
@@ -2846,7 +2846,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        595837470374328
+        226256246968402
       ]
     },
     {
@@ -3455,7 +3455,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        710895244499487,
+        1005195304154407,
         "371182853408753"
       ],
       "color": "#322",
@@ -3504,7 +3504,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        710895244499487
+        1005195304154407
       ]
     },
     {
@@ -4089,7 +4089,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        631848136053801,
+        461652272564741,
         "randomize"
       ],
       "color": "#232",
@@ -4129,7 +4129,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        710895244499487,
+        1005195304154407,
         "randomize"
       ],
       "color": "#232",
@@ -4209,7 +4209,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        710895244499487,
+        1005195304154407,
         "randomize",
         20,
         1,
@@ -5273,7 +5273,7 @@
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
-        "eimifukada"
+        "Japanese Beauty Christmas"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -5300,58 +5300,6 @@
       "properties": {},
       "widgets_values": [
         "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\na character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 277,
-      "type": "Note",
-      "pos": [
-        -2226.7392578125,
-        -327.64617919921875
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词。注意，请不要描述她的服饰，仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2226.7392578125,
-        -609.88232421875
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"美女过圣诞节\""
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -5545,7 +5493,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 34,
+      "order": 32,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5589,7 +5537,7 @@
         82
       ],
       "flags": {},
-      "order": 35,
+      "order": 33,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -5730,7 +5678,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 36,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6130,7 +6078,7 @@
       },
       "widgets_values": [
         "enable",
-        631848136053801,
+        461652272564741,
         "fixed",
         20,
         1,
@@ -6153,7 +6101,7 @@
         82
       ],
       "flags": {},
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6188,7 +6136,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6301,7 +6249,7 @@
         {
           "on": true,
           "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 1,
+          "strength": 0.9,
           "strengthTwo": null
         },
         null,
@@ -6322,7 +6270,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6346,7 +6294,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "eimifukada, A stunning woman celebrating Christmas in a cozy, wearing black glasses, festive living room. She’s wearing a red velvet Christmas dress with white fur trim, the hemline slightly above her knee, paired with knee-high stockings and festive boots. Her hair is long, wavy, and golden blonde, gently cascading over her shoulders. She’s smiling warmly, holding a steaming cup of hot chocolate, surrounded by twinkling Christmas lights and a large decorated tree with golden ornaments. The room is filled with soft, ambient lighting from a crackling fireplace, casting a warm glow over the wooden floors and a pile of colorful wrapped gifts. Snow is falling gently outside the window, creating a peaceful, winter wonderland vibe. She’s sitting on a plush armchair, her posture relaxed but elegant, with one leg casually draped over the armrest, showing a playful, inviting expression. The atmosphere is cheerful, cozy, and full of holiday magic",
+        "eimifukada, A beautiful Japanese woman celebrating Christmas, wearing a stylish red and white fur-trimmed Christmas outfit. She has long, silky black hair styled in loose waves, wearing soft makeup with a natural glow and a bright smile. Her eyes sparkle with excitement, and she is standing in front of a decorated Christmas tree with colorful ornaments and twinkling fairy lights. Snow is gently falling in the background, and a warm, cozy fireplace is glowing with orange hues. She holds a delicate snowflake ornament in one hand while the other is adjusting a strand of her hair. The room is adorned with festive decorations, such as garlands, mistletoe, and stockings hung by the fireplace. The atmosphere is magical and joyful, with a mix of warmth and winter cold. The woman has a slender figure and a gentle, graceful pose, giving off a soft, festive charm.",
         [
           false,
           true
@@ -6354,6 +6302,58 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2226.7392578125,
+        -609.88232421875
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"日本美女过圣诞节\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 277,
+      "type": "Note",
+      "pos": [
+        -2226.7392578125,
+        -327.64617919921875
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。注意，请不要描述她的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"日本美女过圣诞节\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -7971,10 +7971,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.555991731349226,
+      "scale": 1.442099361065003,
       "offset": [
-        3191.839768838302,
-        1196.4144888764804
+        2700.449621598727,
+        549.0740986335092
       ]
     },
     "groupNodes": {},
