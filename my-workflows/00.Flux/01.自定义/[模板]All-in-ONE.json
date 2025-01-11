@@ -425,7 +425,7 @@
       },
       "widgets_values": [
         "enable",
-        768933444505670,
+        354423285683739,
         "fixed",
         20,
         1,
@@ -1793,7 +1793,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        768933444505670,
+        354423285683739,
         "randomize",
         40,
         1,
@@ -2147,7 +2147,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        881046819057819,
+        36132268200562,
         "randomize"
       ],
       "color": "#232",
@@ -2183,7 +2183,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        881046819057819,
+        36132268200562,
         "582852026162093"
       ],
       "color": "#322",
@@ -2270,7 +2270,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        768933444505670
+        354423285683739
       ]
     },
     {
@@ -2366,7 +2366,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "emmi_fukada_low_918915256189913"
+        "emmi_fukada_low_285098539452383"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        768933444505670
+        354423285683739
       ]
     },
     {
@@ -2703,7 +2703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        881046819057819,
+        36132268200562,
         "randomize",
         40,
         1,
@@ -2743,7 +2743,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        768933444505670,
+        354423285683739,
         ""
       ],
       "color": "#323",
@@ -3196,7 +3196,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        881046819057819
+        36132268200562
       ]
     },
     {
@@ -3638,7 +3638,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -3852,7 +3852,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        673807460985525,
+        1111742716088724,
         "371182853408753"
       ],
       "color": "#322",
@@ -3901,7 +3901,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        673807460985525
+        1111742716088724
       ]
     },
     {
@@ -4672,7 +4672,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        768933444505670,
+        354423285683739,
         "randomize"
       ],
       "color": "#232",
@@ -4712,7 +4712,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        673807460985525,
+        1111742716088724,
         "randomize"
       ],
       "color": "#232",
@@ -4792,7 +4792,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        673807460985525,
+        1111742716088724,
         "randomize",
         20,
         1,
@@ -5167,7 +5167,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -5293,7 +5293,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -5464,41 +5464,6 @@
       }
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "default"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -5510,7 +5475,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5538,95 +5503,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        214
-      ],
-      "flags": {},
-      "order": 57,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
-          "strength": 0.45,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -5638,8 +5514,8 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 33,
-      "mode": 4,
+      "order": 32,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -5685,7 +5561,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5753,7 +5629,7 @@
         234.8047332763672
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5850,7 +5726,7 @@
         314
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5893,7 +5769,7 @@
         58
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5928,7 +5804,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5952,7 +5828,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5999,7 +5875,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -6237,6 +6113,136 @@
         "true",
         "true"
       ]
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        238
+      ],
+      "flags": {},
+      "order": 58,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
+          "strength": 0.45,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "majicflus_v10.safetensors",
+        "default"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -7830,17 +7836,17 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.0834705943388636,
+      "scale": 0.740024994425835,
       "offset": [
-        3303.731690221505,
-        793.8038981536389
+        3582.2021778673784,
+        933.0755482403852
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
       "ComfyUI-Easy-Use": "be8306b17ad96aa7326bcc8012cc7c3489a94ab5",
-      "comfy-core": "v0.3.10-293-g8e01731e",
+      "comfy-core": "v0.3.10-296-g54c81ec4",
       "Comfyui_TTP_Toolset": "6cd176d87da9141c7621728499c9b5a820c35465",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
