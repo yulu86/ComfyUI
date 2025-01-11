@@ -425,7 +425,7 @@
       },
       "widgets_values": [
         "enable",
-        579078543999763,
+        887509239572111,
         "fixed",
         20,
         1,
@@ -1793,7 +1793,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        579078543999763,
+        887509239572111,
         "randomize",
         40,
         1,
@@ -2147,7 +2147,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        435690734166203,
+        478592014468672,
         "randomize"
       ],
       "color": "#232",
@@ -2183,7 +2183,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        435690734166203,
+        478592014468672,
         "582852026162093"
       ],
       "color": "#322",
@@ -2270,7 +2270,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        579078543999763
+        887509239572111
       ]
     },
     {
@@ -2366,7 +2366,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "emmi_fukada_low_800134323784066"
+        "emmi_fukada_low_918915256189913"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        579078543999763
+        887509239572111
       ]
     },
     {
@@ -2703,7 +2703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        435690734166203,
+        478592014468672,
         "randomize",
         40,
         1,
@@ -2743,7 +2743,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        579078543999763,
+        887509239572111,
         ""
       ],
       "color": "#323",
@@ -3196,7 +3196,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        435690734166203
+        478592014468672
       ]
     },
     {
@@ -3852,7 +3852,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        774048746240086,
+        15561263114138,
         "371182853408753"
       ],
       "color": "#322",
@@ -3901,7 +3901,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        774048746240086
+        15561263114138
       ]
     },
     {
@@ -4672,7 +4672,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        579078543999763,
+        887509239572111,
         "randomize"
       ],
       "color": "#232",
@@ -4712,7 +4712,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        774048746240086,
+        15561263114138,
         "randomize"
       ],
       "color": "#232",
@@ -4792,7 +4792,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        774048746240086,
+        15561263114138,
         "randomize",
         20,
         1,
@@ -5916,41 +5916,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 139,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -1105.00146484375,
-        -765.0095825195312
-      ],
-      "size": [
-        688.4075317382812,
-        270.49505615234375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 65,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 487,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 43,
       "type": "EmptyLatentImage",
       "pos": [
@@ -6229,7 +6194,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "emmifukada, Portrait of Eimi Fukada, a Japanese adult film actress, standing in a luxurious Tokyo apartment, the sun casting soft golden light through large windows, creating a warm ambiance. She has long, silky black hair, a delicate face with gentle features, and a bright smile. Her outfit is a modern, fashionable red dress with lace details, tight-fitting at the waist and flowing at the bottom, paired with elegant high heels. The background shows a cozy, stylish room with minimalist furniture and subtle Japanese decor, including bamboo plants and traditional calligraphy art on the wall. The overall vibe is sophisticated, yet playful, with a sense of grace and poise. Her posture is confident, one hand resting on the window sill, the other holding a glass of champagne, exuding an aura of charm and elegance. Soft lighting enhances the gentle contours of her face and body, highlighting her natural beauty. Her eyes sparkle with confidence and mystery",
+        "emmifukada, A highly detailed portrait of Eimi Fukada, wearing black glasses, sitting elegantly on a luxurious sofa, wearing a chic, deep blue velvet dress with a plunging neckline, her posture relaxed but confident. Her long, straight hair flows down her back, complemented by natural makeup, emphasizing her youthful features. The soft lighting from an overhead chandelier casts shadows on her delicate skin, adding depth to her appearance. She is surrounded by an upscale, modern interior with leather furniture, an ornate gold-framed mirror, and a shelf filled with books and decorative items. A slight smile graces her lips as she looks off to the side, her hands gently resting on her lap, exuding a sense of calm yet captivating allure. The room is filled with a serene atmosphere, with plush cushions and soft fabrics contributing to the sophisticated vibe",
         [
           false,
           true
@@ -6237,6 +6202,41 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 139,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1105.00146484375,
+        -765.0095825195312
+      ],
+      "size": [
+        688.4075317382812,
+        270.49505615234375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 487,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -7830,10 +7830,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7400249944258308,
+      "scale": 0.6115909044841586,
       "offset": [
-        -157.36750175213987,
-        742.9436456452197
+        9.320635591065411,
+        1019.8602900814727
       ]
     },
     "groupNodes": {},
