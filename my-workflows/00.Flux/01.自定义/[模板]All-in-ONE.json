@@ -425,7 +425,7 @@
       },
       "widgets_values": [
         "enable",
-        354423285683739,
+        768494297743740,
         "fixed",
         20,
         1,
@@ -1793,7 +1793,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        354423285683739,
+        768494297743740,
         "randomize",
         40,
         1,
@@ -2147,7 +2147,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        36132268200562,
+        280476511859572,
         "randomize"
       ],
       "color": "#232",
@@ -2183,7 +2183,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        36132268200562,
+        280476511859572,
         "582852026162093"
       ],
       "color": "#322",
@@ -2270,7 +2270,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        354423285683739
+        768494297743740
       ]
     },
     {
@@ -2366,7 +2366,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "emmi_fukada_low_285098539452383"
+        "emmi_fukada_low_354423285683739"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        354423285683739
+        768494297743740
       ]
     },
     {
@@ -2703,7 +2703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        36132268200562,
+        280476511859572,
         "randomize",
         40,
         1,
@@ -2743,7 +2743,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        354423285683739,
+        768494297743740,
         ""
       ],
       "color": "#323",
@@ -3196,7 +3196,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        36132268200562
+        280476511859572
       ]
     },
     {
@@ -3638,7 +3638,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 66,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -3852,7 +3852,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        1111742716088724,
+        795904717656630,
         "371182853408753"
       ],
       "color": "#322",
@@ -3901,7 +3901,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        1111742716088724
+        795904717656630
       ]
     },
     {
@@ -4672,7 +4672,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        354423285683739,
+        768494297743740,
         "randomize"
       ],
       "color": "#232",
@@ -4712,7 +4712,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        1111742716088724,
+        795904717656630,
         "randomize"
       ],
       "color": "#232",
@@ -4792,7 +4792,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1111742716088724,
+        795904717656630,
         "randomize",
         20,
         1,
@@ -5167,7 +5167,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 65,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -5293,7 +5293,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -5791,77 +5791,6 @@
       ]
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2227.111083984375,
-        -434.5198669433594
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"eimi fukada\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1692.5859375,
-        -382.6662292480469
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 主题",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "emmifukada, A highly detailed portrait of Eimi Fukada, wearing black glasses, sitting elegantly on a luxurious sofa, wearing a chic, deep blue velvet dress with a plunging neckline, her posture relaxed but confident. Her long, straight hair flows down her back, complemented by natural makeup, emphasizing her youthful features. The soft lighting from an overhead chandelier casts shadows on her delicate skin, adding depth to her appearance. She is surrounded by an upscale, modern interior with leather furniture, an ornate gold-framed mirror, and a shelf filled with books and decorative items. A slight smile graces her lips as she looks off to the side, her hands gently resting on her lap, exuding a sense of calm yet captivating allure. The room is filled with a serene atmosphere, with plush cushions and soft fabrics contributing to the sophisticated vibe",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 139,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -5875,7 +5804,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -6126,7 +6055,7 @@
         238
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -6221,7 +6150,7 @@
         82
       ],
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6240,6 +6169,77 @@
       "widgets_values": [
         "majicflus_v10.safetensors",
         "default"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2227.111083984375,
+        -434.5198669433594
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"Okita Anri\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1692.5859375,
+        -382.6662292480469
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "Okita Anri, a young woman with waist-length raven-black hair, styled elegantly in soft waves, wearing a traditional Japanese warrior outfit with a modern twist. Her attire features a light blue kimono with intricate floral patterns in gold and silver, a tight-fitting waist and flowing sleeves. Her delicate, porcelain-like skin contrasts with her sharp, piercing eyes that reflect both strength and serenity. She is standing in a dimly lit room, illuminated by the soft glow of lanterns, holding a katana at her side. The room has ancient wooden flooring, and the walls are adorned with calligraphy scrolls. Her posture is poised and confident, her right hand resting lightly on the hilt of the sword, and her gaze directed toward the door, as if waiting for a challenge. The ambiance is filled with quiet tension, a mix of tranquility and preparedness, with a hint of nostalgia for ancient traditions.",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7836,17 +7836,17 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.740024994425835,
+      "scale": 0.5559917313492563,
       "offset": [
-        3582.2021778673784,
-        933.0755482403852
+        1477.4782411975375,
+        -2617.7020892855057
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
       "ComfyUI-Easy-Use": "be8306b17ad96aa7326bcc8012cc7c3489a94ab5",
-      "comfy-core": "v0.3.10-296-g54c81ec4",
+      "comfy-core": "v0.3.10-297-gfe3bec24",
       "Comfyui_TTP_Toolset": "6cd176d87da9141c7621728499c9b5a820c35465",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
