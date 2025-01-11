@@ -425,7 +425,7 @@
       },
       "widgets_values": [
         "enable",
-        336987870302229,
+        604625115057139,
         "fixed",
         20,
         1,
@@ -771,7 +771,7 @@
         58
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -809,7 +809,7 @@
         234
       ],
       "flags": {},
-      "order": 82,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -882,7 +882,7 @@
         234
       ],
       "flags": {},
-      "order": 87,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -1630,7 +1630,7 @@
         330
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -1866,7 +1866,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        336987870302229,
+        604625115057139,
         "randomize",
         40,
         1,
@@ -1887,7 +1887,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -2039,7 +2039,7 @@
         330
       ],
       "flags": {},
-      "order": 62,
+      "order": 61,
       "mode": 2,
       "inputs": [
         {
@@ -2220,7 +2220,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        59502865420048,
+        124760185257071,
         "randomize"
       ],
       "color": "#232",
@@ -2256,7 +2256,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        59502865420048,
+        124760185257071,
         "582852026162093"
       ],
       "color": "#322",
@@ -2312,7 +2312,7 @@
         78
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -2343,7 +2343,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        336987870302229
+        604625115057139
       ]
     },
     {
@@ -2358,7 +2358,7 @@
         154
       ],
       "flags": {},
-      "order": 75,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -2417,7 +2417,7 @@
         76
       ],
       "flags": {},
-      "order": 83,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -2439,7 +2439,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "美女圣诞节_low_169985450324986"
+        "emmi_fukada_low_298846162072063"
       ]
     },
     {
@@ -2454,7 +2454,7 @@
         78
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -2485,7 +2485,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        336987870302229
+        604625115057139
       ]
     },
     {
@@ -2500,7 +2500,7 @@
         76
       ],
       "flags": {},
-      "order": 99,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -2537,7 +2537,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 88,
       "mode": 2,
       "inputs": [
         {
@@ -2580,7 +2580,7 @@
         26
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -2776,7 +2776,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        59502865420048,
+        124760185257071,
         "randomize",
         40,
         1,
@@ -2797,7 +2797,7 @@
         76
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -2816,7 +2816,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        336987870302229,
+        604625115057139,
         ""
       ],
       "color": "#323",
@@ -2989,7 +2989,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -3137,7 +3137,7 @@
         154
       ],
       "flags": {},
-      "order": 94,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -3252,7 +3252,7 @@
         154
       ],
       "flags": {},
-      "order": 88,
+      "order": 87,
       "mode": 2,
       "inputs": [
         {
@@ -3342,7 +3342,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        59502865420048
+        124760185257071
       ]
     },
     {
@@ -3357,7 +3357,7 @@
         76
       ],
       "flags": {},
-      "order": 93,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -3466,7 +3466,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -3575,41 +3575,6 @@
       "bgcolor": "#535"
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "myhumanFlux_myh11.safetensors",
-        "default"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 225,
       "type": "UnetLoaderGGUF",
       "pos": [
@@ -3621,7 +3586,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -3655,7 +3620,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 18,
+      "order": 17,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3689,7 +3654,7 @@
         106
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -3778,7 +3743,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 98,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -3819,7 +3784,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 60,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -3898,7 +3863,7 @@
         186
       ],
       "flags": {},
-      "order": 92,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -3970,7 +3935,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4015,7 +3980,7 @@
         76
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 2,
       "inputs": [
         {
@@ -4033,7 +3998,7 @@
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
-        485597883064605,
+        5609258504793,
         "371182853408753"
       ],
       "color": "#322",
@@ -4051,7 +4016,7 @@
         78
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 2,
       "inputs": [
         {
@@ -4082,7 +4047,7 @@
         "Node name for S&R": "CR Integer To String"
       },
       "widgets_values": [
-        485597883064605
+        5609258504793
       ]
     },
     {
@@ -4097,7 +4062,7 @@
         76
       ],
       "flags": {},
-      "order": 95,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -4176,7 +4141,7 @@
         154
       ],
       "flags": {},
-      "order": 90,
+      "order": 89,
       "mode": 2,
       "inputs": [
         {
@@ -4235,7 +4200,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4281,7 +4246,7 @@
         26
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 2,
       "inputs": [
         {
@@ -4374,7 +4339,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4420,7 +4385,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -4467,7 +4432,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -4662,7 +4627,7 @@
         82
       ],
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4695,7 +4660,7 @@
         58
       ],
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4804,7 +4769,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -4828,7 +4793,7 @@
         82
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4853,7 +4818,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        336987870302229,
+        604625115057139,
         "randomize"
       ],
       "color": "#232",
@@ -4871,7 +4836,7 @@
         97.031494140625
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4893,7 +4858,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        485597883064605,
+        5609258504793,
         "randomize"
       ],
       "color": "#232",
@@ -4973,7 +4938,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        485597883064605,
+        5609258504793,
         "randomize",
         20,
         1,
@@ -4981,130 +4946,6 @@
         "ddim_uniform",
         1
       ]
-    },
-    {
-      "id": 139,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -1070.75341796875,
-        -766.4985961914062
-      ],
-      "size": [
-        399.53326416015625,
-        254.86009216308594
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 63,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 487,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (full_body:2), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \nyoung beautiful woman in her twenties, wearing a fashionable and sexy outfit with a sleek black dress, high heels, and elegant jewelry, sitting in a cozy corner booth at an upscale restaurant, eating a luxurious Lunar New Year dinner. The table is adorned with exquisite Chinese tableware, filled with delicious Chinese dishes such as roasted duck, dumplings, and stir-fried vegetables, along with beverages like red wine, cola, and orange juice. The restaurant is decorated in a festive Lunar New Year theme with pastel macaron-colored balloons, inflatable decorations, and snake-themed mascot figurines, warm ambient lighting enhancing the celebratory atmosphere, modern and chic interior design with wooden paneling and minimalist aesthetics."
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        214
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Flux Realistic Asian girls face Flux_02_(1girl).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
-          "strength": 0.45,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 43,
@@ -5118,7 +4959,7 @@
         106
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -5162,7 +5003,7 @@
         58
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5559,7 +5400,7 @@
         106
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5602,7 +5443,7 @@
         106
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5645,7 +5486,7 @@
         90.78459930419922
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5734,7 +5575,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 64,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -5802,51 +5643,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1696.550537109375,
-        165.1361541748047
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 274,
       "type": "CR Text",
       "pos": [
@@ -5858,7 +5654,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5905,7 +5701,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 56,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -5973,7 +5769,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 33,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6000,15 +5796,117 @@
       "bgcolor": "#533"
     },
     {
-      "id": 273,
-      "type": "CR Text",
+      "id": 199,
+      "type": "Simple String",
       "pos": [
-        -1692.5859375,
-        -382.6662292480469
+        -2150.402587890625,
+        -131.7042999267578
       ],
       "size": [
-        524.8606567382812,
-        302.068603515625
+        315,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            378
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "emmi_fukada"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2226.72216796875,
+        -643.3020629882812
+      ],
+      "size": [
+        456.9431457519531,
+        159.67581176757812
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 197,
+      "type": "Reroute",
+      "pos": [
+        -1560.519287109375,
+        -1887.3592529296875
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 378,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            377
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
       ],
       "flags": {},
       "order": 34,
@@ -6016,33 +5914,49 @@
       "inputs": [],
       "outputs": [
         {
-          "name": "text",
-          "type": "*",
+          "name": "MODEL",
+          "type": "MODEL",
           "links": [
-            484
+            426
           ],
           "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
         }
       ],
-      "title": "提示词 - 主题",
       "properties": {
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),A stylish and sexy woman in her twenties, wearing a fashionable red velvet dress with delicate lace details, sitting at an elegant table in a luxurious restaurant. Her long, shiny black hair cascades down her back, and she has soft, radiant makeup with a bold red lip. She has a slender yet curvy figure, exuding a confident yet graceful posture. The table is adorned with fine white china, a gleaming set of silverware, and crystal glasses. On the table, there is a perfectly seared medium-rare steak, sliced into even small cubes revealing its pink, tender interior. Beside it, there is a creamy egg pudding, delicate and smooth, along with a fresh salad of cherry tomatoes and fish, arranged with exquisite precision. A glass of rich red wine is placed in front of her, and a sparkling water with fresh lemon slices floats in a chic glass. The restaurant is elegantly decorated for Christmas, with a beautifully lit Christmas tree adorned with gold and silver ornaments and presents piled underneath. Colorful balloons in pastel shades, including a \"2025\" inflatable balloon, float in the air. The chairs surrounding the table have a futuristic, minimalist design, and the white tablecloth adds to the sense of sophistication. Soft, warm lighting fills the room, enhancing the festive, upscale atmosphere.",
-        [
-          false,
-          true
-        ]
+        "flux1-dev.safetensors",
+        "default"
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2227.111083984375,
+        -434.5198669433594
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"japanese girl eimi fukada\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     },
     {
       "id": 137,
@@ -6056,7 +5970,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 35,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6084,132 +5998,218 @@
       "bgcolor": "#353"
     },
     {
-      "id": 199,
-      "type": "Simple String",
+      "id": 273,
+      "type": "CR Text",
       "pos": [
-        -2150.402587890625,
-        -131.7042999267578
+        -1692.5859375,
+        -382.6662292480469
       ],
       "size": [
-        315,
-        58
+        524.8606567382812,
+        302.068603515625
       ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 36,
+      "flags": {},
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
         {
-          "name": "STRING",
-          "type": "STRING",
+          "name": "text",
+          "type": "*",
           "links": [
-            378
+            484
           ],
           "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
         }
       ],
-      "title": "图片名称",
+      "title": "提示词 - 主题",
       "properties": {
-        "Node name for S&R": "Simple String"
+        "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "美女圣诞节"
+        "emmifukada, Eimi Fukada, a stunning Japanese girl, wearing black glasses, poses elegantly in a modern chic cafe, her fashionable outfit reflecting a contemporary style. She wears a white blouse with lace detailing, tucked into a high-waisted pleated skirt in a pastel pink shade. Her long, silky black hair is styled in loose waves, cascading down her shoulders, and she wears minimalistic makeup with a natural finish—just a hint of blush and nude lipstick. Her posture is poised, sitting on a velvet armchair, one leg crossed over the other, gently sipping on a coffee cup with a serene expression. The cafe’s interior features soft ambient lighting, with wooden tables, potted plants, and a large window offering a view of a city skyline in the distance. The scene is stylish, with a blend of modern and cozy, creating a calm yet fashionable atmosphere.",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
     },
     {
-      "id": 149,
-      "type": "Note",
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
       "pos": [
-        -2226.72216796875,
-        -643.3020629882812
+        -736.0025024414062,
+        -398.56475830078125
       ],
       "size": [
-        456.9431457519531,
-        159.67581176757812
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, "
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2227.111083984375,
-        -434.5198669433594
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。仅用英文输出，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"大青蛙\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 197,
-      "type": "Reroute",
-      "pos": [
-        -1560.519287109375,
-        -1887.3592529296875
-      ],
-      "size": [
-        90.4000015258789,
-        26
+        340.20001220703125,
+        214
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
-          "name": "",
-          "type": "*",
-          "link": 378,
-          "widget": {
-            "name": "value"
-          }
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
         }
       ],
       "outputs": [
         {
-          "name": "STRING",
-          "type": "STRING",
+          "name": "MODEL",
+          "type": "MODEL",
           "links": [
-            377
+            207
           ],
-          "slot_index": 0
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
         }
       ],
       "properties": {
-        "showOutputText": true,
-        "horizontal": false
-      }
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\ultra_real_leggings_walk_v1_(URLEGGINGS).safetensors",
+          "strength": 0.45,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 139,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1105.00146484375,
+        -765.0095825195312
+      ],
+      "size": [
+        688.4075317382812,
+        270.49505615234375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 64,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 487,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1696.550537109375,
+        165.1361541748047
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -7795,10 +7795,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8140274938684142,
+      "scale": 0.5559917313492396,
       "offset": [
-        3094.130400190352,
-        1155.3556978276072
+        2868.4510605244222,
+        962.0399128584683
       ]
     },
     "groupNodes": {},
