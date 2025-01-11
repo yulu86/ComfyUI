@@ -1822,49 +1822,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 100,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        359.775634765625
-      ],
-      "size": [
-        258.80340576171875,
-        106
-      ],
-      "flags": {},
-      "order": 19,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            243,
-            245,
-            423,
-            476
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "title": "Scheduler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ddim_uniform",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -1876,7 +1833,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2119,7 +2076,7 @@
         58
       ],
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2154,7 +2111,7 @@
         82
       ],
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2187,7 +2144,7 @@
         58
       ],
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2220,7 +2177,7 @@
         142
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2257,7 +2214,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        22963445907101,
+        788997448137013,
         "randomize"
       ],
       "color": "#232",
@@ -2494,7 +2451,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Japanese Beauty Christmas_1089572152791139_low"
+        "Japanese Beauty Christmas_22963445907101_low"
       ]
     },
     {
@@ -2743,12 +2700,12 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        741765570339767,
+        292362986906518,
         "randomize",
         20,
         1,
-        "ipndm",
-        "ddim_uniform",
+        "euler",
+        "beta",
         1
       ]
     },
@@ -2949,7 +2906,7 @@
         399.7327880859375
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -3089,7 +3046,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -3121,7 +3078,7 @@
         58
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -3648,7 +3605,7 @@
         82
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -3719,7 +3676,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 29,
+      "order": 28,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4094,7 +4051,7 @@
         106
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -4701,7 +4658,7 @@
         58
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4734,7 +4691,7 @@
         67.7606430053711
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4769,7 +4726,7 @@
         58
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4877,7 +4834,9 @@
         75,
         26
       ],
-      "flags": {},
+      "flags": {
+        "pinned": true
+      },
       "order": 135,
       "mode": 0,
       "inputs": [
@@ -5195,46 +5154,6 @@
       }
     },
     {
-      "id": 302,
-      "type": "Reroute",
-      "pos": [
-        2842.962646484375,
-        307.6763916015625
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 130,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 585,
-          "pos": [
-            37.5,
-            0
-          ]
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CONDITIONING",
-          "links": [
-            552
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
       "id": 84,
       "type": "Reroute",
       "pos": [
@@ -5537,8 +5456,8 @@
         "fixed",
         20,
         1,
-        "ipndm",
-        "ddim_uniform",
+        "euler",
+        "beta",
         40,
         10000,
         "disable"
@@ -6142,12 +6061,12 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        898318633700403,
+        750368683985391,
         "randomize",
         20,
         1,
-        "ipndm",
-        "ddim_uniform",
+        "euler",
+        "beta",
         1
       ]
     },
@@ -6313,49 +6232,6 @@
       "color": "rgba(38, 73, 116, 0.7)"
     },
     {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        207.60023498535156
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            244,
-            422,
-            475,
-            575
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ipndm",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 291,
       "type": "Int",
       "pos": [
@@ -6367,7 +6243,7 @@
         58
       ],
       "flags": {},
-      "order": 35,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6402,7 +6278,7 @@
         58
       ],
       "flags": {},
-      "order": 36,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6435,7 +6311,7 @@
         58
       ],
       "flags": {},
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6764,12 +6640,12 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        238080818043683,
+        678195663111535,
         "randomize",
         40,
         1,
-        "ipndm",
-        "ddim_uniform",
+        "euler",
+        "beta",
         1
       ]
     },
@@ -6907,7 +6783,7 @@
         82
       ],
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6949,7 +6825,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6975,7 +6851,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7355,6 +7231,134 @@
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        207.60023498535156
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            244,
+            422,
+            475,
+            575
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "euler",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 100,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        359.775634765625
+      ],
+      "size": [
+        258.80340576171875,
+        106
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            243,
+            245,
+            423,
+            476
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "beta",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 302,
+      "type": "Reroute",
+      "pos": [
+        2842.962646484375,
+        307.6763916015625
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 130,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 585,
+          "pos": [
+            37.5,
+            0
+          ]
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CONDITIONING",
+          "links": [
+            552
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
     }
   ],
   "links": [
@@ -9132,10 +9136,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9849732675808026,
+      "scale": 0.6115909044841711,
       "offset": [
-        1585.5056784457618,
-        206.16067586476385
+        1283.613523118507,
+        1103.729802130753
       ]
     },
     "groupNodes": {},
