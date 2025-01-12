@@ -1,6 +1,6 @@
 {
-  "last_node_id": 344,
-  "last_link_id": 625,
+  "last_node_id": 345,
+  "last_link_id": 627,
   "nodes": [
     {
       "id": 71,
@@ -130,7 +130,7 @@
         26
       ],
       "flags": {},
-      "order": 155,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -342,7 +342,7 @@
         150
       ],
       "flags": {},
-      "order": 154,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -849,7 +849,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
+        "base",
         "No",
         "",
         [
@@ -1085,7 +1085,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Christmas Holiday Glam_1117606081792326_low_0002.png",
+        "Christmas Influencer_702525457438539_redux_0001.png",
         "image"
       ],
       "color": "#232",
@@ -1103,7 +1103,7 @@
         118
       ],
       "flags": {},
-      "order": 156,
+      "order": 157,
       "mode": 2,
       "inputs": [
         {
@@ -1689,7 +1689,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Fantasy Food World_765960002977603_low"
+        "Christmas Influencer_736331039252904_low"
       ]
     },
     {
@@ -1838,89 +1838,6 @@
       "widgets_values": []
     },
     {
-      "id": 247,
-      "type": "KSampler",
-      "pos": [
-        3759.2041015625,
-        829.602783203125
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 146,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 438
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 439
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 440
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 441
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 545,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 476,
-          "widget": {
-            "name": "scheduler"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 475,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            455
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        851667179260815,
-        "randomize",
-        20,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        1
-      ]
-    },
-    {
       "id": 263,
       "type": "Evaluate Strings",
       "pos": [
@@ -2013,7 +1930,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Japanese Beauty Christmas_123069798243869_redux"
+        "Christmas Influencer_702525457438539_redux"
       ]
     },
     {
@@ -2028,7 +1945,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 151,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -2053,12 +1970,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_emtzq_00001_.png&type=temp&subfolder=&rand=0.743183916163781"
+            "url": "/api/view?filename=rgthree.compare._temp_jukos_00005_.png&type=temp&subfolder=&rand=0.3553349081743127"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_emtzq_00002_.png&type=temp&subfolder=&rand=0.5991963118288688"
+            "url": "/api/view?filename=rgthree.compare._temp_jukos_00006_.png&type=temp&subfolder=&rand=0.9088729839084815"
           }
         ]
       ]
@@ -2075,7 +1992,7 @@
         46
       ],
       "flags": {},
-      "order": 149,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -2145,7 +2062,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "clipspace/clipspace-mask-4380463.5.png [input]",
+        "clipspace/clipspace-mask-804482.8999999994.png [input]",
         "image"
       ],
       "color": "#232",
@@ -3379,7 +3296,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Christmas Holiday Glam_1042973650741473_high"
+        "Christmas Influencer_595811515337147_high"
       ]
     },
     {
@@ -3396,7 +3313,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -3809,80 +3726,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 249,
-      "type": "InpaintModelConditioning",
-      "pos": [
-        3343.896484375,
-        979.6011352539062
-      ],
-      "size": [
-        302.4000244140625,
-        138
-      ],
-      "flags": {},
-      "order": 143,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 606
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 607
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 444
-        },
-        {
-          "name": "pixels",
-          "type": "IMAGE",
-          "link": 466
-        },
-        {
-          "name": "mask",
-          "type": "MASK",
-          "link": 467
-        }
-      ],
-      "outputs": [
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "links": [
-            439
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "links": [
-            440
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "latent",
-          "type": "LATENT",
-          "links": [
-            441
-          ],
-          "slot_index": 2
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "InpaintModelConditioning"
-      },
-      "widgets_values": [
-        true
-      ]
-    },
-    {
       "id": 301,
       "type": "Reroute",
       "pos": [
@@ -4232,8 +4075,8 @@
           "name": "",
           "type": "CONDITIONING",
           "links": [
-            606,
-            611
+            611,
+            626
           ],
           "slot_index": 0
         }
@@ -4380,7 +4223,7 @@
         334
       ],
       "flags": {},
-      "order": 153,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -4482,7 +4325,7 @@
         26
       ],
       "flags": {},
-      "order": 150,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -4872,7 +4715,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 152,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -5068,7 +4911,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        893670564240403,
+        1040008570187720,
         "randomize",
         20,
         1,
@@ -5546,7 +5389,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1009641709910147,
+        1112197447148450,
         "randomize",
         40,
         1,
@@ -5607,7 +5450,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -5925,7 +5768,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 159,
+      "order": 160,
       "mode": 2,
       "inputs": [
         {
@@ -5992,7 +5835,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 158,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -6475,7 +6318,7 @@
         1727.60693359375
       ],
       "flags": {},
-      "order": 157,
+      "order": 158,
       "mode": 2,
       "inputs": [
         {
@@ -6500,12 +6343,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_iecoi_00003_.png&type=temp&subfolder=&rand=0.6339391758982234"
+            "url": "/api/view?filename=rgthree.compare._temp_nrvyb_00001_.png&type=temp&subfolder=&rand=0.8244327457911755"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_iecoi_00004_.png&type=temp&subfolder=&rand=0.5174006337214025"
+            "url": "/api/view?filename=rgthree.compare._temp_nrvyb_00002_.png&type=temp&subfolder=&rand=0.6328479730316912"
           }
         ]
       ]
@@ -6547,12 +6390,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_iuyrs_00001_.png&type=temp&subfolder=&rand=0.08172929504803816"
+            "url": "/api/view?filename=rgthree.compare._temp_nbtrl_00001_.png&type=temp&subfolder=&rand=0.07698078774339301"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_iuyrs_00002_.png&type=temp&subfolder=&rand=0.43771089445206535"
+            "url": "/api/view?filename=rgthree.compare._temp_nbtrl_00002_.png&type=temp&subfolder=&rand=0.8781302067088479"
           }
         ]
       ]
@@ -6822,38 +6665,11 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        36436643894110,
+        376415264989878,
         "randomize"
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 235,
-      "type": "PreviewImage",
-      "pos": [
-        3847.646240234375,
-        -391.68011474609375
-      ],
-      "size": [
-        465.2065734863281,
-        616.7319946289062
-      ],
-      "flags": {},
-      "order": 142,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 436
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": []
     },
     {
       "id": 344,
@@ -6943,6 +6759,114 @@
       "bgcolor": "#353"
     },
     {
+      "id": 277,
+      "type": "Note",
+      "pos": [
+        -2230.703125,
+        100.44758605957031
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词，但是请不要描述人物的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：超现实主义美食世界\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：将美食与超现实元素结合，构建一个令人眼前一亮的场景。一个巨大的冰淇淋浮在空中，周围环绕着五彩斑斓的水果，或者一颗超大果蔬在异次元的背景中漂浮。画面充满梦幻感，同时又有强烈的视觉冲击，能够吸引喜爱美食和视觉艺术的粉丝。"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 100,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        359.775634765625
+      ],
+      "size": [
+        258.80340576171875,
+        106
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            243,
+            245,
+            423,
+            476
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ddim_uniform",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1695.141357421875,
+        72.00843048095703
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "base",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 39,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
@@ -6951,7 +6875,7 @@
       ],
       "size": [
         340.20001220703125,
-        286
+        310
       ],
       "flags": {},
       "order": 54,
@@ -7043,8 +6967,190 @@
           "strength": 1,
           "strengthTwo": null
         },
+        {
+          "on": true,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
         null,
         ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        207.60023498535156
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            244,
+            422,
+            475,
+            575
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ipndm",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 235,
+      "type": "PreviewImage",
+      "pos": [
+        3847.646240234375,
+        -391.68011474609375
+      ],
+      "size": [
+        465.2065734863281,
+        616.7319946289062
+      ],
+      "flags": {},
+      "order": 142,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 436
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2230.703125,
+        -181.7886962890625
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：网红圣诞节\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：网红穿着印着麋鹿图案的红色宽松毛衣，坐在白色长毛地毯上，捧着热饮料朝着镜头微笑"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -1723.3544921875,
+        -388.2676086425781
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            549
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Christmas Influencer"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1730.9052734375,
+        -283.7508239746094
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "xijie_mihuan, A trendy influencer wearing an oversized red sweater with a reindeer print, sitting on a fluffy white shaggy carpet, holding a warm beverage and smiling at the camera. The scene has a magical, surreal, and whimsical feel, with bright, contrasting colors that create a strong visual impact. The influencer has soft, flowing hair, a warm, glowing complexion, and an inviting smile. Her posture is relaxed, with one leg casually crossed over the other. The background is decorated with dazzling, glowing Christmas lights and a large, beautifully adorned Christmas tree, twinkling with multicolored lights. Snow is gently falling outside the window, creating a cozy and festive atmosphere. The overall scene evokes a sense of joy, warmth, and holiday magic, blending realism with fantastical elements. The ground is dotted with small presents, and a few glowing candles flicker softly. The influencer's makeup is natural, with a hint of red lipstick and soft blush on her cheeks, adding to her youthful appearance.",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7061,8 +7167,8 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 32,
-      "mode": 4,
+      "order": 39,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7095,261 +7201,200 @@
       "bgcolor": "#335"
     },
     {
-      "id": 199,
-      "type": "Simple String",
+      "id": 247,
+      "type": "KSampler",
       "pos": [
-        -1723.3544921875,
-        -388.2676086425781
+        3759.2041015625,
+        829.602783203125
       ],
       "size": [
-        512.3726196289062,
-        58
+        315,
+        262
       ],
       "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
+      "order": 150,
+      "mode": 2,
+      "inputs": [
         {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            549
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Fantasy Food World"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1730.9052734375,
-        -283.7508239746094
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
+          "name": "model",
+          "type": "MODEL",
+          "link": 438
         },
         {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 主题",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "otherworldly, colorful, playful\nA whimsical and fantastical foodscape where everyday ingredients are transformed into larger-than-life, surreal forms. A colossal ice cream sundae floats in mid-air, its layers of vibrant, glossy toppings including rainbow sprinkles, syrup, and whipped cream. Surrounding it, gigantic fruits like lemons, oranges, and apples hang suspended, glowing with vibrant, surreal colors. A massive watermelon rests on a cloud, its rind glowing like neon. In the background, a surreal, dreamlike sky swirls in shades of bright purples, blues, and pinks, with abstract, oversized forks and spoons floating through the air, as if they are part of an otherworldly landscape. The ground is a soft, golden pancake texture, dotted with floating candy, and the air is filled with swirls of cotton candy clouds. Everything feels dreamlike and playful, yet intensely visual with bold color contrasts and exaggerated proportions that invite the viewer into a world where the imagination runs wild.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2230.703125,
-        -181.7886962890625
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：超现实主义美食世界\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：将美食与超现实元素结合，构建一个令人眼前一亮的场景。一个巨大的冰淇淋浮在空中，周围环绕着五彩斑斓的水果，或者一颗超大果蔬在异次元的背景中漂浮。画面充满梦幻感，同时又有强烈的视觉冲击，能够吸引喜爱美食和视觉艺术的粉丝。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 277,
-      "type": "Note",
-      "pos": [
-        -2230.703125,
-        100.44758605957031
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词，但是请不要描述人物的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：超现实主义美食世界\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：将美食与超现实元素结合，构建一个令人眼前一亮的场景。一个巨大的冰淇淋浮在空中，周围环绕着五彩斑斓的水果，或者一颗超大果蔬在异次元的背景中漂浮。画面充满梦幻感，同时又有强烈的视觉冲击，能够吸引喜爱美食和视觉艺术的粉丝。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1695.141357421875,
-        72.00843048095703
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 439
+        },
         {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 440
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 441
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 545,
           "widget": {
-            "name": "style"
+            "name": "seed"
           }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "cinematic",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        207.60023498535156
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
+        },
         {
-          "name": "COMBO",
+          "name": "scheduler",
           "type": "COMBO",
-          "links": [
-            244,
-            422,
-            475,
-            575
-          ],
-          "slot_index": 0,
+          "link": 476,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 475,
           "widget": {
             "name": "sampler_name"
           }
         }
       ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ipndm",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        359.775634765625
-      ],
-      "size": [
-        258.80340576171875,
-        106
-      ],
-      "flags": {},
-      "order": 39,
-      "mode": 0,
-      "inputs": [],
       "outputs": [
         {
-          "name": "COMBO",
-          "type": "COMBO",
+          "name": "LATENT",
+          "type": "LATENT",
           "links": [
-            243,
-            245,
-            423,
-            476
+            455
           ],
-          "slot_index": 0,
-          "widget": {
-            "name": "scheduler"
-          }
+          "slot_index": 0
         }
       ],
-      "title": "Scheduler",
       "properties": {
-        "Run widget replace on values": false
+        "Node name for S&R": "KSampler"
       },
       "widgets_values": [
+        988469716166654,
+        "randomize",
+        25,
+        1,
+        "ipndm",
         "ddim_uniform",
-        "fixed",
-        ""
+        1
+      ]
+    },
+    {
+      "id": 249,
+      "type": "InpaintModelConditioning",
+      "pos": [
+        3355.80908203125,
+        1046.60791015625
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "size": [
+        302.4000244140625,
+        138
+      ],
+      "flags": {},
+      "order": 147,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 627
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 607
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 444
+        },
+        {
+          "name": "pixels",
+          "type": "IMAGE",
+          "link": 466
+        },
+        {
+          "name": "mask",
+          "type": "MASK",
+          "link": 467
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "links": [
+            439
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "links": [
+            440
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "latent",
+          "type": "LATENT",
+          "links": [
+            441
+          ],
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "InpaintModelConditioning"
+      },
+      "widgets_values": [
+        true
+      ]
+    },
+    {
+      "id": 345,
+      "type": "ConditioningZeroOut",
+      "pos": [
+        3378.495849609375,
+        725.1978149414062
+      ],
+      "size": [
+        210,
+        26
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 144,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 626
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            627
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ConditioningZeroOut"
+      },
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -8930,14 +8975,6 @@
       "*"
     ],
     [
-      606,
-      306,
-      0,
-      249,
-      0,
-      "CONDITIONING"
-    ],
-    [
       607,
       307,
       0,
@@ -9024,6 +9061,22 @@
       94,
       0,
       "FLOAT"
+    ],
+    [
+      626,
+      306,
+      0,
+      345,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      627,
+      345,
+      0,
+      249,
+      0,
+      "CONDITIONING"
     ]
   ],
   "groups": [
@@ -9135,10 +9188,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7400249944258677,
+      "scale": 0.8140274938684705,
       "offset": [
-        2787.7224076719426,
-        489.65617507214944
+        3319.7129854739187,
+        944.0516771989276
       ]
     },
     "groupNodes": {},
@@ -9146,7 +9199,7 @@
     "node_versions": {
       "ComfyUI-Easy-Use": "be8306b17ad96aa7326bcc8012cc7c3489a94ab5",
       "Comfyui_TTP_Toolset": "6cd176d87da9141c7621728499c9b5a820c35465",
-      "comfy-core": "v0.3.10-312-g20a1447e",
+      "comfy-core": "v0.3.10-314-g833c894b",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
       "ComfyUI-GGUF": "5875c52f59baca3a9372d68c43a3775e21846fe0",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
