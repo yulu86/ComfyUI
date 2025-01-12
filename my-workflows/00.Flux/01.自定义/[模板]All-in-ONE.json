@@ -1,5 +1,5 @@
 {
-  "last_node_id": 343,
+  "last_node_id": 344,
   "last_link_id": 625,
   "nodes": [
     {
@@ -14,7 +14,7 @@
         26
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -51,7 +51,7 @@
         142
       ],
       "flags": {},
-      "order": 101,
+      "order": 102,
       "mode": 2,
       "inputs": [
         {
@@ -130,7 +130,7 @@
         26
       ],
       "flags": {},
-      "order": 154,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -166,7 +166,7 @@
         126
       ],
       "flags": {},
-      "order": 90,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -232,7 +232,7 @@
         76
       ],
       "flags": {},
-      "order": 99,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -305,7 +305,7 @@
         76
       ],
       "flags": {},
-      "order": 100,
+      "order": 101,
       "mode": 2,
       "inputs": [
         {
@@ -342,7 +342,7 @@
         150
       ],
       "flags": {},
-      "order": 153,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -498,7 +498,7 @@
         234
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -571,7 +571,7 @@
         26
       ],
       "flags": {},
-      "order": 59,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -797,7 +797,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 69,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -849,7 +849,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
+        "fantasy art",
         "No",
         "",
         [
@@ -919,7 +919,7 @@
         78
       ],
       "flags": {},
-      "order": 77,
+      "order": 78,
       "mode": 2,
       "inputs": [
         {
@@ -969,7 +969,7 @@
         106
       ],
       "flags": {},
-      "order": 63,
+      "order": 64,
       "mode": 2,
       "inputs": [
         {
@@ -1014,7 +1014,7 @@
         106
       ],
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 2,
       "inputs": [
         {
@@ -1103,7 +1103,7 @@
         118
       ],
       "flags": {},
-      "order": 155,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -1205,7 +1205,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -1275,7 +1275,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -1330,7 +1330,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 94,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -1368,7 +1368,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 105,
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -1569,7 +1569,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -1608,7 +1608,7 @@
         154
       ],
       "flags": {},
-      "order": 102,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -1667,7 +1667,7 @@
         76
       ],
       "flags": {},
-      "order": 109,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -1689,7 +1689,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Christmas Holiday Glam_819268801621295_low"
+        "Magical Forest Escape_1001660670018986_low"
       ]
     },
     {
@@ -1704,7 +1704,7 @@
         46
       ],
       "flags": {},
-      "order": 137,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -1748,7 +1748,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 140,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -1813,7 +1813,7 @@
         26
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 2,
       "inputs": [
         {
@@ -1849,7 +1849,7 @@
         262
       ],
       "flags": {},
-      "order": 145,
+      "order": 146,
       "mode": 2,
       "inputs": [
         {
@@ -1911,7 +1911,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        100469291408831,
+        909164506042141,
         "randomize",
         20,
         1,
@@ -1932,7 +1932,7 @@
         154
       ],
       "flags": {},
-      "order": 111,
+      "order": 112,
       "mode": 2,
       "inputs": [
         {
@@ -1991,7 +1991,7 @@
         76
       ],
       "flags": {},
-      "order": 117,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -2028,7 +2028,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 150,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -2075,7 +2075,7 @@
         46
       ],
       "flags": {},
-      "order": 148,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -2165,7 +2165,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 44,
+      "order": 45,
       "mode": 2,
       "inputs": [
         {
@@ -2212,7 +2212,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 43,
+      "order": 44,
       "mode": 2,
       "inputs": [
         {
@@ -2321,7 +2321,7 @@
         234
       ],
       "flags": {},
-      "order": 57,
+      "order": 58,
       "mode": 2,
       "inputs": [
         {
@@ -2396,7 +2396,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 73,
+      "order": 74,
       "mode": 2,
       "inputs": [
         {
@@ -2486,7 +2486,7 @@
         58
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 2,
       "inputs": [
         {
@@ -2525,7 +2525,7 @@
         102
       ],
       "flags": {},
-      "order": 84,
+      "order": 85,
       "mode": 2,
       "inputs": [
         {
@@ -2570,7 +2570,7 @@
         130
       ],
       "flags": {},
-      "order": 83,
+      "order": 84,
       "mode": 2,
       "inputs": [
         {
@@ -2622,7 +2622,7 @@
         102
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -2668,7 +2668,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -2704,7 +2704,7 @@
         138
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -2778,7 +2778,7 @@
         58
       ],
       "flags": {},
-      "order": 107,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -2849,7 +2849,7 @@
         26
       ],
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 2,
       "inputs": [
         {
@@ -2920,7 +2920,7 @@
         246
       ],
       "flags": {},
-      "order": 128,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -2947,7 +2947,7 @@
         154
       ],
       "flags": {},
-      "order": 115,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -3006,7 +3006,7 @@
         76
       ],
       "flags": {},
-      "order": 120,
+      "order": 121,
       "mode": 2,
       "inputs": [
         {
@@ -3045,7 +3045,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 133,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -3110,7 +3110,7 @@
         26
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -3148,7 +3148,7 @@
         26
       ],
       "flags": {},
-      "order": 98,
+      "order": 99,
       "mode": 2,
       "inputs": [
         {
@@ -3186,7 +3186,7 @@
         26
       ],
       "flags": {},
-      "order": 86,
+      "order": 87,
       "mode": 2,
       "inputs": [
         {
@@ -3224,7 +3224,7 @@
         26
       ],
       "flags": {},
-      "order": 87,
+      "order": 88,
       "mode": 2,
       "inputs": [
         {
@@ -3297,7 +3297,7 @@
         154
       ],
       "flags": {},
-      "order": 124,
+      "order": 125,
       "mode": 2,
       "inputs": [
         {
@@ -3357,7 +3357,7 @@
         76
       ],
       "flags": {},
-      "order": 129,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -3396,7 +3396,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -3434,7 +3434,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -3472,7 +3472,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 78,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -3510,7 +3510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -3548,7 +3548,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -3587,7 +3587,7 @@
         26
       ],
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -3627,7 +3627,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 47,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -3670,7 +3670,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 93,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -3708,7 +3708,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -3749,7 +3749,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 118,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -3820,7 +3820,7 @@
         138
       ],
       "flags": {},
-      "order": 142,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -3896,7 +3896,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -3936,7 +3936,7 @@
         186
       ],
       "flags": {},
-      "order": 122,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -4010,7 +4010,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -4052,7 +4052,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -4093,7 +4093,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 58,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -4134,7 +4134,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -4174,7 +4174,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -4214,7 +4214,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 138,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -4255,7 +4255,7 @@
         26
       ],
       "flags": {},
-      "order": 121,
+      "order": 122,
       "mode": 2,
       "inputs": [
         {
@@ -4339,7 +4339,7 @@
         46
       ],
       "flags": {},
-      "order": 114,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -4380,7 +4380,7 @@
         334
       ],
       "flags": {},
-      "order": 152,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -4482,7 +4482,7 @@
         26
       ],
       "flags": {},
-      "order": 149,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -4522,7 +4522,7 @@
         26
       ],
       "flags": {},
-      "order": 147,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -4562,7 +4562,7 @@
         26
       ],
       "flags": {},
-      "order": 91,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -4602,7 +4602,7 @@
         26
       ],
       "flags": {},
-      "order": 70,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -4645,7 +4645,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -4689,7 +4689,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 132,
+      "order": 133,
       "mode": 2,
       "inputs": [
         {
@@ -4826,7 +4826,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 103,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -4872,7 +4872,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 151,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -4937,7 +4937,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -4964,7 +4964,7 @@
         46
       ],
       "flags": {},
-      "order": 123,
+      "order": 124,
       "mode": 2,
       "inputs": [
         {
@@ -5006,7 +5006,7 @@
         262
       ],
       "flags": {},
-      "order": 119,
+      "order": 120,
       "mode": 2,
       "inputs": [
         {
@@ -5068,7 +5068,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        56658971192621,
+        968029300201716,
         "randomize",
         20,
         1,
@@ -5089,7 +5089,7 @@
         130
       ],
       "flags": {},
-      "order": 127,
+      "order": 128,
       "mode": 2,
       "inputs": [
         {
@@ -5158,7 +5158,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 75,
       "mode": 2,
       "inputs": [
         {
@@ -5252,7 +5252,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -5307,7 +5307,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 60,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -5348,7 +5348,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 46,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -5394,7 +5394,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -5437,7 +5437,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 61,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -5476,7 +5476,7 @@
         262
       ],
       "flags": {},
-      "order": 134,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -5546,7 +5546,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        643288730430859,
+        827340312935266,
         "randomize",
         40,
         1,
@@ -5607,7 +5607,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 143,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -5649,7 +5649,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -5727,7 +5727,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -5766,7 +5766,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -5806,7 +5806,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -5835,7 +5835,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 116,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -5880,7 +5880,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -5925,7 +5925,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 158,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -5992,7 +5992,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 157,
+      "order": 158,
       "mode": 2,
       "inputs": [
         {
@@ -6059,7 +6059,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -6099,7 +6099,7 @@
         26
       ],
       "flags": {},
-      "order": 40,
+      "order": 41,
       "mode": 2,
       "inputs": [
         {
@@ -6137,7 +6137,7 @@
         222
       ],
       "flags": {},
-      "order": 56,
+      "order": 57,
       "mode": 2,
       "inputs": [
         {
@@ -6196,7 +6196,7 @@
         106
       ],
       "flags": {},
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -6242,7 +6242,7 @@
         106
       ],
       "flags": {},
-      "order": 88,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -6436,7 +6436,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 89,
+      "order": 90,
       "mode": 2,
       "inputs": [
         {
@@ -6475,7 +6475,7 @@
         1727.60693359375
       ],
       "flags": {},
-      "order": 156,
+      "order": 157,
       "mode": 2,
       "inputs": [
         {
@@ -6522,7 +6522,7 @@
         1159.6119384765625
       ],
       "flags": {},
-      "order": 71,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -6558,90 +6558,6 @@
       ]
     },
     {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1695.141357421875,
-        72.00843048095703
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 26,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "cinematic",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1720.9471435546875,
-        274.6981506347656
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 153,
       "type": "ReduxAdvanced",
       "pos": [
@@ -6653,7 +6569,7 @@
         234
       ],
       "flags": {},
-      "order": 112,
+      "order": 113,
       "mode": 4,
       "inputs": [
         {
@@ -6726,7 +6642,7 @@
         58
       ],
       "flags": {},
-      "order": 28,
+      "order": 26,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6761,7 +6677,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 68,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -6794,7 +6710,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6821,6 +6737,369 @@
       "bgcolor": "#533"
     },
     {
+      "id": 133,
+      "type": "Display Int (rgthree)",
+      "pos": [
+        -707.8922119140625,
+        392.0064392089844
+      ],
+      "size": [
+        315,
+        76
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "input",
+          "type": "INT",
+          "link": 514,
+          "widget": {
+            "name": "input"
+          },
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Last Seed",
+      "properties": {
+        "Node name for S&R": "Display Int (rgthree)"
+      },
+      "widgets_values": [
+        915378153791828,
+        ""
+      ],
+      "color": "#323",
+      "bgcolor": "#535"
+    },
+    {
+      "id": 289,
+      "type": "Seed",
+      "pos": [
+        -705.1976318359375,
+        195.30833435058594
+      ],
+      "size": [
+        315,
+        142
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "seed",
+          "type": "SEED",
+          "links": null,
+          "slot_index": 0
+        },
+        {
+          "name": "number",
+          "type": "NUMBER",
+          "links": [
+            546
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "float",
+          "type": "FLOAT",
+          "links": null
+        },
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            514,
+            558
+          ],
+          "slot_index": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed"
+      },
+      "widgets_values": [
+        1065984384514999,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 235,
+      "type": "PreviewImage",
+      "pos": [
+        3847.646240234375,
+        -391.68011474609375
+      ],
+      "size": [
+        465.2065734863281,
+        616.7319946289062
+      ],
+      "flags": {},
+      "order": 142,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 436
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        207.60023498535156
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            244,
+            422,
+            475,
+            575
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "euler",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 100,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        359.775634765625
+      ],
+      "size": [
+        258.80340576171875,
+        106
+      ],
+      "flags": {},
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            243,
+            245,
+            423,
+            476
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "title": "Scheduler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "beta",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 277,
+      "type": "Note",
+      "pos": [
+        -2230.703125,
+        100.44758605957031
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词，但是请不要描述人物的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"网红过圣诞节\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 344,
+      "type": "Note",
+      "pos": [
+        -2753.248291015625,
+        -455.38916015625
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2235.44091796875,
+        -545.5052490234375
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1730.9052734375,
+        -283.7508239746094
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "peaceful, whimsical, enchanted\nA lush, fantastical forest where sunlight gently breaks through the canopy, bathing the entire scene in a soft, warm glow. Tall, majestic trees with wide trunks and intertwining branches create a canopy above, while the forest floor is covered in soft grass, moss, and wildflowers in vibrant hues of purple, blue, and yellow. Tiny mystical creatures like glowing butterflies and fireflies flutter among the branches, while the occasional flicker of an ethereal creature can be seen weaving through the trees. A narrow stream runs quietly through the scene, its waters shimmering in the sunlight, and the sound of a distant waterfall adds to the sense of peace. The forest is alive with a quiet magic, where every leaf seems to hum with energy and the air feels fresh, like a retreat into nature's embrace. This environment invites calm and offers an escape from the mundane, blending the beauty of nature with the wonder of the unknown.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -1723.3544921875,
+        -388.2676086425781
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            549
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Magical Forest Escape"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 93,
       "type": "UNETLoader",
       "pos": [
@@ -6832,7 +7111,7 @@
         82
       ],
       "flags": {},
-      "order": 30,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6849,7 +7128,7 @@
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "myhumanFlux_myh11.safetensors",
+        "flux1-dev.safetensors",
         "default"
       ],
       "color": "#232",
@@ -6867,7 +7146,7 @@
         286
       ],
       "flags": {},
-      "order": 50,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -6921,7 +7200,7 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
           "strength": 1,
           "strengthTwo": null
@@ -6963,67 +7242,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2235.44091796875,
-        -545.5052490234375
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -1723.3544921875,
-        -388.2676086425781
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {},
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            549
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Christmas Holiday Glam"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 224,
       "type": "Note",
       "pos": [
@@ -7037,184 +7255,39 @@
       "flags": {
         "pinned": true
       },
-      "order": 33,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - AI提示词",
       "properties": {},
       "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"网红过圣诞节\""
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：梦幻森林之旅\n画面风格：梦幻、自然，柔和的光线，色调温暖。\n描述：设计一个如童话般的森林景观，树木繁茂，阳光透过枝叶洒下斑驳光影。可以加入一些奇幻生物，如发光的蝴蝶、神秘的动物等，增强梦境般的氛围。这种画面风格给人一种逃离现实、放松身心的感觉，能够吸引喜欢自然与幻想的人群。"
       ],
       "color": "#432",
       "bgcolor": "#653"
     },
     {
-      "id": 277,
-      "type": "Note",
-      "pos": [
-        -2230.703125,
-        100.44758605957031
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词，但是请不要描述人物的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。我的主题是：\"网红过圣诞节\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 133,
-      "type": "Display Int (rgthree)",
-      "pos": [
-        -707.8922119140625,
-        392.0064392089844
-      ],
-      "size": [
-        315,
-        76
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "input",
-          "type": "INT",
-          "link": 514,
-          "widget": {
-            "name": "input"
-          },
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Last Seed",
-      "properties": {
-        "Node name for S&R": "Display Int (rgthree)"
-      },
-      "widgets_values": [
-        915378153791828,
-        ""
-      ],
-      "color": "#323",
-      "bgcolor": "#535"
-    },
-    {
-      "id": 289,
-      "type": "Seed",
-      "pos": [
-        -705.1976318359375,
-        195.30833435058594
-      ],
-      "size": [
-        315,
-        142
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "seed",
-          "type": "SEED",
-          "links": null,
-          "slot_index": 0
-        },
-        {
-          "name": "number",
-          "type": "NUMBER",
-          "links": [
-            546
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "float",
-          "type": "FLOAT",
-          "links": null
-        },
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            514,
-            558
-          ],
-          "slot_index": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Seed"
-      },
-      "widgets_values": [
-        821584044711122,
-        "randomize"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 235,
-      "type": "PreviewImage",
-      "pos": [
-        3847.646240234375,
-        -391.68011474609375
-      ],
-      "size": [
-        465.2065734863281,
-        616.7319946289062
-      ],
-      "flags": {},
-      "order": 141,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 436
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": []
-    },
-    {
-      "id": 273,
+      "id": 276,
       "type": "CR Text",
       "pos": [
-        -1730.9052734375,
-        -283.7508239746094
+        -1720.9471435546875,
+        274.6981506347656
       ],
       "size": [
-        524.8606567382812,
-        302.068603515625
+        308.7655334472656,
+        225.3144989013672
       ],
       "flags": {},
-      "order": 36,
-      "mode": 0,
+      "order": 38,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
           "name": "text",
           "type": "*",
           "links": [
-            484
+            486
           ],
           "slot_index": 0
         },
@@ -7225,33 +7298,33 @@
           "slot_index": 1
         }
       ],
-      "title": "提示词 - 主题",
+      "title": "提示词 - 美女(可选)",
       "properties": {
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style), A fashionable influencer celebrating Christmas in a cozy living room, surrounded by a warm fireplace, twinkling Christmas tree with golden lights, and snow gently falling outside through a window. The influencer, a young woman with long wavy brown hair, glowing skin, and bright eyes, is wearing a chic red knit sweater with a festive design, black leather leggings, and white snow boots. She is holding a beautifully wrapped gift in one hand, while the other hand holds a steaming cup of hot chocolate. Her posture is relaxed and joyful, standing next to a Christmas tree decorated with gold and silver ornaments, a few presents stacked beneath it. The room is warmly lit, with soft golden accents. A large wreath hangs above the fireplace, and the walls are adorned with garlands. The atmosphere is festive, cozy, and cheerful, with fairy lights twinkling throughout the room.",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
         [
           false,
           true
         ]
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "color": "#223",
+      "bgcolor": "#335"
     },
     {
-      "id": 99,
+      "id": 137,
       "type": "PrimitiveNode",
       "pos": [
-        -317.7812805175781,
-        207.60023498535156
+        -1695.141357421875,
+        72.00843048095703
       ],
       "size": [
-        265.6356201171875,
-        106
+        433.0302734375,
+        126.60602569580078
       ],
       "flags": {},
-      "order": 37,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7259,66 +7332,19 @@
           "name": "COMBO",
           "type": "COMBO",
           "links": [
-            244,
-            422,
-            475,
-            575
+            283
           ],
-          "slot_index": 0,
           "widget": {
-            "name": "sampler_name"
+            "name": "style"
           }
         }
       ],
-      "title": "Sampler",
+      "title": "Style",
       "properties": {
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "euler",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        359.775634765625
-      ],
-      "size": [
-        258.80340576171875,
-        106
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            243,
-            245,
-            423,
-            476
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "title": "Scheduler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "beta",
+        "fantasy art",
         "fixed",
         ""
       ],
@@ -9109,10 +9135,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.310999419150034,
+      "scale": 0.7400249944258536,
       "offset": [
-        1992.0726246025063,
-        43.89363468534852
+        3331.976402990415,
+        895.9604449170516
       ]
     },
     "groupNodes": {},
