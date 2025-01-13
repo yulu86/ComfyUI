@@ -14,7 +14,7 @@
         26
       ],
       "flags": {},
-      "order": 109,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -51,7 +51,7 @@
         142
       ],
       "flags": {},
-      "order": 102,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -166,7 +166,7 @@
         126
       ],
       "flags": {},
-      "order": 91,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -232,7 +232,7 @@
         76
       ],
       "flags": {},
-      "order": 100,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -305,7 +305,7 @@
         76
       ],
       "flags": {},
-      "order": 101,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -498,7 +498,7 @@
         234
       ],
       "flags": {},
-      "order": 105,
+      "order": 102,
       "mode": 4,
       "inputs": [
         {
@@ -797,7 +797,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 70,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -919,7 +919,7 @@
         78
       ],
       "flags": {},
-      "order": 78,
+      "order": 83,
       "mode": 2,
       "inputs": [
         {
@@ -969,7 +969,7 @@
         106
       ],
       "flags": {},
-      "order": 64,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -1014,7 +1014,7 @@
         106
       ],
       "flags": {},
-      "order": 50,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -1085,7 +1085,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Christmas Influencer_702525457438539_redux_0001.png",
+        "Autumn Wilderness Escape_717557686800173_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -1150,7 +1150,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 55,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -1220,7 +1220,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -1275,7 +1275,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 95,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -1313,7 +1313,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 106,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -1418,7 +1418,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -1474,7 +1474,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -1514,7 +1514,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -1553,7 +1553,7 @@
         154
       ],
       "flags": {},
-      "order": 103,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -1612,7 +1612,7 @@
         76
       ],
       "flags": {},
-      "order": 110,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -1634,7 +1634,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Christmas Influencer_736331039252904_low"
+        "Autumn Wilderness Escape_717557686800173_low"
       ]
     },
     {
@@ -1794,7 +1794,7 @@
         154
       ],
       "flags": {},
-      "order": 112,
+      "order": 111,
       "mode": 2,
       "inputs": [
         {
@@ -1853,7 +1853,7 @@
         76
       ],
       "flags": {},
-      "order": 118,
+      "order": 117,
       "mode": 2,
       "inputs": [
         {
@@ -2809,7 +2809,7 @@
         154
       ],
       "flags": {},
-      "order": 116,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -3241,7 +3241,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Christmas Influencer_284856442161477_high"
+        "Autumn Wilderness Escape_744300223005449_high"
       ]
     },
     {
@@ -3334,7 +3334,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -3532,7 +3532,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 94,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -3611,7 +3611,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 119,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -4088,7 +4088,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -4127,7 +4127,7 @@
         46
       ],
       "flags": {},
-      "order": 115,
+      "order": 119,
       "mode": 2,
       "inputs": [
         {
@@ -4248,7 +4248,7 @@
         26
       ],
       "flags": {},
-      "order": 93,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -4331,7 +4331,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 111,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -4377,7 +4377,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -4423,7 +4423,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 92,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -4465,7 +4465,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -4707,11 +4707,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        965317351390529,
+        291370923326071,
         "randomize",
         20,
         1,
-        "ipndm",
+        "deis",
         "ddim_uniform",
         1
       ]
@@ -4891,7 +4891,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -5185,11 +5185,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        612559496856186,
+        37088514903118,
         "randomize",
         40,
         1,
-        "ipndm",
+        "deis",
         "ddim_uniform",
         1
       ]
@@ -5206,7 +5206,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -5366,7 +5366,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 81,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -5405,7 +5405,7 @@
         26
       ],
       "flags": {},
-      "order": 68,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -5474,7 +5474,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 117,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -5797,42 +5797,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3128.405517578125,
-        3404.49462890625
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 25,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            622,
-            623
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "4"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 97,
       "type": "easy showAnything",
       "pos": [
@@ -5844,7 +5808,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 90,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -5883,7 +5847,7 @@
         234
       ],
       "flags": {},
-      "order": 113,
+      "order": 112,
       "mode": 4,
       "inputs": [
         {
@@ -5956,7 +5920,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5991,7 +5955,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 69,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -6024,7 +5988,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6062,7 +6026,7 @@
         76
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -6099,7 +6063,7 @@
         142
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6136,95 +6100,8 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        135890659112336,
+        982230510591254,
         "randomize"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 344,
-      "type": "Note",
-      "pos": [
-        -2753.248291015625,
-        -455.38916015625
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 29,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2235.44091796875,
-        -545.5052490234375
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "default"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -6243,7 +6120,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6267,7 +6144,7 @@
         106
       ],
       "flags": {},
-      "order": 33,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6292,201 +6169,6 @@
       },
       "widgets_values": [
         "ddim_uniform",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1695.141357421875,
-        72.00843048095703
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "base",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        310
-      ],
-      "flags": {},
-      "order": 54,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.4,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        207.60023498535156
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            244,
-            422,
-            475,
-            575
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "ipndm",
         "fixed",
         ""
       ],
@@ -6521,112 +6203,6 @@
       "widgets_values": []
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2230.703125,
-        -181.7886962890625
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：网红圣诞节\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：网红穿着印着麋鹿图案的红色宽松毛衣，坐在白色长毛地毯上，捧着热饮料朝着镜头微笑"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -1723.3544921875,
-        -388.2676086425781
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            549
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Christmas Influencer"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1730.9052734375,
-        -283.7508239746094
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 主题",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "xijie_mihuan, A trendy influencer wearing an oversized red sweater with a reindeer print, sitting on a fluffy white shaggy carpet, holding a warm beverage and smiling at the camera. The scene has a magical, surreal, and whimsical feel, with bright, contrasting colors that create a strong visual impact. The influencer has soft, flowing hair, a warm, glowing complexion, and an inviting smile. Her posture is relaxed, with one leg casually crossed over the other. The background is decorated with dazzling, glowing Christmas lights and a large, beautifully adorned Christmas tree, twinkling with multicolored lights. Snow is gently falling outside the window, creating a cozy and festive atmosphere. The overall scene evokes a sense of joy, warmth, and holiday magic, blending realism with fantastical elements. The ground is dotted with small presents, and a few glowing candles flicker softly. The influencer's makeup is natural, with a hint of red lipstick and soft blush on her cheeks, adding to her youthful appearance.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -6638,7 +6214,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 39,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6745,11 +6321,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        180842649740039,
+        567068067799790,
         "randomize",
         25,
         1,
-        "ipndm",
+        "deis",
         "ddim_uniform",
         1
       ]
@@ -6867,108 +6443,6 @@
       "widgets_values": [],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 75,
-      "type": "KSamplerAdvanced",
-      "pos": [
-        4561.24951171875,
-        3897.081787109375
-      ],
-      "size": [
-        315,
-        334
-      ],
-      "flags": {},
-      "order": 151,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 599
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 595
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 597
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 183
-        },
-        {
-          "name": "noise_seed",
-          "type": "INT",
-          "link": 561,
-          "widget": {
-            "name": "noise_seed"
-          }
-        },
-        {
-          "name": "start_at_step",
-          "type": "INT",
-          "link": 508,
-          "widget": {
-            "name": "start_at_step"
-          }
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 602,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 244,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 245,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            191
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSamplerAdvanced"
-      },
-      "widgets_values": [
-        "enable",
-        915378153791828,
-        "fixed",
-        20,
-        8,
-        "ipndm",
-        "ddim_uniform",
-        40,
-        10000,
-        "disable"
-      ]
     },
     {
       "id": 213,
@@ -7209,12 +6683,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_olmpc_00001_.png&type=temp&subfolder=&rand=0.5155576680176075"
+            "url": "/api/view?filename=rgthree.compare._temp_kmpsp_00003_.png&type=temp&subfolder=&rand=0.6769998012843501"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_olmpc_00002_.png&type=temp&subfolder=&rand=0.5308362166226579"
+            "url": "/api/view?filename=rgthree.compare._temp_kmpsp_00004_.png&type=temp&subfolder=&rand=0.31112508569934105"
           }
         ]
       ],
@@ -7259,12 +6733,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_qmxbv_00001_.png&type=temp&subfolder=&rand=0.948578687933346"
+            "url": "/api/view?filename=rgthree.compare._temp_glarh_00001_.png&type=temp&subfolder=&rand=0.03645665197211656"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_qmxbv_00002_.png&type=temp&subfolder=&rand=0.3431051429901131"
+            "url": "/api/view?filename=rgthree.compare._temp_glarh_00002_.png&type=temp&subfolder=&rand=0.6837352786575102"
           }
         ]
       ],
@@ -7409,8 +6883,8 @@
       "id": 347,
       "type": "Image Comparer (rgthree)",
       "pos": [
-        5419.48828125,
-        4054.44189453125
+        5405.6796875,
+        3979.991455078125
       ],
       "size": [
         613.3534545898438,
@@ -7443,17 +6917,543 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_qmxbv_00001_.png&type=temp&subfolder=&rand=0.4313049071535997"
+            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00001_.png&type=temp&subfolder=&rand=0.04575749389720718"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_qmxbv_00002_.png&type=temp&subfolder=&rand=0.37380783541721385"
+            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00002_.png&type=temp&subfolder=&rand=0.8262892324572106"
           }
         ]
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 344,
+      "type": "Note",
+      "pos": [
+        -2753.248291015625,
+        -455.38916015625
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2235.44091796875,
+        -545.5052490234375
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2230.703125,
+        -181.7886962890625
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：秋日野外露营\n画面风格：自然、暖色调、秋天的落叶\n描述：一片金黄的秋日森林中，帐篷、篝火和露营设施散布在大自然中，远处是层层叠叠的秋叶山脉。帐篷旁的篝火正熊熊燃烧，1个20岁的美女坐在火堆旁，享受着露营的时光。画面中的温暖火光与周围的秋色相得益彰，营造出一份宁静而温馨的氛围。"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -1723.3544921875,
+        -388.2676086425781
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            549
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Autumn Wilderness Escape"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 75,
+      "type": "KSamplerAdvanced",
+      "pos": [
+        4561.24951171875,
+        3897.081787109375
+      ],
+      "size": [
+        315,
+        334
+      ],
+      "flags": {},
+      "order": 151,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 599
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 595
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 597
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 183
+        },
+        {
+          "name": "noise_seed",
+          "type": "INT",
+          "link": 561,
+          "widget": {
+            "name": "noise_seed"
+          }
+        },
+        {
+          "name": "start_at_step",
+          "type": "INT",
+          "link": 508,
+          "widget": {
+            "name": "start_at_step"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 602,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 244,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 245,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            191
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSamplerAdvanced"
+      },
+      "widgets_values": [
+        "enable",
+        915378153791828,
+        "fixed",
+        20,
+        0.8,
+        "deis",
+        "ddim_uniform",
+        40,
+        10000,
+        "disable"
+      ]
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "default"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        310
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.4,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1730.9052734375,
+        -283.7508239746094
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "xijie_mihuan, A peaceful autumn camping scene in a forest filled with golden leaves and vibrant orange and red hues. A cozy camping setup with a large, open canvas tent beside a roaring campfire. The young woman, around 20 years old, with flowing dark hair, dressed in a chunky knit sweater and high-waisted denim shorts, sits on a log near the fire, her posture relaxed. She looks down at a steaming mug in her hands, her face illuminated by the warm firelight, her smile soft and content. The surrounding nature is bathed in the warm glow of the fire, with colorful fall leaves scattered across the forest floor. Majestic mountains loom in the distance, their peaks dusted with a light layer of mist. The air feels crisp and refreshing, with a gentle breeze rustling the leaves. A lantern hangs from a nearby tree branch, casting a soft light around the camp.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1695.141357421875,
+        72.00843048095703
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "base",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        207.60023498535156
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            244,
+            422,
+            475,
+            575
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "deis",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3128.405517578125,
+        3404.49462890625
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            622,
+            623
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -9263,10 +9263,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9090909090909097,
+      "scale": 0.6830134553650705,
       "offset": [
-        3502.6807401052183,
-        863.9129942014079
+        2315.7950432759644,
+        525.7556701337093
       ]
     },
     "groupNodes": {},
