@@ -6696,56 +6696,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 348,
-      "type": "Image Comparer (rgthree)",
-      "pos": [
-        6077.2158203125,
-        3979.991455078125
-      ],
-      "size": [
-        613.3534545898438,
-        755.3240356445312
-      ],
-      "flags": {},
-      "order": 161,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image_a",
-          "type": "IMAGE",
-          "link": 632,
-          "dir": 3
-        },
-        {
-          "name": "image_b",
-          "type": "IMAGE",
-          "link": 633,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "原图 与 Tile放大对比",
-      "properties": {
-        "comparer_mode": "Slide"
-      },
-      "widgets_values": [
-        [
-          {
-            "name": "A",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_glarh_00001_.png&type=temp&subfolder=&rand=0.03645665197211656"
-          },
-          {
-            "name": "B",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_glarh_00002_.png&type=temp&subfolder=&rand=0.6837352786575102"
-          }
-        ]
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 230,
       "type": "Image Save",
       "pos": [
@@ -6917,12 +6867,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00001_.png&type=temp&subfolder=&rand=0.04575749389720718"
+            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00003_.png&type=temp&subfolder=&rand=0.4484719259323673"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00002_.png&type=temp&subfolder=&rand=0.8262892324572106"
+            "url": "/api/view?filename=rgthree.compare._temp_gpzlt_00004_.png&type=temp&subfolder=&rand=0.4485729021452438"
           }
         ]
       ],
@@ -7454,6 +7404,56 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 348,
+      "type": "Image Comparer (rgthree)",
+      "pos": [
+        6077.2158203125,
+        3979.991455078125
+      ],
+      "size": [
+        613.3534545898438,
+        755.3240356445312
+      ],
+      "flags": {},
+      "order": 161,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "image_a",
+          "type": "IMAGE",
+          "link": 632,
+          "dir": 3
+        },
+        {
+          "name": "image_b",
+          "type": "IMAGE",
+          "link": 633,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "原图 与 Tile放大对比",
+      "properties": {
+        "comparer_mode": "Slide"
+      },
+      "widgets_values": [
+        [
+          {
+            "name": "A",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_glarh_00003_.png&type=temp&subfolder=&rand=0.3792962068976835"
+          },
+          {
+            "name": "B",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_glarh_00004_.png&type=temp&subfolder=&rand=0.23560240956824297"
+          }
+        ]
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -9263,10 +9263,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650705,
+      "scale": 0.7513148009015781,
       "offset": [
-        2315.7950432759644,
-        525.7556701337093
+        2923.453792483601,
+        659.7893416136078
       ]
     },
     "groupNodes": {},
