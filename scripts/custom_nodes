@@ -66,3 +66,5 @@ ComfyUI_LayerStyle=https://gh-proxy.com/https://github.com/chflame163/ComfyUI_La
 ComfyUI_IPAdapter_plus=https://gh-proxy.com/https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
 # ComfyUI-VideoHelperSuite
 ComfyUI-VideoHelperSuite=https://gh-proxy.com/https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
+# ComfyUI-HunyuanVideoWrapper
+ComfyUI-HunyuanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyUI-HunyuanVideoWrapper.git
