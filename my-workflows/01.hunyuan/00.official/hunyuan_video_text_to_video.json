@@ -319,29 +319,6 @@
       "widgets_values": []
     },
     {
-      "id": 74,
-      "type": "Note",
-      "pos": [
-        1150,
-        360
-      ],
-      "size": [
-        210,
-        170
-      ],
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "properties": {},
-      "widgets_values": [
-        "Use the tiled decode node by default because most people will need it.\n\nLower the tile_size and overlap if you run out of memory."
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 77,
       "type": "Note",
       "pos": [
@@ -353,7 +330,7 @@
         110
       ],
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -479,39 +456,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 75,
-      "type": "SaveAnimatedWEBP",
-      "pos": [
-        1410,
-        200
-      ],
-      "size": [
-        315,
-        366
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 215
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "SaveAnimatedWEBP"
-      },
-      "widgets_values": [
-        "ComfyUI",
-        24,
-        false,
-        80,
-        "default"
-      ]
-    },
-    {
       "id": 25,
       "type": "RandomNoise",
       "pos": [
@@ -523,7 +467,7 @@
         82
       ],
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -540,7 +484,7 @@
         "Node name for S&R": "RandomNoise"
       },
       "widgets_values": [
-        1,
+        1088094307050881,
         "randomize"
       ],
       "color": "#2a363b",
@@ -558,7 +502,7 @@
         82
       ],
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -595,7 +539,7 @@
         106
       ],
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -631,7 +575,7 @@
         60
       ],
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -651,6 +595,63 @@
       },
       "widgets_values": [
         "hunyuan_video_vae_bf16.safetensors"
+      ]
+    },
+    {
+      "id": 74,
+      "type": "Note",
+      "pos": [
+        1154.4849853515625,
+        397.2254638671875
+      ],
+      "size": [
+        210,
+        170
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "Use the tiled decode node by default because most people will need it.\n\nLower the tile_size and overlap if you run out of memory."
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 75,
+      "type": "SaveAnimatedWEBP",
+      "pos": [
+        1410,
+        200
+      ],
+      "size": [
+        736.1416015625,
+        631.0635375976562
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 215
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveAnimatedWEBP"
+      },
+      "widgets_values": [
+        "ComfyUI",
+        24,
+        false,
+        80,
+        "default",
+        null
       ]
     }
   ],
@@ -789,10 +790,10 @@
   "extra": {
     "groupNodes": {},
     "ds": {
-      "scale": 1.1167815779426087,
+      "scale": 1.116781577942609,
       "offset": [
-        94.58273309221272,
-        217.62434609851
+        -228.75740567626005,
+        -15.393647602287851
       ]
     },
     "node_versions": {
