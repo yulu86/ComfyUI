@@ -246,7 +246,7 @@
         "collapsed": true
       },
       "order": 44,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -292,7 +292,7 @@
       ],
       "flags": {},
       "order": 50,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -462,7 +462,7 @@
       ],
       "flags": {},
       "order": 52,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -568,7 +568,7 @@
       ],
       "flags": {},
       "order": 34,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "width",
@@ -611,8 +611,8 @@
       "id": 150,
       "type": "Reroute",
       "pos": [
-        608.6759643554688,
-        223.08409118652344
+        687.7657470703125,
+        348.2902526855469
       ],
       "size": [
         75,
@@ -653,8 +653,8 @@
       "id": 151,
       "type": "Reroute",
       "pos": [
-        608.6759643554688,
-        262.9393615722656
+        687.7657470703125,
+        388.1455993652344
       ],
       "size": [
         75,
@@ -695,8 +695,8 @@
       "id": 152,
       "type": "Reroute",
       "pos": [
-        608.6759643554688,
-        304.8724670410156
+        687.7657470703125,
+        430.0787353515625
       ],
       "size": [
         75,
@@ -737,8 +737,8 @@
       "id": 137,
       "type": "Scheduler Selector",
       "pos": [
-        496.5802917480469,
-        503.2524108886719
+        575.6700439453125,
+        628.4583129882812
       ],
       "size": [
         315,
@@ -774,8 +774,8 @@
       "id": 148,
       "type": "Reroute",
       "pos": [
-        608.0440673828125,
-        621.9498901367188
+        687.1338500976562,
+        747.15576171875
       ],
       "size": [
         75,
@@ -813,8 +813,8 @@
       "id": 147,
       "type": "Reroute",
       "pos": [
-        608.0440673828125,
-        580.7952880859375
+        687.1338500976562,
+        706.0012817382812
       ],
       "size": [
         75,
@@ -852,8 +852,8 @@
       "id": 149,
       "type": "Reroute",
       "pos": [
-        608.6759643554688,
-        185.38827514648438
+        687.7657470703125,
+        310.5943908691406
       ],
       "size": [
         75,
@@ -891,8 +891,8 @@
       "id": 136,
       "type": "Sampler Selector",
       "pos": [
-        492.9107360839844,
-        397.4021301269531
+        572.00048828125,
+        522.6083984375
       ],
       "size": [
         315,
@@ -933,7 +933,7 @@
       ],
       "size": [
         655.5556030273438,
-        157.6180877685547
+        178
       ],
       "flags": {
         "pinned": true
@@ -1029,7 +1029,7 @@
       ],
       "flags": {},
       "order": 48,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1098,7 +1098,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1049386146240800,
+        1115560727362110,
         "randomize",
         60,
         1,
@@ -1140,44 +1140,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 154,
-      "type": "Int",
-      "pos": [
-        497.5728454589844,
-        705.2546997070312
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 5,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            349,
-            350
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Steps",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "30"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 139,
       "type": "EmptyHunyuanLatentVideo",
       "pos": [
@@ -1190,7 +1152,7 @@
       ],
       "flags": {},
       "order": 47,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "width",
@@ -1250,7 +1212,7 @@
       ],
       "flags": {},
       "order": 49,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -1319,7 +1281,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        791417484357927,
+        965375622178530,
         "randomize",
         30,
         1,
@@ -1531,7 +1493,7 @@
         60
       ],
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1636,7 +1598,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1662,7 +1624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1686,7 +1648,7 @@
         89.73997497558594
       ],
       "flags": {},
-      "order": 9,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1834,7 +1796,7 @@
         "collapsed": true
       },
       "order": 37,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "_float",
@@ -1884,7 +1846,7 @@
         "collapsed": true
       },
       "order": 41,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -1937,7 +1899,7 @@
       ],
       "flags": {},
       "order": 46,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "input",
@@ -1956,7 +1918,7 @@
       },
       "widgets_values": [
         0,
-        ""
+        "61"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -1974,7 +1936,7 @@
       ],
       "flags": {},
       "order": 51,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -2020,7 +1982,7 @@
         322.6468200683594
       ],
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2091,7 +2053,7 @@
         82
       ],
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2109,7 +2071,7 @@
         "Node name for S&R": "Seed Generator"
       },
       "widgets_values": [
-        760954514271367,
+        434197070413602,
         "randomize"
       ],
       "color": "#232",
@@ -2127,7 +2089,7 @@
         58
       ],
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2162,8 +2124,8 @@
         58
       ],
       "flags": {},
-      "order": 13,
-      "mode": 0,
+      "order": 12,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -2197,7 +2159,7 @@
         82
       ],
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2233,7 +2195,7 @@
         106
       ],
       "flags": {},
-      "order": 15,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2316,7 +2278,7 @@
         58
       ],
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2351,7 +2313,7 @@
         58
       ],
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2375,112 +2337,21 @@
       "bgcolor": "#353"
     },
     {
-      "id": 145,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        2470.82373046875,
-        766.5499877929688
-      ],
-      "size": [
-        960.2182006835938,
-        1521.624267578125
-      ],
-      "flags": {},
-      "order": 53,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 317
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 322,
-          "shape": 7
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 323,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT",
-          "link": 324,
-          "widget": {
-            "name": "frame_rate"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "hunyuan",
-        "format": "video/ffmpeg-gif",
-        "dither": "sierra2_4a",
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "EimiFukada Dance_00012.gif",
-            "subfolder": "hunyuan_video",
-            "type": "output",
-            "format": "video/ffmpeg-gif",
-            "frame_rate": 30,
-            "workflow": "EimiFukada Dance_00012.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00012.gif"
-          },
-          "muted": false
-        }
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 146,
       "type": "VHS_VideoCombine",
       "pos": [
-        2831.293701171875,
-        697.6828002929688
+        2837.888427734375,
+        717.46728515625
       ],
       "size": [
         540.7474365234375,
-        1035.68603515625
+        1259.4447021484375
       ],
       "flags": {
         "collapsed": true
       },
       "order": 54,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -2547,19 +2418,148 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "EimiFukada Dance_00013.mp4",
+            "filename": "EimiFukada Dance_00002.mp4",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 30,
-            "workflow": "EimiFukada Dance_00013.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00013.mp4"
+            "workflow": "EimiFukada Dance_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00002.mp4"
           },
           "muted": false
         }
       },
       "color": "#322",
       "bgcolor": "#533"
+    },
+    {
+      "id": 145,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        2470.82373046875,
+        766.5499877929688
+      ],
+      "size": [
+        960.2182006835938,
+        1928.07275390625
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 317
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 322,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 323,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 324,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "video/ffmpeg-gif",
+        "dither": "sierra2_4a",
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "EimiFukada Dance_00001.gif",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "video/ffmpeg-gif",
+            "frame_rate": 30,
+            "workflow": "EimiFukada Dance_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00001.gif"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 154,
+      "type": "Int",
+      "pos": [
+        576.66259765625,
+        830.4601440429688
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            349,
+            350
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "30"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -3124,7 +3124,7 @@
     },
     {
       "id": 2,
-      "title": "01_预览图",
+      "title": "Step 01_生成预览图",
       "bounding": [
         1081.7872314453125,
         -283.9176330566406,
@@ -3150,12 +3150,12 @@
     },
     {
       "id": 4,
-      "title": "02_生成视频",
+      "title": "Step 02_生成视频",
       "bounding": [
         1081.51904296875,
         568.3939208984375,
-        2429.7900390625,
-        1750.445556640625
+        2409.970947265625,
+        2152.23388671875
       ],
       "color": "#b58b2a",
       "font_size": 24,
@@ -3165,10 +3165,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5054470284993148,
+      "scale": 0.8140274938684371,
       "offset": [
-        2908.207860788953,
-        32.46442751773428
+        191.3387375329658,
+        13.907305395713461
       ]
     },
     "groupNodes": {},
