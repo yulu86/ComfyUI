@@ -1,51 +1,7 @@
 {
-  "last_node_id": 123,
-  "last_link_id": 280,
+  "last_node_id": 125,
+  "last_link_id": 291,
   "nodes": [
-    {
-      "id": 22,
-      "type": "BasicGuider",
-      "pos": [
-        34.614166259765625,
-        -203.8909454345703
-      ],
-      "size": [
-        222.3482666015625,
-        46
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 222,
-          "slot_index": 0
-        },
-        {
-          "name": "conditioning",
-          "type": "CONDITIONING",
-          "link": 129,
-          "slot_index": 1
-        }
-      ],
-      "outputs": [
-        {
-          "name": "GUIDER",
-          "type": "GUIDER",
-          "links": [
-            30
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "BasicGuider"
-      },
-      "widgets_values": []
-    },
     {
       "id": 73,
       "type": "VAEDecodeTiled",
@@ -60,13 +16,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
           "name": "samples",
           "type": "LATENT",
-          "link": 210
+          "link": 291
         },
         {
           "name": "vae",
@@ -97,76 +53,6 @@
       ]
     },
     {
-      "id": 13,
-      "type": "SamplerCustomAdvanced",
-      "pos": [
-        434.7510070800781,
-        5.542052745819092
-      ],
-      "size": [
-        272.3617858886719,
-        124.53733825683594
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 39,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "noise",
-          "type": "NOISE",
-          "link": 37,
-          "slot_index": 0
-        },
-        {
-          "name": "guider",
-          "type": "GUIDER",
-          "link": 30,
-          "slot_index": 1
-        },
-        {
-          "name": "sampler",
-          "type": "SAMPLER",
-          "link": 19,
-          "slot_index": 2
-        },
-        {
-          "name": "sigmas",
-          "type": "SIGMAS",
-          "link": 20,
-          "slot_index": 3
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 180,
-          "slot_index": 4
-        }
-      ],
-      "outputs": [
-        {
-          "name": "output",
-          "type": "LATENT",
-          "links": [
-            210
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "denoised_output",
-          "type": "LATENT",
-          "links": null,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SamplerCustomAdvanced"
-      },
-      "widgets_values": []
-    },
-    {
       "id": 90,
       "type": "Display Int (rgthree)",
       "pos": [
@@ -178,7 +64,7 @@
         76
       ],
       "flags": {},
-      "order": 35,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -204,66 +90,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 45,
-      "type": "EmptyHunyuanLatentVideo",
-      "pos": [
-        -4.734938621520996,
-        -108.17024993896484
-      ],
-      "size": [
-        315,
-        130
-      ],
-      "flags": {},
-      "order": 36,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "width",
-          "type": "INT",
-          "link": 237,
-          "widget": {
-            "name": "width"
-          }
-        },
-        {
-          "name": "height",
-          "type": "INT",
-          "link": 238,
-          "widget": {
-            "name": "height"
-          }
-        },
-        {
-          "name": "length",
-          "type": "INT",
-          "link": 236,
-          "widget": {
-            "name": "length"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            180
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "EmptyHunyuanLatentVideo"
-      },
-      "widgets_values": [
-        848,
-        480,
-        73,
-        1
-      ]
-    },
-    {
       "id": 96,
       "type": "CR Float To Integer",
       "pos": [
@@ -277,7 +103,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 16,
+      "order": 14,
       "mode": 0,
       "inputs": [
         {
@@ -327,7 +153,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 25,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -382,7 +208,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 31,
+      "order": 29,
       "mode": 0,
       "inputs": [
         {
@@ -417,176 +243,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 26,
-      "type": "FluxGuidance",
-      "pos": [
-        -411.5935363769531,
-        687.3121337890625
-      ],
-      "size": [
-        317.4000244140625,
-        58
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "conditioning",
-          "type": "CONDITIONING",
-          "link": 175
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            129
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "FluxGuidance"
-      },
-      "widgets_values": [
-        6
-      ],
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 44,
-      "type": "CLIPTextEncode",
-      "pos": [
-        -374.27032470703125,
-        640.201171875
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 251
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 247,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            175
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Positive Prompt)",
-      "properties": {
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 11,
-      "type": "DualCLIPLoader",
-      "pos": [
-        -423.775634765625,
-        489.103271484375
-      ],
-      "size": [
-        350,
-        106
-      ],
-      "flags": {},
-      "order": 0,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            250
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DualCLIPLoader"
-      },
-      "widgets_values": [
-        "hunyuan_clip_l.safetensors",
-        "llava_llama3_fp16.safetensors",
-        "hunyuan_video",
-        "default"
-      ]
-    },
-    {
-      "id": 67,
-      "type": "ModelSamplingSD3",
-      "pos": [
-        -350.36871337890625,
-        290.3329772949219
-      ],
-      "size": [
-        210,
-        58
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 248
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            222
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ModelSamplingSD3"
-      },
-      "widgets_values": [
-        7
-      ]
-    },
-    {
       "id": 102,
       "type": "Evaluate Strings",
       "pos": [
@@ -600,7 +256,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 23,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -668,7 +324,7 @@
         400.6348876953125
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -702,7 +358,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 1,
+      "order": 0,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -730,39 +386,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 10,
-      "type": "VAELoader",
-      "pos": [
-        -423.5907287597656,
-        383.4311828613281
-      ],
-      "size": [
-        350,
-        60
-      ],
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            258
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAELoader"
-      },
-      "widgets_values": [
-        "hunyuan_video_vae_bf16.safetensors"
-      ]
-    },
-    {
       "id": 111,
       "type": "Reroute",
       "pos": [
@@ -776,7 +399,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 15,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -816,7 +439,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 20,
+      "order": 16,
       "mode": 0,
       "inputs": [
         {
@@ -883,7 +506,7 @@
         58
       ],
       "flags": {},
-      "order": 3,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -921,7 +544,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -960,7 +583,7 @@
         26
       ],
       "flags": {},
-      "order": 26,
+      "order": 22,
       "mode": 0,
       "inputs": [
         {
@@ -1000,7 +623,7 @@
         26
       ],
       "flags": {},
-      "order": 33,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -1042,7 +665,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -1083,7 +706,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 17,
+      "order": 15,
       "mode": 0,
       "inputs": [
         {
@@ -1124,7 +747,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -1152,83 +775,6 @@
       }
     },
     {
-      "id": 25,
-      "type": "RandomNoise",
-      "pos": [
-        98.69552612304688,
-        88.78519439697266
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 18,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "noise_seed",
-          "type": "INT",
-          "link": 275,
-          "widget": {
-            "name": "noise_seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "NOISE",
-          "type": "NOISE",
-          "links": [
-            37
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "RandomNoise"
-      },
-      "widgets_values": [
-        1071480821297253,
-        "randomize"
-      ]
-    },
-    {
-      "id": 16,
-      "type": "KSamplerSelect",
-      "pos": [
-        5.029630661010742,
-        147.06944274902344
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 4,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "SAMPLER",
-          "type": "SAMPLER",
-          "links": [
-            19
-          ],
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSamplerSelect"
-      },
-      "widgets_values": [
-        "euler"
-      ]
-    },
-    {
       "id": 112,
       "type": "Reroute",
       "pos": [
@@ -1240,7 +786,7 @@
         26
       ],
       "flags": {},
-      "order": 24,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -1278,8 +824,8 @@
       "flags": {
         "pinned": true
       },
-      "order": 42,
-      "mode": 0,
+      "order": 39,
+      "mode": 4,
       "inputs": [
         {
           "name": "images",
@@ -1343,13 +889,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "8bit Hyrule Dance_00001.gif",
+            "filename": "Naruto Transformation_00001.gif",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/ffmpeg-gif",
-            "frame_rate": 24,
-            "workflow": "8bit Hyrule Dance_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00001.gif"
+            "frame_rate": 12,
+            "workflow": "Naruto Transformation_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Naruto Transformation_00001.gif"
           },
           "muted": false
         }
@@ -1372,8 +918,8 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 41,
-      "mode": 0,
+      "order": 38,
+      "mode": 4,
       "inputs": [
         {
           "name": "images",
@@ -1440,13 +986,13 @@
           "hidden": true,
           "paused": false,
           "params": {
-            "filename": "8bit Hyrule Dance_00002.mp4",
+            "filename": "Naruto Transformation_00002.mp4",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/h264-mp4",
-            "frame_rate": 24,
-            "workflow": "8bit Hyrule Dance_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00002.mp4"
+            "frame_rate": 12,
+            "workflow": "Naruto Transformation_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Naruto Transformation_00002.mp4"
           },
           "muted": false
         }
@@ -1466,7 +1012,7 @@
         58
       ],
       "flags": {},
-      "order": 5,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1501,7 +1047,7 @@
         58
       ],
       "flags": {},
-      "order": 6,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1525,35 +1071,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 123,
-      "type": "PreviewImage",
-      "pos": [
-        438.7665710449219,
-        201.7233123779297
-      ],
-      "size": [
-        623.8858032226562,
-        649.3568115234375
-      ],
-      "flags": {},
-      "order": 43,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 280
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": [],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 120,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -1565,7 +1082,7 @@
         161.25209045410156
       ],
       "flags": {},
-      "order": 19,
+      "order": 17,
       "mode": 0,
       "inputs": [
         {
@@ -1586,42 +1103,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 121,
-      "type": "Seed Generator",
-      "pos": [
-        -805.8143920898438,
-        25.969024658203125
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 7,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            275,
-            276
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Seed Generator"
-      },
-      "widgets_values": [
-        133952536390703,
-        "randomize"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 79,
       "type": "Note",
       "pos": [
@@ -1635,7 +1116,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 8,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1659,7 +1140,7 @@
         89.73997497558594
       ],
       "flags": {},
-      "order": 9,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1687,47 +1168,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 17,
-      "type": "BasicScheduler",
-      "pos": [
-        9.734172821044922,
-        251.9113006591797
-      ],
-      "size": [
-        315,
-        106.49331665039062
-      ],
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 253,
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "SIGMAS",
-          "type": "SIGMAS",
-          "links": [
-            20
-          ],
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "BasicScheduler"
-      },
-      "widgets_values": [
-        "simple",
-        30,
-        1
-      ]
-    },
-    {
       "id": 104,
       "type": "Note",
       "pos": [
@@ -1741,7 +1181,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 10,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1765,7 +1205,7 @@
         286
       ],
       "flags": {},
-      "order": 21,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -1796,7 +1236,8 @@
           "name": "CLIP",
           "type": "CLIP",
           "links": [
-            251
+            251,
+            285
           ],
           "slot_index": 1,
           "shape": 3,
@@ -1860,60 +1301,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 100,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -1799.7281494140625,
-        461.05718994140625
-      ],
-      "size": [
-        560.7031860351562,
-        423.7285461425781
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 11,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            245
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "game-zelda",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 12,
       "type": "UNETLoader",
       "pos": [
@@ -1925,7 +1312,7 @@
         82
       ],
       "flags": {},
-      "order": 12,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1934,7 +1321,7 @@
           "type": "MODEL",
           "links": [
             252,
-            253
+            281
           ],
           "slot_index": 0,
           "shape": 3
@@ -1949,6 +1336,395 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 82,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        66.265625
+      ],
+      "size": [
+        574.201904296875,
+        322.6468200683594
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            246
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "Pixel anime pixel art drawing, Link, dressed in his iconic green tunic and hat in 8bit pixel art style, begins to dance energetically on a grassy field under a bright, pixelated sky. His movements are sharp and rhythmic, with his arms swinging side to side and his feet tapping the ground in a lively pattern. The camera zooms in slightly as he spins, capturing the pixelated details of his outfit and the cheerful expression on his face. The background features rolling hills, pixelated trees, and a distant castle, all rendered in vibrant 8bit colors. The camera angle is slightly low, emphasizing the dynamic movement of his dance. The sunlight casts a warm glow over the scene, enhancing the nostalgic 8bit aesthetic. As the dance intensifies, the camera pans out to reveal the full landscape, with Link continuing to dance in the center of the frame.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 121,
+      "type": "Seed Generator",
+      "pos": [
+        -805.8143920898438,
+        25.969024658203125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            276,
+            283
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Generator"
+      },
+      "widgets_values": [
+        93249498223802,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 125,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -376.4749450683594,
+        886.951904296875
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 25,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 285
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 288,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            289
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Negative Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 26,
+      "type": "FluxGuidance",
+      "pos": [
+        -410.6319580078125,
+        784.413330078125
+      ],
+      "size": [
+        317.4000244140625,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 290
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            284
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "FluxGuidance"
+      },
+      "widgets_values": [
+        6
+      ],
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 11,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -428.5826721191406,
+        583.3207397460938
+      ],
+      "size": [
+        350,
+        106
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            250
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "hunyuan_clip_l.safetensors",
+        "llava_llama3_fp16.safetensors",
+        "hunyuan_video",
+        "default"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -375.2315368652344,
+        739.2252807617188
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 28,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 251
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 247,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            290
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 10,
+      "type": "VAELoader",
+      "pos": [
+        -427.4364318847656,
+        468.99566650390625
+      ],
+      "size": [
+        350,
+        60
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            258
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "hunyuan_video_vae_bf16.safetensors"
+      ]
+    },
+    {
+      "id": 67,
+      "type": "ModelSamplingSD3",
+      "pos": [
+        -346.523193359375,
+        366.2835388183594
+      ],
+      "size": [
+        210,
+        58
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 248
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ModelSamplingSD3"
+      },
+      "widgets_values": [
+        7
+      ]
+    },
+    {
+      "id": 100,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -1799.7281494140625,
+        461.05718994140625
+      ],
+      "size": [
+        560.7031860351562,
+        423.7285461425781
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            245
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            288
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
+        "game-zelda",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 87,
@@ -1980,116 +1756,169 @@
         "Node name for S&R": "Int"
       },
       "widgets_values": [
-        "3"
+        "0"
       ],
       "color": "#232",
       "bgcolor": "#353"
     },
     {
-      "id": 82,
-      "type": "String",
+      "id": 45,
+      "type": "EmptyHunyuanLatentVideo",
       "pos": [
-        -1799.7281494140625,
-        66.265625
+        5.3773651123046875,
+        -187.62478637695312
       ],
       "size": [
-        574.201904296875,
-        322.6468200683594
+        315,
+        130
       ],
       "flags": {},
-      "order": 14,
+      "order": 34,
       "mode": 0,
-      "inputs": [],
+      "inputs": [
+        {
+          "name": "width",
+          "type": "INT",
+          "link": 237,
+          "widget": {
+            "name": "width"
+          }
+        },
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 238,
+          "widget": {
+            "name": "height"
+          }
+        },
+        {
+          "name": "length",
+          "type": "INT",
+          "link": 236,
+          "widget": {
+            "name": "length"
+          }
+        }
+      ],
       "outputs": [
         {
-          "name": "STRING",
-          "type": "STRING",
+          "name": "LATENT",
+          "type": "LATENT",
           "links": [
-            246
+            282
           ],
           "slot_index": 0
         }
       ],
-      "title": "提示词",
       "properties": {
-        "Node name for S&R": "String"
+        "Node name for S&R": "EmptyHunyuanLatentVideo"
       },
       "widgets_values": [
-        "Pixel anime pixel art drawing, Link, dressed in his iconic green tunic and hat in 8bit pixel art style, begins to dance energetically on a grassy field under a bright, pixelated sky. His movements are sharp and rhythmic, with his arms swinging side to side and his feet tapping the ground in a lively pattern. The camera zooms in slightly as he spins, capturing the pixelated details of his outfit and the cheerful expression on his face. The background features rolling hills, pixelated trees, and a distant castle, all rendered in vibrant 8bit colors. The camera angle is slightly low, emphasizing the dynamic movement of his dance. The sunlight casts a warm glow over the scene, enhancing the nostalgic 8bit aesthetic. As the dance intensifies, the camera pans out to reveal the full landscape, with Link continuing to dance in the center of the frame.",
-        [
-          false,
-          true
-        ]
+        848,
+        480,
+        73,
+        1
+      ]
+    },
+    {
+      "id": 124,
+      "type": "KSampler",
+      "pos": [
+        5.3773651123046875,
+        10.448565483093262
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 281
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 284
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 289
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 282
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 283,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            291
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        948183767351645,
+        "randomize",
+        30,
+        1,
+        "euler",
+        "beta",
+        1
+      ]
+    },
+    {
+      "id": 123,
+      "type": "PreviewImage",
+      "pos": [
+        438.7665710449219,
+        201.7233123779297
+      ],
+      "size": [
+        623.8858032226562,
+        649.3568115234375
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 280
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": [],
+      "color": "#322",
+      "bgcolor": "#533"
     }
   ],
   "links": [
-    [
-      19,
-      16,
-      0,
-      13,
-      2,
-      "SAMPLER"
-    ],
-    [
-      20,
-      17,
-      0,
-      13,
-      3,
-      "SIGMAS"
-    ],
-    [
-      30,
-      22,
-      0,
-      13,
-      1,
-      "GUIDER"
-    ],
-    [
-      37,
-      25,
-      0,
-      13,
-      0,
-      "NOISE"
-    ],
-    [
-      129,
-      26,
-      0,
-      22,
-      1,
-      "CONDITIONING"
-    ],
-    [
-      175,
-      44,
-      0,
-      26,
-      0,
-      "CONDITIONING"
-    ],
-    [
-      180,
-      45,
-      0,
-      13,
-      4,
-      "LATENT"
-    ],
-    [
-      210,
-      13,
-      0,
-      73,
-      0,
-      "LATENT"
-    ],
     [
       218,
       73,
@@ -2097,14 +1926,6 @@
       81,
       0,
       "IMAGE"
-    ],
-    [
-      222,
-      67,
-      0,
-      22,
-      0,
-      "MODEL"
     ],
     [
       229,
@@ -2231,14 +2052,6 @@
       12,
       0,
       106,
-      0,
-      "MODEL"
-    ],
-    [
-      253,
-      12,
-      0,
-      17,
       0,
       "MODEL"
     ],
@@ -2387,14 +2200,6 @@
       "FLOAT"
     ],
     [
-      275,
-      121,
-      0,
-      25,
-      0,
-      "INT"
-    ],
-    [
       276,
       121,
       0,
@@ -2409,6 +2214,78 @@
       123,
       0,
       "IMAGE"
+    ],
+    [
+      281,
+      12,
+      0,
+      124,
+      0,
+      "MODEL"
+    ],
+    [
+      282,
+      45,
+      0,
+      124,
+      3,
+      "LATENT"
+    ],
+    [
+      283,
+      121,
+      0,
+      124,
+      4,
+      "INT"
+    ],
+    [
+      284,
+      26,
+      0,
+      124,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      285,
+      106,
+      1,
+      125,
+      0,
+      "CLIP"
+    ],
+    [
+      288,
+      100,
+      1,
+      125,
+      1,
+      "STRING"
+    ],
+    [
+      289,
+      125,
+      0,
+      124,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      290,
+      44,
+      0,
+      26,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      291,
+      124,
+      0,
+      73,
+      0,
+      "LATENT"
     ]
   ],
   "groups": [
@@ -2418,8 +2295,8 @@
       "bounding": [
         -440.18634033203125,
         -277.593505859375,
-        375.9422607421875,
-        1046.99755859375
+        373.05291748046875,
+        1181.3480224609375
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -2455,10 +2332,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8390545288825505,
+      "scale": 0.839054528882557,
       "offset": [
-        3775.4836782045763,
-        518.6335964399628
+        1316.7402286951306,
+        625.3911613154577
       ]
     },
     "groupNodes": {},
