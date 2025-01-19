@@ -1,6 +1,6 @@
 {
-  "last_node_id": 153,
-  "last_link_id": 348,
+  "last_node_id": 156,
+  "last_link_id": 354,
   "nodes": [
     {
       "id": 108,
@@ -57,7 +57,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 18,
+      "order": 22,
       "mode": 0,
       "inputs": [
         {
@@ -96,7 +96,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 17,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -163,7 +163,7 @@
         26
       ],
       "flags": {},
-      "order": 36,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -204,7 +204,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 28,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -232,415 +232,6 @@
       }
     },
     {
-      "id": 85,
-      "type": "String",
-      "pos": [
-        -1799.7281494140625,
-        -92.80496978759766
-      ],
-      "size": [
-        561.4890747070312,
-        89.73997497558594
-      ],
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            255
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "标题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "8bit Hyrule Dance",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 104,
-      "type": "Note",
-      "pos": [
-        -3593.042724609375,
-        -243.10043334960938
-      ],
-      "size": [
-        816.2579956054688,
-        845.4130859375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 2,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "- studio_ghibli_hv_v03_19: A scene from a Studio Ghibli animated film\n\n- eimifukada: eimiFukada\n\n- venom_hunyuan_video_v1_e40: Sci-fi movie style, close-up: Set against a futuristic cyberpunk city at night, a young blonde woman in a black suit and sunglasses is engulfed by black tentacles, transforming into a slender Female Venom. She sticks out her tongue, showcasing her power.\n\n  lora weight 0.7\n\n\n- nipple_play_v0-1: A high-definition video of a cosplay girl. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts. She has gorgeous blue eyes sparkling, and her short, light blue hair is styled with a side-swept fringe and a pink ribbon. In the background, there is a beach, palm trees, and the ocean of a tropical island. The video is focused on her upper chest, featuring her smooth and light pale skin. Detailed light smile face with gorgeous blue eyes, high resolution. The camera is held steady.\n\n- Sexy_Dance_e15: sexy dance, dance, belly dance, and similar\n\n- pix2_c: Pixel anime pixel art drawing.\n\n\nhttps://github.com/Tencent/HunyuanVideo?tab=readme-ov-file#hunyuanvideo-a-systematic-framework-for-large-video-generation-model\n\nResolution\th/w=9:16\th/w=16:9\th/w=4:3\th/w=3:4\th/w=1:1\n540p\t            544px960px129f\t960px544px129f\t624px832px129f\t832px624px129f\t720px720px129f\n720p(recommended)   720px1280px129f\t1280px720px129f\t1104px832px129f\t832px1104px129f\t960px960px129f\n\n"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 10,
-      "type": "VAELoader",
-      "pos": [
-        -401.43096923828125,
-        476.0511169433594
-      ],
-      "size": [
-        350,
-        60
-      ],
-      "flags": {},
-      "order": 3,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            258
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAELoader"
-      },
-      "widgets_values": [
-        "hunyuan_video_vae_bf16.safetensors"
-      ]
-    },
-    {
-      "id": 67,
-      "type": "ModelSamplingSD3",
-      "pos": [
-        -320.51776123046875,
-        373.3389587402344
-      ],
-      "size": [
-        210,
-        58
-      ],
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 248
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ModelSamplingSD3"
-      },
-      "widgets_values": [
-        7
-      ]
-    },
-    {
-      "id": 129,
-      "type": "easy mathInt",
-      "pos": [
-        1168.1124267578125,
-        837.1533813476562
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 41,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "link": 293,
-          "widget": {
-            "name": "a"
-          }
-        },
-        {
-          "name": "b",
-          "type": "INT",
-          "link": 294,
-          "widget": {
-            "name": "b"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            295
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        0,
-        0,
-        "multiply"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 94,
-      "type": "Float",
-      "pos": [
-        -1172.83447265625,
-        -195.3873748779297
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 4,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            267
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频帧率",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "24"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 102,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1153.8367919921875,
-        143.38905334472656
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 23,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 245,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 246,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            244,
-            247
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + \", \" + b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
-      "id": 103,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -1159.3101806640625,
-        204.4049530029297
-      ],
-      "size": [
-        626.8549194335938,
-        400.6348876953125
-      ],
-      "flags": {},
-      "order": 32,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 244,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 124,
-      "type": "KSampler",
-      "pos": [
-        1091.7874755859375,
-        -8.449249267578125
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 44,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 336
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 333
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 334
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 282
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 347,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 299,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 300,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            291
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        365684462249970,
-        "randomize",
-        30,
-        1,
-        "euler",
-        "beta",
-        1
-      ]
-    },
-    {
       "id": 97,
       "type": "Int",
       "pos": [
@@ -652,7 +243,7 @@
         58
       ],
       "flags": {},
-      "order": 5,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -687,7 +278,7 @@
         58
       ],
       "flags": {},
-      "order": 6,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -711,46 +302,11 @@
       "bgcolor": "#353"
     },
     {
-      "id": 127,
-      "type": "Int",
-      "pos": [
-        1119.2525634765625,
-        664.1082763671875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 7,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            294
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频长度(秒)",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "3"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 130,
       "type": "easy mathInt",
       "pos": [
-        1300.4718017578125,
-        836.6107788085938
+        1324.25439453125,
+        1118.0421142578125
       ],
       "size": [
         315,
@@ -759,8 +315,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 43,
-      "mode": 2,
+      "order": 45,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -794,103 +350,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 90,
-      "type": "Display Int (rgthree)",
-      "pos": [
-        1121.3736572265625,
-        886.2020874023438
-      ],
-      "size": [
-        315,
-        76
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "input",
-          "type": "INT",
-          "link": 297,
-          "widget": {
-            "name": "input"
-          },
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "视频总帧数",
-      "properties": {
-        "Node name for S&R": "Display Int (rgthree)"
-      },
-      "widgets_values": [
-        0,
-        "73"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 139,
-      "type": "EmptyHunyuanLatentVideo",
-      "pos": [
-        1505.07958984375,
-        658.2618408203125
-      ],
-      "size": [
-        315,
-        130
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "width",
-          "type": "INT",
-          "link": 343,
-          "widget": {
-            "name": "width"
-          }
-        },
-        {
-          "name": "height",
-          "type": "INT",
-          "link": 344,
-          "widget": {
-            "name": "height"
-          }
-        },
-        {
-          "name": "length",
-          "type": "INT",
-          "link": 310,
-          "widget": {
-            "name": "length"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            301
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "EmptyHunyuanLatentVideo"
-      },
-      "widgets_values": [
-        848,
-        480,
-        1,
-        1
-      ]
-    },
-    {
       "id": 73,
       "type": "VAEDecodeTiled",
       "pos": [
@@ -902,8 +361,8 @@
         150
       ],
       "flags": {},
-      "order": 47,
-      "mode": 0,
+      "order": 46,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -937,323 +396,6 @@
       ]
     },
     {
-      "id": 138,
-      "type": "KSampler",
-      "pos": [
-        1511.425048828125,
-        841.5322875976562
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 337
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 331
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 332
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 301
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 346,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 302,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 303,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            318
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        818690153604528,
-        "randomize",
-        30,
-        1,
-        "euler",
-        "beta",
-        1
-      ]
-    },
-    {
-      "id": 144,
-      "type": "VAEDecodeTiled",
-      "pos": [
-        1909.24267578125,
-        680.8215942382812
-      ],
-      "size": [
-        210,
-        150
-      ],
-      "flags": {},
-      "order": 50,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 318
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 321
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            317,
-            325
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecodeTiled"
-      },
-      "widgets_values": [
-        256,
-        64,
-        64,
-        8
-      ]
-    },
-    {
-      "id": 145,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        2238.687744140625,
-        661.09716796875
-      ],
-      "size": [
-        540.7474365234375,
-        962.3298950195312
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 317
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 322,
-          "shape": 7
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 323,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT",
-          "link": 324,
-          "widget": {
-            "name": "frame_rate"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "hunyuan",
-        "format": "video/ffmpeg-gif",
-        "dither": "sierra2_4a",
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "8bit Hyrule Dance_00003.gif",
-            "subfolder": "hunyuan_video",
-            "type": "output",
-            "format": "video/ffmpeg-gif",
-            "frame_rate": 24,
-            "workflow": "8bit Hyrule Dance_00003.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00003.gif"
-          },
-          "muted": false
-        }
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 146,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        2854.568115234375,
-        671.66357421875
-      ],
-      "size": [
-        540.7474365234375,
-        1035.68603515625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 52,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 325
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 326,
-          "shape": 7
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 327,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT",
-          "link": 328,
-          "widget": {
-            "name": "frame_rate"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "hunyuan",
-        "format": "video/h264-mp4",
-        "pix_fmt": "yuv420p",
-        "crf": 19,
-        "save_metadata": true,
-        "trim_to_audio": false,
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "8bit Hyrule Dance_00004.mp4",
-            "subfolder": "hunyuan_video",
-            "type": "output",
-            "format": "video/h264-mp4",
-            "frame_rate": 24,
-            "workflow": "8bit Hyrule Dance_00004.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00004.mp4"
-          },
-          "muted": false
-        }
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 115,
       "type": "Reroute",
       "pos": [
@@ -1267,7 +409,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -1309,7 +451,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 37,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -1351,7 +493,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -1390,7 +532,7 @@
       ],
       "flags": {},
       "order": 49,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1416,7 +558,7 @@
         82
       ],
       "flags": {},
-      "order": 8,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1424,8 +566,7 @@
           "name": "MODEL",
           "type": "MODEL",
           "links": [
-            252,
-            335
+            252
           ],
           "slot_index": 0,
           "shape": 3
@@ -1453,7 +594,7 @@
         26
       ],
       "flags": {},
-      "order": 19,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -1481,56 +622,6 @@
       }
     },
     {
-      "id": 128,
-      "type": "CR Float To Integer",
-      "pos": [
-        1191.7464599609375,
-        777.9926147460938
-      ],
-      "size": [
-        315,
-        78
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 38,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "_float",
-          "type": "FLOAT",
-          "link": 338,
-          "widget": {
-            "name": "_float"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            293
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Float To Integer"
-      },
-      "widgets_values": [
-        0
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 117,
       "type": "Reroute",
       "pos": [
@@ -1542,7 +633,7 @@
         26
       ],
       "flags": {},
-      "order": 30,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -1582,8 +673,8 @@
         130
       ],
       "flags": {},
-      "order": 31,
-      "mode": 0,
+      "order": 28,
+      "mode": 2,
       "inputs": [
         {
           "name": "width",
@@ -1636,7 +727,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 20,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -1678,7 +769,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 21,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -1720,7 +811,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -1762,7 +853,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 9,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1780,8 +871,10 @@
         "Node name for S&R": "Scheduler Selector"
       },
       "widgets_values": [
-        "ddim_uniform"
-      ]
+        "simple"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 148,
@@ -1797,7 +890,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 35,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -1875,13 +968,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 22,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 335
+          "link": 351
         }
       ],
       "outputs": [
@@ -1914,7 +1007,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 10,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1932,8 +1025,10 @@
         "Node name for S&R": "Sampler Selector"
       },
       "widgets_values": [
-        "ipndm"
-      ]
+        "euler"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 153,
@@ -1949,7 +1044,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 11,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1972,11 +1067,736 @@
       "bgcolor": "#533"
     },
     {
+      "id": 100,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -1799.7281494140625,
+        461.05718994140625
+      ],
+      "size": [
+        560.7031860351562,
+        423.7285461425781
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            245
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            288
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
+        "cinematic",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 124,
+      "type": "KSampler",
+      "pos": [
+        1091.7874755859375,
+        -8.449249267578125
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 336
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 333
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 334
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 282
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 347,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 299,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 300,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 349,
+          "widget": {
+            "name": "steps"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            291
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        208929337764257,
+        "randomize",
+        60,
+        1,
+        "euler",
+        "beta",
+        1
+      ]
+    },
+    {
+      "id": 103,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1176.4267578125,
+        491.7825927734375
+      ],
+      "size": [
+        626.8549194335938,
+        400.6348876953125
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 244,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 154,
+      "type": "Int",
+      "pos": [
+        497.5728454589844,
+        705.2546997070312
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            349,
+            350
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "30"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 139,
+      "type": "EmptyHunyuanLatentVideo",
+      "pos": [
+        1505.07958984375,
+        658.2618408203125
+      ],
+      "size": [
+        315,
+        130
+      ],
+      "flags": {},
+      "order": 48,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "width",
+          "type": "INT",
+          "link": 343,
+          "widget": {
+            "name": "width"
+          }
+        },
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 344,
+          "widget": {
+            "name": "height"
+          }
+        },
+        {
+          "name": "length",
+          "type": "INT",
+          "link": 310,
+          "widget": {
+            "name": "length"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            301
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyHunyuanLatentVideo"
+      },
+      "widgets_values": [
+        848,
+        480,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 138,
+      "type": "KSampler",
+      "pos": [
+        1511.425048828125,
+        841.5322875976562
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 50,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 337
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 331
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 332
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 301
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 346,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 302,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 303,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 350,
+          "widget": {
+            "name": "steps"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            318
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        199857796761631,
+        "randomize",
+        30,
+        1,
+        "euler",
+        "beta",
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -392.8984680175781,
+        -52.145416259765625
+      ],
+      "size": [
+        350,
+        106
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            250,
+            348
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "hunyuan_clip_l.safetensors",
+        "llava_llama3_fp16.safetensors",
+        "hunyuan_video",
+        "default"
+      ]
+    },
+    {
+      "id": 67,
+      "type": "ModelSamplingSD3",
+      "pos": [
+        123.36569213867188,
+        178.42333984375
+      ],
+      "size": [
+        210,
+        58
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 248
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            351
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ModelSamplingSD3"
+      },
+      "widgets_values": [
+        7
+      ]
+    },
+    {
+      "id": 44,
+      "type": "CLIPTextEncode",
+      "pos": [
+        93.90922546386719,
+        315.90679931640625
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 251
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 247,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            290
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 125,
+      "type": "CLIPTextEncode",
+      "pos": [
+        86.81175231933594,
+        461.39227294921875
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 348
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 288,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            330
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Negative Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 26,
+      "type": "FluxGuidance",
+      "pos": [
+        60.535282135009766,
+        357.0770263671875
+      ],
+      "size": [
+        317.4000244140625,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 290
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            329
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "FluxGuidance"
+      },
+      "widgets_values": [
+        6
+      ],
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 10,
+      "type": "VAELoader",
+      "pos": [
+        30.986886978149414,
+        617.7335815429688
+      ],
+      "size": [
+        350,
+        60
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            258
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "hunyuan_video_vae_bf16.safetensors"
+      ]
+    },
+    {
+      "id": 102,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1130.4552001953125,
+        137.23602294921875
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 245,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 246,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            244,
+            247
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \", \" + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
       "id": 79,
       "type": "Note",
       "pos": [
         -2718.927978515625,
         -244.67041015625
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。用表格输出。\n\nHere is my subject: \"网红美女eimiFukada穿着紧身白色比基尼，原地扭动身体，跳着性感的韩式舞蹈，展示丰满的身材\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 104,
+      "type": "Note",
+      "pos": [
+        -3593.042724609375,
+        -243.10043334960938
       ],
       "size": [
         816.2579956054688,
@@ -1992,24 +1812,63 @@
       "title": "Note - 主题创意",
       "properties": {},
       "widgets_values": [
-        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。\n\nHere is my subject: \"8bit风格的动画，火影忍者鸣人使用色诱术\""
+        "- studio_ghibli_hv_v03_19: A scene from a Studio Ghibli animated film\n\n- eimifukada: eimiFukada\n\n- venom_hunyuan_video_v1_e40: Sci-fi movie style, close-up: Set against a futuristic cyberpunk city at night, a young blonde woman in a black suit and sunglasses is engulfed by black tentacles, transforming into a slender Female Venom. She sticks out her tongue, showcasing her power.\n\n  lora weight 0.7\n\n\n- nipple_play_v0-1: A high-definition video of a cosplay girl. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts. She has gorgeous blue eyes sparkling, and her short, light blue hair is styled with a side-swept fringe and a pink ribbon. In the background, there is a beach, palm trees, and the ocean of a tropical island. The video is focused on her upper chest, featuring her smooth and light pale skin. Detailed light smile face with gorgeous blue eyes, high resolution. The camera is held steady.\n\n- Sexy_Dance_e15: sexy dance, dance, belly dance, and similar\n\n- pix2_c: Pixel anime pixel art drawing.\n\n\nhttps://github.com/Tencent/HunyuanVideo?tab=readme-ov-file#hunyuanvideo-a-systematic-framework-for-large-video-generation-model\n\nResolution\th/w=9:16\th/w=16:9\th/w=4:3\th/w=3:4\th/w=1:1\n540p\t            544px960px129f\t960px544px129f\t624px832px129f\t832px624px129f\t720px720px129f\n720p(recommended)   720px1280px129f\t1280px720px129f\t1104px832px129f\t832px1104px129f\t960px960px129f\n\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
     },
     {
+      "id": 85,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        -92.80496978759766
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            255
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "标题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "EimiFukada Dance",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 106,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
-        -391.2447509765625,
-        -50.989707946777344
+        44.30021667480469,
+        -181.2808837890625
       ],
       "size": [
         340.20001220703125,
         286
       ],
       "flags": {},
-      "order": 24,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -2064,11 +1923,11 @@
         {
           "on": false,
           "lora": "100_hunyuan\\studio_ghibli_hv_v03_19.safetensors",
-          "strength": 0.4,
+          "strength": 1,
           "strengthTwo": null
         },
         {
-          "on": false,
+          "on": true,
           "lora": "100_hunyuan\\eimiHunyuan.safetensors",
           "strength": 0.7,
           "strengthTwo": null
@@ -2080,7 +1939,7 @@
           "strengthTwo": null
         },
         {
-          "on": false,
+          "on": true,
           "lora": "100_hunyuan\\Sexy_Dance_e15.safetensors",
           "strength": 0.3,
           "strengthTwo": null
@@ -2104,6 +1963,409 @@
       "bgcolor": "#335"
     },
     {
+      "id": 128,
+      "type": "CR Float To Integer",
+      "pos": [
+        1215.529052734375,
+        1059.424072265625
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "_float",
+          "type": "FLOAT",
+          "link": 338,
+          "widget": {
+            "name": "_float"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            293
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Float To Integer"
+      },
+      "widgets_values": [
+        0
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 129,
+      "type": "easy mathInt",
+      "pos": [
+        1191.89501953125,
+        1118.584716796875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 43,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "link": 293,
+          "widget": {
+            "name": "a"
+          }
+        },
+        {
+          "name": "b",
+          "type": "INT",
+          "link": 294,
+          "widget": {
+            "name": "b"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            295
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        0,
+        "multiply"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 90,
+      "type": "Display Int (rgthree)",
+      "pos": [
+        1158.0391845703125,
+        1185.4710693359375
+      ],
+      "size": [
+        315,
+        76
+      ],
+      "flags": {},
+      "order": 47,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "input",
+          "type": "INT",
+          "link": 297,
+          "widget": {
+            "name": "input"
+          },
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "视频总帧数",
+      "properties": {
+        "Node name for S&R": "Display Int (rgthree)"
+      },
+      "widgets_values": [
+        0,
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 145,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        3039.754638671875,
+        765.7484741210938
+      ],
+      "size": [
+        517.70556640625,
+        931.607421875
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 317
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 322,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 323,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 324,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "video/ffmpeg-gif",
+        "dither": "sierra2_4a",
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "EimiFukada Dance_00003.gif",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "video/ffmpeg-gif",
+            "frame_rate": 30,
+            "workflow": "EimiFukada Dance_00003.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00003.gif"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 146,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        3227.168212890625,
+        707.3381958007812
+      ],
+      "size": [
+        540.7474365234375,
+        1035.68603515625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 325
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 326,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 327,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 328,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 19,
+        "save_metadata": true,
+        "trim_to_audio": false,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "EimiFukada Dance_00004.mp4",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "video/h264-mp4",
+            "frame_rate": 30,
+            "workflow": "EimiFukada Dance_00004.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00004.mp4"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 155,
+      "type": "PreviewImage",
+      "pos": [
+        2157.837890625,
+        852.862060546875
+      ],
+      "size": [
+        772.8638305664062,
+        957.5001220703125
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 353
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      }
+    },
+    {
+      "id": 144,
+      "type": "VAEDecodeTiled",
+      "pos": [
+        1909.24267578125,
+        680.8215942382812
+      ],
+      "size": [
+        210,
+        150
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 318
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 321
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            317,
+            325,
+            353
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecodeTiled"
+      },
+      "widgets_values": [
+        256,
+        64,
+        64,
+        8
+      ]
+    },
+    {
       "id": 82,
       "type": "String",
       "pos": [
@@ -2115,7 +2377,7 @@
         322.6468200683594
       ],
       "flags": {},
-      "order": 13,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2133,253 +2395,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "Naruto, in his classic orange and blue 8bit-style outfit, stands confidently in a forest clearing, his hands forming the iconic hand seals for the Sexy Jutsu. The camera zooms in slightly as his body begins to shimmer and distort, pixelating into a cloud of 8bit particles. The transformation is swift, and in his place now stands a pixelated, exaggeratedly curvaceous female version of himself, winking playfully at the camera. The background is a vibrant 8bit forest with pixelated trees and a bright blue sky. The camera angle is slightly low, emphasizing the transformation and the playful nature of the scene. The lighting is bright and colorful, with a slight glow around Naruto to highlight the magical effect of the jutsu. The scene ends with the transformed Naruto striking a pose, the forest background fading into a blur of pixelated colors.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -1799.7281494140625,
-        461.05718994140625
-      ],
-      "size": [
-        560.7031860351562,
-        423.7285461425781
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 14,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            245
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            288
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
-        "anime",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 11,
-      "type": "DualCLIPLoader",
-      "pos": [
-        -402.57720947265625,
-        590.3762817382812
-      ],
-      "size": [
-        350,
-        106
-      ],
-      "flags": {},
-      "order": 15,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            250,
-            348
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DualCLIPLoader"
-      },
-      "widgets_values": [
-        "hunyuan_clip_l.safetensors",
-        "llava_llama3_fp16.safetensors",
-        "hunyuan_video",
-        "default"
-      ]
-    },
-    {
-      "id": 26,
-      "type": "FluxGuidance",
-      "pos": [
-        61.57353591918945,
-        425.11065673828125
-      ],
-      "size": [
-        317.4000244140625,
-        58
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 39,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "conditioning",
-          "type": "CONDITIONING",
-          "link": 290
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            329
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "FluxGuidance"
-      },
-      "widgets_values": [
-        6
-      ],
-      "color": "#233",
-      "bgcolor": "#355"
-    },
-    {
-      "id": 125,
-      "type": "CLIPTextEncode",
-      "pos": [
-        93.363525390625,
-        550.6602783203125
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 25,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 348
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 288,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            330
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Negative Prompt)",
-      "properties": {
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 44,
-      "type": "CLIPTextEncode",
-      "pos": [
-        94.72828674316406,
-        366.6830749511719
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 34,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 251
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 247,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            290
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Positive Prompt)",
-      "properties": {
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        "eimiFukada，sexy dance， Eimi Fukada, wearing black glasses, wearing a tight white bikini, begins to sway her body in place, performing a sensual Korean-style dance that highlights her curvaceous figure. Her movements are fluid and rhythmic, with her hips swaying side to side and her arms gracefully moving in sync. The camera starts with a close-up of her face, capturing her confident smile, then slowly pans down to showcase her full figure. The background is a blurred tropical beach with soft sunlight casting a warm glow on her skin. The camera angle shifts to a low angle, emphasizing her height and the elegance of her dance. The lighting is soft and natural, enhancing the golden tones of her skin and the white of her bikini.",
         [
           false,
           true
@@ -2400,7 +2416,7 @@
         161.25209045410156
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -2432,7 +2448,7 @@
         82
       ],
       "flags": {},
-      "order": 16,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2450,8 +2466,78 @@
         "Node name for S&R": "Seed Generator"
       },
       "widgets_values": [
-        132680661944013,
+        110203104130334,
         "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 94,
+      "type": "Float",
+      "pos": [
+        -1172.83447265625,
+        -195.3873748779297
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            267
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频帧率",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "30"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 127,
+      "type": "Int",
+      "pos": [
+        1119.2525634765625,
+        664.1082763671875
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            294
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频长度(秒)",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "2"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -2867,14 +2953,6 @@
       "CONDITIONING"
     ],
     [
-      335,
-      12,
-      0,
-      149,
-      0,
-      "*"
-    ],
-    [
       336,
       149,
       0,
@@ -2977,6 +3055,38 @@
       125,
       0,
       "CLIP"
+    ],
+    [
+      349,
+      154,
+      0,
+      124,
+      7,
+      "INT"
+    ],
+    [
+      350,
+      154,
+      0,
+      138,
+      7,
+      "INT"
+    ],
+    [
+      351,
+      67,
+      0,
+      149,
+      0,
+      "*"
+    ],
+    [
+      353,
+      144,
+      0,
+      155,
+      0,
+      "IMAGE"
     ]
   ],
   "groups": [
@@ -3025,8 +3135,8 @@
       "bounding": [
         1081.51904296875,
         568.3939208984375,
-        2010.876708984375,
-        1074.3961181640625
+        2515.634521484375,
+        1267.6329345703125
       ],
       "color": "#b58b2a",
       "font_size": 24,
@@ -3036,23 +3146,23 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1167815779426942,
+      "scale": 0.5559917313492357,
       "offset": [
-        2856.445526952982,
-        -362.44099468666343
+        -57.132463794917385,
+        59.225589893829124
       ]
     },
     "groupNodes": {},
     "node_versions": {
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
-      "comfy-core": "0.3.12",
       "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
-      "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
-      "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d",
-      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "comfy-core": "0.3.12",
       "comfy-image-saver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e"
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
+      "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
+      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d"
     },
     "ue_links": [],
     "VHS_latentpreview": false,
