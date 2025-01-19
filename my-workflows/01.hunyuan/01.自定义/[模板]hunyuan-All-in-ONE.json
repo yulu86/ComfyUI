@@ -277,7 +277,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 18,
+      "order": 16,
       "mode": 0,
       "inputs": [
         {
@@ -327,7 +327,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -549,43 +549,6 @@
       ]
     },
     {
-      "id": 12,
-      "type": "UNETLoader",
-      "pos": [
-        -421.66131591796875,
-        -191.0203399658203
-      ],
-      "size": [
-        350,
-        82
-      ],
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            252,
-            253
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "hunyuan_video_t2v_720p_bf16.safetensors",
-        "fp8_e4m3fn_fast"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 67,
       "type": "ModelSamplingSD3",
       "pos": [
@@ -597,7 +560,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 28,
       "mode": 0,
       "inputs": [
         {
@@ -739,7 +702,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 2,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -778,7 +741,7 @@
         60
       ],
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -813,7 +776,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 17,
+      "order": 15,
       "mode": 0,
       "inputs": [
         {
@@ -920,7 +883,7 @@
         58
       ],
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -997,7 +960,7 @@
         26
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -1120,7 +1083,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 19,
+      "order": 17,
       "mode": 0,
       "inputs": [
         {
@@ -1161,7 +1124,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -1202,7 +1165,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 21,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -1229,7 +1192,7 @@
         "Node name for S&R": "RandomNoise"
       },
       "widgets_values": [
-        774948881510304,
+        1071480821297253,
         "randomize"
       ]
     },
@@ -1245,7 +1208,7 @@
         58
       ],
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1277,7 +1240,7 @@
         26
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [
         {
@@ -1380,13 +1343,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Sunset Beach Dance_00017.gif",
+            "filename": "8bit Hyrule Dance_00001.gif",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/ffmpeg-gif",
             "frame_rate": 24,
-            "workflow": "Sunset Beach Dance_00017.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Sunset Beach Dance_00017.gif"
+            "workflow": "8bit Hyrule Dance_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00001.gif"
           },
           "muted": false
         }
@@ -1477,45 +1440,19 @@
           "hidden": true,
           "paused": false,
           "params": {
-            "filename": "Sunset Beach Dance_00018.mp4",
+            "filename": "8bit Hyrule Dance_00002.mp4",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Sunset Beach Dance_00018.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Sunset Beach Dance_00018.mp4"
+            "workflow": "8bit Hyrule Dance_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\8bit Hyrule Dance_00002.mp4"
           },
           "muted": false
         }
       },
       "color": "#322",
       "bgcolor": "#533"
-    },
-    {
-      "id": 79,
-      "type": "Note",
-      "pos": [
-        -2718.927978515625,
-        -244.67041015625
-      ],
-      "size": [
-        816.2579956054688,
-        845.4130859375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 6,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。\n\nHere is my subject: \"网红美女穿着性感在跳舞\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     },
     {
       "id": 97,
@@ -1529,7 +1466,7 @@
         58
       ],
       "flags": {},
-      "order": 7,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1564,7 +1501,7 @@
         58
       ],
       "flags": {},
-      "order": 8,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1588,6 +1525,235 @@
       "bgcolor": "#353"
     },
     {
+      "id": 123,
+      "type": "PreviewImage",
+      "pos": [
+        438.7665710449219,
+        201.7233123779297
+      ],
+      "size": [
+        623.8858032226562,
+        649.3568115234375
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 280
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": [],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 120,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -802.8990478515625,
+        180.07162475585938
+      ],
+      "size": [
+        303.5194091796875,
+        161.25209045410156
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 276,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 121,
+      "type": "Seed Generator",
+      "pos": [
+        -805.8143920898438,
+        25.969024658203125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            275,
+            276
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Generator"
+      },
+      "widgets_values": [
+        133952536390703,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 79,
+      "type": "Note",
+      "pos": [
+        -2718.927978515625,
+        -244.67041015625
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。\n\nHere is my subject: \"8bit风格的塞尔达在跳舞\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 85,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        -92.80496978759766
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            255
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "标题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "8bit Hyrule Dance",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 17,
+      "type": "BasicScheduler",
+      "pos": [
+        9.734172821044922,
+        251.9113006591797
+      ],
+      "size": [
+        315,
+        106.49331665039062
+      ],
+      "flags": {},
+      "order": 22,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 253,
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "SIGMAS",
+          "type": "SIGMAS",
+          "links": [
+            20
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BasicScheduler"
+      },
+      "widgets_values": [
+        "simple",
+        30,
+        1
+      ]
+    },
+    {
+      "id": 104,
+      "type": "Note",
+      "pos": [
+        -3593.042724609375,
+        -243.10043334960938
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "- studio_ghibli_hv_v03_19: A scene from a Studio Ghibli animated film\n\n- eimifukada: eimiFukada\n\n- venom_hunyuan_video_v1_e40: Sci-fi movie style, close-up: Set against a futuristic cyberpunk city at night, a young blonde woman in a black suit and sunglasses is engulfed by black tentacles, transforming into a slender Female Venom. She sticks out her tongue, showcasing her power.\n\n  lora weight 0.7\n\n\n- nipple_play_v0-1: A high-definition video of a cosplay girl. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts. She has gorgeous blue eyes sparkling, and her short, light blue hair is styled with a side-swept fringe and a pink ribbon. In the background, there is a beach, palm trees, and the ocean of a tropical island. The video is focused on her upper chest, featuring her smooth and light pale skin. Detailed light smile face with gorgeous blue eyes, high resolution. The camera is held steady.\n\n- Sexy_Dance_e15: sexy dance, dance, belly dance, and similar\n\n- pix2_c: Pixel anime pixel art drawing.\n\n\nhttps://github.com/Tencent/HunyuanVideo?tab=readme-ov-file#hunyuanvideo-a-systematic-framework-for-large-video-generation-model\n\nResolution\th/w=9:16\th/w=16:9\th/w=4:3\th/w=3:4\th/w=1:1\n540p\t            544px960px129f\t960px544px129f\t624px832px129f\t832px624px129f\t720px720px129f\n720p(recommended)   720px1280px129f\t1280px720px129f\t1104px832px129f\t832px1104px129f\t960px960px129f\n\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
       "id": 106,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
@@ -1596,10 +1762,10 @@
       ],
       "size": [
         340.20001220703125,
-        262
+        286
       ],
       "flags": {},
-      "order": 15,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -1658,7 +1824,7 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "100_hunyuan\\eimiHunyuan.safetensors",
           "strength": 0.7,
           "strengthTwo": null
@@ -1670,7 +1836,7 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "100_hunyuan\\Sexy_Dance_e15.safetensors",
           "strength": 0.3,
           "strengthTwo": null
@@ -1681,6 +1847,12 @@
           "strength": 0.3,
           "strengthTwo": null
         },
+        {
+          "on": true,
+          "lora": "100_hunyuan\\pix2_c.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
         null,
         ""
       ],
@@ -1688,62 +1860,51 @@
       "bgcolor": "#335"
     },
     {
-      "id": 104,
-      "type": "Note",
-      "pos": [
-        -3593.042724609375,
-        -243.10043334960938
-      ],
-      "size": [
-        816.2579956054688,
-        845.4130859375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 9,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "- studio_ghibli_hv_v03_19: A scene from a Studio Ghibli animated film\n\n- eimifukada: eimiFukada\n\n- venom_hunyuan_video_v1_e40: Sci-fi movie style, close-up: Set against a futuristic cyberpunk city at night, a young blonde woman in a black suit and sunglasses is engulfed by black tentacles, transforming into a slender Female Venom. She sticks out her tongue, showcasing her power.\n\n  lora weight 0.7\n\n\n- nipple_play_v0-1: A high-definition video of a cosplay girl. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts. She has gorgeous blue eyes sparkling, and her short, light blue hair is styled with a side-swept fringe and a pink ribbon. In the background, there is a beach, palm trees, and the ocean of a tropical island. The video is focused on her upper chest, featuring her smooth and light pale skin. Detailed light smile face with gorgeous blue eyes, high resolution. The camera is held steady.\n\n- Sexy_Dance_e15: sexy dance, dance, belly dance, and similar\n\n\nhttps://github.com/Tencent/HunyuanVideo?tab=readme-ov-file#hunyuanvideo-a-systematic-framework-for-large-video-generation-model\n\nResolution\th/w=9:16\th/w=16:9\th/w=4:3\th/w=3:4\th/w=1:1\n540p\t            544px960px129f\t960px544px129f\t624px832px129f\t832px624px129f\t720px720px129f\n720p(recommended)   720px1280px129f\t1280px720px129f\t1104px832px129f\t832px1104px129f\t960px960px129f\n\n"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 85,
-      "type": "String",
+      "id": 100,
+      "type": "SDXLPromptStyler",
       "pos": [
         -1799.7281494140625,
-        -92.80496978759766
+        461.05718994140625
       ],
       "size": [
-        561.4890747070312,
-        89.73997497558594
+        560.7031860351562,
+        423.7285461425781
       ],
-      "flags": {},
-      "order": 10,
+      "flags": {
+        "collapsed": false
+      },
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
         {
-          "name": "STRING",
+          "name": "positive_prompt_text_g",
           "type": "STRING",
           "links": [
-            255
+            245
           ],
           "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
         }
       ],
-      "title": "标题",
       "properties": {
-        "Node name for S&R": "String"
+        "Node name for S&R": "SDXLPromptStyler"
       },
       "widgets_values": [
-        "Sunset Beach Dance",
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
+        "game-zelda",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
         [
           false,
           true
@@ -1753,141 +1914,41 @@
       "bgcolor": "#353"
     },
     {
-      "id": 123,
-      "type": "PreviewImage",
+      "id": 12,
+      "type": "UNETLoader",
       "pos": [
-        438.7665710449219,
-        201.7233123779297
+        -421.66131591796875,
+        -191.0203399658203
       ],
       "size": [
-        623.8858032226562,
-        649.3568115234375
-      ],
-      "flags": {},
-      "order": 43,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 280
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
-      "id": 120,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -802.8990478515625,
-        180.07162475585938
-      ],
-      "size": [
-        303.5194091796875,
-        161.25209045410156
-      ],
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 276,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 17,
-      "type": "BasicScheduler",
-      "pos": [
-        9.734172821044922,
-        251.9113006591797
-      ],
-      "size": [
-        315,
-        106.49331665039062
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 253,
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "SIGMAS",
-          "type": "SIGMAS",
-          "links": [
-            20
-          ],
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "BasicScheduler"
-      },
-      "widgets_values": [
-        "simple",
-        30,
-        1
-      ]
-    },
-    {
-      "id": 121,
-      "type": "Seed Generator",
-      "pos": [
-        -805.8143920898438,
-        25.969024658203125
-      ],
-      "size": [
-        315,
+        350,
         82
       ],
       "flags": {},
-      "order": 11,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
         {
-          "name": "INT",
-          "type": "INT",
+          "name": "MODEL",
+          "type": "MODEL",
           "links": [
-            275,
-            276
+            252,
+            253
           ],
-          "slot_index": 0
+          "slot_index": 0,
+          "shape": 3
         }
       ],
       "properties": {
-        "Node name for S&R": "Seed Generator"
+        "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        60649982877500,
-        "randomize"
+        "hunyuan_video_t2v_720p_bf16.safetensors",
+        "fp8_e4m3fn_fast"
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "color": "#223",
+      "bgcolor": "#335"
     },
     {
       "id": 87,
@@ -1901,7 +1962,7 @@
         58
       ],
       "flags": {},
-      "order": 12,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1936,7 +1997,7 @@
         322.6468200683594
       ],
       "flags": {},
-      "order": 13,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1954,61 +2015,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "eimiFukada, (wearing black glasses), sexy dance, dance, A stunning influencer, dressed in a sleek, form-fitting black outfit with shimmering silver accents, begins to sway her hips rhythmically to the beat of a slow, sultry song. Her long, wavy hair cascades down her back, catching the light as she moves. The camera starts with a close-up of her face, capturing her intense gaze and subtle smile, then slowly pans down to follow her fluid movements. The background is a dimly lit, modern studio with soft neon lights casting a purple and blue glow, creating a mesmerizing contrast with her outfit. As she spins gracefully, the camera circles around her, highlighting the elegance of her dance. The lighting shifts slightly, emphasizing the curves of her body and the intricate details of her attire. Her movements become more dynamic, incorporating sharp turns and smooth transitions, as the music builds.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 100,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -1799.7281494140625,
-        461.05718994140625
-      ],
-      "size": [
-        560.7031860351562,
-        423.7285461425781
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 14,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            245
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
+        "Pixel anime pixel art drawing, Link, dressed in his iconic green tunic and hat in 8bit pixel art style, begins to dance energetically on a grassy field under a bright, pixelated sky. His movements are sharp and rhythmic, with his arms swinging side to side and his feet tapping the ground in a lively pattern. The camera zooms in slightly as he spins, capturing the pixelated details of his outfit and the cheerful expression on his face. The background features rolling hills, pixelated trees, and a distant castle, all rendered in vibrant 8bit colors. The camera angle is slightly low, emphasizing the dynamic movement of his dance. The sunlight casts a warm glow over the scene, enhancing the nostalgic 8bit aesthetic. As the dance intensifies, the camera pans out to reveal the full landscape, with Link continuing to dance in the center of the frame.",
         [
           false,
           true
@@ -2448,10 +2455,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7627768444386792,
+      "scale": 0.8390545288825505,
       "offset": [
-        1015.4750113005889,
-        696.9091586627061
+        3775.4836782045763,
+        518.6335964399628
       ]
     },
     "groupNodes": {},
