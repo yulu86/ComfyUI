@@ -1,6 +1,6 @@
 {
-  "last_node_id": 156,
-  "last_link_id": 354,
+  "last_node_id": 158,
+  "last_link_id": 357,
   "nodes": [
     {
       "id": 108,
@@ -57,7 +57,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 22,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -96,7 +96,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 23,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -163,7 +163,7 @@
         26
       ],
       "flags": {},
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -204,7 +204,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 29,
       "mode": 0,
       "inputs": [
         {
@@ -232,76 +232,6 @@
       }
     },
     {
-      "id": 97,
-      "type": "Int",
-      "pos": [
-        -1172.83447265625,
-        -88.29994201660156
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            339
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频Width",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "480"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 98,
-      "type": "Int",
-      "pos": [
-        -1172.83447265625,
-        20.15983009338379
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 2,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            341
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频Height",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "640"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 130,
       "type": "easy mathInt",
       "pos": [
@@ -315,7 +245,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -361,7 +291,7 @@
         150
       ],
       "flags": {},
-      "order": 46,
+      "order": 50,
       "mode": 2,
       "inputs": [
         {
@@ -409,7 +339,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -451,7 +381,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -493,7 +423,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 28,
       "mode": 0,
       "inputs": [
         {
@@ -531,7 +461,7 @@
         692.2498779296875
       ],
       "flags": {},
-      "order": 49,
+      "order": 52,
       "mode": 2,
       "inputs": [
         {
@@ -547,42 +477,6 @@
       "widgets_values": []
     },
     {
-      "id": 12,
-      "type": "UNETLoader",
-      "pos": [
-        -395.6558532714844,
-        -183.96473693847656
-      ],
-      "size": [
-        350,
-        82
-      ],
-      "flags": {},
-      "order": 3,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            252
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "hunyuan_video_t2v_720p_bf16.safetensors",
-        "fp8_e4m3fn_fast"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 116,
       "type": "Reroute",
       "pos": [
@@ -594,7 +488,7 @@
         26
       ],
       "flags": {},
-      "order": 27,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -633,7 +527,7 @@
         26
       ],
       "flags": {},
-      "order": 35,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -673,7 +567,7 @@
         130
       ],
       "flags": {},
-      "order": 28,
+      "order": 34,
       "mode": 2,
       "inputs": [
         {
@@ -727,7 +621,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 18,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -769,7 +663,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 19,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -811,7 +705,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 26,
+      "order": 22,
       "mode": 0,
       "inputs": [
         {
@@ -853,7 +747,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 4,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -890,7 +784,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 30,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -929,7 +823,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 42,
+      "order": 45,
       "mode": 0,
       "inputs": [
         {
@@ -968,7 +862,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -1007,7 +901,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 5,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1044,7 +938,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 6,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1080,7 +974,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 7,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1134,7 +1028,7 @@
         262
       ],
       "flags": {},
-      "order": 44,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -1204,7 +1098,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        208929337764257,
+        1049386146240800,
         "randomize",
         60,
         1,
@@ -1225,7 +1119,7 @@
         400.6348876953125
       ],
       "flags": {},
-      "order": 33,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -1259,7 +1153,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 8,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1295,7 +1189,7 @@
         130
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -1355,7 +1249,7 @@
         262
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -1425,50 +1319,13 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        199857796761631,
+        791417484357927,
         "randomize",
         30,
         1,
         "euler",
         "beta",
         1
-      ]
-    },
-    {
-      "id": 11,
-      "type": "DualCLIPLoader",
-      "pos": [
-        -392.8984680175781,
-        -52.145416259765625
-      ],
-      "size": [
-        350,
-        106
-      ],
-      "flags": {},
-      "order": 9,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            250,
-            348
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DualCLIPLoader"
-      },
-      "widgets_values": [
-        "hunyuan_clip_l.safetensors",
-        "llava_llama3_fp16.safetensors",
-        "hunyuan_video",
-        "default"
       ]
     },
     {
@@ -1483,7 +1340,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -1523,7 +1380,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 34,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -1578,7 +1435,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 21,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -1633,7 +1490,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 38,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -1674,7 +1531,7 @@
         60
       ],
       "flags": {},
-      "order": 10,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1709,7 +1566,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 24,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -1779,7 +1636,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 11,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1805,7 +1662,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 12,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1829,7 +1686,7 @@
         89.73997497558594
       ],
       "flags": {},
-      "order": 13,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1868,13 +1725,13 @@
         286
       ],
       "flags": {},
-      "order": 20,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
           "name": "model",
           "type": "MODEL",
-          "link": 252,
+          "link": 355,
           "dir": 3
         },
         {
@@ -1976,7 +1833,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 40,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -2026,7 +1883,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 43,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -2079,7 +1936,7 @@
         76
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -2105,18 +1962,431 @@
       "bgcolor": "#000"
     },
     {
+      "id": 144,
+      "type": "VAEDecodeTiled",
+      "pos": [
+        1909.24267578125,
+        680.8215942382812
+      ],
+      "size": [
+        210,
+        150
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 318
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 321
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            317,
+            325
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecodeTiled"
+      },
+      "widgets_values": [
+        256,
+        64,
+        64,
+        8
+      ]
+    },
+    {
+      "id": 82,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        66.265625
+      ],
+      "size": [
+        574.201904296875,
+        322.6468200683594
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            246
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "eimiFukada，sexy dance， Eimi Fukada, wearing black glasses, wearing a tight white bikini, begins to sway her body in place, performing a sensual Korean-style dance that highlights her curvaceous figure. Her movements are fluid and rhythmic, with her hips swaying side to side and her arms gracefully moving in sync. The camera starts with a close-up of her face, capturing her confident smile, then slowly pans down to showcase her full figure. The background is a blurred tropical beach with soft sunlight casting a warm glow on her skin. The camera angle shifts to a low angle, emphasizing her height and the elegance of her dance. The lighting is soft and natural, enhancing the golden tones of her skin and the white of her bikini.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 120,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -813.5054931640625,
+        -61.23974609375
+      ],
+      "size": [
+        303.5194091796875,
+        161.25209045410156
+      ],
+      "flags": {},
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 276,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 121,
+      "type": "Seed Generator",
+      "pos": [
+        -813.5054931640625,
+        -193.2300567626953
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            276,
+            345
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Generator"
+      },
+      "widgets_values": [
+        760954514271367,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 94,
+      "type": "Float",
+      "pos": [
+        -1172.83447265625,
+        -195.3873748779297
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            267
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频帧率",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "30"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 127,
+      "type": "Int",
+      "pos": [
+        1119.2525634765625,
+        664.1082763671875
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            294
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频长度(秒)",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "2"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 12,
+      "type": "UNETLoader",
+      "pos": [
+        -395.6558532714844,
+        -183.96473693847656
+      ],
+      "size": [
+        350,
+        82
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            356
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "hunyuan_video_t2v_720p_bf16.safetensors",
+        "fp8_e4m3fn_fast"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 11,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -374.88092041015625,
+        227.12448120117188
+      ],
+      "size": [
+        350,
+        106
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            250,
+            348
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "hunyuan_clip_l.safetensors",
+        "llava_llama3_fp16.safetensors",
+        "hunyuan_video",
+        "default"
+      ]
+    },
+    {
+      "id": 157,
+      "type": "HYFetaEnhance",
+      "pos": [
+        -369.98699951171875,
+        0.17797622084617615
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 356
+        },
+        {
+          "name": "attn_override",
+          "type": "ATTN_OVERRIDE",
+          "link": null,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            355
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "HYFetaEnhance"
+      },
+      "widgets_values": [
+        2
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 97,
+      "type": "Int",
+      "pos": [
+        -1172.83447265625,
+        -88.29994201660156
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            339
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频Width",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "544"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 98,
+      "type": "Int",
+      "pos": [
+        -1172.83447265625,
+        20.15983009338379
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            341
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频Height",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "960"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 145,
       "type": "VHS_VideoCombine",
       "pos": [
-        3039.754638671875,
-        765.7484741210938
+        2470.82373046875,
+        766.5499877929688
       ],
       "size": [
-        517.70556640625,
-        931.607421875
+        960.2182006835938,
+        1521.624267578125
       ],
       "flags": {},
-      "order": 52,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -2181,13 +2451,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "EimiFukada Dance_00003.gif",
+            "filename": "EimiFukada Dance_00012.gif",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/ffmpeg-gif",
             "frame_rate": 30,
-            "workflow": "EimiFukada Dance_00003.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00003.gif"
+            "workflow": "EimiFukada Dance_00012.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00012.gif"
           },
           "muted": false
         }
@@ -2199,8 +2469,8 @@
       "id": 146,
       "type": "VHS_VideoCombine",
       "pos": [
-        3227.168212890625,
-        707.3381958007812
+        2831.293701171875,
+        697.6828002929688
       ],
       "size": [
         540.7474365234375,
@@ -2209,7 +2479,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 53,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -2277,270 +2547,19 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "EimiFukada Dance_00004.mp4",
+            "filename": "EimiFukada Dance_00013.mp4",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 30,
-            "workflow": "EimiFukada Dance_00004.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00004.mp4"
+            "workflow": "EimiFukada Dance_00013.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00013.mp4"
           },
           "muted": false
         }
       },
       "color": "#322",
       "bgcolor": "#533"
-    },
-    {
-      "id": 155,
-      "type": "PreviewImage",
-      "pos": [
-        2157.837890625,
-        852.862060546875
-      ],
-      "size": [
-        772.8638305664062,
-        957.5001220703125
-      ],
-      "flags": {},
-      "order": 54,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 353
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "PreviewImage"
-      }
-    },
-    {
-      "id": 144,
-      "type": "VAEDecodeTiled",
-      "pos": [
-        1909.24267578125,
-        680.8215942382812
-      ],
-      "size": [
-        210,
-        150
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 318
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 321
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            317,
-            325,
-            353
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecodeTiled"
-      },
-      "widgets_values": [
-        256,
-        64,
-        64,
-        8
-      ]
-    },
-    {
-      "id": 82,
-      "type": "String",
-      "pos": [
-        -1799.7281494140625,
-        66.265625
-      ],
-      "size": [
-        574.201904296875,
-        322.6468200683594
-      ],
-      "flags": {},
-      "order": 14,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            246
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "eimiFukada，sexy dance， Eimi Fukada, wearing black glasses, wearing a tight white bikini, begins to sway her body in place, performing a sensual Korean-style dance that highlights her curvaceous figure. Her movements are fluid and rhythmic, with her hips swaying side to side and her arms gracefully moving in sync. The camera starts with a close-up of her face, capturing her confident smile, then slowly pans down to showcase her full figure. The background is a blurred tropical beach with soft sunlight casting a warm glow on her skin. The camera angle shifts to a low angle, emphasizing her height and the elegance of her dance. The lighting is soft and natural, enhancing the golden tones of her skin and the white of her bikini.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 120,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -813.5054931640625,
-        -61.23974609375
-      ],
-      "size": [
-        303.5194091796875,
-        161.25209045410156
-      ],
-      "flags": {},
-      "order": 25,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 276,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 121,
-      "type": "Seed Generator",
-      "pos": [
-        -813.5054931640625,
-        -193.2300567626953
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 15,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            276,
-            345
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Seed Generator"
-      },
-      "widgets_values": [
-        110203104130334,
-        "randomize"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 94,
-      "type": "Float",
-      "pos": [
-        -1172.83447265625,
-        -195.3873748779297
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            267
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频帧率",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "30"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 127,
-      "type": "Int",
-      "pos": [
-        1119.2525634765625,
-        664.1082763671875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 17,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            294
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频长度(秒)",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "2"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -2599,14 +2618,6 @@
       44,
       0,
       "CLIP"
-    ],
-    [
-      252,
-      12,
-      0,
-      106,
-      0,
-      "MODEL"
     ],
     [
       254,
@@ -3081,12 +3092,20 @@
       "*"
     ],
     [
-      353,
-      144,
+      355,
+      157,
       0,
-      155,
+      106,
       0,
-      "IMAGE"
+      "MODEL"
+    ],
+    [
+      356,
+      12,
+      0,
+      157,
+      0,
+      "MODEL"
     ]
   ],
   "groups": [
@@ -3135,8 +3154,8 @@
       "bounding": [
         1081.51904296875,
         568.3939208984375,
-        2515.634521484375,
-        1267.6329345703125
+        2429.7900390625,
+        1750.445556640625
       ],
       "color": "#b58b2a",
       "font_size": 24,
@@ -3146,10 +3165,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5559917313492357,
+      "scale": 0.5054470284993148,
       "offset": [
-        -57.132463794917385,
-        59.225589893829124
+        2908.207860788953,
+        32.46442751773428
       ]
     },
     "groupNodes": {},
@@ -3162,6 +3181,7 @@
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "ComfyUI-HunyuanLoom": "0d77f909c833d240868b44f3045874800604b454",
       "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d"
     },
     "ue_links": [],
