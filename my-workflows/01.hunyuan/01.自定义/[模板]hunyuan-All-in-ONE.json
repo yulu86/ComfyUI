@@ -1,0 +1,2436 @@
+{
+  "last_node_id": 122,
+  "last_link_id": 279,
+  "nodes": [
+    {
+      "id": 22,
+      "type": "BasicGuider",
+      "pos": [
+        34.614166259765625,
+        -203.8909454345703
+      ],
+      "size": [
+        222.3482666015625,
+        46
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 222,
+          "slot_index": 0
+        },
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 129,
+          "slot_index": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "GUIDER",
+          "type": "GUIDER",
+          "links": [
+            30
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BasicGuider"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 73,
+      "type": "VAEDecodeTiled",
+      "pos": [
+        746.2091064453125,
+        -6.337209701538086
+      ],
+      "size": [
+        210,
+        150
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 40,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 210
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 272
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            218,
+            257
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecodeTiled"
+      },
+      "widgets_values": [
+        256,
+        64,
+        64,
+        8
+      ]
+    },
+    {
+      "id": 13,
+      "type": "SamplerCustomAdvanced",
+      "pos": [
+        434.7510070800781,
+        5.542052745819092
+      ],
+      "size": [
+        272.3617858886719,
+        124.53733825683594
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "noise",
+          "type": "NOISE",
+          "link": 37,
+          "slot_index": 0
+        },
+        {
+          "name": "guider",
+          "type": "GUIDER",
+          "link": 30,
+          "slot_index": 1
+        },
+        {
+          "name": "sampler",
+          "type": "SAMPLER",
+          "link": 19,
+          "slot_index": 2
+        },
+        {
+          "name": "sigmas",
+          "type": "SIGMAS",
+          "link": 20,
+          "slot_index": 3
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 180,
+          "slot_index": 4
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "LATENT",
+          "links": [
+            210
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "denoised_output",
+          "type": "LATENT",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SamplerCustomAdvanced"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 90,
+      "type": "Display Int (rgthree)",
+      "pos": [
+        -1170.307373046875,
+        148.38050842285156
+      ],
+      "size": [
+        315,
+        76
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "input",
+          "type": "INT",
+          "link": 230,
+          "widget": {
+            "name": "input"
+          },
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "视频总帧数",
+      "properties": {
+        "Node name for S&R": "Display Int (rgthree)"
+      },
+      "widgets_values": [
+        0,
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 45,
+      "type": "EmptyHunyuanLatentVideo",
+      "pos": [
+        -4.734938621520996,
+        -108.17024993896484
+      ],
+      "size": [
+        315,
+        130
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "width",
+          "type": "INT",
+          "link": 237,
+          "widget": {
+            "name": "width"
+          }
+        },
+        {
+          "name": "height",
+          "type": "INT",
+          "link": 238,
+          "widget": {
+            "name": "height"
+          }
+        },
+        {
+          "name": "length",
+          "type": "INT",
+          "link": 236,
+          "widget": {
+            "name": "length"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            180
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyHunyuanLatentVideo"
+      },
+      "widgets_values": [
+        848,
+        480,
+        73,
+        1
+      ]
+    },
+    {
+      "id": 96,
+      "type": "CR Float To Integer",
+      "pos": [
+        -1100.7535400390625,
+        27.11349868774414
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 19,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "_float",
+          "type": "FLOAT",
+          "link": 233,
+          "widget": {
+            "name": "_float"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            234
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Float To Integer"
+      },
+      "widgets_values": [
+        0
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 88,
+      "type": "easy mathInt",
+      "pos": [
+        -1123.7142333984375,
+        87.0625228881836
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 27,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "link": 234,
+          "widget": {
+            "name": "a"
+          }
+        },
+        {
+          "name": "b",
+          "type": "INT",
+          "link": 235,
+          "widget": {
+            "name": "b"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            229
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        0,
+        "multiply"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 89,
+      "type": "easy mathInt",
+      "pos": [
+        -991.3558959960938,
+        86.51996612548828
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 32,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "link": 229,
+          "widget": {
+            "name": "a"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            230,
+            236
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        1,
+        "add"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 26,
+      "type": "FluxGuidance",
+      "pos": [
+        -411.5935363769531,
+        687.3121337890625
+      ],
+      "size": [
+        317.4000244140625,
+        58
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": 175
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            129
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "FluxGuidance"
+      },
+      "widgets_values": [
+        6
+      ],
+      "color": "#233",
+      "bgcolor": "#355"
+    },
+    {
+      "id": 44,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -374.27032470703125,
+        640.201171875
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 30,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 251
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 247,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            175
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "A beautiful Chinese influencer, wearing a light pastel-colored dress with soft floral patterns, sits by the window of a cozy café, gently lifting a delicate porcelain cup of afternoon tea to her lips. The camera angle focuses on her graceful movement as she takes a slow sip, her expression calm and content. Her long black hair cascades down in soft waves, catching the sunlight streaming through the window. The background reveals a warm, inviting interior with wooden tables, lush plants, and ambient lighting that creates a relaxed atmosphere. The camera zooms in slightly to show the elegant tea set on the table, with a small plate of delicate pastries beside it. The lighting is soft and natural, casting gentle shadows and highlighting the subtle elegance of her features. As she puts the cup down, she smiles softly and adjusts a strand of hair behind her ear, before gazing out the window at the bustling street outside. The peaceful, yet lively vibe of the café contrasts with the busy urban setting beyond the glass.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 11,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -423.775634765625,
+        489.103271484375
+      ],
+      "size": [
+        350,
+        106
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            250
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "hunyuan_clip_l.safetensors",
+        "llava_llama3_fp16.safetensors",
+        "hunyuan_video",
+        "default"
+      ]
+    },
+    {
+      "id": 79,
+      "type": "Note",
+      "pos": [
+        -2718.927978515625,
+        -244.67041015625
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。\n\nHere is my subject: \"网红美女穿着时尚，午后在咖啡店听着音乐喝咖啡，非常放松\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 12,
+      "type": "UNETLoader",
+      "pos": [
+        -421.66131591796875,
+        -191.0203399658203
+      ],
+      "size": [
+        350,
+        82
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            252,
+            253
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "hunyuan_video_t2v_720p_bf16.safetensors",
+        "fp8_e4m3fn_fast"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 67,
+      "type": "ModelSamplingSD3",
+      "pos": [
+        -350.36871337890625,
+        290.3329772949219
+      ],
+      "size": [
+        210,
+        58
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 248
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            222
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ModelSamplingSD3"
+      },
+      "widgets_values": [
+        7
+      ]
+    },
+    {
+      "id": 102,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1174.4952392578125,
+        295.1472473144531
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 245,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 246,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            244,
+            247
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \", \" + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 103,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1197.448486328125,
+        470.57763671875
+      ],
+      "size": [
+        626.8549194335938,
+        400.6348876953125
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 244,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 85,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        -92.80496978759766
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            255
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "标题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "Elegant Street Turn",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 108,
+      "type": "String",
+      "pos": [
+        -1787.449951171875,
+        -161.5517578125
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            254
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "保存目录",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "hunyuan_video/",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 10,
+      "type": "VAELoader",
+      "pos": [
+        -423.5907287597656,
+        383.4311828613281
+      ],
+      "size": [
+        350,
+        60
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            258
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "hunyuan_video_vae_bf16.safetensors"
+      ]
+    },
+    {
+      "id": 111,
+      "type": "Reroute",
+      "pos": [
+        864.9721069335938,
+        -387.80560302734375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 18,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 258
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "VAE",
+          "links": [
+            259,
+            260,
+            272
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 109,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1471.4598388671875,
+        -161.5517578125
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 254,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 255,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            262
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \"/\" + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 94,
+      "type": "Float",
+      "pos": [
+        -1172.5738525390625,
+        -195.3873748779297
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            233,
+            267
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频帧率",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "24"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 118,
+      "type": "Reroute",
+      "pos": [
+        1424.7655029296875,
+        -424.36016845703125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 33,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 270,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            273
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 117,
+      "type": "Reroute",
+      "pos": [
+        864.9721069335938,
+        -421.9942932128906
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 28,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 269,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            270,
+            271
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 114,
+      "type": "Reroute",
+      "pos": [
+        864.9721069335938,
+        -458.2432556152344
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 268,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            264,
+            265
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 115,
+      "type": "Reroute",
+      "pos": [
+        1424.7655029296875,
+        -460.9369812011719
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 35,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 265,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            266
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 116,
+      "type": "Reroute",
+      "pos": [
+        -703.6283569335938,
+        -417.147216796875
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 20,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 267,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            269
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 113,
+      "type": "Reroute",
+      "pos": [
+        -703.6283569335938,
+        -457.902099609375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 25,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 262,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            268
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 98,
+      "type": "Int",
+      "pos": [
+        -801.734375,
+        -88.47837829589844
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            238
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频Height",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "640"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 100,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -1799.7281494140625,
+        461.05718994140625
+      ],
+      "size": [
+        560.7031860351562,
+        423.7285461425781
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            245
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
+        "cinematic",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 87,
+      "type": "Int",
+      "pos": [
+        -1172.5738525390625,
+        -85.97978973388672
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            235
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频长度(秒)",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "3"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 25,
+      "type": "RandomNoise",
+      "pos": [
+        98.69552612304688,
+        88.78519439697266
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 22,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "noise_seed",
+          "type": "INT",
+          "link": 275,
+          "widget": {
+            "name": "noise_seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "NOISE",
+          "type": "NOISE",
+          "links": [
+            37
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "RandomNoise"
+      },
+      "widgets_values": [
+        870231161215032,
+        "randomize"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "KSamplerSelect",
+      "pos": [
+        5.029630661010742,
+        147.06944274902344
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "SAMPLER",
+          "type": "SAMPLER",
+          "links": [
+            19
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSamplerSelect"
+      },
+      "widgets_values": [
+        "euler"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "BasicScheduler",
+      "pos": [
+        9.734172821044922,
+        251.9113006591797
+      ],
+      "size": [
+        315,
+        106.49331665039062
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 253,
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "SIGMAS",
+          "type": "SIGMAS",
+          "links": [
+            20
+          ],
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BasicScheduler"
+      },
+      "widgets_values": [
+        "simple",
+        30,
+        1
+      ]
+    },
+    {
+      "id": 104,
+      "type": "Note",
+      "pos": [
+        -3593.042724609375,
+        -243.10043334960938
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "- studio_ghibli_hv_v03_19: A scene from a Studio Ghibli animated film\n\n- eimifukada: eimiFukada\n\n- venom_hunyuan_video_v1_e40: Sci-fi movie style, close-up: Set against a futuristic cyberpunk city at night, a young blonde woman in a black suit and sunglasses is engulfed by black tentacles, transforming into a slender Female Venom. She sticks out her tongue, showcasing her power.\n\n  lora weight 0.7\n\n\n- nipple_play_v0-1: A high-definition video of a cosplay girl. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts. She has gorgeous blue eyes sparkling, and her short, light blue hair is styled with a side-swept fringe and a pink ribbon. In the background, there is a beach, palm trees, and the ocean of a tropical island. The video is focused on her upper chest, featuring her smooth and light pale skin. Detailed light smile face with gorgeous blue eyes, high resolution. The camera is held steady.\n\n- Sexy_Dance_e15: sexy dance, dance, belly dance, and similar\n\n\nhttps://github.com/Tencent/HunyuanVideo?tab=readme-ov-file#hunyuanvideo-a-systematic-framework-for-large-video-generation-model\n\nResolution\th/w=9:16\th/w=16:9\th/w=4:3\th/w=3:4\th/w=1:1\n540p\t            544px960px129f\t960px544px129f\t624px832px129f\t832px624px129f\t720px720px129f\n720p(recommended)   720px1280px129f\t1280px720px129f\t1104px832px129f\t832px1104px129f\t960px960px129f\n\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 106,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -417.2502136230469,
+        -58.045265197753906
+      ],
+      "size": [
+        340.20001220703125,
+        262
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 252,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 250,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            248
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            251
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\hyvideo_FastVideo_LoRA-fp8.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\studio_ghibli_hv_v03_19.safetensors",
+          "strength": 0.4,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "100_hunyuan\\eimiHunyuan.safetensors",
+          "strength": 0.7,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\venom_hunyuan_video_v1_e40.safetensors",
+          "strength": 0.7,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\Sexy_Dance_e15.safetensors",
+          "strength": 0.7,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "100_hunyuan\\nipple_play_v0-1.safetensors",
+          "strength": 0.3,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 112,
+      "type": "Reroute",
+      "pos": [
+        1424.7655029296875,
+        -387.80560302734375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 26,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 259
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "VAE",
+          "links": [
+            261
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 110,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        1209.5079345703125,
+        -122.45056915283203
+      ],
+      "size": [
+        540.7474365234375,
+        938.3298950195312
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 257
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 261,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 266,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 273,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "image/gif",
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Elegant Street Turn_00031.gif",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "image/gif",
+            "frame_rate": 24,
+            "workflow": "Elegant Street Turn_00031.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Elegant Street Turn_00031.gif"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 81,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        999.9304809570312,
+        -123.23399353027344
+      ],
+      "size": [
+        535.2894897460938,
+        326
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 41,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 218
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 260,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 264,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 271,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 19,
+        "save_metadata": true,
+        "trim_to_audio": false,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": true,
+          "paused": false,
+          "params": {
+            "filename": "Elegant Street Turn_00032.mp4",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "video/h264-mp4",
+            "frame_rate": 24,
+            "workflow": "Elegant Street Turn_00032.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\Elegant Street Turn_00032.mp4"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 82,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        66.265625
+      ],
+      "size": [
+        574.201904296875,
+        322.6468200683594
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            246
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "eimiFukada, (wearing black glasses), sexy dance. She is lifting her blue stripe bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 120,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -802.8990478515625,
+        180.07162475585938
+      ],
+      "size": [
+        303.5194091796875,
+        161.25209045410156
+      ],
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 276,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 121,
+      "type": "Seed Generator",
+      "pos": [
+        -805.8143920898438,
+        25.969024658203125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            275,
+            276
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Generator"
+      },
+      "widgets_values": [
+        923766162185549,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 97,
+      "type": "Int",
+      "pos": [
+        -801.734375,
+        -192.13107299804688
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            237
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频Width",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "480"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    }
+  ],
+  "links": [
+    [
+      19,
+      16,
+      0,
+      13,
+      2,
+      "SAMPLER"
+    ],
+    [
+      20,
+      17,
+      0,
+      13,
+      3,
+      "SIGMAS"
+    ],
+    [
+      30,
+      22,
+      0,
+      13,
+      1,
+      "GUIDER"
+    ],
+    [
+      37,
+      25,
+      0,
+      13,
+      0,
+      "NOISE"
+    ],
+    [
+      129,
+      26,
+      0,
+      22,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      175,
+      44,
+      0,
+      26,
+      0,
+      "CONDITIONING"
+    ],
+    [
+      180,
+      45,
+      0,
+      13,
+      4,
+      "LATENT"
+    ],
+    [
+      210,
+      13,
+      0,
+      73,
+      0,
+      "LATENT"
+    ],
+    [
+      218,
+      73,
+      0,
+      81,
+      0,
+      "IMAGE"
+    ],
+    [
+      222,
+      67,
+      0,
+      22,
+      0,
+      "MODEL"
+    ],
+    [
+      229,
+      88,
+      0,
+      89,
+      0,
+      "INT"
+    ],
+    [
+      230,
+      89,
+      0,
+      90,
+      0,
+      "INT"
+    ],
+    [
+      233,
+      94,
+      0,
+      96,
+      0,
+      "FLOAT"
+    ],
+    [
+      234,
+      96,
+      0,
+      88,
+      0,
+      "INT"
+    ],
+    [
+      235,
+      87,
+      0,
+      88,
+      1,
+      "INT"
+    ],
+    [
+      236,
+      89,
+      0,
+      45,
+      2,
+      "INT"
+    ],
+    [
+      237,
+      97,
+      0,
+      45,
+      0,
+      "INT"
+    ],
+    [
+      238,
+      98,
+      0,
+      45,
+      1,
+      "INT"
+    ],
+    [
+      244,
+      102,
+      0,
+      103,
+      0,
+      "*"
+    ],
+    [
+      245,
+      100,
+      0,
+      102,
+      1,
+      "STRING"
+    ],
+    [
+      246,
+      82,
+      0,
+      102,
+      2,
+      "STRING"
+    ],
+    [
+      247,
+      102,
+      0,
+      44,
+      1,
+      "STRING"
+    ],
+    [
+      248,
+      106,
+      0,
+      67,
+      0,
+      "MODEL"
+    ],
+    [
+      250,
+      11,
+      0,
+      106,
+      1,
+      "CLIP"
+    ],
+    [
+      251,
+      106,
+      1,
+      44,
+      0,
+      "CLIP"
+    ],
+    [
+      252,
+      12,
+      0,
+      106,
+      0,
+      "MODEL"
+    ],
+    [
+      253,
+      12,
+      0,
+      17,
+      0,
+      "MODEL"
+    ],
+    [
+      254,
+      108,
+      0,
+      109,
+      1,
+      "STRING"
+    ],
+    [
+      255,
+      85,
+      0,
+      109,
+      2,
+      "STRING"
+    ],
+    [
+      257,
+      73,
+      0,
+      110,
+      0,
+      "IMAGE"
+    ],
+    [
+      258,
+      10,
+      0,
+      111,
+      0,
+      "*"
+    ],
+    [
+      259,
+      111,
+      0,
+      112,
+      0,
+      "*"
+    ],
+    [
+      260,
+      111,
+      0,
+      81,
+      3,
+      "VAE"
+    ],
+    [
+      261,
+      112,
+      0,
+      110,
+      3,
+      "VAE"
+    ],
+    [
+      262,
+      109,
+      0,
+      113,
+      0,
+      "*"
+    ],
+    [
+      264,
+      114,
+      0,
+      81,
+      4,
+      "STRING"
+    ],
+    [
+      265,
+      114,
+      0,
+      115,
+      0,
+      "*"
+    ],
+    [
+      266,
+      115,
+      0,
+      110,
+      4,
+      "STRING"
+    ],
+    [
+      267,
+      94,
+      0,
+      116,
+      0,
+      "*"
+    ],
+    [
+      268,
+      113,
+      0,
+      114,
+      0,
+      "*"
+    ],
+    [
+      269,
+      116,
+      0,
+      117,
+      0,
+      "*"
+    ],
+    [
+      270,
+      117,
+      0,
+      118,
+      0,
+      "*"
+    ],
+    [
+      271,
+      117,
+      0,
+      81,
+      5,
+      "FLOAT"
+    ],
+    [
+      272,
+      111,
+      0,
+      73,
+      1,
+      "VAE"
+    ],
+    [
+      273,
+      118,
+      0,
+      110,
+      5,
+      "FLOAT"
+    ],
+    [
+      275,
+      121,
+      0,
+      25,
+      0,
+      "INT"
+    ],
+    [
+      276,
+      121,
+      0,
+      120,
+      0,
+      "*"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "Models",
+      "bounding": [
+        -440.18634033203125,
+        -277.593505859375,
+        375.9422607421875,
+        1046.99755859375
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 2,
+      "title": "Latent & Sampler",
+      "bounding": [
+        -14.734945297241211,
+        -277.49090576171875,
+        353.4513244628906,
+        649.1896362304688
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 3,
+      "title": "Prompts & Params",
+      "bounding": [
+        -1850.6143798828125,
+        -274.78912353515625,
+        1376.2781982421875,
+        1178.9544677734375
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.7627768444386722,
+      "offset": [
+        3853.39204544847,
+        765.2157688089945
+      ]
+    },
+    "groupNodes": {},
+    "node_versions": {
+      "comfy-core": "0.3.12",
+      "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
+      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+      "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
+      "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
+      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
+      "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d",
+      "comfy-image-saver": "65e6903eff274a50f8b5cd768f0f96baf37baea1"
+    },
+    "ue_links": [],
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0
+  },
+  "version": 0.4
+}
