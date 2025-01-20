@@ -3,47 +3,6 @@
   "last_link_id": 357,
   "nodes": [
     {
-      "id": 108,
-      "type": "String",
-      "pos": [
-        -1787.449951171875,
-        -161.5517578125
-      ],
-      "size": [
-        561.4890747070312,
-        89.73997497558594
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 0,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            254
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "保存目录",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "hunyuan_video/",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 111,
       "type": "Reroute",
       "pos": [
@@ -83,75 +42,6 @@
       }
     },
     {
-      "id": 109,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1471.4598388671875,
-        -161.5517578125
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 19,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 254,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 255,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            262
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + \"/\" + b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 114,
       "type": "Reroute",
       "pos": [
@@ -163,7 +53,7 @@
         26
       ],
       "flags": {},
-      "order": 35,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -204,7 +94,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -245,8 +135,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 44,
-      "mode": 2,
+      "order": 45,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -291,8 +181,8 @@
         150
       ],
       "flags": {},
-      "order": 50,
-      "mode": 0,
+      "order": 49,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -339,7 +229,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -381,7 +271,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -461,8 +351,8 @@
         692.2498779296875
       ],
       "flags": {},
-      "order": 52,
-      "mode": 0,
+      "order": 51,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -488,7 +378,7 @@
         26
       ],
       "flags": {},
-      "order": 23,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -527,7 +417,7 @@
         26
       ],
       "flags": {},
-      "order": 31,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -567,8 +457,8 @@
         130
       ],
       "flags": {},
-      "order": 34,
-      "mode": 0,
+      "order": 31,
+      "mode": 2,
       "inputs": [
         {
           "name": "width",
@@ -621,7 +511,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 26,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -663,7 +553,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 22,
       "mode": 0,
       "inputs": [
         {
@@ -705,7 +595,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 22,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -747,7 +637,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 1,
+      "order": 0,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -784,7 +674,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 33,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -823,7 +713,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -862,7 +752,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 42,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -901,7 +791,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 2,
+      "order": 1,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -938,7 +828,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 3,
+      "order": 2,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -974,7 +864,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 4,
+      "order": 3,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1017,97 +907,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 124,
-      "type": "KSampler",
-      "pos": [
-        1091.7874755859375,
-        -8.449249267578125
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 336
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 333
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 334
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 282
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 347,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 299,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 300,
-          "widget": {
-            "name": "scheduler"
-          }
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 349,
-          "widget": {
-            "name": "steps"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            291
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        1115560727362110,
-        "randomize",
-        60,
-        1,
-        "euler",
-        "beta",
-        1
-      ]
-    },
-    {
       "id": 103,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -1119,7 +918,7 @@
         400.6348876953125
       ],
       "flags": {},
-      "order": 30,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -1151,8 +950,8 @@
         130
       ],
       "flags": {},
-      "order": 47,
-      "mode": 2,
+      "order": 48,
+      "mode": 0,
       "inputs": [
         {
           "name": "width",
@@ -1211,8 +1010,8 @@
         262
       ],
       "flags": {},
-      "order": 49,
-      "mode": 2,
+      "order": 50,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1281,7 +1080,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        965375622178530,
+        188764239504732,
         "randomize",
         30,
         1,
@@ -1302,7 +1101,7 @@
         58
       ],
       "flags": {},
-      "order": 38,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -1342,7 +1141,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 39,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -1397,7 +1196,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 25,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -1452,7 +1251,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 43,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -1493,7 +1292,7 @@
         60
       ],
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1528,7 +1327,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 20,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -1585,32 +1384,6 @@
       "shape": 1
     },
     {
-      "id": 79,
-      "type": "Note",
-      "pos": [
-        -2718.927978515625,
-        -244.67041015625
-      ],
-      "size": [
-        816.2579956054688,
-        845.4130859375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 6,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。用表格输出。\n\nHere is my subject: \"网红美女eimiFukada穿着紧身白色比基尼，原地扭动身体，跳着性感的韩式舞蹈，展示丰满的身材\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 104,
       "type": "Note",
       "pos": [
@@ -1624,7 +1397,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 7,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -1648,7 +1421,7 @@
         89.73997497558594
       ],
       "flags": {},
-      "order": 8,
+      "order": 6,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1687,7 +1460,7 @@
         286
       ],
       "flags": {},
-      "order": 32,
+      "order": 29,
       "mode": 0,
       "inputs": [
         {
@@ -1795,8 +1568,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 37,
-      "mode": 2,
+      "order": 39,
+      "mode": 0,
       "inputs": [
         {
           "name": "_float",
@@ -1845,8 +1618,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 41,
-      "mode": 2,
+      "order": 43,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -1898,8 +1671,8 @@
         76
       ],
       "flags": {},
-      "order": 46,
-      "mode": 2,
+      "order": 47,
+      "mode": 0,
       "inputs": [
         {
           "name": "input",
@@ -1918,7 +1691,7 @@
       },
       "widgets_values": [
         0,
-        "61"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -1935,8 +1708,8 @@
         150
       ],
       "flags": {},
-      "order": 51,
-      "mode": 2,
+      "order": 52,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -1971,183 +1744,6 @@
       ]
     },
     {
-      "id": 82,
-      "type": "String",
-      "pos": [
-        -1799.7281494140625,
-        66.265625
-      ],
-      "size": [
-        574.201904296875,
-        322.6468200683594
-      ],
-      "flags": {},
-      "order": 9,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            246
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "eimiFukada，sexy dance， Eimi Fukada, wearing black glasses, wearing a tight white bikini, begins to sway her body in place, performing a sensual Korean-style dance that highlights her curvaceous figure. Her movements are fluid and rhythmic, with her hips swaying side to side and her arms gracefully moving in sync. The camera starts with a close-up of her face, capturing her confident smile, then slowly pans down to showcase her full figure. The background is a blurred tropical beach with soft sunlight casting a warm glow on her skin. The camera angle shifts to a low angle, emphasizing her height and the elegance of her dance. The lighting is soft and natural, enhancing the golden tones of her skin and the white of her bikini.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 120,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -813.5054931640625,
-        -61.23974609375
-      ],
-      "size": [
-        303.5194091796875,
-        161.25209045410156
-      ],
-      "flags": {},
-      "order": 21,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 276,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 121,
-      "type": "Seed Generator",
-      "pos": [
-        -813.5054931640625,
-        -193.2300567626953
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 10,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            276,
-            345
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Seed Generator"
-      },
-      "widgets_values": [
-        434197070413602,
-        "randomize"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 94,
-      "type": "Float",
-      "pos": [
-        -1172.83447265625,
-        -195.3873748779297
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            267
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频帧率",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "30"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 127,
-      "type": "Int",
-      "pos": [
-        1119.2525634765625,
-        664.1082763671875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 12,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            294
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频长度(秒)",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "2"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 12,
       "type": "UNETLoader",
       "pos": [
@@ -2159,7 +1755,7 @@
         82
       ],
       "flags": {},
-      "order": 13,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2195,7 +1791,7 @@
         106
       ],
       "flags": {},
-      "order": 14,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2232,7 +1828,7 @@
         78
       ],
       "flags": {},
-      "order": 24,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -2278,7 +1874,7 @@
         58
       ],
       "flags": {},
-      "order": 15,
+      "order": 9,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2313,7 +1909,7 @@
         58
       ],
       "flags": {},
-      "order": 16,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2337,100 +1933,376 @@
       "bgcolor": "#353"
     },
     {
-      "id": 146,
-      "type": "VHS_VideoCombine",
+      "id": 154,
+      "type": "Int",
       "pos": [
-        2837.888427734375,
-        717.46728515625
+        576.66259765625,
+        830.4601440429688
       ],
       "size": [
-        540.7474365234375,
-        1259.4447021484375
+        315,
+        58
       ],
       "flags": {
-        "collapsed": true
+        "pinned": true
       },
-      "order": 54,
+      "order": 11,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            349,
+            350
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Steps",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "25"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 79,
+      "type": "Note",
+      "pos": [
+        -2718.927978515625,
+        -244.67041015625
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 12,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。用表格输出。\n\nHere is my subject: \"网红美女eimiFukada穿着紧身白色比基尼，露出半个胸部，原地扭动身体，跳着性感的韩式舞蹈，展示丰满的身材\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 82,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        66.265625
+      ],
+      "size": [
+        574.201904296875,
+        322.6468200683594
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            246
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "eimiFukada，sexy dance，wearing black glasses,Eimi Fukada, wearing a tight white bikini that reveals half of her chest, begins to twist her body in place, performing a sensual Korean-style dance. Her movements are fluid and rhythmic, with her hips swaying and her arms gracefully moving in sync with the beat. The camera starts with a close-up of her face, capturing her confident smile and focused gaze, then slowly pans down to highlight her curvaceous figure. The background is a blurred tropical beach with palm trees and soft sunlight casting a warm glow on her skin. The lighting is soft and natural, emphasizing the sheen of her bikini and the smoothness of her movements. As she continues to dance, the camera circles around her, capturing her from different angles, showcasing her dynamic and captivating performance.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 124,
+      "type": "KSampler",
+      "pos": [
+        1091.7874755859375,
+        -8.449249267578125
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 46,
       "mode": 2,
       "inputs": [
         {
-          "name": "images",
+          "name": "model",
+          "type": "MODEL",
+          "link": 336
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 333
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 334
+        },
+        {
+          "name": "latent_image",
           "type": "LATENT",
-          "link": 325
+          "link": 282
         },
         {
-          "name": "audio",
-          "type": "AUDIO",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 326,
-          "shape": 7
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 327,
+          "name": "seed",
+          "type": "INT",
+          "link": 347,
           "widget": {
-            "name": "filename_prefix"
+            "name": "seed"
           }
         },
         {
-          "name": "frame_rate",
-          "type": "FLOAT",
-          "link": 328,
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 299,
           "widget": {
-            "name": "frame_rate"
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 300,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 349,
+          "widget": {
+            "name": "steps"
           }
         }
       ],
       "outputs": [
         {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            291
+          ],
+          "slot_index": 0
         }
       ],
       "properties": {
-        "Node name for S&R": "VHS_VideoCombine"
+        "Node name for S&R": "KSampler"
       },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "hunyuan",
-        "format": "video/h264-mp4",
-        "pix_fmt": "yuv420p",
-        "crf": 19,
-        "save_metadata": true,
-        "trim_to_audio": false,
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "EimiFukada Dance_00002.mp4",
-            "subfolder": "hunyuan_video",
-            "type": "output",
-            "format": "video/h264-mp4",
-            "frame_rate": 30,
-            "workflow": "EimiFukada Dance_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00002.mp4"
-          },
-          "muted": false
+      "widgets_values": [
+        104175001661159,
+        "randomize",
+        60,
+        1,
+        "euler",
+        "beta",
+        1
+      ]
+    },
+    {
+      "id": 120,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -813.5054931640625,
+        -61.23974609375
+      ],
+      "size": [
+        303.5194091796875,
+        161.25209045410156
+      ],
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 276,
+          "dir": 3
         }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
       },
-      "color": "#322",
-      "bgcolor": "#533"
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 121,
+      "type": "Seed Generator",
+      "pos": [
+        -813.5054931640625,
+        -193.2300567626953
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            276,
+            345
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Seed Generator"
+      },
+      "widgets_values": [
+        563353645390207,
+        "randomize"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 109,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1471.4598388671875,
+        -161.5517578125
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 26,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 254,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 255,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            262
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \"/\" + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 108,
+      "type": "String",
+      "pos": [
+        -1787.449951171875,
+        -161.5517578125
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 15,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            254
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "保存目录",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "hunyuan_video",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     },
     {
       "id": 145,
@@ -2441,11 +2313,11 @@
       ],
       "size": [
         960.2182006835938,
-        1928.07275390625
+        1903.2086181640625
       ],
       "flags": {},
       "order": 53,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -2501,21 +2373,20 @@
         "frame_rate": 24,
         "loop_count": 0,
         "filename_prefix": "hunyuan",
-        "format": "video/ffmpeg-gif",
-        "dither": "sierra2_4a",
+        "format": "image/webp",
         "pingpong": false,
         "save_output": true,
         "videopreview": {
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "EimiFukada Dance_00001.gif",
+            "filename": "EimiFukada Dance_00001.webp",
             "subfolder": "hunyuan_video",
             "type": "output",
-            "format": "video/ffmpeg-gif",
-            "frame_rate": 30,
+            "format": "image/webp",
+            "frame_rate": 24,
             "workflow": "EimiFukada Dance_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00001.gif"
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00001.webp"
           },
           "muted": false
         }
@@ -2524,20 +2395,18 @@
       "bgcolor": "#533"
     },
     {
-      "id": 154,
+      "id": 127,
       "type": "Int",
       "pos": [
-        576.66259765625,
-        830.4601440429688
+        1119.2525634765625,
+        664.1082763671875
       ],
       "size": [
         315,
         58
       ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 17,
+      "flags": {},
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2545,15 +2414,145 @@
           "name": "INT",
           "type": "INT",
           "links": [
-            349,
-            350
+            294
           ],
           "slot_index": 0
         }
       ],
-      "title": "Steps",
+      "title": "视频长度(秒)",
       "properties": {
         "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "2"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 146,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        2837.888427734375,
+        717.46728515625
+      ],
+      "size": [
+        540.7474365234375,
+        1258.966064453125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 54,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 325
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "link": null,
+          "shape": 7
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 326,
+          "shape": 7
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 327,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "link": 328,
+          "widget": {
+            "name": "frame_rate"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "video/nvenc_h264-mp4",
+        "pix_fmt": "yuv420p",
+        "bitrate": 12,
+        "megabit": true,
+        "save_metadata": true,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "EimiFukada Dance_00002.mp4",
+            "subfolder": "hunyuan_video",
+            "type": "output",
+            "format": "video/h264-mp4",
+            "frame_rate": 24,
+            "workflow": "EimiFukada Dance_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\EimiFukada Dance_00002.mp4"
+          },
+          "muted": false
+        }
+      },
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 94,
+      "type": "Float",
+      "pos": [
+        -1172.83447265625,
+        -195.3873748779297
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            267
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频帧率",
+      "properties": {
+        "Node name for S&R": "Float"
       },
       "widgets_values": [
         "30"
@@ -3165,21 +3164,21 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8140274938684371,
+      "scale": 0.5054470284993273,
       "offset": [
-        191.3387375329658,
-        13.907305395713461
+        -25.172044801332618,
+        -68.8924817206796
       ]
     },
     "groupNodes": {},
     "node_versions": {
-      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-      "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
       "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
       "comfy-core": "0.3.12",
       "comfy-image-saver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
+      "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
+      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI-HunyuanLoom": "0d77f909c833d240868b44f3045874800604b454",
       "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d"
