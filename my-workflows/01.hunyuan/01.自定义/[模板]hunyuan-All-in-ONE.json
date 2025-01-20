@@ -94,7 +94,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -136,7 +136,7 @@
         "collapsed": true
       },
       "order": 45,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -182,7 +182,7 @@
       ],
       "flags": {},
       "order": 51,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -352,7 +352,7 @@
       ],
       "flags": {},
       "order": 53,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -543,7 +543,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -622,7 +622,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -810,7 +810,7 @@
         400.6348876953125
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -843,7 +843,7 @@
       ],
       "flags": {},
       "order": 48,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "width",
@@ -903,7 +903,7 @@
       ],
       "flags": {},
       "order": 50,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -972,7 +972,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        879780890818251,
+        565540897997389,
         "randomize",
         30,
         1,
@@ -1050,7 +1050,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 23,
+      "order": 28,
       "mode": 0,
       "inputs": [
         {
@@ -1181,7 +1181,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -1252,7 +1252,7 @@
         "collapsed": true
       },
       "order": 37,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "_float",
@@ -1302,7 +1302,7 @@
         "collapsed": true
       },
       "order": 41,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -1355,7 +1355,7 @@
       ],
       "flags": {},
       "order": 47,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "input",
@@ -1374,7 +1374,7 @@
       },
       "widgets_values": [
         0,
-        ""
+        "73"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -1428,7 +1428,7 @@
         78
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [
         {
@@ -1584,7 +1584,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 25,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -1728,7 +1728,7 @@
       ],
       "flags": {},
       "order": 49,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -1797,7 +1797,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        568343332303858,
+        63516512574440,
         "randomize",
         60,
         1,
@@ -1819,7 +1819,7 @@
       ],
       "flags": {},
       "order": 30,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "width",
@@ -1857,62 +1857,6 @@
         1,
         1
       ]
-    },
-    {
-      "id": 100,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -1799.7281494140625,
-        461.05718994140625
-      ],
-      "size": [
-        560.7031860351562,
-        423.7285461425781
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 10,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            245
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            288
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
-        "ads-automotive",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 67,
@@ -1964,7 +1908,7 @@
         82
       ],
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -1989,71 +1933,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 85,
-      "type": "String",
-      "pos": [
-        -1799.7281494140625,
-        -92.80496978759766
-      ],
-      "size": [
-        561.4890747070312,
-        89.73997497558594
-      ],
-      "flags": {},
-      "order": 12,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            255
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "标题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 79,
-      "type": "Note",
-      "pos": [
-        -2718.927978515625,
-        -244.67041015625
-      ],
-      "size": [
-        816.2579956054688,
-        845.4130859375
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 13,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。用表格输出。\n\nHere is my subject: \"在高级酒店房间里，EimiFukada穿着白色紧身的比基尼，身材火辣，双手掀起胸罩，露出丰满的胸部\""
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 120,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -2065,7 +1944,7 @@
         161.25209045410156
       ],
       "flags": {},
-      "order": 26,
+      "order": 24,
       "mode": 0,
       "inputs": [
         {
@@ -2097,7 +1976,7 @@
         82
       ],
       "flags": {},
-      "order": 14,
+      "order": 11,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2115,7 +1994,7 @@
         "Node name for S&R": "Seed Generator"
       },
       "widgets_values": [
-        542799201229100,
+        173839426980831,
         "randomize"
       ],
       "color": "#232",
@@ -2135,7 +2014,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 15,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -2146,212 +2025,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 82,
-      "type": "String",
-      "pos": [
-        -1799.7281494140625,
-        66.265625
-      ],
-      "size": [
-        574.201904296875,
-        322.6468200683594
-      ],
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            246
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "eimiFukada, (wearing black glasses), Titty drop, bikini drop, flashing her breasts. In a luxurious hotel room, Eimi Fukada, wearing a tight white bikini. She is lifting her stripe bikinis with both hands, exposing her naked large breasts and nipples. The camera starts with a close-up of her hands gripping the edges of her bra, then pans up to her face as she smiles seductively. Her long, dark hair cascades down her shoulders, and the soft, warm lighting highlights her smooth skin and the curves of her body. The background features a lavish room with a large bed, silk sheets, and golden accents, creating an opulent atmosphere. The camera angle is slightly low, emphasizing her dominance and allure as she continues to reveal herself. The scene is sensual and intimate, with the focus entirely on her confident and deliberate movements.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 159,
-      "type": "Note",
-      "pos": [
-        -3587.41796875,
-        203.4577178955078
-      ],
-      "size": [
-        799.8477172851562,
-        386.1935729980469
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 17,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我需要生成3秒钟长的视频，用于发布在tiktok或者小红书上具有吸引力，请帮我想5个实例化的主题内容，尽可能详细描述，最多不超过3句话。请用表格列出来主题、内容描述"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 127,
-      "type": "Int",
-      "pos": [
-        1119.2525634765625,
-        664.1082763671875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            294
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频长度(秒)",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "1"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 106,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        44.30021667480469,
-        -181.2808837890625
-      ],
-      "size": [
-        340.20001220703125,
-        286
-      ],
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 355,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 250,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            248
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            251
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "100_hunyuan\\hyvideo_FastVideo_LoRA-fp8.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "100_hunyuan\\studio_ghibli_hv_v03_19.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "100_hunyuan\\eimiHunyuan.safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "100_hunyuan\\venom_hunyuan_video_v1_e40.safetensors",
-          "strength": 0.7,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "100_hunyuan\\Sexy_Dance_e15.safetensors",
-          "strength": 0.3,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "100_hunyuan\\nipple_play_v0-1.safetensors",
-          "strength": 0.2,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "100_hunyuan\\pix2_c.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 146,
@@ -2368,7 +2041,7 @@
         "collapsed": true
       },
       "order": 55,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -2435,13 +2108,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00004.mp4",
+            "filename": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00006.mp4",
             "subfolder": "hunyuan_video",
             "type": "output",
             "format": "video/nvenc_h264-mp4",
             "frame_rate": 24,
-            "workflow": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00004.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00004.mp4"
+            "workflow": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00006.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00006.mp4"
           },
           "muted": false
         }
@@ -2458,11 +2131,11 @@
       ],
       "size": [
         960.2182006835938,
-        1927.2086181640625
+        1928.07275390625
       ],
       "flags": {},
       "order": 54,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -2526,13 +2199,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00003.webp",
+            "filename": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00005.gif",
             "subfolder": "hunyuan_video",
             "type": "output",
-            "format": "image/webp",
+            "format": "video/ffmpeg-gif",
             "frame_rate": 24,
-            "workflow": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00003.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00003.webp"
+            "workflow": "eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00005.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\hunyuan_video\\eimiFukada, She is lifting her bikinis, exposing her naked large breasts and nipples. Titty drop, bikini drop, flashing her breasts._00005.gif"
           },
           "muted": false
         }
@@ -2553,7 +2226,7 @@
       ],
       "flags": {},
       "order": 52,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -2586,6 +2259,333 @@
         64,
         8
       ]
+    },
+    {
+      "id": 127,
+      "type": "Int",
+      "pos": [
+        1119.2525634765625,
+        664.1082763671875
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            294
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频长度(秒)",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "3"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 159,
+      "type": "Note",
+      "pos": [
+        -3587.41796875,
+        203.4577178955078
+      ],
+      "size": [
+        799.8477172851562,
+        386.1935729980469
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 14,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我需要生成3秒钟长的视频，用于发布在tiktok或者小红书上具有吸引力，请帮我想5个关于七龙珠人造人18号的主题内容，尽可能详细描述，最多不超过3句话。请用表格列出来主题、内容描述"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 79,
+      "type": "Note",
+      "pos": [
+        -2718.927978515625,
+        -244.67041015625
+      ],
+      "size": [
+        816.2579956054688,
+        845.4130859375
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 15,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按以上规则输出最多3个单词组成的标题、英文提示词，再翻译成中文，并重复生成3遍。用表格输出。\n\nHere is my subject: \"七龙珠人造人18号\""
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 82,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        66.265625
+      ],
+      "size": [
+        574.201904296875,
+        322.6468200683594
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            246
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "Android 18, with her iconic platinum blonde hair tied in a high ponytail, swiftly steps into a battle stance on a rocky, desolate battlefield. The camera follows her from a low angle, capturing the intensity of her expression as she clenches her fists. Her body is poised and ready, wearing her blue sleeveless jacket and white pants. The background is filled with jagged rocks and scattered debris, with smoke rising from the ground. The camera zooms in as she jumps into the air, her movements fluid and powerful. The sun sets in the distance, casting an orange glow over the scene, making her figure stand out against the darkening sky. Her blonde hair flares out as she spins mid-air, the light catching her movements. The camera follows her, moving upward to track her motion as she prepares to launch a devastating energy blast.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 106,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        44.30021667480469,
+        -181.2808837890625
+      ],
+      "size": [
+        340.20001220703125,
+        286
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 355,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 250,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            248
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            251
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\hyvideo_FastVideo_LoRA-fp8.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\studio_ghibli_hv_v03_19.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\eimiHunyuan.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\venom_hunyuan_video_v1_e40.safetensors",
+          "strength": 0.7,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\Sexy_Dance_e15.safetensors",
+          "strength": 0.3,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\nipple_play_v0-1.safetensors",
+          "strength": 0.2,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "100_hunyuan\\pix2_c.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 85,
+      "type": "String",
+      "pos": [
+        -1799.7281494140625,
+        -92.80496978759766
+      ],
+      "size": [
+        561.4890747070312,
+        89.73997497558594
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            255
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "标题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "Android 18 Fight",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 100,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -1799.7281494140625,
+        461.05718994140625
+      ],
+      "size": [
+        560.7031860351562,
+        423.7285461425781
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 18,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            245
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            288
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
+        "3d-model",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -3191,10 +3191,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.41772481694157254,
+      "scale": 0.25937424601000575,
       "offset": [
-        681.1617441165249,
-        -441.6884161199233
+        4523.992200063006,
+        1197.4720346788936
       ]
     },
     "groupNodes": {},
@@ -3207,8 +3207,8 @@
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI-HunyuanLoom": "0d77f909c833d240868b44f3045874800604b454",
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
-      "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d"
+      "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d",
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e"
     },
     "ue_links": [],
     "VHS_latentpreview": false,
