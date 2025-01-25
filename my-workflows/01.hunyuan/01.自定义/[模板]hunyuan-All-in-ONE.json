@@ -1,6 +1,6 @@
 {
-  "last_node_id": 178,
-  "last_link_id": 386,
+  "last_node_id": 181,
+  "last_link_id": 392,
   "nodes": [
     {
       "id": 111,
@@ -53,7 +53,7 @@
         26
       ],
       "flags": {},
-      "order": 52,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -94,7 +94,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 46,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -135,7 +135,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 53,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -181,7 +181,7 @@
         150
       ],
       "flags": {},
-      "order": 66,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -229,7 +229,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -271,7 +271,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -351,7 +351,7 @@
         692.2498779296875
       ],
       "flags": {},
-      "order": 69,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -622,7 +622,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -661,7 +661,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -700,7 +700,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -774,7 +774,7 @@
         400.6348876953125
       ],
       "flags": {},
-      "order": 59,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -806,7 +806,7 @@
         130
       ],
       "flags": {},
-      "order": 58,
+      "order": 59,
       "mode": 2,
       "inputs": [
         {
@@ -866,7 +866,7 @@
         262
       ],
       "flags": {},
-      "order": 63,
+      "order": 65,
       "mode": 2,
       "inputs": [
         {
@@ -936,7 +936,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        253832824150573,
+        711458022476419,
         "randomize",
         30,
         1,
@@ -959,7 +959,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -1014,7 +1014,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 31,
+      "order": 29,
       "mode": 0,
       "inputs": [
         {
@@ -1069,7 +1069,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 61,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -1145,7 +1145,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 41,
+      "order": 42,
       "mode": 2,
       "inputs": [
         {
@@ -1195,7 +1195,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -1248,7 +1248,7 @@
         76
       ],
       "flags": {},
-      "order": 57,
+      "order": 58,
       "mode": 2,
       "inputs": [
         {
@@ -1478,7 +1478,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 38,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -1621,7 +1621,7 @@
         262
       ],
       "flags": {},
-      "order": 64,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -1691,7 +1691,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        449305130057582,
+        897053766996842,
         "randomize",
         60,
         1,
@@ -1764,7 +1764,7 @@
         58
       ],
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -1888,7 +1888,7 @@
         "Node name for S&R": "Seed Generator"
       },
       "widgets_values": [
-        329744917412880,
+        890847034206224,
         "randomize"
       ],
       "color": "#232",
@@ -1908,7 +1908,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 68,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -2002,7 +2002,7 @@
         254
       ],
       "flags": {},
-      "order": 67,
+      "order": 69,
       "mode": 2,
       "inputs": [
         {
@@ -2093,7 +2093,7 @@
         150
       ],
       "flags": {},
-      "order": 65,
+      "order": 67,
       "mode": 2,
       "inputs": [
         {
@@ -2164,50 +2164,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 164,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3100.424072265625,
-        -141.05746459960938
-      ],
-      "size": [
-        549.0548706054688,
-        152.6814727783203
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 12,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            369,
-            375,
-            381
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "model"
-          }
-        }
-      ],
-      "title": "LLM模型",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "qwen2.5:7b",
-        "fixed",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 165,
       "type": "Reroute",
       "pos": [
@@ -2219,7 +2175,7 @@
         26
       ],
       "flags": {},
-      "order": 29,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -2258,7 +2214,7 @@
         26
       ],
       "flags": {},
-      "order": 36,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -2297,7 +2253,7 @@
         26
       ],
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -2324,43 +2280,6 @@
       }
     },
     {
-      "id": 169,
-      "type": "Simple String",
-      "pos": [
-        -3100.424072265625,
-        -199.1432647705078
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 13,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            364
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://127.0.0.1:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 172,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -2372,7 +2291,7 @@
         348.7162170410156
       ],
       "flags": {},
-      "order": 55,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2404,7 +2323,7 @@
         348.49285888671875
       ],
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 0,
       "inputs": [
         {
@@ -2425,288 +2344,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 175,
-      "type": "String",
-      "pos": [
-        -3605.736328125,
-        -70.3771743774414
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 14,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            367,
-            384
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "赛博朋克2077中的Rebecca",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 159,
-      "type": "Note",
-      "pos": [
-        -3611.61669921875,
-        -691.6471557617188
-      ],
-      "size": [
-        799.8477172851562,
-        386.1935729980469
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 15,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我需要生成3秒钟长的视频，用于发布在tiktok或者小红书上具有吸引力，请帮我想5个关于七龙珠人造人18号的主题内容，尽可能详细描述，最多不超过3句话。请用表格列出来主题、内容描述"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 168,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -3087.134033203125,
-        -53.06842803955078
-      ],
-      "size": [
-        873.451416015625,
-        1298.7374267578125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 37,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 367,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 368,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 369,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 370,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            379,
-            383
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [
-            378
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "qwen2.5:7b",
-        "你是一个艺术专家，擅长创作完美的艺术画面。我准备用AI创建2秒钟长的视频，用于发布到小红书以吸引粉丝，请根据我提供的主题，帮我想1个好的主题创意，按照主题、画面风格、描述的格式输出。请仅返回内容，不需要输出其他词例如“response”.",
-        0,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
-      "id": 171,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2217.781005859375,
-        -59.02399444580078
-      ],
-      "size": [
-        714.4639892578125,
-        1256.7813720703125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 51,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": 372,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 373,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 374,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 375,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 376,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            377
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "qwen2.5:7b",
-        "你是一个资深的翻译，请把输入的内容翻译成中文",
-        0,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 153,
       "type": "Fast Groups Muter (rgthree)",
       "pos": [
@@ -2720,7 +2357,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 16,
+      "order": 12,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -2754,13 +2391,13 @@
         89.73997497558594
       ],
       "flags": {},
-      "order": 30,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
           "name": "String",
           "type": "STRING",
-          "link": 384,
+          "link": 392,
           "widget": {
             "name": "String"
           }
@@ -2804,7 +2441,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 50,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -2854,7 +2491,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -3030,7 +2667,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 17,
+      "order": 13,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3056,7 +2693,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 18,
+      "order": 14,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -3080,7 +2717,7 @@
         277.83636474609375
       ],
       "flags": {},
-      "order": 19,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3119,7 +2756,7 @@
         348.790771484375
       ],
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -3140,6 +2777,62 @@
       "bgcolor": "#000"
     },
     {
+      "id": 100,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -1799.7281494140625,
+        461.05718994140625
+      ],
+      "size": [
+        560.7031860351562,
+        423.7285461425781
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 16,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            245
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            288
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
+        "pixel art",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 173,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -3153,7 +2846,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 45,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -3226,7 +2919,7 @@
         true,
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
-        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按照以上规则，并根据我提供的内容输出。注意，仅输出英文。",
+        "Build a complete and rich prompt for AI video generation from keywords or images provided by the user. The rules are as follows：\n\nWhen writing prompts, focus on detailed, chronological descriptions of actions and scenes. Include specific movements, appearances, camera angles, and environmental details - all in a single flowing paragraph. Start directly with the action, and keep descriptions literal and precise. Think like a cinematographer describing a shot list.  For best results, build your prompts using this structure:\n\n0. Start with main action in a single sentence.The input image  or keywords is the first frame of the video, and the output video caption should describe the motion starting from the current image.When describing the details of an image, include appropriate dynamic information to ensure that the video caption contains reasonable actions and plots.\n\n1. Add specific details about movements and gestures\n\n2. Describe character/object appearances precisely\n\n3. Include background and environment details\n\n4. Specify camera angles and movements\n\n5. Describe lighting and colors\n\n6. Note any changes or sudden events\n\n7. Keep between 100 and 200 English words, no other languages.\n\n**Note**：Character action design should fully consider the visual aesthetics of the scene\n\n**Answering Style**:\nAnswers should be comprehensive, conversational, and use complete sentences. The answer should be in English no matter what the user's input is. Provide context where necessary and maintain a certain tone.  Begin directly without introductory phrases like \"The image/video showcases\" \"The photo captures\" and more. For example, say \"A woman is on a beach\", instead of \"A woman is depicted in the image\".\n\nExample Prompt：\nExample-1: Standing on the edge of a tall skyscraper, a young woman in a flowing white dress begins to slowly turn her head from right to left, her long hair swaying gently in the breeze. The camera slowly pans out as she turns, revealing the sprawling cityscape below her, twinkling with thousands of lights under a dark night sky. The woman’s dress billows slightly as she turns, catching the light and making her appear almost ethereal. The camera angle is slightly low, emphasizing the height of the building and the vastness of the city, as she then turns back towards the camera. Her expression is serene and contemplative as she glances out at the lights. The night sky is dark and a little hazy and a slight breeze appears to catch her hair. The overall effect is majestic and calm, with the city providing a dramatic background. As she looks back towards the distance, the background fades.\n\nExample-2: A young woman with long, dark hair, wearing a light blue shirt and white pants, begins to slowly walk through the school campus, her gaze directed forward. The camera angle follows her from the front as she walks, and the focus shifts to the various details of the campus. She passes by trees, green bushes, and other students blurred in the background, and the camera pans slightly to show more of the scenery and her light shoes as she walks. Her movements are relaxed and natural as the sun shines gently overhead. The camera angle is at eye level, showing the normal viewpoint of someone who is also walking through the campus, and the background fades gently as the camera focuses back on her face.\n\nExample-3: The woman, dressed in a layered yellow and gold traditional robe with a semi-transparent brown overlay, gracefully begins to walk forward, her gaze fixed forward and her expression serene. The camera pans down to follow her as she steps into the shallow water, the fabric of her robe gently rippling around her. The water's surface reflects the colors of her clothing and the surrounding green bamboo forest. The camera angle is low, giving a full view of her flowing robes as she slowly continues to wade through the water. The natural light from the sun filters through the trees, creating a soft glow on the woman, highlighting the gold and silver embellishments on her clothes and hair. Her black hair is styled in an ornate bun adorned with gold accessories, and her earrings swing slightly with her movement. The camera slowly pans up to her face again as the water she wades through continues to reflect the light and the background starts to fade.\n\nExample-4: Standing in a shallow, rocky stream surrounded by a dense green forest, the woman with a black ornate hairstyle begins to gracefully move her left hand upwards, her fingers slightly curled as if she's creating a gesture. Her light green layered robes with silver embroidery, and delicate chain detailing around her neck and waist, shimmer slightly with her movement. The camera pans slightly to the left, revealing the sheer layered fabric of her sleeves flowing in an imagined breeze and the silver ornaments on her hair catching the sunlight, her dark hair swaying as she turns her head. The water flows gently around her ankles, creating subtle ripples. As the camera slowly zooms in, she brings her hand down and begins to slowly walk forward through the stream. Her gaze is fixed forward and her expression is serene and determined. The background is a blur of green foliage and mossy rocks, creating a soft, tranquil scene illuminated by natural sunlight filtering through the trees.\n\n请按照以上规则，并根据我提供的内容输出。返回内容的规则：\n1. 请仅返回英文提示词，不需要输出其他词例如“response”，\n2. 不要输出中文\n3. 不需要标题、分段\n4. 不需要hash tag\n5. 不要用markdown格式输出，仅使用plain text。",
         0,
         "randomize",
         40,
@@ -3251,53 +2944,253 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 100,
-      "type": "SDXLPromptStyler",
+      "id": 171,
+      "type": "OllamaGenerateAdvance",
       "pos": [
-        -1799.7281494140625,
-        461.05718994140625
+        -2217.781005859375,
+        -59.02399444580078
       ],
       "size": [
-        560.7031860351562,
-        423.7285461425781
+        714.4639892578125,
+        1256.7813720703125
       ],
       "flags": {
-        "collapsed": false
+        "collapsed": true
       },
-      "order": 20,
+      "order": 52,
       "mode": 0,
-      "inputs": [],
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": 372,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 373,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 374,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 375,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 376,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
       "outputs": [
         {
-          "name": "positive_prompt_text_g",
+          "name": "response",
           "type": "STRING",
           "links": [
-            245
+            377
           ],
           "slot_index": 0
         },
         {
-          "name": "negative_prompt_text_g",
+          "name": "context",
           "type": "STRING",
-          "links": [
-            288
-          ],
-          "slot_index": 1
+          "links": null
         }
       ],
       "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
+        "Node name for S&R": "OllamaGenerateAdvance"
       },
       "widgets_values": [
-        ", A high-definition video, (8k, best quality, masterpiece:1.2), ultra-detailed, ",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans",
-        "pixel art",
-        "No",
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "qwen2.5:7b",
+        "你是一个资深的翻译，请把输入的内容翻译成中文。返回的规则：\n1. 请仅返回英文提示词，不需要输出其他词例如“response”，\n2. 不要输出中文\n3. 不需要标题、分段\n4. 不需要hash tag\n5. 不要用markdown格式输出，仅使用plain text。\n",
+        0,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
         "",
         [
           false,
           true
         ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 168,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -3087.134033203125,
+        -53.06842803955078
+      ],
+      "size": [
+        873.451416015625,
+        1298.7374267578125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 367,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 368,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 369,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 370,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            379,
+            383
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [
+            378
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "qwen2.5:7b",
+        "你是一个艺术专家，擅长创作完美的艺术画面。我准备用AI创建2秒钟长的视频，用于发布到小红书以吸引粉丝，请根据我提供的主题，帮我想1个好的主题创意，按照主题、画面风格、描述的格式输出。请仅返回内容，不需要输出其他词例如“response”.",
+        0,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 175,
+      "type": "String",
+      "pos": [
+        -3605.736328125,
+        -70.3771743774414
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            367,
+            388
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "赛博朋克2077中的Rebecca",
         [
           false,
           true
@@ -3318,7 +3211,7 @@
         82
       ],
       "flags": {},
-      "order": 21,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -3328,7 +3221,8 @@
           "links": [
             370,
             376,
-            382
+            382,
+            389
           ],
           "slot_index": 0,
           "widget": {
@@ -3346,6 +3240,256 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 169,
+      "type": "Simple String",
+      "pos": [
+        -3100.424072265625,
+        -199.1432647705078
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 19,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            364,
+            390
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://127.0.0.1:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 180,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -3091.82421875,
+        431.1283264160156
+      ],
+      "size": [
+        873.451416015625,
+        1298.7374267578125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 31,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 388,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 390,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 391,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 389,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            387,
+            392
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "qwen2.5:7b",
+        "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。注意，请仅输出英文单词，不要输出其他例如\"response\"类似的内容。",
+        0,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 181,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3096.23046875,
+        504.96746826171875
+      ],
+      "size": [
+        429.6598205566406,
+        76
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 387,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 164,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3100.424072265625,
+        -141.05746459960938
+      ],
+      "size": [
+        549.0548706054688,
+        152.6814727783203
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 20,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            369,
+            375,
+            381,
+            391
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "model"
+          }
+        }
+      ],
+      "title": "LLM模型",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "qwen2.5:7b",
+        "fixed",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 159,
+      "type": "Note",
+      "pos": [
+        -3611.61669921875,
+        -691.6471557617188
+      ],
+      "size": [
+        799.8477172851562,
+        386.1935729980469
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 21,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我需要生成3秒钟长的视频，用于发布在tiktok或者小红书上具有吸引力，请帮我想5个关于七龙珠人造人18号的主题内容，尽可能详细描述，最多不超过3句话。请用表格列出来主题、内容描述"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
     }
   ],
   "links": [
@@ -4054,14 +4198,6 @@
       "*"
     ],
     [
-      384,
-      175,
-      0,
-      85,
-      0,
-      "STRING"
-    ],
-    [
       385,
       173,
       0,
@@ -4074,6 +4210,54 @@
       178,
       0,
       102,
+      0,
+      "STRING"
+    ],
+    [
+      387,
+      180,
+      0,
+      181,
+      0,
+      "*"
+    ],
+    [
+      388,
+      175,
+      0,
+      180,
+      1,
+      "STRING"
+    ],
+    [
+      389,
+      176,
+      0,
+      180,
+      4,
+      "INT"
+    ],
+    [
+      390,
+      169,
+      0,
+      180,
+      2,
+      "STRING"
+    ],
+    [
+      391,
+      164,
+      0,
+      180,
+      3,
+      "COMBO"
+    ],
+    [
+      392,
+      180,
+      0,
+      85,
       0,
       "STRING"
     ]
@@ -4148,10 +4332,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8954302432553622,
+      "scale": 1.744940226888914,
       "offset": [
-        787.9530642082874,
-        933.5573486496244
+        3313.2036622349033,
+        542.7667629987681
       ]
     },
     "groupNodes": {},
@@ -4165,9 +4349,9 @@
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
       "ComfyUI-VideoHelperSuite": "c47b10ca1798b4925ff5a5f07d80c51ca80a837d",
-      "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e"
+      "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079"
     },
     "ue_links": [],
     "VHS_latentpreview": false,
