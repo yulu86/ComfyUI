@@ -728,7 +728,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 89,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -944,7 +944,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "CyberpunkDancer_279663918283189_low"
+        "CyberpunkDancer_889506076955324_low"
       ]
     },
     {
@@ -2644,7 +2644,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 90,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -3477,7 +3477,7 @@
         26
       ],
       "flags": {},
-      "order": 105,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -3936,7 +3936,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1067535367479516,
+        963367608636567,
         "randomize",
         20,
         1,
@@ -4414,7 +4414,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        646982789095855,
+        721637230856164,
         "randomize",
         40,
         1,
@@ -4559,7 +4559,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 91,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -4598,7 +4598,7 @@
         26
       ],
       "flags": {},
-      "order": 77,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -5078,7 +5078,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        301433574998855,
+        807836074741124,
         "randomize"
       ],
       "color": "#232",
@@ -5228,7 +5228,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        926762945565146,
+        924042451027450,
         "randomize",
         25,
         1,
@@ -6554,7 +6554,7 @@
         58
       ],
       "flags": {},
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -6802,7 +6802,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -6923,7 +6923,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "artstyle-abstract expressionism",
+        "anime",
         "No",
         "",
         [
@@ -7525,7 +7525,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -7596,7 +7596,7 @@
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
         "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。注意，请仅输出英文单词，不要输出其他例如\"response\"类似的内容。",
-        0,
+        10000,
         "randomize",
         40,
         0.9,
@@ -7631,7 +7631,7 @@
         76
       ],
       "flags": {},
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -7735,7 +7735,7 @@
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
         "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文，不要输出英文\n2. 不要输出无关的内容",
-        0,
+        10000,
         "randomize",
         40,
         0.9,
@@ -7878,7 +7878,7 @@
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
         "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是根据我提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n返回的规则：\n1. 请仅返回英文提示词，不需要输出其他词例如“response”，\n2. 不要输出中文\n3. 不需要标题、分段\n4. 不需要hash tag\n5. 不要用markdown格式输出，仅使用plain text。\n6. 如果涉及到著名的角色或人物，请写明角色名字，以及角色的出处",
-        0,
+        10000,
         "randomize",
         40,
         0.9,
@@ -7988,7 +7988,7 @@
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
         "你是一个艺术专家，擅长创作完美的艺术画面。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请根据我提供的主题，帮我想1个好的主题创意，按照主题、画面风格、描述的格式输出。返回内容的规则：\n1. 不需要输出其他词例如“response”\n3. 请输出主题、画面风格、描述\n3. 不需要hash tag\n4. 不要用markdown格式输出，仅使用plain text。\n5. 如果涉及到著名的角色或人物，请写明角色名字，以及角色的出处",
-        0,
+        10000,
         "randomize",
         40,
         0.9,
@@ -8012,88 +8012,6 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -3458.187744140625,
-        -269.1422424316406
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            646,
-            668
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "赛博朋克2077边缘行者中的rebecca举着一把大枪在跳舞",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3458.187744140625,
-        -3.291239023208618
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            649,
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        0,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -8105,7 +8023,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8150,7 +8068,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 40,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8184,41 +8102,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "default"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 39,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
@@ -8230,7 +8113,7 @@
         334
       ],
       "flags": {},
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -8349,7 +8232,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 42,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8369,9 +8252,126 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "artstyle-abstract expressionism",
+        "anime",
         "fixed",
         ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "default"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3458.187744140625,
+        -3.291239023208618
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            649,
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        10000,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -3458.187744140625,
+        -269.1422424316406
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            646,
+            668
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "赛博朋克2077边缘行者中的rebecca哈哈大笑",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -10421,10 +10421,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.41772481694163666,
+      "scale": 0.5054470284993823,
       "offset": [
-        2416.7972256704443,
-        1714.937222442705
+        4067.8503088182406,
+        1262.6935224456176
       ]
     },
     "groupNodes": {},
