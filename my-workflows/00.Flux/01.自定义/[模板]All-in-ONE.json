@@ -1,6 +1,6 @@
 {
   "last_node_id": 369,
-  "last_link_id": 673,
+  "last_link_id": 678,
   "nodes": [
     {
       "id": 66,
@@ -226,7 +226,7 @@
         234
       ],
       "flags": {},
-      "order": 129,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -530,7 +530,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -585,7 +585,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -623,7 +623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -863,7 +863,7 @@
         154
       ],
       "flags": {},
-      "order": 120,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -922,7 +922,7 @@
         76
       ],
       "flags": {},
-      "order": 125,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -944,7 +944,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "CyberpunkDancer_889506076955324_low"
+        "Sakura_779270582333523_low"
       ]
     },
     {
@@ -959,7 +959,7 @@
         46
       ],
       "flags": {},
-      "order": 153,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -1003,7 +1003,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 156,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -1104,7 +1104,7 @@
         154
       ],
       "flags": {},
-      "order": 127,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -1163,7 +1163,7 @@
         76
       ],
       "flags": {},
-      "order": 133,
+      "order": 131,
       "mode": 2,
       "inputs": [
         {
@@ -1200,7 +1200,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 169,
+      "order": 166,
       "mode": 2,
       "inputs": [
         {
@@ -1247,7 +1247,7 @@
         46
       ],
       "flags": {},
-      "order": 167,
+      "order": 164,
       "mode": 2,
       "inputs": [
         {
@@ -1876,7 +1876,7 @@
         138
       ],
       "flags": {},
-      "order": 122,
+      "order": 121,
       "mode": 2,
       "inputs": [
         {
@@ -1950,7 +1950,7 @@
         58
       ],
       "flags": {},
-      "order": 117,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -2092,7 +2092,7 @@
         246
       ],
       "flags": {},
-      "order": 139,
+      "order": 137,
       "mode": 2,
       "inputs": [
         {
@@ -2119,7 +2119,7 @@
         154
       ],
       "flags": {},
-      "order": 131,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -2178,7 +2178,7 @@
         76
       ],
       "flags": {},
-      "order": 136,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -2217,7 +2217,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 143,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -2469,7 +2469,7 @@
         154
       ],
       "flags": {},
-      "order": 141,
+      "order": 139,
       "mode": 2,
       "inputs": [
         {
@@ -2529,7 +2529,7 @@
         76
       ],
       "flags": {},
-      "order": 145,
+      "order": 144,
       "mode": 2,
       "inputs": [
         {
@@ -2568,7 +2568,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -2606,7 +2606,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -2842,7 +2842,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -2921,7 +2921,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 140,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -2994,7 +2994,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -3034,7 +3034,7 @@
         186
       ],
       "flags": {},
-      "order": 144,
+      "order": 138,
       "mode": 4,
       "inputs": [
         {
@@ -3108,7 +3108,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -3232,7 +3232,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -3272,7 +3272,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -3312,7 +3312,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -3353,7 +3353,7 @@
         26
       ],
       "flags": {},
-      "order": 137,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -3437,7 +3437,7 @@
         26
       ],
       "flags": {},
-      "order": 163,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -3560,7 +3560,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -3652,7 +3652,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 114,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -3694,7 +3694,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -3740,7 +3740,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -3805,7 +3805,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 116,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -3832,7 +3832,7 @@
         46
       ],
       "flags": {},
-      "order": 134,
+      "order": 132,
       "mode": 2,
       "inputs": [
         {
@@ -3874,7 +3874,7 @@
         262
       ],
       "flags": {},
-      "order": 128,
+      "order": 127,
       "mode": 2,
       "inputs": [
         {
@@ -3936,7 +3936,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        963367608636567,
+        526445469643213,
         "randomize",
         20,
         1,
@@ -3957,7 +3957,7 @@
         130
       ],
       "flags": {},
-      "order": 138,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -4120,7 +4120,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 118,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -4262,7 +4262,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -4344,7 +4344,7 @@
         262
       ],
       "flags": {},
-      "order": 150,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -4414,7 +4414,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        721637230856164,
+        519861461807459,
         "randomize",
         40,
         1,
@@ -4475,7 +4475,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -4517,7 +4517,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -4667,7 +4667,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -4757,7 +4757,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 149,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -4933,7 +4933,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 111,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -5078,7 +5078,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        807836074741124,
+        1106339817352580,
         "randomize"
       ],
       "color": "#232",
@@ -5139,7 +5139,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 157,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -5166,7 +5166,7 @@
         262
       ],
       "flags": {},
-      "order": 165,
+      "order": 162,
       "mode": 2,
       "inputs": [
         {
@@ -5228,7 +5228,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        924042451027450,
+        371410900771166,
         "randomize",
         25,
         1,
@@ -5249,7 +5249,7 @@
         138
       ],
       "flags": {},
-      "order": 162,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -5325,7 +5325,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 159,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -5363,7 +5363,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 142,
+      "order": 140,
       "mode": 2,
       "inputs": [
         {
@@ -5462,7 +5462,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -5529,7 +5529,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 174,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -5594,7 +5594,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 176,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -5644,7 +5644,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 177,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -5773,7 +5773,7 @@
         26
       ],
       "flags": {},
-      "order": 164,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -5813,7 +5813,7 @@
         46
       ],
       "flags": {},
-      "order": 115,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -5854,7 +5854,7 @@
         334
       ],
       "flags": {},
-      "order": 168,
+      "order": 165,
       "mode": 2,
       "inputs": [
         {
@@ -5956,7 +5956,7 @@
         150
       ],
       "flags": {},
-      "order": 171,
+      "order": 168,
       "mode": 2,
       "inputs": [
         {
@@ -6002,7 +6002,7 @@
         26
       ],
       "flags": {},
-      "order": 172,
+      "order": 169,
       "mode": 2,
       "inputs": [
         {
@@ -6038,7 +6038,7 @@
         118
       ],
       "flags": {},
-      "order": 173,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -6286,7 +6286,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 166,
+      "order": 163,
       "mode": 2,
       "inputs": [
         {
@@ -6673,122 +6673,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 354,
-      "type": "Reroute",
-      "pos": [
-        -2389.550537109375,
-        -388.0068054199219
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 57,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 643,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            644,
-            647
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 355,
-      "type": "Reroute",
-      "pos": [
-        -2107.165283203125,
-        -388.0068054199219
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 73,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 644,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            645,
-            654
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 356,
-      "type": "Reroute",
-      "pos": [
-        -1829.78173828125,
-        -388.0068054199219
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 86,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 645,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            659
-          ]
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 275,
       "type": "Evaluate Strings",
       "pos": [
@@ -6802,7 +6686,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -6871,7 +6755,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -6952,7 +6836,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -7207,7 +7091,7 @@
         234
       ],
       "flags": {},
-      "order": 135,
+      "order": 128,
       "mode": 4,
       "inputs": [
         {
@@ -7339,38 +7223,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 365,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2447.1220703125,
-        185.0657958984375
-      ],
-      "size": [
-        677.8153686523438,
-        348.7162170410156
-      ],
-      "flags": {},
-      "order": 113,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 662,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 149,
       "type": "Note",
       "pos": [
@@ -7400,8 +7252,8 @@
       "id": 358,
       "type": "Simple String",
       "pos": [
-        -2952.875244140625,
-        -397.908203125
+        -2962.71923828125,
+        -397.23516845703125
       ],
       "size": [
         512.3726196289062,
@@ -7418,8 +7270,8 @@
           "name": "STRING",
           "type": "STRING",
           "links": [
-            643,
-            670
+            670,
+            677
           ],
           "slot_index": 0
         }
@@ -7438,8 +7290,8 @@
       "id": 353,
       "type": "PrimitiveNode",
       "pos": [
-        -2952.875244140625,
-        -339.82257080078125
+        -2962.71923828125,
+        -339.1495361328125
       ],
       "size": [
         549.0548706054688,
@@ -7456,7 +7308,6 @@
           "name": "COMBO",
           "type": "COMBO",
           "links": [
-            648,
             655,
             660,
             671
@@ -7480,24 +7331,424 @@
       "bgcolor": "#335"
     },
     {
-      "id": 361,
-      "type": "Display Any (rgthree)",
+      "id": 137,
+      "type": "PrimitiveNode",
       "pos": [
-        -2955.83544921875,
-        -203.81613159179688
+        -1667.141357421875,
+        67.73341369628906
       ],
       "size": [
-        475.00787353515625,
-        348.49285888671875
+        433.0302734375,
+        126.60602569580078
       ],
       "flags": {},
-      "order": 87,
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "anime",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "default"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 364,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2174.0498046875,
+        -257.11614990234375
+      ],
+      "size": [
+        714.4639892578125,
+        1256.7813720703125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 88,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": 657,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 658,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 659,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 660,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 661,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            662
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "qwen2.5:7b",
+        "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文，不要输出英文\n2. 不要输出无关的内容",
+        999,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 362,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3031.311767578125,
+        -194.72164916992188
+      ],
+      "size": [
+        691.2911987304688,
+        348.790771484375
+      ],
+      "flags": {},
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
           "name": "source",
           "type": "*",
-          "link": 650,
+          "link": 651,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 355,
+      "type": "Reroute",
+      "pos": [
+        -2694.385009765625,
+        -387.333740234375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 57,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 677,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            654,
+            678
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 363,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2760.65478515625,
+        -254.45091247558594
+      ],
+      "size": [
+        622.7391967773438,
+        839.9239501953125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 73,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 676,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 654,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 655,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 656,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            651,
+            658,
+            665
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [
+            657
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "qwen2.5:7b",
+        "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
+        999,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 356,
+      "type": "Reroute",
+      "pos": [
+        -2316.26904296875,
+        -383.23895263671875
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 74,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 678,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            659
+          ]
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 365,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2320.179931640625,
+        -196.55169677734375
+      ],
+      "size": [
+        536.2947387695312,
+        350.95367431640625
+      ],
+      "flags": {},
+      "order": 103,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 662,
           "dir": 3
         }
       ],
@@ -7515,8 +7766,8 @@
       "id": 368,
       "type": "OllamaGenerateAdvance",
       "pos": [
-        -2926.557861328125,
-        259.7839660644531
+        -2964.027099609375,
+        258.053955078125
       ],
       "size": [
         873.451416015625,
@@ -7596,7 +7847,7 @@
         "http://127.0.0.1:11434",
         "qwen2.5:7b",
         "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。注意，请仅输出英文单词，不要输出其他例如\"response\"类似的内容。",
-        10000,
+        999,
         "randomize",
         40,
         0.9,
@@ -7623,8 +7874,8 @@
       "id": 369,
       "type": "Display Any (rgthree)",
       "pos": [
-        -2935.431640625,
-        330.64495849609375
+        -2999.140869140625,
+        325.1726989746094
       ],
       "size": [
         429.6598205566406,
@@ -7653,410 +7904,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 364,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2070.232177734375,
-        -257.7891540527344
-      ],
-      "size": [
-        714.4639892578125,
-        1256.7813720703125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 103,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": 657,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 658,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 659,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 660,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 661,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            662
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "qwen2.5:7b",
-        "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文，不要输出英文\n2. 不要输出无关的内容",
-        10000,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
-      "id": 362,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2452.75439453125,
-        -210.88926696777344
-      ],
-      "size": [
-        691.2911987304688,
-        348.790771484375
-      ],
-      "flags": {},
-      "order": 101,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 651,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 363,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2368.359375,
-        -255.55624389648438
-      ],
-      "size": [
-        622.7391967773438,
-        839.9239501953125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 88,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": 652,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 653,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 654,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 655,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 656,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            651,
-            658,
-            665
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [
-            657
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "qwen2.5:7b",
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是根据我提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n返回的规则：\n1. 请仅返回英文提示词，不需要输出其他词例如“response”，\n2. 不要输出中文\n3. 不需要标题、分段\n4. 不需要hash tag\n5. 不要用markdown格式输出，仅使用plain text。\n6. 如果涉及到著名的角色或人物，请写明角色名字，以及角色的出处",
-        10000,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
-      "id": 357,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2939.585205078125,
-        -251.8335723876953
-      ],
-      "size": [
-        873.451416015625,
-        1298.7374267578125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 74,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 646,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 647,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 648,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 649,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            650,
-            653
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [
-            652
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "qwen2.5:7b",
-        "你是一个艺术专家，擅长创作完美的艺术画面。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请根据我提供的主题，帮我想1个好的主题创意，按照主题、画面风格、描述的格式输出。返回内容的规则：\n1. 不需要输出其他词例如“response”\n3. 请输出主题、画面风格、描述\n3. 不需要hash tag\n4. 不要用markdown格式输出，仅使用plain text。\n5. 如果涉及到著名的角色或人物，请写明角色名字，以及角色的出处",
-        10000,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1702.9051513671875,
-        -288.0257263183594
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "rebecca, rebecca cyberpunk,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -8068,7 +7915,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8110,10 +7957,10 @@
       ],
       "size": [
         340.20001220703125,
-        334
+        358
       ],
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -8209,8 +8056,14 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
           "strength": 0.8,
           "strengthTwo": null
         },
@@ -8221,54 +8074,15 @@
       "bgcolor": "#353"
     },
     {
-      "id": 137,
-      "type": "PrimitiveNode",
+      "id": 273,
+      "type": "CR Text",
       "pos": [
-        -1667.141357421875,
-        67.73341369628906
+        -1702.9051513671875,
+        -288.0257263183594
       ],
       "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 39,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "anime",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
+        524.8606567382812,
+        302.068603515625
       ],
       "flags": {},
       "order": 40,
@@ -8276,20 +8090,70 @@
       "inputs": [],
       "outputs": [
         {
-          "name": "MODEL",
-          "type": "MODEL",
+          "name": "text",
+          "type": "*",
           "links": [
-            426
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "Sakura, An anime screenshot of Sakura,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -3468.03173828125,
+        -268.4692077636719
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            668,
+            676
           ],
           "slot_index": 0
         }
       ],
+      "title": "主题",
       "properties": {
-        "Node name for S&R": "UNETLoader"
+        "Node name for S&R": "String"
       },
       "widgets_values": [
-        "flux1-dev.safetensors",
-        "default"
+        "火影忍者中的小樱",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -8298,15 +8162,15 @@
       "id": 360,
       "type": "PrimitiveNode",
       "pos": [
-        -3458.187744140625,
-        -3.291239023208618
+        -3468.03173828125,
+        -2.618204116821289
       ],
       "size": [
         394.4327697753906,
         82
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8314,7 +8178,6 @@
           "name": "INT",
           "type": "INT",
           "links": [
-            649,
             656,
             661,
             669
@@ -8330,48 +8193,8 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        10000,
+        999,
         "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -3458.187744140625,
-        -269.1422424316406
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 42,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            646,
-            668
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "赛博朋克2077边缘行者中的rebecca哈哈大笑",
-        [
-          false,
-          true
-        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -10059,92 +9882,12 @@
       "FLOAT"
     ],
     [
-      643,
-      358,
-      0,
-      354,
-      0,
-      "*"
-    ],
-    [
-      644,
-      354,
-      0,
-      355,
-      0,
-      "*"
-    ],
-    [
-      645,
-      355,
-      0,
-      356,
-      0,
-      "*"
-    ],
-    [
-      646,
-      359,
-      0,
-      357,
-      1,
-      "STRING"
-    ],
-    [
-      647,
-      354,
-      0,
-      357,
-      2,
-      "STRING"
-    ],
-    [
-      648,
-      353,
-      0,
-      357,
-      3,
-      "COMBO"
-    ],
-    [
-      649,
-      360,
-      0,
-      357,
-      4,
-      "INT"
-    ],
-    [
-      650,
-      357,
-      0,
-      361,
-      0,
-      "*"
-    ],
-    [
       651,
       363,
       0,
       362,
       0,
       "*"
-    ],
-    [
-      652,
-      357,
-      1,
-      363,
-      0,
-      "STRING"
-    ],
-    [
-      653,
-      357,
-      0,
-      363,
-      1,
-      "STRING"
     ],
     [
       654,
@@ -10297,6 +10040,30 @@
       369,
       0,
       "*"
+    ],
+    [
+      676,
+      359,
+      0,
+      363,
+      1,
+      "STRING"
+    ],
+    [
+      677,
+      358,
+      0,
+      355,
+      0,
+      "*"
+    ],
+    [
+      678,
+      355,
+      0,
+      356,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -10408,8 +10175,8 @@
       "id": 20,
       "title": "Always ON - 主题",
       "bounding": [
-        -3468.187744140625,
-        -471.50830078125,
+        -3478.03173828125,
+        -470.83526611328125,
         1723.40478515625,
         1015.2900390625
       ],
@@ -10421,10 +10188,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5054470284993823,
+      "scale": 1.3109994191502472,
       "offset": [
-        4067.8503088182406,
-        1262.6935224456176
+        -1983.3726056995793,
+        402.0813140163484
       ]
     },
     "groupNodes": {},
