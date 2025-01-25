@@ -70,3 +70,5 @@ ComfyUI-VideoHelperSuite=https://gh-proxy.com/https://github.com/Kosinkadink/Com
 ComfyUI-HunyuanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyUI-HunyuanVideoWrapper.git
 # ComfyUI-HunyuanLoom
 ComfyUI-HunyuanLoom=https://gh-proxy.com/https://github.com/logtd/ComfyUI-HunyuanLoom.git
+# ComfyUI-Ollama-Describer
+ComfyUI-Ollama-Describer=https://gh-proxy.com/https://github.com/alisson-anjos/ComfyUI-Ollama-Describer.git

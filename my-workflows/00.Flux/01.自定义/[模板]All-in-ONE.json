@@ -14,8 +14,8 @@
         126
       ],
       "flags": {},
-      "order": 83,
-      "mode": 2,
+      "order": 78,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -194,7 +194,7 @@
       ],
       "flags": {},
       "order": 3,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -226,8 +226,8 @@
         234
       ],
       "flags": {},
-      "order": 104,
-      "mode": 4,
+      "order": 101,
+      "mode": 0,
       "inputs": [
         {
           "name": "conditioning",
@@ -299,7 +299,7 @@
         26
       ],
       "flags": {},
-      "order": 59,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -369,46 +369,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 154,
-      "type": "LoadImage",
-      "pos": [
-        1046.426025390625,
-        -187.3787384033203
-      ],
-      "size": [
-        315,
-        314
-      ],
-      "flags": {},
-      "order": 5,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            309
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "texture.webp",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 225,
       "type": "UnetLoaderGGUF",
       "pos": [
@@ -420,7 +380,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 6,
+      "order": 5,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -452,7 +412,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -499,7 +459,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 8,
+      "order": 7,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -577,7 +537,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "base",
+        "digital art",
         "No",
         "",
         [
@@ -588,49 +548,6 @@
           false,
           true
         ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 106,
-      "type": "LoadImage",
-      "pos": [
-        273.23748779296875,
-        -184.11141967773438
-      ],
-      "size": [
-        315,
-        314
-      ],
-      "flags": {},
-      "order": 9,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            306
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [
-            489
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "clipspace/clipspace-mask-2518566.png [input]",
-        "image"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -647,7 +564,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 10,
+      "order": 8,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -764,7 +681,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -819,7 +736,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 94,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -857,7 +774,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 105,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -893,7 +810,7 @@
         82
       ],
       "flags": {},
-      "order": 11,
+      "order": 9,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -926,7 +843,7 @@
         58
       ],
       "flags": {},
-      "order": 12,
+      "order": 10,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -962,7 +879,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 63,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -1018,7 +935,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 49,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -1058,7 +975,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 78,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -1097,8 +1014,8 @@
         154
       ],
       "flags": {},
-      "order": 102,
-      "mode": 0,
+      "order": 98,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -1156,8 +1073,8 @@
         76
       ],
       "flags": {},
-      "order": 109,
-      "mode": 0,
+      "order": 107,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -1178,7 +1095,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Autumn Wilderness Escape_982230510591254_low"
+        "Hyperdimensional Fracture Surrealism_368196051878462_low"
       ]
     },
     {
@@ -1194,7 +1111,7 @@
       ],
       "flags": {},
       "order": 137,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -1238,7 +1155,7 @@
         "collapsed": true
       },
       "order": 140,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1338,7 +1255,7 @@
         154
       ],
       "flags": {},
-      "order": 111,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -1397,7 +1314,7 @@
         76
       ],
       "flags": {},
-      "order": 117,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -1523,7 +1440,7 @@
         399.7327880859375
       ],
       "flags": {},
-      "order": 13,
+      "order": 11,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1663,7 +1580,7 @@
         58
       ],
       "flags": {},
-      "order": 14,
+      "order": 12,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1695,7 +1612,7 @@
         58
       ],
       "flags": {},
-      "order": 15,
+      "order": 13,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1802,7 +1719,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 74,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -1931,7 +1848,7 @@
         102
       ],
       "flags": {},
-      "order": 86,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -1976,7 +1893,7 @@
         130
       ],
       "flags": {},
-      "order": 85,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -2028,7 +1945,7 @@
         102
       ],
       "flags": {},
-      "order": 99,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -2074,7 +1991,7 @@
         26
       ],
       "flags": {},
-      "order": 87,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -2110,7 +2027,7 @@
         138
       ],
       "flags": {},
-      "order": 114,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -2184,7 +2101,7 @@
         58
       ],
       "flags": {},
-      "order": 108,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -2222,7 +2139,7 @@
         82
       ],
       "flags": {},
-      "order": 16,
+      "order": 14,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2293,7 +2210,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 17,
+      "order": 15,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2326,7 +2243,7 @@
         246
       ],
       "flags": {},
-      "order": 128,
+      "order": 131,
       "mode": 2,
       "inputs": [
         {
@@ -2353,7 +2270,7 @@
         154
       ],
       "flags": {},
-      "order": 115,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -2412,7 +2329,7 @@
         76
       ],
       "flags": {},
-      "order": 120,
+      "order": 119,
       "mode": 2,
       "inputs": [
         {
@@ -2451,7 +2368,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 133,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -2516,7 +2433,7 @@
         26
       ],
       "flags": {},
-      "order": 100,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -2554,7 +2471,7 @@
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -2592,7 +2509,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -2630,7 +2547,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -2668,7 +2585,7 @@
         106
       ],
       "flags": {},
-      "order": 18,
+      "order": 16,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2703,8 +2620,8 @@
         154
       ],
       "flags": {},
-      "order": 124,
-      "mode": 2,
+      "order": 123,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -2763,8 +2680,8 @@
         76
       ],
       "flags": {},
-      "order": 129,
-      "mode": 2,
+      "order": 127,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -2785,7 +2702,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Autumn Wilderness Escape_851282376484038_high"
+        "Hyperdimensional Fracture Surrealism_914707339908758_high"
       ]
     },
     {
@@ -2878,7 +2795,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2954,7 +2871,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -3033,7 +2950,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 47,
+      "order": 45,
       "mode": 0,
       "inputs": [
         {
@@ -3076,7 +2993,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 93,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -3114,7 +3031,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -3155,7 +3072,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 118,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -3191,7 +3108,7 @@
         67.7606430053711
       ],
       "flags": {},
-      "order": 19,
+      "order": 17,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -3228,7 +3145,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -3268,7 +3185,7 @@
         186
       ],
       "flags": {},
-      "order": 122,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -3342,7 +3259,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -3384,7 +3301,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3425,7 +3342,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 58,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -3466,7 +3383,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -3506,7 +3423,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -3587,8 +3504,8 @@
         26
       ],
       "flags": {},
-      "order": 121,
-      "mode": 2,
+      "order": 120,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -3632,7 +3549,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -3711,7 +3628,7 @@
         26
       ],
       "flags": {},
-      "order": 92,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -3794,7 +3711,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 110,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -3840,7 +3757,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 51,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -3886,7 +3803,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 91,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -3928,7 +3845,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 103,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -4039,7 +3956,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 107,
+      "order": 112,
       "mode": 2,
       "inputs": [
         {
@@ -4066,7 +3983,7 @@
         46
       ],
       "flags": {},
-      "order": 123,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -4108,7 +4025,7 @@
         262
       ],
       "flags": {},
-      "order": 119,
+      "order": 122,
       "mode": 2,
       "inputs": [
         {
@@ -4170,11 +4087,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        655007578498129,
+        749794638589330,
         "randomize",
         20,
         1,
-        "deis",
+        "ipndm",
         "ddim_uniform",
         1
       ]
@@ -4191,7 +4108,7 @@
         130
       ],
       "flags": {},
-      "order": 127,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -4260,7 +4177,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 83,
       "mode": 2,
       "inputs": [
         {
@@ -4354,7 +4271,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -4409,7 +4326,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 60,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -4450,7 +4367,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 46,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -4496,7 +4413,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -4539,7 +4456,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 61,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -4578,8 +4495,8 @@
         262
       ],
       "flags": {},
-      "order": 134,
-      "mode": 0,
+      "order": 132,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -4648,11 +4565,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        474475994281169,
+        1008428454489455,
         "randomize",
         40,
         1,
-        "deis",
+        "ipndm",
         "ddim_uniform",
         1
       ]
@@ -4669,7 +4586,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -4793,7 +4710,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 20,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4829,7 +4746,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -4868,7 +4785,7 @@
         26
       ],
       "flags": {},
-      "order": 66,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -4908,7 +4825,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 98,
+      "order": 103,
       "mode": 2,
       "inputs": [
         {
@@ -4937,7 +4854,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 116,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -4982,7 +4899,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -5027,7 +4944,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -5067,7 +4984,7 @@
         106
       ],
       "flags": {},
-      "order": 48,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -5113,8 +5030,8 @@
         106
       ],
       "flags": {},
-      "order": 90,
-      "mode": 0,
+      "order": 97,
+      "mode": 2,
       "inputs": [
         {
           "name": "height",
@@ -5154,76 +5071,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 291,
-      "type": "Int",
-      "pos": [
-        -349.21942138671875,
-        -108.9134750366211
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 21,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            519
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Width",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "1024"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 292,
-      "type": "Int",
-      "pos": [
-        -349.21942138671875,
-        -0.4338870942592621
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            544
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Height",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "768"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 286,
       "type": "Int",
       "pos": [
@@ -5235,7 +5082,7 @@
         58
       ],
       "flags": {},
-      "order": 23,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5271,7 +5118,7 @@
         234
       ],
       "flags": {},
-      "order": 112,
+      "order": 111,
       "mode": 4,
       "inputs": [
         {
@@ -5379,7 +5226,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 24,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5417,7 +5264,7 @@
         76
       ],
       "flags": {},
-      "order": 50,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -5454,7 +5301,7 @@
         142
       ],
       "flags": {},
-      "order": 25,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5491,7 +5338,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        97812231064084,
+        616050615458704,
         "randomize"
       ],
       "color": "#232",
@@ -5511,7 +5358,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 26,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5535,7 +5382,7 @@
         106
       ],
       "flags": {},
-      "order": 27,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5579,7 +5426,7 @@
       ],
       "flags": {},
       "order": 141,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -5592,51 +5439,6 @@
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1720.9471435546875,
-        274.6981506347656
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 247,
@@ -5712,11 +5514,11 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        93099645182805,
+        1050777778757591,
         "randomize",
         25,
         1,
-        "deis",
+        "ipndm",
         "ddim_uniform",
         1
       ]
@@ -5847,7 +5649,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 132,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -5894,8 +5696,8 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 84,
-      "mode": 2,
+      "order": 79,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -5920,12 +5722,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_fzklb_00005_.png&type=temp&subfolder=&rand=0.1455668389492697"
+            "url": "/api/view?filename=rgthree.compare._temp_hpbnh_00001_.png&type=temp&subfolder=&rand=0.18599585322375356"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_fzklb_00006_.png&type=temp&subfolder=&rand=0.7414671842563061"
+            "url": "/api/view?filename=rgthree.compare._temp_hpbnh_00002_.png&type=temp&subfolder=&rand=0.8986979906463788"
           }
         ]
       ],
@@ -5947,7 +5749,7 @@
         "collapsed": true
       },
       "order": 159,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -6014,7 +5816,7 @@
         "collapsed": true
       },
       "order": 158,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -6079,7 +5881,7 @@
       ],
       "flags": {},
       "order": 160,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -6104,12 +5906,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_nujep_00001_.png&type=temp&subfolder=&rand=0.03235609363528269"
+            "url": "/api/view?filename=rgthree.compare._temp_sablu_00001_.png&type=temp&subfolder=&rand=0.6562659339522314"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_nujep_00002_.png&type=temp&subfolder=&rand=0.3669839112731277"
+            "url": "/api/view?filename=rgthree.compare._temp_sablu_00002_.png&type=temp&subfolder=&rand=0.3605836964436282"
           }
         ]
       ],
@@ -6130,7 +5932,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6141,67 +5943,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2230.703125,
-        -181.7886962890625
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：秋日野外露营\n画面风格：自然、暖色调、秋天的落叶\n描述：一片金黄的秋日森林中，帐篷、篝火和露营设施散布在大自然中，远处是层层叠叠的秋叶山脉。帐篷旁的篝火正熊熊燃烧，1个20岁的美女坐在火堆旁，享受着露营的时光。画面中的温暖火光与周围的秋色相得益彰，营造出一份宁静而温馨的氛围。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 199,
-      "type": "Simple String",
-      "pos": [
-        -1723.3544921875,
-        -388.2676086425781
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            549
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Autumn Wilderness Escape"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 93,
@@ -6215,7 +5956,7 @@
         82
       ],
       "flags": {},
-      "order": 32,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6239,246 +5980,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        310
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.4,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1730.9052734375,
-        -283.7508239746094
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 主题",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "xijie_mihuan, A peaceful autumn camping scene in a forest filled with golden leaves and vibrant orange and red hues. A cozy camping setup with a large, open canvas tent beside a roaring campfire. The young woman, around 20 years old, with flowing dark hair, dressed in a chunky knit sweater and high-waisted denim shorts, sits on a log near the fire, her posture relaxed. She looks down at a steaming mug in her hands, her face illuminated by the warm firelight, her smile soft and content. The surrounding nature is bathed in the warm glow of the fire, with colorful fall leaves scattered across the forest floor. Majestic mountains loom in the distance, their peaks dusted with a light layer of mist. The air feels crisp and refreshing, with a gentle breeze rustling the leaves. A lantern hangs from a nearby tree branch, casting a soft light around the camp.",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1695.141357421875,
-        72.00843048095703
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "base",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 99,
-      "type": "PrimitiveNode",
-      "pos": [
-        -317.7812805175781,
-        207.60023498535156
-      ],
-      "size": [
-        265.6356201171875,
-        106
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            244,
-            422,
-            475,
-            575
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "title": "Sampler",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "deis",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 348,
       "type": "Image Comparer (rgthree)",
       "pos": [
@@ -6491,7 +5992,7 @@
       ],
       "flags": {},
       "order": 161,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -6516,12 +6017,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_pczvm_00001_.png&type=temp&subfolder=&rand=0.8926648594469311"
+            "url": "/api/view?filename=rgthree.compare._temp_ydoqr_00001_.png&type=temp&subfolder=&rand=0.6970333649248306"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_pczvm_00002_.png&type=temp&subfolder=&rand=0.47343726574543843"
+            "url": "/api/view?filename=rgthree.compare._temp_ydoqr_00002_.png&type=temp&subfolder=&rand=0.7015254793685624"
           }
         ]
       ],
@@ -6540,8 +6041,8 @@
         142
       ],
       "flags": {},
-      "order": 97,
-      "mode": 2,
+      "order": 89,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -6648,32 +6149,6 @@
       }
     },
     {
-      "id": 344,
-      "type": "Note",
-      "pos": [
-        -2753.248291015625,
-        -455.38916015625
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我准备用AI创建几张照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 73,
       "type": "VAEEncode",
       "pos": [
@@ -6685,8 +6160,8 @@
         46
       ],
       "flags": {},
-      "order": 113,
-      "mode": 2,
+      "order": 110,
+      "mode": 0,
       "inputs": [
         {
           "name": "pixels",
@@ -6727,7 +6202,7 @@
       ],
       "flags": {},
       "order": 152,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -6809,7 +6284,7 @@
         "fixed",
         20,
         0.8,
-        "deis",
+        "ipndm",
         "ddim_uniform",
         40,
         10000,
@@ -6829,7 +6304,7 @@
       ],
       "flags": {},
       "order": 155,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -6875,7 +6350,7 @@
       ],
       "flags": {},
       "order": 156,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -6911,7 +6386,7 @@
       ],
       "flags": {},
       "order": 157,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "tiles",
@@ -6966,8 +6441,8 @@
         26
       ],
       "flags": {},
-      "order": 106,
-      "mode": 2,
+      "order": 100,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -7003,8 +6478,8 @@
         76
       ],
       "flags": {},
-      "order": 96,
-      "mode": 2,
+      "order": 88,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -7025,7 +6500,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "824"
+        "912"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -7042,8 +6517,8 @@
         76
       ],
       "flags": {},
-      "order": 95,
-      "mode": 2,
+      "order": 87,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -7064,7 +6539,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "1104"
+        "1376"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -7081,8 +6556,8 @@
         26
       ],
       "flags": {},
-      "order": 54,
-      "mode": 2,
+      "order": 51,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -7119,8 +6594,8 @@
         26
       ],
       "flags": {},
-      "order": 70,
-      "mode": 2,
+      "order": 65,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -7159,7 +6634,7 @@
         "collapsed": true
       },
       "order": 150,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "conditioning",
@@ -7180,6 +6655,7 @@
       "properties": {
         "Node name for S&R": "ConditioningZeroOut"
       },
+      "widgets_values": [],
       "color": "#223",
       "bgcolor": "#335"
     },
@@ -7195,8 +6671,8 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 37,
-      "mode": 2,
+      "order": 26,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7221,7 +6697,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Autumn Wilderness Escape_982230510591254_low_0001.png",
+        "Hyperdimensional Fracture Surrealism_693310840508400_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -7239,8 +6715,8 @@
         58
       ],
       "flags": {},
-      "order": 38,
-      "mode": 2,
+      "order": 27,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7277,8 +6753,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 55,
-      "mode": 2,
+      "order": 52,
+      "mode": 0,
       "inputs": [
         {
           "name": "_float",
@@ -7327,8 +6803,8 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 71,
-      "mode": 2,
+      "order": 66,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -7366,8 +6842,8 @@
         222
       ],
       "flags": {},
-      "order": 69,
-      "mode": 2,
+      "order": 64,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -7425,8 +6901,8 @@
         58
       ],
       "flags": {},
-      "order": 39,
-      "mode": 4,
+      "order": 28,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7445,6 +6921,531 @@
       "widgets_values": [
         "flux1-redux-dev.safetensors"
       ]
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1720.9471435546875,
+        274.6981506347656
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 29,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 344,
+      "type": "Note",
+      "pos": [
+        -2753.248291015625,
+        -455.38916015625
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 30,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我准备用AI创建几张\"一拳超人地狱吹雪\"的照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 224,
+      "type": "Note",
+      "pos": [
+        -2230.703125,
+        -181.7886962890625
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 31,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：虚数空间·维度崩解\n画面风格：超现实主义×几何解构\n描述：一拳超人中的地狱吹雪，吹雪身处不断坍缩的克莱因蓝空间，身体部分区域呈现数据流态的透明化，左半脸维持真人质感，右半脸则化为多边形碎片。无数悬浮的镜面碎片反射出不同年龄段的吹雪形象，地面液体倒影中藏着埼玉的模糊身影。强调矛盾空间构造与次元撕裂感。"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 199,
+      "type": "Simple String",
+      "pos": [
+        -1723.3544921875,
+        -388.2676086425781
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {},
+      "order": 32,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            549
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Hyperdimensional Fracture Surrealism"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 106,
+      "type": "LoadImage",
+      "pos": [
+        273.23748779296875,
+        -184.11141967773438
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 33,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            306
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [
+            489
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "f603918fa0ec08fadccbbc8750ee3d6d54fbdac3.webp",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 99,
+      "type": "PrimitiveNode",
+      "pos": [
+        -317.7812805175781,
+        207.60023498535156
+      ],
+      "size": [
+        265.6356201171875,
+        106
+      ],
+      "flags": {},
+      "order": 34,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            244,
+            422,
+            475,
+            575
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "title": "Sampler",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "ipndm",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        310
+      ],
+      "flags": {},
+      "order": 50,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1730.9052734375,
+        -283.7508239746094
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 35,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 主题",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada, Eimi Fukakda wearing black glasses, Klein blue collapsing hyperspace, geometric deconstruction, surreal multidimensional vortex, Bofuri from One Punch Man in mid-air suspension, translucent data-stream body textures, biorealistic left facial features, polygonal fragmented right face glowing with neon circuits, holographic mirror shards floating with reflections of child/teen/adult Bofuri, liquid mercury ground with distorted Saitama silhouette, Escher-like impossible architecture, intersecting fractal dimensions, cybernetic floral patterns, glowing azure energy tendrils, chromatic aberration effects, hyperdetailed fabric simulation on black leather bodysuit, dynamic wind-blown emerald hair, defensive combat stance with crystalline energy shield, biomechanical arm exoskeleton, quantum particle disintegration trails, paradoxical light/shadow interplay, volumetric fog with floating equations, interlocking tetrahedron structures, asymmetric composition with tension balance",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 291,
+      "type": "Int",
+      "pos": [
+        -349.21942138671875,
+        -108.9134750366211
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            519
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Width",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "1280"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 292,
+      "type": "Int",
+      "pos": [
+        -349.21942138671875,
+        -0.4338870942592621
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            544
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Height",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "854"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 154,
+      "type": "LoadImage",
+      "pos": [
+        1046.426025390625,
+        -187.3787384033203
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            309
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "texture.webp",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1695.141357421875,
+        72.00843048095703
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "digital art",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -9254,30 +9255,32 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6934334949441462,
+      "scale": 0.9849732675808776,
       "offset": [
-        861.7115455375367,
-        1222.2139670761708
+        -3402.801826375034,
+        -3863.6869987507193
       ]
     },
     "groupNodes": {},
     "ue_links": [],
     "node_versions": {
-      "Comfyui_TTP_Toolset": "6cd176d87da9141c7621728499c9b5a820c35465",
-      "comfy-core": "v0.3.10-320-ge8174059",
+      "Comfyui_TTP_Toolset": "6dd3f3566ce0925b71e9cdb54243119685ccbc10",
+      "comfy-core": "0.3.12",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
       "ComfyUI-GGUF": "5875c52f59baca3a9372d68c43a3775e21846fe0",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
-      "ComfyUI-KJNodes": "31cb7c1d14f86881ad34654a250d5e7682430fee",
+      "ComfyUI-KJNodes": "c9c8dcd5e7ed2f7669f130a5ced1e3005264a2de",
       "was-node-suite-comfyui": "056badacda52e88d29d6a65f9509cd3115ace0f2",
-      "ComfyUI-Easy-Use": "be8306b17ad96aa7326bcc8012cc7c3489a94ab5",
+      "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
-      "ComfyUI_LayerStyle": "f8439eb17f03e0fa60a35303493bfc9a7d5ab098",
+      "ComfyUI_LayerStyle": "84d357ad826731a931c305bf11a1101b8ac2976c",
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079"
-    }
+    },
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0
   },
   "version": 0.4
 }
