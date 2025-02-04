@@ -728,7 +728,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 91,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 105,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -944,7 +944,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Sakura_779270582333523_low"
+        "Sakura_1106339817352580_low"
       ]
     },
     {
@@ -2644,7 +2644,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 89,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -3477,7 +3477,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -3936,7 +3936,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        526445469643213,
+        685212790520468,
         "randomize",
         20,
         1,
@@ -4414,7 +4414,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        519861461807459,
+        433663197896596,
         "randomize",
         40,
         1,
@@ -4559,7 +4559,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 90,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -4598,7 +4598,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -5078,7 +5078,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        1106339817352580,
+        170983033779952,
         "randomize"
       ],
       "color": "#232",
@@ -5228,7 +5228,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        371410900771166,
+        636268377967768,
         "randomize",
         25,
         1,
@@ -6554,7 +6554,7 @@
         58
       ],
       "flags": {},
-      "order": 76,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -6686,7 +6686,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -7223,32 +7223,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2943.238037109375,
-        -827.6770629882812
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 358,
       "type": "Simple String",
       "pos": [
@@ -7262,7 +7236,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7300,7 +7274,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7342,7 +7316,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7365,41 +7339,6 @@
         "anime",
         "fixed",
         ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "default"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7776,7 +7715,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -7882,7 +7821,7 @@
         76
       ],
       "flags": {},
-      "order": 77,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -7915,7 +7854,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7960,7 +7899,7 @@
         358
       ],
       "flags": {},
-      "order": 58,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -8085,7 +8024,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 40,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8130,7 +8069,7 @@
         200
       ],
       "flags": {},
-      "order": 41,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8159,6 +8098,32 @@
       "bgcolor": "#353"
     },
     {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2943.238037109375,
+        -827.6770629882812
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning\n\n\n1208592001"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
       "id": 360,
       "type": "PrimitiveNode",
       "pos": [
@@ -8170,7 +8135,7 @@
         82
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8195,6 +8160,41 @@
       "widgets_values": [
         999,
         "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-schnell.safetensors",
+        "fp8_e4m3fn"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -10188,10 +10188,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.3109994191502472,
+      "scale": 1.0834705943390646,
       "offset": [
-        -1983.3726056995793,
-        402.0813140163484
+        3997.480924978567,
+        890.041390108832
       ]
     },
     "groupNodes": {},
