@@ -1,6 +1,6 @@
 {
-  "last_node_id": 372,
-  "last_link_id": 688,
+  "last_node_id": 373,
+  "last_link_id": 689,
   "nodes": [
     {
       "id": 66,
@@ -226,7 +226,7 @@
         234
       ],
       "flags": {},
-      "order": 126,
+      "order": 127,
       "mode": 4,
       "inputs": [
         {
@@ -530,7 +530,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 117,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -585,7 +585,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 122,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -623,7 +623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 127,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -728,7 +728,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 102,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 112,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -863,7 +863,7 @@
         46
       ],
       "flags": {},
-      "order": 153,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -907,7 +907,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 156,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -1008,7 +1008,7 @@
         154
       ],
       "flags": {},
-      "order": 130,
+      "order": 131,
       "mode": 2,
       "inputs": [
         {
@@ -1067,7 +1067,7 @@
         76
       ],
       "flags": {},
-      "order": 135,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -1104,7 +1104,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 169,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -1151,7 +1151,7 @@
         46
       ],
       "flags": {},
-      "order": 167,
+      "order": 168,
       "mode": 2,
       "inputs": [
         {
@@ -1698,7 +1698,7 @@
         102
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -1780,7 +1780,7 @@
         138
       ],
       "flags": {},
-      "order": 120,
+      "order": 121,
       "mode": 2,
       "inputs": [
         {
@@ -1854,7 +1854,7 @@
         58
       ],
       "flags": {},
-      "order": 115,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -1996,7 +1996,7 @@
         246
       ],
       "flags": {},
-      "order": 137,
+      "order": 138,
       "mode": 2,
       "inputs": [
         {
@@ -2023,7 +2023,7 @@
         154
       ],
       "flags": {},
-      "order": 133,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -2082,7 +2082,7 @@
         76
       ],
       "flags": {},
-      "order": 139,
+      "order": 140,
       "mode": 2,
       "inputs": [
         {
@@ -2121,7 +2121,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 142,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
         26
       ],
       "flags": {},
-      "order": 107,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -2224,7 +2224,7 @@
         26
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -2373,7 +2373,7 @@
         154
       ],
       "flags": {},
-      "order": 144,
+      "order": 145,
       "mode": 2,
       "inputs": [
         {
@@ -2433,7 +2433,7 @@
         76
       ],
       "flags": {},
-      "order": 147,
+      "order": 148,
       "mode": 2,
       "inputs": [
         {
@@ -2472,7 +2472,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -2548,7 +2548,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -2624,7 +2624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 59,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2746,7 +2746,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -2825,7 +2825,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 138,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -2898,7 +2898,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
         186
       ],
       "flags": {},
-      "order": 143,
+      "order": 144,
       "mode": 4,
       "inputs": [
         {
@@ -3012,7 +3012,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 145,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -3136,7 +3136,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -3176,7 +3176,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -3216,7 +3216,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -3257,7 +3257,7 @@
         26
       ],
       "flags": {},
-      "order": 140,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -3341,7 +3341,7 @@
         26
       ],
       "flags": {},
-      "order": 163,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -3464,7 +3464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -3556,7 +3556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 119,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -3644,7 +3644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -3709,7 +3709,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 114,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -3736,7 +3736,7 @@
         46
       ],
       "flags": {},
-      "order": 131,
+      "order": 132,
       "mode": 2,
       "inputs": [
         {
@@ -3778,7 +3778,7 @@
         262
       ],
       "flags": {},
-      "order": 125,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -3840,7 +3840,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        426600518883742,
+        792289949940074,
         "randomize",
         20,
         1,
@@ -3861,7 +3861,7 @@
         130
       ],
       "flags": {},
-      "order": 136,
+      "order": 137,
       "mode": 2,
       "inputs": [
         {
@@ -4024,7 +4024,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 116,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -4166,7 +4166,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -4209,7 +4209,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -4248,7 +4248,7 @@
         262
       ],
       "flags": {},
-      "order": 150,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -4318,7 +4318,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        965385693002430,
+        377226318500495,
         "randomize",
         40,
         1,
@@ -4379,7 +4379,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -4421,7 +4421,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -4463,7 +4463,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 88,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -4502,7 +4502,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -4542,7 +4542,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -4571,7 +4571,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 134,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -4616,7 +4616,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 89,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4661,7 +4661,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 149,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -4755,7 +4755,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 109,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -4900,7 +4900,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        275282643600242,
+        834755799116673,
         "randomize"
       ],
       "color": "#232",
@@ -4961,7 +4961,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 157,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -4988,7 +4988,7 @@
         262
       ],
       "flags": {},
-      "order": 165,
+      "order": 166,
       "mode": 2,
       "inputs": [
         {
@@ -5050,7 +5050,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        447448955051770,
+        490468559055197,
         "randomize",
         25,
         1,
@@ -5071,7 +5071,7 @@
         138
       ],
       "flags": {},
-      "order": 162,
+      "order": 163,
       "mode": 2,
       "inputs": [
         {
@@ -5147,7 +5147,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 159,
+      "order": 160,
       "mode": 2,
       "inputs": [
         {
@@ -5185,7 +5185,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 141,
+      "order": 142,
       "mode": 2,
       "inputs": [
         {
@@ -5284,7 +5284,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -5351,7 +5351,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 174,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -5416,7 +5416,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 176,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -5466,7 +5466,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 177,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -5595,7 +5595,7 @@
         26
       ],
       "flags": {},
-      "order": 164,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -5635,7 +5635,7 @@
         46
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -5676,7 +5676,7 @@
         334
       ],
       "flags": {},
-      "order": 168,
+      "order": 169,
       "mode": 2,
       "inputs": [
         {
@@ -5778,7 +5778,7 @@
         150
       ],
       "flags": {},
-      "order": 171,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -5824,7 +5824,7 @@
         26
       ],
       "flags": {},
-      "order": 172,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -5860,7 +5860,7 @@
         118
       ],
       "flags": {},
-      "order": 173,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -5916,7 +5916,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -6108,7 +6108,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 166,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -6376,7 +6376,7 @@
         58
       ],
       "flags": {},
-      "order": 86,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -6508,7 +6508,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 56,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -6577,7 +6577,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -6843,7 +6843,7 @@
         234
       ],
       "flags": {},
-      "order": 132,
+      "order": 133,
       "mode": 4,
       "inputs": [
         {
@@ -7141,32 +7141,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2943.238037109375,
-        -827.6770629882812
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning\n\n\n1208592001"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 358,
       "type": "Simple String",
       "pos": [
@@ -7180,7 +7154,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7218,7 +7192,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -7288,7 +7262,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -7344,103 +7318,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 369,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2934.555419921875,
-        329.03668212890625
-      ],
-      "size": [
-        429.6598205566406,
-        76
-      ],
-      "flags": {},
-      "order": 85,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 680,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "文件名",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 362,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3019.806640625,
-        -190.81887817382812
-      ],
-      "size": [
-        691.2911987304688,
-        348.790771484375
-      ],
-      "flags": {},
-      "order": 100,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 686,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 365,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2311.170654296875,
-        -190.81887817382812
-      ],
-      "size": [
-        536.2947387695312,
-        350.95367431640625
-      ],
-      "flags": {},
-      "order": 118,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 682,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 364,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -7454,7 +7331,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -7523,7 +7400,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:7b-qwen-distill-q4_K_M",
         "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文\n2. 不要输出英文\n3. 不要输出无关的内容",
-        1442060599,
+        1442060699,
         "randomize",
         40,
         0.9,
@@ -7547,122 +7424,6 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 372,
-      "type": "CR Split String",
-      "pos": [
-        -2572.834716796875,
-        -257.2592468261719
-      ],
-      "size": [
-        601.3021850585938,
-        408.3687438964844
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 84,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 683,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            685,
-            686,
-            687
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "</think>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1702.9051513671875,
-        -288.0257263183594
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada, Eimi Fukada, wearing black glasses,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -7674,7 +7435,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7702,171 +7463,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -3468.03173828125,
-        -268.4692077636719
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 39,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            668,
-            676
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "日本女演员Eimi Fukada在咖啡厅",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        358
-      ],
-      "flags": {},
-      "order": 58,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 207,
       "type": "Evaluate Strings",
       "pos": [
@@ -7878,7 +7474,7 @@
         154
       ],
       "flags": {},
-      "order": 123,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -7937,7 +7533,7 @@
         76
       ],
       "flags": {},
-      "order": 128,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -7959,7 +7555,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Actor_Japan_in_Cafe_1047364739453862_low"
+        "Cocky Star_Sensual Outfit_Afternoon Tea_246509767626955_low"
       ]
     },
     {
@@ -8048,7 +7644,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:7b-qwen-distill-q4_K_M",
         "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
-        1442060599,
+        1442060699,
         "randomize",
         40,
         0.9,
@@ -8072,82 +7668,6 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3468.03173828125,
-        -2.618204116821289
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        1442060599,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 286,
       "type": "Int",
       "pos": [
@@ -8159,7 +7679,7 @@
         58
       ],
       "flags": {},
-      "order": 42,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8195,7 +7715,7 @@
         106
       ],
       "flags": {},
-      "order": 60,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -8243,7 +7763,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -8313,7 +7833,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -8383,7 +7903,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:7b-qwen-distill-q4_K_M",
         "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。\n返回的规则：\n1. 请仅输出英文单词\n2. 最多输出3个英文单词\n3. 英文单词间用下划线作为分隔符\n4. 不要输出中文，以及其他语言",
-        1442060599,
+        1442060699,
         "randomize",
         40,
         0.9,
@@ -8405,6 +7925,523 @@
       ],
       "color": "#332922",
       "bgcolor": "#593930"
+    },
+    {
+      "id": 372,
+      "type": "CR Split String",
+      "pos": [
+        -2572.834716796875,
+        -257.2592468261719
+      ],
+      "size": [
+        601.3021850585938,
+        408.3687438964844
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 84,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 683,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            689
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            685,
+            686,
+            687
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "</think>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 369,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3117.113037109375,
+        366.1584777832031
+      ],
+      "size": [
+        429.6598205566406,
+        76
+      ],
+      "flags": {},
+      "order": 88,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 680,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 373,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2642.520751953125,
+        204.7305145263672
+      ],
+      "size": [
+        858.1085205078125,
+        320.5014343261719
+      ],
+      "flags": {},
+      "order": 99,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 689,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 362,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3019.806640625,
+        -190.81887817382812
+      ],
+      "size": [
+        599.4024047851562,
+        347.8898620605469
+      ],
+      "flags": {},
+      "order": 101,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 686,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "提示词(英文)",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3468.03173828125,
+        -2.618204116821289
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        1442060699,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 365,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2400.489501953125,
+        -191.80810546875
+      ],
+      "size": [
+        603.0744018554688,
+        348.3393859863281
+      ],
+      "flags": {},
+      "order": 119,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 682,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": " 提示词(中文)",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2943.238037109375,
+        -827.6770629882812
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning\n\n\n1208592001"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1DevEdgeOfReality_v26.safetensors",
+        "fp8_e4m3fn"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1702.9051513671875,
+        -288.0257263183594
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada, Eimi Fukada, wearing black glasses,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        358
+      ],
+      "flags": {},
+      "order": 58,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -3468.03173828125,
+        -268.4692077636719
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            668,
+            676
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "日本女优Eimi Fukada穿着性感服饰在喝咖啡厅享用下午茶",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -10295,6 +10332,14 @@
       199,
       0,
       "STRING"
+    ],
+    [
+      689,
+      372,
+      0,
+      373,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -10419,10 +10464,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.744940226888663,
+      "scale": 1.9194342495775454,
       "offset": [
-        3619.522308767897,
-        -182.3563885623848
+        -3373.4935766571148,
+        348.9031803353926
       ]
     },
     "groupNodes": {},
