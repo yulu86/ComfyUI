@@ -3840,7 +3840,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        792289949940074,
+        1053615321059516,
         "randomize",
         20,
         1,
@@ -4318,7 +4318,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        377226318500495,
+        358481840519056,
         "randomize",
         40,
         1,
@@ -4900,7 +4900,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        834755799116673,
+        1122750253684588,
         "randomize"
       ],
       "color": "#232",
@@ -5050,7 +5050,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        490468559055197,
+        989067524263559,
         "randomize",
         25,
         1,
@@ -7249,181 +7249,6 @@
       "shape": 1
     },
     {
-      "id": 371,
-      "type": "CR Split String",
-      "pos": [
-        -1948.6483154296875,
-        -256.5823669433594
-      ],
-      "size": [
-        601.3021850585938,
-        408.3687438964844
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 112,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 681,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            682
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "</think>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 364,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2223.131103515625,
-        -256.5823669433594
-      ],
-      "size": [
-        714.4639892578125,
-        1256.7813720703125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 102,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": 657,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 687,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 659,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 660,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 661,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            681
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
-        "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文\n2. 不要输出英文\n3. 不要输出无关的内容",
-        1442060699,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -7555,117 +7380,8 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Cocky Star_Sensual Outfit_Afternoon Tea_246509767626955_low"
+        "Influencer_Fashion_Christmas_2025_820791337583612_low"
       ]
-    },
-    {
-      "id": 363,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2836.616455078125,
-        -256.5823669433594
-      ],
-      "size": [
-        622.7391967773438,
-        839.9239501953125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 71,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 676,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 654,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 655,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 656,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            683
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [
-            657
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
-        "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
-        1442060699,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
     },
     {
       "id": 286,
@@ -7903,7 +7619,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:7b-qwen-distill-q4_K_M",
         "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。\n返回的规则：\n1. 请仅输出英文单词\n2. 最多输出3个英文单词\n3. 英文单词间用下划线作为分隔符\n4. 不要输出中文，以及其他语言",
-        1442060699,
+        1242161501,
         "randomize",
         40,
         0.9,
@@ -8033,39 +7749,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 373,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2642.520751953125,
-        204.7305145263672
-      ],
-      "size": [
-        858.1085205078125,
-        320.5014343261719
-      ],
-      "flags": {},
-      "order": 99,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 689,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 362,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8097,47 +7780,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3468.03173828125,
-        -2.618204116821289
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        1442060699,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 365,
@@ -8186,7 +7828,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8210,7 +7852,7 @@
         82
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8229,51 +7871,6 @@
       "widgets_values": [
         "flux1DevEdgeOfReality_v26.safetensors",
         "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1702.9051513671875,
-        -288.0257263183594
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada, Eimi Fukada, wearing black glasses,",
-        [
-          false,
-          true
-        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -8356,7 +7953,7 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
           "strength": 0.9,
           "strengthTwo": null
@@ -8404,6 +8001,51 @@
       "bgcolor": "#353"
     },
     {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1702.9051513671875,
+        -288.0257263183594
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada, Eimi Fukada, wearing black glasses,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 359,
       "type": "String",
       "pos": [
@@ -8415,7 +8057,7 @@
         200
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8434,11 +8076,367 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "日本女优Eimi Fukada穿着性感服饰在喝咖啡厅享用下午茶",
+        "网红美女穿着时尚性感在奢华的餐厅里庆祝2025新年，房间里充满了包装精美的小礼物和2025字样的彩色充气球",
         [
           false,
           true
         ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 371,
+      "type": "CR Split String",
+      "pos": [
+        -1948.6483154296875,
+        -256.5823669433594
+      ],
+      "size": [
+        601.3021850585938,
+        408.3687438964844
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 112,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 681,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            682
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "</think>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 364,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2223.131103515625,
+        -256.5823669433594
+      ],
+      "size": [
+        714.4639892578125,
+        1256.7813720703125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 102,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 687,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 659,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 660,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 661,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            681
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文\n2. 不要输出英文\n3. 不要输出无关的内容",
+        1242161501,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 363,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2836.616455078125,
+        -256.5823669433594
+      ],
+      "size": [
+        622.7391967773438,
+        839.9239501953125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 71,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 676,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 654,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 655,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 656,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            683
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
+        1242161501,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 373,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2642.520751953125,
+        204.7305145263672
+      ],
+      "size": [
+        858.1085205078125,
+        320.5014343261719
+      ],
+      "flags": {},
+      "order": 99,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 689,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3468.03173828125,
+        -2.618204116821289
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        1242161501,
+        "fixed"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -10150,14 +10148,6 @@
       "INT"
     ],
     [
-      657,
-      363,
-      1,
-      364,
-      0,
-      "STRING"
-    ],
-    [
       659,
       356,
       0,
@@ -10464,10 +10454,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.9194342495775454,
+      "scale": 0.9849732675807966,
       "offset": [
-        -3373.4935766571148,
-        348.9031803353926
+        -408.32090443387904,
+        527.2217040599214
       ]
     },
     "groupNodes": {},
