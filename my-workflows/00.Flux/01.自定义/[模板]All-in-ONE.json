@@ -1,6 +1,6 @@
 {
-  "last_node_id": 383,
-  "last_link_id": 706,
+  "last_node_id": 384,
+  "last_link_id": 707,
   "nodes": [
     {
       "id": 66,
@@ -226,7 +226,7 @@
         234
       ],
       "flags": {},
-      "order": 136,
+      "order": 137,
       "mode": 4,
       "inputs": [
         {
@@ -530,7 +530,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 127,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -585,7 +585,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -623,7 +623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 137,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -863,7 +863,7 @@
         46
       ],
       "flags": {},
-      "order": 160,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -907,7 +907,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 163,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -1008,7 +1008,7 @@
         154
       ],
       "flags": {},
-      "order": 140,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -1067,7 +1067,7 @@
         76
       ],
       "flags": {},
-      "order": 145,
+      "order": 146,
       "mode": 2,
       "inputs": [
         {
@@ -1104,7 +1104,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 176,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -1151,7 +1151,7 @@
         46
       ],
       "flags": {},
-      "order": 174,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -1996,7 +1996,7 @@
         246
       ],
       "flags": {},
-      "order": 135,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -2023,7 +2023,7 @@
         154
       ],
       "flags": {},
-      "order": 143,
+      "order": 144,
       "mode": 2,
       "inputs": [
         {
@@ -2082,7 +2082,7 @@
         76
       ],
       "flags": {},
-      "order": 147,
+      "order": 148,
       "mode": 2,
       "inputs": [
         {
@@ -2121,7 +2121,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 148,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -2373,7 +2373,7 @@
         154
       ],
       "flags": {},
-      "order": 151,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -2433,7 +2433,7 @@
         76
       ],
       "flags": {},
-      "order": 154,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -2472,7 +2472,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 168,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 167,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -2746,7 +2746,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -2825,7 +2825,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -2898,7 +2898,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
         186
       ],
       "flags": {},
-      "order": 150,
+      "order": 151,
       "mode": 4,
       "inputs": [
         {
@@ -3012,7 +3012,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -3136,7 +3136,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 153,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -3176,7 +3176,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -3216,7 +3216,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -3257,7 +3257,7 @@
         26
       ],
       "flags": {},
-      "order": 149,
+      "order": 150,
       "mode": 2,
       "inputs": [
         {
@@ -3341,7 +3341,7 @@
         26
       ],
       "flags": {},
-      "order": 170,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -3464,7 +3464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -3556,7 +3556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 128,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -3644,7 +3644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 177,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -3736,7 +3736,7 @@
         46
       ],
       "flags": {},
-      "order": 129,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -3778,7 +3778,7 @@
         262
       ],
       "flags": {},
-      "order": 124,
+      "order": 125,
       "mode": 2,
       "inputs": [
         {
@@ -3861,7 +3861,7 @@
         130
       ],
       "flags": {},
-      "order": 134,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -4024,7 +4024,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 126,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -4166,7 +4166,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -4248,7 +4248,7 @@
         262
       ],
       "flags": {},
-      "order": 157,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -4379,7 +4379,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 165,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -4421,7 +4421,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -4571,7 +4571,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -4661,7 +4661,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -4961,7 +4961,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 164,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -4988,7 +4988,7 @@
         262
       ],
       "flags": {},
-      "order": 172,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -5071,7 +5071,7 @@
         138
       ],
       "flags": {},
-      "order": 169,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -5147,7 +5147,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 166,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -5185,7 +5185,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 141,
+      "order": 142,
       "mode": 2,
       "inputs": [
         {
@@ -5284,7 +5284,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 182,
+      "order": 183,
       "mode": 2,
       "inputs": [
         {
@@ -5351,7 +5351,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 181,
+      "order": 182,
       "mode": 2,
       "inputs": [
         {
@@ -5416,7 +5416,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 183,
+      "order": 184,
       "mode": 2,
       "inputs": [
         {
@@ -5466,7 +5466,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 184,
+      "order": 185,
       "mode": 2,
       "inputs": [
         {
@@ -5595,7 +5595,7 @@
         26
       ],
       "flags": {},
-      "order": 171,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -5676,7 +5676,7 @@
         334
       ],
       "flags": {},
-      "order": 175,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -5778,7 +5778,7 @@
         150
       ],
       "flags": {},
-      "order": 178,
+      "order": 179,
       "mode": 2,
       "inputs": [
         {
@@ -5824,7 +5824,7 @@
         26
       ],
       "flags": {},
-      "order": 179,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -5860,7 +5860,7 @@
         118
       ],
       "flags": {},
-      "order": 180,
+      "order": 181,
       "mode": 2,
       "inputs": [
         {
@@ -6108,7 +6108,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 173,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -6738,7 +6738,7 @@
         234
       ],
       "flags": {},
-      "order": 142,
+      "order": 143,
       "mode": 4,
       "inputs": [
         {
@@ -6926,7 +6926,7 @@
         154
       ],
       "flags": {},
-      "order": 132,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -6985,7 +6985,7 @@
         76
       ],
       "flags": {},
-      "order": 138,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -7473,7 +7473,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "",
         "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
         1242161501,
         "randomize",
@@ -7579,7 +7579,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "",
         "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文\n2. 不要输出英文\n3. 不要输出无关的内容",
         1242161501,
         "randomize",
@@ -7843,76 +7843,6 @@
       }
     },
     {
-      "id": 367,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1319.819091796875,
-        573.9827880859375
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 116,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 664,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 704,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            666,
-            667
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 360,
       "type": "PrimitiveNode",
       "pos": [
@@ -8035,7 +7965,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "",
         "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。\n返回的规则：\n1. 请仅输出英文单词\n2. 最多输出3个英文单词\n3. 英文单词间用下划线作为分隔符\n4. 不要输出中文，以及其他语言",
         1242161501,
         "randomize",
@@ -8486,41 +8416,6 @@
       }
     },
     {
-      "id": 382,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4336.4521484375,
-        -201.8740997314453
-      ],
-      "size": [
-        424.8078308105469,
-        255.70681762695312
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 125,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 706,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "图片内容",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 359,
       "type": "String",
       "pos": [
@@ -8674,6 +8569,145 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 382,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4337.44384765625,
+        -384.21026611328125
+      ],
+      "size": [
+        434.6526794433594,
+        183.7159881591797
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 126,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 706,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "图片内容",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 384,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4338.77734375,
+        -149.96249389648438
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {},
+      "order": 123,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 707,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 367,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1319.819091796875,
+        573.9827880859375
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 116,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 664,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 704,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            666,
+            667,
+            707
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
     }
   ],
   "links": [
@@ -10612,6 +10646,14 @@
       382,
       0,
       "*"
+    ],
+    [
+      707,
+      367,
+      0,
+      384,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -10736,10 +10778,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9849732675808041,
+      "scale": 0.8954302432552804,
       "offset": [
-        -3467.035037008881,
-        495.4443498947134
+        -1267.5717194754056,
+        558.131011911657
       ]
     },
     "groupNodes": {},
