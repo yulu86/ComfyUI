@@ -3840,7 +3840,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        694985204652212,
+        758856842102891,
         "randomize",
         20,
         1,
@@ -4318,7 +4318,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        672011822491952,
+        303014391734074,
         "randomize",
         40,
         1,
@@ -4900,7 +4900,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        292007480484569,
+        356645457349641,
         "randomize"
       ],
       "color": "#232",
@@ -5050,7 +5050,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        768926982332826,
+        843300409074148,
         "randomize",
         25,
         1,
@@ -6955,7 +6955,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Mina_K $?_520192508183298_low"
+        "Adorable_Animu_Girl_Wearing_Maid_Dress_Holding_Black_Forest_Cake_292007480484569_low"
       ]
     },
     {
@@ -7078,7 +7078,7 @@
         358
       ],
       "flags": {},
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -7353,7 +7353,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -7390,43 +7390,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 380,
-      "type": "Simple String",
-      "pos": [
-        -3292.67578125,
-        -351.42974853515625
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            699
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "LLM Model",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "deepseek-r1:7b-qwen-distill-q4_K_M"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 372,
@@ -7655,7 +7618,7 @@
         26
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -7697,7 +7660,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7731,7 +7694,7 @@
         82
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7944,7 +7907,7 @@
         200
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8017,7 +7980,7 @@
         106
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8060,7 +8023,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8240,7 +8203,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8380,7 +8343,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "deepseek-r1:32b",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度\n4. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题扩展场景内容，生成图像的提示词\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457616,
         "randomize",
@@ -8487,7 +8450,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "deepseek-r1:32b",
         "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457616,
         "randomize",
@@ -8526,7 +8489,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8619,7 +8582,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "deepseek-r1:32b",
         "# Role: 中文翻译官\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个中文翻译官，擅长把英文翻译成中文。\n\n### Translate\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是把我提供的英文提示词翻译成中文\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以中文语句和中文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 把我提供的英文提示词翻译成中文\n\n## Output\n1. 请以plain text格式返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457616,
         "randomize",
@@ -8658,7 +8621,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8684,7 +8647,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8708,7 +8671,7 @@
         82
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8736,6 +8699,43 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 380,
+      "type": "Simple String",
+      "pos": [
+        -3292.67578125,
+        -351.42974853515625
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            699
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "LLM Model",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "deepseek-r1:32b"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -10806,10 +10806,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.2100000000000002,
+      "scale": 1,
       "offset": [
-        -3245.821491589332,
-        678.5316440978469
+        350.8153153844369,
+        1230.6471483470627
       ]
     },
     "groupNodes": {},
