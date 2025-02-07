@@ -1,5 +1,5 @@
 {
-  "last_node_id": 384,
+  "last_node_id": 387,
   "last_link_id": 707,
   "nodes": [
     {
@@ -14,7 +14,7 @@
         126
       ],
       "flags": {},
-      "order": 78,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -226,7 +226,7 @@
         234
       ],
       "flags": {},
-      "order": 137,
+      "order": 138,
       "mode": 4,
       "inputs": [
         {
@@ -299,7 +299,7 @@
         26
       ],
       "flags": {},
-      "order": 69,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -530,7 +530,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 128,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -585,7 +585,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -623,7 +623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 138,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -728,7 +728,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 117,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -784,7 +784,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -863,7 +863,7 @@
         46
       ],
       "flags": {},
-      "order": 161,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -907,7 +907,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 164,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -972,7 +972,7 @@
         26
       ],
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 2,
       "inputs": [
         {
@@ -1008,7 +1008,7 @@
         154
       ],
       "flags": {},
-      "order": 141,
+      "order": 142,
       "mode": 2,
       "inputs": [
         {
@@ -1067,7 +1067,7 @@
         76
       ],
       "flags": {},
-      "order": 146,
+      "order": 147,
       "mode": 2,
       "inputs": [
         {
@@ -1104,7 +1104,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 177,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -1151,7 +1151,7 @@
         46
       ],
       "flags": {},
-      "order": 175,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -1241,7 +1241,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -1288,7 +1288,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 46,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -1397,7 +1397,7 @@
         234
       ],
       "flags": {},
-      "order": 62,
+      "order": 63,
       "mode": 2,
       "inputs": [
         {
@@ -1472,7 +1472,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 80,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -1562,7 +1562,7 @@
         58
       ],
       "flags": {},
-      "order": 77,
+      "order": 78,
       "mode": 2,
       "inputs": [
         {
@@ -1601,7 +1601,7 @@
         102
       ],
       "flags": {},
-      "order": 93,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -1646,7 +1646,7 @@
         130
       ],
       "flags": {},
-      "order": 92,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -1698,7 +1698,7 @@
         102
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -1744,7 +1744,7 @@
         26
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -1780,7 +1780,7 @@
         138
       ],
       "flags": {},
-      "order": 118,
+      "order": 119,
       "mode": 2,
       "inputs": [
         {
@@ -1854,7 +1854,7 @@
         58
       ],
       "flags": {},
-      "order": 114,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -1925,7 +1925,7 @@
         26
       ],
       "flags": {},
-      "order": 45,
+      "order": 46,
       "mode": 2,
       "inputs": [
         {
@@ -1996,7 +1996,7 @@
         246
       ],
       "flags": {},
-      "order": 136,
+      "order": 137,
       "mode": 2,
       "inputs": [
         {
@@ -2023,7 +2023,7 @@
         154
       ],
       "flags": {},
-      "order": 144,
+      "order": 145,
       "mode": 2,
       "inputs": [
         {
@@ -2082,7 +2082,7 @@
         76
       ],
       "flags": {},
-      "order": 148,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -2121,7 +2121,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 149,
+      "order": 150,
       "mode": 2,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
         26
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -2224,7 +2224,7 @@
         26
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -2262,7 +2262,7 @@
         26
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -2300,7 +2300,7 @@
         26
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -2373,7 +2373,7 @@
         154
       ],
       "flags": {},
-      "order": 152,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -2433,7 +2433,7 @@
         76
       ],
       "flags": {},
-      "order": 155,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -2472,7 +2472,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 169,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 168,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -2548,7 +2548,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -2586,7 +2586,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 61,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -2624,7 +2624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -2663,7 +2663,7 @@
         26
       ],
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2746,7 +2746,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -2784,7 +2784,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 53,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -2825,7 +2825,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -2898,7 +2898,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
         186
       ],
       "flags": {},
-      "order": 151,
+      "order": 152,
       "mode": 4,
       "inputs": [
         {
@@ -3012,7 +3012,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 153,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -3054,7 +3054,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 82,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -3095,7 +3095,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 68,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -3136,7 +3136,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -3176,7 +3176,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -3216,7 +3216,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -3257,7 +3257,7 @@
         26
       ],
       "flags": {},
-      "order": 150,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -3302,7 +3302,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 63,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -3341,7 +3341,7 @@
         26
       ],
       "flags": {},
-      "order": 171,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -3381,7 +3381,7 @@
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -3421,7 +3421,7 @@
         26
       ],
       "flags": {},
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3464,7 +3464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 140,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -3510,7 +3510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 50,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -3556,7 +3556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 134,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -3644,7 +3644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 178,
+      "order": 179,
       "mode": 2,
       "inputs": [
         {
@@ -3709,7 +3709,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -3736,7 +3736,7 @@
         46
       ],
       "flags": {},
-      "order": 130,
+      "order": 131,
       "mode": 2,
       "inputs": [
         {
@@ -3778,7 +3778,7 @@
         262
       ],
       "flags": {},
-      "order": 125,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -3840,7 +3840,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        418272927916088,
+        694985204652212,
         "randomize",
         20,
         1,
@@ -3861,7 +3861,7 @@
         130
       ],
       "flags": {},
-      "order": 135,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -3930,7 +3930,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -4024,7 +4024,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 127,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -4079,7 +4079,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -4120,7 +4120,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -4166,7 +4166,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -4209,7 +4209,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 71,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -4248,7 +4248,7 @@
         262
       ],
       "flags": {},
-      "order": 158,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -4318,7 +4318,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        187273876182664,
+        672011822491952,
         "randomize",
         40,
         1,
@@ -4339,7 +4339,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -4379,7 +4379,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 166,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -4421,7 +4421,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -4463,7 +4463,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 88,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -4502,7 +4502,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -4542,7 +4542,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 103,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -4571,7 +4571,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 145,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -4616,7 +4616,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 83,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -4661,7 +4661,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 157,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -4701,7 +4701,7 @@
         106
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -4755,7 +4755,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -4826,7 +4826,7 @@
         76
       ],
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -4900,7 +4900,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        401586446010663,
+        292007480484569,
         "randomize"
       ],
       "color": "#232",
@@ -4961,7 +4961,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 165,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -4988,7 +4988,7 @@
         262
       ],
       "flags": {},
-      "order": 173,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -5050,7 +5050,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        542598927493092,
+        768926982332826,
         "randomize",
         25,
         1,
@@ -5071,7 +5071,7 @@
         138
       ],
       "flags": {},
-      "order": 170,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -5147,7 +5147,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 167,
+      "order": 168,
       "mode": 2,
       "inputs": [
         {
@@ -5185,7 +5185,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 142,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -5232,7 +5232,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 79,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -5284,7 +5284,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 183,
+      "order": 184,
       "mode": 2,
       "inputs": [
         {
@@ -5351,7 +5351,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 182,
+      "order": 183,
       "mode": 2,
       "inputs": [
         {
@@ -5416,7 +5416,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 184,
+      "order": 185,
       "mode": 2,
       "inputs": [
         {
@@ -5466,7 +5466,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 185,
+      "order": 186,
       "mode": 2,
       "inputs": [
         {
@@ -5516,7 +5516,7 @@
         142
       ],
       "flags": {},
-      "order": 91,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -5595,7 +5595,7 @@
         26
       ],
       "flags": {},
-      "order": 172,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -5635,7 +5635,7 @@
         46
       ],
       "flags": {},
-      "order": 112,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -5676,7 +5676,7 @@
         334
       ],
       "flags": {},
-      "order": 176,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -5778,7 +5778,7 @@
         150
       ],
       "flags": {},
-      "order": 179,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -5824,7 +5824,7 @@
         26
       ],
       "flags": {},
-      "order": 180,
+      "order": 181,
       "mode": 2,
       "inputs": [
         {
@@ -5860,7 +5860,7 @@
         118
       ],
       "flags": {},
-      "order": 181,
+      "order": 182,
       "mode": 2,
       "inputs": [
         {
@@ -5916,7 +5916,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 103,
       "mode": 2,
       "inputs": [
         {
@@ -5953,7 +5953,7 @@
         76
       ],
       "flags": {},
-      "order": 90,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -5992,7 +5992,7 @@
         76
       ],
       "flags": {},
-      "order": 89,
+      "order": 90,
       "mode": 2,
       "inputs": [
         {
@@ -6031,7 +6031,7 @@
         26
       ],
       "flags": {},
-      "order": 51,
+      "order": 52,
       "mode": 2,
       "inputs": [
         {
@@ -6069,7 +6069,7 @@
         26
       ],
       "flags": {},
-      "order": 66,
+      "order": 67,
       "mode": 2,
       "inputs": [
         {
@@ -6108,7 +6108,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 174,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -6228,7 +6228,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 52,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -6278,7 +6278,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 67,
+      "order": 68,
       "mode": 2,
       "inputs": [
         {
@@ -6317,7 +6317,7 @@
         222
       ],
       "flags": {},
-      "order": 65,
+      "order": 66,
       "mode": 2,
       "inputs": [
         {
@@ -6376,7 +6376,7 @@
         58
       ],
       "flags": {},
-      "order": 111,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -6465,7 +6465,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -6534,7 +6534,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 122,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -6602,58 +6602,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 224,
-      "type": "Note",
-      "pos": [
-        -2440.99951171875,
-        -827.6770629882812
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 24,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：虚数空间·维度崩解\n画面风格：超现实主义×几何解构\n描述：一拳超人中的地狱吹雪，吹雪身处不断坍缩的克莱因蓝空间，身体部分区域呈现数据流态的透明化，左半脸维持真人质感，右半脸则化为多边形碎片。无数悬浮的镜面碎片反射出不同年龄段的吹雪形象，地面液体倒影中藏着埼玉的模糊身影。强调矛盾空间构造与次元撕裂感。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 277,
-      "type": "Note",
-      "pos": [
-        -1953.2222900390625,
-        -827.6770629882812
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 25,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词(redux替换衣服时不描述衣服)",
-      "properties": {},
-      "widgets_values": [
-        "作为一个文本到图像的人工智能的稳定扩散提示词生成器，你的任务是为提供的主题创建一个详细的提示。提示词是需要包含在图像中的内容，包含风格、内容主体等15-90个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，请参考小红书的风格，提示词还需要包含外貌、身材、动作、姿势相关的提示词，但是请不要描述人物的服饰。先用最多3个英文单词总结标题，换行后，再用英文输出提示词，不需要标题、分段。再用中文翻译一遍英文提示词。请按以上要求生成3遍，并排序，把你觉得生成结果最好的提示词放在前面。\n主题：超现实主义美食世界\n画面风格：奇幻、超现实，色彩对比强烈，视觉冲击力十足。\n描述：将美食与超现实元素结合，构建一个令人眼前一亮的场景。一个巨大的冰淇淋浮在空中，周围环绕着五彩斑斓的水果，或者一颗超大果蔬在异次元的背景中漂浮。画面充满梦幻感，同时又有强烈的视觉冲击，能够吸引喜爱美食和视觉艺术的粉丝。"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 151,
       "type": "StyleModelLoader",
       "pos": [
@@ -6665,7 +6613,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 24,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6698,7 +6646,7 @@
         314
       ],
       "flags": {},
-      "order": 27,
+      "order": 25,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6738,7 +6686,7 @@
         234
       ],
       "flags": {},
-      "order": 143,
+      "order": 144,
       "mode": 4,
       "inputs": [
         {
@@ -6811,7 +6759,7 @@
         58
       ],
       "flags": {},
-      "order": 28,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6846,7 +6794,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6881,7 +6829,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 30,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6926,7 +6874,7 @@
         154
       ],
       "flags": {},
-      "order": 133,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -6985,7 +6933,7 @@
         76
       ],
       "flags": {},
-      "order": 139,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -7007,7 +6955,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Female_Servant_Clothes_Black_Jade_Patterned_Dress_White_Skirt_492595000357558_low"
+        "Mina_K $?_520192508183298_low"
       ]
     },
     {
@@ -7022,7 +6970,7 @@
         58
       ],
       "flags": {},
-      "order": 31,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7058,7 +7006,7 @@
         106
       ],
       "flags": {},
-      "order": 56,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -7106,7 +7054,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 32,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7255,7 +7203,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 33,
+      "order": 31,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7302,7 +7250,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 34,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7326,7 +7274,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -7364,7 +7312,7 @@
         26
       ],
       "flags": {},
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -7392,219 +7340,6 @@
       }
     },
     {
-      "id": 363,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2934.494140625,
-        -108.66133880615234
-      ],
-      "size": [
-        622.7391967773438,
-        839.9239501953125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 84,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 676,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 654,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 700,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 656,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            683
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "",
-        "你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。我准备用AI创建几张照片，用于发布到小红书以吸引粉丝。你的任务是根据我提供的主题创建一个详细的提示词。提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度。如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词。\n作为一个文本到图像的人工智能的稳定扩散提示词生成器，\n返回的规则：\n1.如果涉及到著名的角色或人物，请写明人物名字\n2.如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3.请以plain text格式返回\n4.仅以英文语句和短语返回\n返回的内容请不要：\n1.不需要输出其他词例如“response”\n2.不需要输出标题\n3.不需要分段输出\n4.不需要hash tag\n5.不要用markdown格式输出\n6.不要用英文以外的其他语言输出",
-        1242161501,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        1,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
-      "id": 364,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2271.052490234375,
-        -107.02335357666016
-      ],
-      "size": [
-        714.4639892578125,
-        1256.7813720703125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 109,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 687,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 659,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 701,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 661,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            681
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "",
-        "你是一个资深的翻译，请把输入的内容翻译成中文。按照以下规则输出：\n1. 仅输出中文\n2. 不要输出英文\n3. 不要输出无关的内容",
-        1242161501,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 379,
       "type": "CR String To Combo",
       "pos": [
@@ -7618,7 +7353,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -7670,7 +7405,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 35,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7694,43 +7429,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 358,
-      "type": "Simple String",
-      "pos": [
-        -3540.196533203125,
-        -349.127197265625
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            702
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://127.0.0.1:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 372,
       "type": "CR Split String",
       "pos": [
@@ -7744,7 +7442,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -7815,7 +7513,7 @@
         26
       ],
       "flags": {},
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -7843,154 +7541,6 @@
       }
     },
     {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4215.6826171875,
-        -146.63372802734375
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        1242161501,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 368,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -4188.0263671875,
-        71.79547882080078
-      ],
-      "size": [
-        873.451416015625,
-        1298.7374267578125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 74,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 668,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 694,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 698,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 669,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            679
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "",
-        "你是一个专业秘书，擅长提炼文本中的关键点。请根据我提供的内容，总结成最多3个英文单词的标题。\n返回的规则：\n1. 请仅输出英文单词\n2. 最多输出3个英文单词\n3. 英文单词间用下划线作为分隔符\n4. 不要输出中文，以及其他语言",
-        1242161501,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        1,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 369,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8002,7 +7552,7 @@
         76
       ],
       "flags": {},
-      "order": 99,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -8037,7 +7587,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -8094,39 +7644,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 362,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3012.4189453125,
-        -47.39573287963867
-      ],
-      "size": [
-        599.4024047851562,
-        347.8898620605469
-      ],
-      "flags": {},
-      "order": 108,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 686,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "提示词(英文)",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 375,
       "type": "Reroute",
       "pos": [
@@ -8138,7 +7655,7 @@
         26
       ],
       "flags": {},
-      "order": 59,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -8180,7 +7697,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8214,7 +7731,7 @@
         82
       ],
       "flags": {},
-      "order": 39,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8249,7 +7766,7 @@
         348.3393859863281
       ],
       "flags": {},
-      "order": 119,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -8284,7 +7801,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 115,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -8352,7 +7869,7 @@
         26
       ],
       "flags": {},
-      "order": 120,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -8388,7 +7905,7 @@
         26
       ],
       "flags": {},
-      "order": 100,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -8427,7 +7944,7 @@
         200
       ],
       "flags": {},
-      "order": 40,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8467,7 +7984,7 @@
         343.88311767578125
       ],
       "flags": {},
-      "order": 107,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -8500,7 +8017,7 @@
         106
       ],
       "flags": {},
-      "order": 41,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8543,7 +8060,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 42,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8584,7 +8101,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 126,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -8617,7 +8134,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 123,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -8652,7 +8169,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 116,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -8708,6 +8225,517 @@
       "color": "#223",
       "bgcolor": "#335",
       "shape": 1
+    },
+    {
+      "id": 358,
+      "type": "Simple String",
+      "pos": [
+        -3540.196533203125,
+        -349.127197265625
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            702
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://127.0.0.1:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 362,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3012.4189453125,
+        -47.39573287963867
+      ],
+      "size": [
+        599.4024047851562,
+        347.8898620605469
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 109,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 686,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "提示词(英文)",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 363,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2934.494140625,
+        -108.66133880615234
+      ],
+      "size": [
+        622.7391967773438,
+        839.9239501953125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 87,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 676,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 654,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 700,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 656,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            683
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度\n4. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题扩展场景内容，生成图像的提示词\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
+        570457616,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        1,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 368,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -4188.0263671875,
+        71.79547882080078
+      ],
+      "size": [
+        873.451416015625,
+        1298.7374267578125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 668,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 694,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 698,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 669,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            679
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
+        570457616,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        1,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 387,
+      "type": "Note",
+      "pos": [
+        -1546.5628662109375,
+        -1448.7235107421875
+      ],
+      "size": [
+        911.1162719726562,
+        534.5027465820312
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "# Role: 中文翻译官\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个中文翻译官，擅长把英文翻译成中文。\n\n### Translate\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是把我提供的英文提示词翻译成中文\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以中文语句和中文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 把我提供的英文提示词翻译成中文\n\n## Output\n1. 请以plain text格式返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 364,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2271.052490234375,
+        -107.02335357666016
+      ],
+      "size": [
+        714.4639892578125,
+        1256.7813720703125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 110,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 687,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 659,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 701,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 661,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            681
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:7b-qwen-distill-q4_K_M",
+        "# Role: 中文翻译官\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个中文翻译官，擅长把英文翻译成中文。\n\n### Translate\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是把我提供的英文提示词翻译成中文\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以中文语句和中文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 把我提供的英文提示词翻译成中文\n\n## Output\n1. 请以plain text格式返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
+        570457616,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 386,
+      "type": "Note",
+      "pos": [
+        -2535.7001953125,
+        -1448.7235107421875
+      ],
+      "size": [
+        911.1162719726562,
+        534.5027465820312
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 385,
+      "type": "Note",
+      "pos": [
+        -3519.644287109375,
+        -1448.7235107421875
+      ],
+      "size": [
+        911.1162719726562,
+        534.5027465820312
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度\n4. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题扩展场景内容，生成图像的提示词\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4215.6826171875,
+        -146.63372802734375
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        570457616,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -10778,10 +10806,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8954302432552804,
+      "scale": 1.2100000000000002,
       "offset": [
-        -1267.5717194754056,
-        558.131011911657
+        -3245.821491589332,
+        678.5316440978469
       ]
     },
     "groupNodes": {},
