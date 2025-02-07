@@ -1,6 +1,6 @@
 {
-  "last_node_id": 387,
-  "last_link_id": 707,
+  "last_node_id": 392,
+  "last_link_id": 712,
   "nodes": [
     {
       "id": 66,
@@ -14,7 +14,7 @@
         126
       ],
       "flags": {},
-      "order": 79,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -226,7 +226,7 @@
         234
       ],
       "flags": {},
-      "order": 138,
+      "order": 142,
       "mode": 4,
       "inputs": [
         {
@@ -299,7 +299,7 @@
         26
       ],
       "flags": {},
-      "order": 70,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -530,7 +530,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 129,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -585,7 +585,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -623,7 +623,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -728,7 +728,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 118,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -784,7 +784,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 49,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -824,7 +824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -863,8 +863,8 @@
         46
       ],
       "flags": {},
-      "order": 162,
-      "mode": 0,
+      "order": 165,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -907,8 +907,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 165,
-      "mode": 0,
+      "order": 168,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -972,7 +972,7 @@
         26
       ],
       "flags": {},
-      "order": 45,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -1008,7 +1008,7 @@
         154
       ],
       "flags": {},
-      "order": 142,
+      "order": 146,
       "mode": 2,
       "inputs": [
         {
@@ -1067,7 +1067,7 @@
         76
       ],
       "flags": {},
-      "order": 147,
+      "order": 150,
       "mode": 2,
       "inputs": [
         {
@@ -1104,7 +1104,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 178,
+      "order": 181,
       "mode": 2,
       "inputs": [
         {
@@ -1151,7 +1151,7 @@
         46
       ],
       "flags": {},
-      "order": 176,
+      "order": 179,
       "mode": 2,
       "inputs": [
         {
@@ -1241,7 +1241,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 50,
       "mode": 2,
       "inputs": [
         {
@@ -1288,7 +1288,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 49,
       "mode": 2,
       "inputs": [
         {
@@ -1397,7 +1397,7 @@
         234
       ],
       "flags": {},
-      "order": 63,
+      "order": 65,
       "mode": 2,
       "inputs": [
         {
@@ -1472,7 +1472,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 81,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -1562,7 +1562,7 @@
         58
       ],
       "flags": {},
-      "order": 78,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -1854,7 +1854,7 @@
         58
       ],
       "flags": {},
-      "order": 115,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -1925,7 +1925,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -1996,7 +1996,7 @@
         246
       ],
       "flags": {},
-      "order": 137,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -2023,7 +2023,7 @@
         154
       ],
       "flags": {},
-      "order": 145,
+      "order": 148,
       "mode": 2,
       "inputs": [
         {
@@ -2082,7 +2082,7 @@
         76
       ],
       "flags": {},
-      "order": 149,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -2121,7 +2121,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 150,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -2373,7 +2373,7 @@
         154
       ],
       "flags": {},
-      "order": 153,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -2433,7 +2433,7 @@
         76
       ],
       "flags": {},
-      "order": 156,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -2472,7 +2472,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 170,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 169,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -2548,7 +2548,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 85,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -2586,7 +2586,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -2624,7 +2624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2663,7 +2663,7 @@
         26
       ],
       "flags": {},
-      "order": 44,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -2746,7 +2746,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -2784,7 +2784,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 54,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2825,7 +2825,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -2898,7 +2898,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
         186
       ],
       "flags": {},
-      "order": 152,
+      "order": 155,
       "mode": 4,
       "inputs": [
         {
@@ -3012,7 +3012,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -3054,7 +3054,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 83,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3095,7 +3095,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 69,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -3136,7 +3136,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -3176,7 +3176,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 157,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -3216,7 +3216,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -3257,7 +3257,7 @@
         26
       ],
       "flags": {},
-      "order": 151,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -3302,7 +3302,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -3341,7 +3341,7 @@
         26
       ],
       "flags": {},
-      "order": 172,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -3421,7 +3421,7 @@
         26
       ],
       "flags": {},
-      "order": 77,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3464,7 +3464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 141,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -3510,7 +3510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 51,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -3556,7 +3556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -3644,7 +3644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 179,
+      "order": 182,
       "mode": 2,
       "inputs": [
         {
@@ -3709,7 +3709,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 114,
+      "order": 112,
       "mode": 2,
       "inputs": [
         {
@@ -3736,7 +3736,7 @@
         46
       ],
       "flags": {},
-      "order": 131,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -3778,7 +3778,7 @@
         262
       ],
       "flags": {},
-      "order": 126,
+      "order": 123,
       "mode": 2,
       "inputs": [
         {
@@ -3840,7 +3840,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        758856842102891,
+        357591836792682,
         "randomize",
         20,
         1,
@@ -3861,7 +3861,7 @@
         130
       ],
       "flags": {},
-      "order": 136,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -3930,7 +3930,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 83,
       "mode": 2,
       "inputs": [
         {
@@ -4024,7 +4024,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 128,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -4079,7 +4079,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 71,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -4120,7 +4120,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -4166,7 +4166,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -4209,7 +4209,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -4248,8 +4248,8 @@
         262
       ],
       "flags": {},
-      "order": 159,
-      "mode": 0,
+      "order": 162,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -4318,7 +4318,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        303014391734074,
+        847646228176996,
         "randomize",
         40,
         1,
@@ -4339,7 +4339,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -4379,7 +4379,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 167,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -4421,7 +4421,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 164,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -4463,7 +4463,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 86,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -4502,7 +4502,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -4571,7 +4571,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -4616,7 +4616,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4661,7 +4661,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -4702,7 +4702,7 @@
       ],
       "flags": {},
       "order": 98,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "height",
@@ -4755,7 +4755,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 122,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -4826,7 +4826,7 @@
         76
       ],
       "flags": {},
-      "order": 50,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -4900,7 +4900,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        356645457349641,
+        857882985222151,
         "randomize"
       ],
       "color": "#232",
@@ -4961,8 +4961,8 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 166,
-      "mode": 0,
+      "order": 169,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -4988,7 +4988,7 @@
         262
       ],
       "flags": {},
-      "order": 174,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -5050,7 +5050,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        843300409074148,
+        741443246820232,
         "randomize",
         25,
         1,
@@ -5071,7 +5071,7 @@
         138
       ],
       "flags": {},
-      "order": 171,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -5147,7 +5147,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 168,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -5185,7 +5185,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 143,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -5232,7 +5232,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 80,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -5284,7 +5284,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 184,
+      "order": 187,
       "mode": 2,
       "inputs": [
         {
@@ -5351,7 +5351,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 183,
+      "order": 186,
       "mode": 2,
       "inputs": [
         {
@@ -5416,7 +5416,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 185,
+      "order": 188,
       "mode": 2,
       "inputs": [
         {
@@ -5466,7 +5466,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 186,
+      "order": 189,
       "mode": 2,
       "inputs": [
         {
@@ -5595,7 +5595,7 @@
         26
       ],
       "flags": {},
-      "order": 173,
+      "order": 176,
       "mode": 0,
       "inputs": [
         {
@@ -5635,7 +5635,7 @@
         46
       ],
       "flags": {},
-      "order": 113,
+      "order": 111,
       "mode": 2,
       "inputs": [
         {
@@ -5676,7 +5676,7 @@
         334
       ],
       "flags": {},
-      "order": 177,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -5778,7 +5778,7 @@
         150
       ],
       "flags": {},
-      "order": 180,
+      "order": 183,
       "mode": 2,
       "inputs": [
         {
@@ -5824,7 +5824,7 @@
         26
       ],
       "flags": {},
-      "order": 181,
+      "order": 184,
       "mode": 2,
       "inputs": [
         {
@@ -5860,7 +5860,7 @@
         118
       ],
       "flags": {},
-      "order": 182,
+      "order": 185,
       "mode": 2,
       "inputs": [
         {
@@ -6031,7 +6031,7 @@
         26
       ],
       "flags": {},
-      "order": 52,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -6069,7 +6069,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 69,
       "mode": 2,
       "inputs": [
         {
@@ -6108,7 +6108,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -6228,7 +6228,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 53,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -6278,7 +6278,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 68,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -6317,7 +6317,7 @@
         222
       ],
       "flags": {},
-      "order": 66,
+      "order": 68,
       "mode": 2,
       "inputs": [
         {
@@ -6376,7 +6376,7 @@
         58
       ],
       "flags": {},
-      "order": 112,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -6465,7 +6465,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -6534,7 +6534,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -6686,7 +6686,7 @@
         234
       ],
       "flags": {},
-      "order": 144,
+      "order": 147,
       "mode": 4,
       "inputs": [
         {
@@ -6874,8 +6874,8 @@
         154
       ],
       "flags": {},
-      "order": 134,
-      "mode": 0,
+      "order": 139,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -6933,8 +6933,8 @@
         76
       ],
       "flags": {},
-      "order": 140,
-      "mode": 0,
+      "order": 144,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -6955,7 +6955,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Adorable_Animu_Girl_Wearing_Maid_Dress_Holding_Black_Forest_Cake_292007480484569_low"
+        "可爱的动漫女孩，毛茸茸的ears，蓬松的大尾巴，金色的 hair，黑色 gold leaf dress，白色裙，张嘴，拿着精美的 black forest cake，上面插着蜡烛。_382358639869595_low"
       ]
     },
     {
@@ -7006,7 +7006,7 @@
         106
       ],
       "flags": {},
-      "order": 57,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -7078,7 +7078,7 @@
         358
       ],
       "flags": {},
-      "order": 59,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -7237,32 +7237,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 344,
-      "type": "Note",
-      "pos": [
-        -3460.06689453125,
-        -827.6770629882812
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我准备用AI创建几张\"一拳超人地狱吹雪\"的照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出\n\n\nhttp://192.168.3.226:11434"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 356,
       "type": "Reroute",
       "pos": [
@@ -7274,7 +7248,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -7312,7 +7286,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -7340,58 +7314,6 @@
       }
     },
     {
-      "id": 379,
-      "type": "CR String To Combo",
-      "pos": [
-        -3035.81591796875,
-        -351.2944030761719
-      ],
-      "size": [
-        315,
-        78
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 61,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 699,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "any",
-          "type": "*",
-          "links": [
-            698,
-            700,
-            701
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR String To Combo"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 372,
       "type": "CR Split String",
       "pos": [
@@ -7405,7 +7327,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -7476,7 +7398,7 @@
         26
       ],
       "flags": {},
-      "order": 111,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -7515,7 +7437,7 @@
         76
       ],
       "flags": {},
-      "order": 101,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -7550,7 +7472,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -7618,13 +7540,13 @@
         26
       ],
       "flags": {},
-      "order": 60,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 702,
+          "link": 710,
           "widget": {
             "name": "value"
           }
@@ -7660,7 +7582,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7694,7 +7616,7 @@
         82
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7729,7 +7651,7 @@
         348.3393859863281
       ],
       "flags": {},
-      "order": 120,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -7764,7 +7686,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 116,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -7832,7 +7754,7 @@
         26
       ],
       "flags": {},
-      "order": 121,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -7868,7 +7790,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -7907,7 +7829,7 @@
         200
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7947,7 +7869,7 @@
         343.88311767578125
       ],
       "flags": {},
-      "order": 108,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -7980,7 +7902,7 @@
         106
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8023,7 +7945,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8064,8 +7986,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 127,
-      "mode": 0,
+      "order": 131,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -8080,7 +8002,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "可爱的动漫女孩，长着毛茸茸的茴香耳朵和蓬松的大尾巴，金色的凌乱长发，蓝色的眼睛，穿着女仆装，黑色金叶图案的长裙，系着白色围裙，张着嘴，手里拿着精美的黑森林蛋糕，上面插着蜡烛。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8097,8 +8019,8 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 124,
-      "mode": 0,
+      "order": 128,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -8113,7 +8035,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ,solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, \"可爱的动漫女孩，长着毛茸茸的茴香耳朵和蓬松的大尾巴，金色的凌乱长发，蓝色的眼睛，穿着女仆装，黑色金叶图案的长裙，系着白色围裙，张着嘴，手里拿着精美的黑森林蛋糕，上面插着蜡烛。\""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8132,7 +8054,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 117,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -8190,43 +8112,6 @@
       "shape": 1
     },
     {
-      "id": 358,
-      "type": "Simple String",
-      "pos": [
-        -3540.196533203125,
-        -349.127197265625
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            702
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://127.0.0.1:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 362,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8240,7 +8125,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 109,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -8275,7 +8160,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -8382,7 +8267,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -8489,7 +8374,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8515,7 +8400,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -8621,7 +8506,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8647,7 +8532,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 41,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8671,7 +8556,7 @@
         82
       ],
       "flags": {},
-      "order": 42,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8701,11 +8586,74 @@
       "bgcolor": "#353"
     },
     {
-      "id": 380,
+      "id": 344,
+      "type": "Note",
+      "pos": [
+        -3460.06689453125,
+        -827.6770629882812
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我准备用AI创建几张\"一拳超人地狱吹雪\"的照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出\n\n\nhttp://192.168.3.226:11434"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 390,
       "type": "Simple String",
       "pos": [
-        -3292.67578125,
-        -351.42974853515625
+        -3775.34716796875,
+        -388.7906188964844
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            709
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL 本地",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://localhost:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 358,
+      "type": "Simple String",
+      "pos": [
+        -3775.34716796875,
+        -336.4611511230469
       ],
       "size": [
         512.3726196289062,
@@ -8715,6 +8663,195 @@
         "collapsed": true
       },
       "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            708
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL 远程",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://192.168.3.226:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 392,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3793.5673828125,
+        -289.14813232421875
+      ],
+      "size": [
+        261.2396545410156,
+        62.958675384521484
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "BOOLEAN",
+          "type": "BOOLEAN",
+          "links": [
+            712
+          ],
+          "widget": {
+            "name": "boolean"
+          }
+        }
+      ],
+      "title": "开关(False：远程, True：本地)",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        true
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 389,
+      "type": "Text Input Switch",
+      "pos": [
+        -3556.202392578125,
+        -361.2727355957031
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 62,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_a",
+          "type": "STRING",
+          "link": 709,
+          "widget": {
+            "name": "text_a"
+          }
+        },
+        {
+          "name": "text_b",
+          "type": "STRING",
+          "link": 708,
+          "widget": {
+            "name": "text_b"
+          }
+        },
+        {
+          "name": "boolean",
+          "type": "BOOLEAN",
+          "link": 712,
+          "widget": {
+            "name": "boolean"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            710
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text Input Switch"
+      },
+      "widgets_values": [
+        "",
+        "",
+        true
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 379,
+      "type": "CR String To Combo",
+      "pos": [
+        -3019.04443359375,
+        -361.3068542480469
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 699,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "any",
+          "type": "*",
+          "links": [
+            698,
+            700,
+            701
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR String To Combo"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 380,
+      "type": "Simple String",
+      "pos": [
+        -3358.132568359375,
+        -390.17315673828125
+      ],
+      "size": [
+        302.45526123046875,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10636,14 +10773,6 @@
       "COMBO"
     ],
     [
-      702,
-      358,
-      0,
-      375,
-      0,
-      "*"
-    ],
-    [
       703,
       372,
       1,
@@ -10682,6 +10811,38 @@
       384,
       0,
       "*"
+    ],
+    [
+      708,
+      358,
+      0,
+      389,
+      1,
+      "STRING"
+    ],
+    [
+      709,
+      390,
+      0,
+      389,
+      0,
+      "STRING"
+    ],
+    [
+      710,
+      389,
+      0,
+      375,
+      0,
+      "*"
+    ],
+    [
+      712,
+      392,
+      0,
+      389,
+      2,
+      "BOOLEAN"
     ]
   ],
   "groups": [
@@ -10806,10 +10967,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1,
+      "scale": 1.2100000000000002,
       "offset": [
-        350.8153153844369,
-        1230.6471483470627
+        3843.865666355979,
+        812.3099205143269
       ]
     },
     "groupNodes": {},
