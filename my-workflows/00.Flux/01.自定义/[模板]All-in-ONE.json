@@ -1,6 +1,6 @@
 {
-  "last_node_id": 392,
-  "last_link_id": 712,
+  "last_node_id": 393,
+  "last_link_id": 713,
   "nodes": [
     {
       "id": 66,
@@ -229,7 +229,7 @@
         26
       ],
       "flags": {},
-      "order": 71,
+      "order": 70,
       "mode": 2,
       "inputs": [
         {
@@ -2340,7 +2340,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Hyperdimensional Fracture Surrealism_914707339908758_high"
+        "Magnificent Actress Eimi Fukada_540333084208831_high"
       ]
     },
     {
@@ -2433,7 +2433,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -2471,7 +2471,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2509,7 +2509,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -2548,7 +2548,7 @@
         26
       ],
       "flags": {},
-      "order": 62,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -2588,7 +2588,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -2669,7 +2669,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -2812,78 +2812,6 @@
       }
     },
     {
-      "id": 145,
-      "type": "ControlNetApplySD3",
-      "pos": [
-        2321.468017578125,
-        -336.2202453613281
-      ],
-      "size": [
-        315,
-        186
-      ],
-      "flags": {},
-      "order": 155,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 534
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 532
-        },
-        {
-          "name": "control_net",
-          "type": "CONTROL_NET",
-          "link": 294
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 300
-        },
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 295
-        }
-      ],
-      "outputs": [
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "links": [
-            577
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "links": [
-            584
-          ],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "ControlNetApplySD3"
-      },
-      "widgets_values": [
-        1,
-        0,
-        0.4
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 41,
       "type": "FluxGuidance",
       "pos": [
@@ -2980,7 +2908,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -3266,7 +3194,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -3306,7 +3234,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -3725,7 +3653,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        599524828828468,
+        251170654065123,
         "randomize",
         20,
         1,
@@ -3964,7 +3892,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -4005,7 +3933,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -4094,7 +4022,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -4203,7 +4131,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        980897550949992,
+        496805807883036,
         "randomize",
         40,
         1,
@@ -4348,7 +4276,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 88,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -4387,7 +4315,7 @@
         26
       ],
       "flags": {},
-      "order": 76,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -4747,7 +4675,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        672257516792980,
+        367770949891806,
         "randomize"
       ],
       "color": "#232",
@@ -4897,7 +4825,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        180960989004240,
+        201773544657191,
         "randomize",
         25,
         1,
@@ -5105,12 +5033,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_hpbnh_00001_.png&type=temp&subfolder=&rand=0.18599585322375356"
+            "url": "/api/view?filename=rgthree.compare._temp_pjoim_00005_.png&type=temp&subfolder=&rand=0.019936381589229946"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_hpbnh_00002_.png&type=temp&subfolder=&rand=0.8986979906463788"
+            "url": "/api/view?filename=rgthree.compare._temp_pjoim_00006_.png&type=temp&subfolder=&rand=0.3997118770217951"
           }
         ]
       ],
@@ -5252,56 +5180,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 347,
-      "type": "Image Comparer (rgthree)",
-      "pos": [
-        5405.6796875,
-        3979.991455078125
-      ],
-      "size": [
-        613.3534545898438,
-        755.3240356445312
-      ],
-      "flags": {},
-      "order": 188,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image_a",
-          "type": "IMAGE",
-          "link": 631,
-          "dir": 3
-        },
-        {
-          "name": "image_b",
-          "type": "IMAGE",
-          "link": 639,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "直接放大 与 Tile放大对比",
-      "properties": {
-        "comparer_mode": "Slide"
-      },
-      "widgets_values": [
-        [
-          {
-            "name": "A",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_sablu_00001_.png&type=temp&subfolder=&rand=0.6562659339522314"
-          },
-          {
-            "name": "B",
-            "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_sablu_00002_.png&type=temp&subfolder=&rand=0.3605836964436282"
-          }
-        ]
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 348,
       "type": "Image Comparer (rgthree)",
       "pos": [
@@ -5339,12 +5217,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ydoqr_00001_.png&type=temp&subfolder=&rand=0.6970333649248306"
+            "url": "/api/view?filename=rgthree.compare._temp_coilo_00003_.png&type=temp&subfolder=&rand=0.9576396135032963"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ydoqr_00002_.png&type=temp&subfolder=&rand=0.7015254793685624"
+            "url": "/api/view?filename=rgthree.compare._temp_coilo_00004_.png&type=temp&subfolder=&rand=0.998442281985503"
           }
         ]
       ],
@@ -5510,108 +5388,6 @@
         "Node name for S&R": "VAEEncode"
       },
       "widgets_values": []
-    },
-    {
-      "id": 75,
-      "type": "KSamplerAdvanced",
-      "pos": [
-        4598.021484375,
-        3945.410888671875
-      ],
-      "size": [
-        315,
-        334
-      ],
-      "flags": {},
-      "order": 180,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 599
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 637
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 597
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 183
-        },
-        {
-          "name": "noise_seed",
-          "type": "INT",
-          "link": 561,
-          "widget": {
-            "name": "noise_seed"
-          }
-        },
-        {
-          "name": "start_at_step",
-          "type": "INT",
-          "link": 508,
-          "widget": {
-            "name": "start_at_step"
-          }
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 602,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 244,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 245,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            191
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSamplerAdvanced"
-      },
-      "widgets_values": [
-        "enable",
-        915378153791828,
-        "fixed",
-        20,
-        0.8,
-        "ipndm",
-        "ddim_uniform",
-        40,
-        10000,
-        "disable"
-      ]
     },
     {
       "id": 76,
@@ -5822,46 +5598,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "912"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 67,
-      "type": "easy showAnything",
-      "pos": [
-        3828.96142578125,
-        3600.13818359375
-      ],
-      "size": [
-        289.333251953125,
-        76
-      ],
-      "flags": {},
-      "order": 90,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 174,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "output",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy showAnything"
-      },
-      "widgets_values": [
-        "1376"
+        "824"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -6019,44 +5756,8 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Hyperdimensional Fracture Surrealism_693310840508400_low_0001.png",
+        "Magnificent Actress Eimi Fukada_995508805937894_low_0001.png",
         "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3163.927001953125,
-        3413.867431640625
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            622,
-            642
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "4"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -6075,7 +5776,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 54,
+      "order": 62,
       "mode": 2,
       "inputs": [
         {
@@ -6112,104 +5813,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 97,
-      "type": "easy showAnything",
-      "pos": [
-        2796.23583984375,
-        3956.20166015625
-      ],
-      "size": [
-        289.333251953125,
-        76.000244140625
-      ],
-      "flags": {},
-      "order": 69,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 236,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "output",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy showAnything"
-      },
-      "widgets_values": [
-        "4"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 64,
-      "type": "CR Upscale Image",
-      "pos": [
-        3484.88720703125,
-        3619.248046875
-      ],
-      "size": [
-        314.39385986328125,
-        222
-      ],
-      "flags": {},
-      "order": 67,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 493
-        },
-        {
-          "name": "rescale_factor",
-          "type": "FLOAT",
-          "link": 622,
-          "widget": {
-            "name": "rescale_factor"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            173,
-            177,
-            635
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Upscale Image"
-      },
-      "widgets_values": [
-        "4x-ClearRealityV1.pth",
-        "rescale",
-        4,
-        1024,
-        "lanczos",
-        "true",
-        8
-      ]
     },
     {
       "id": 199,
@@ -6269,7 +5872,7 @@
         314
       ],
       "flags": {},
-      "order": 19,
+      "order": 18,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6366,7 +5969,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "anime",
+        "base",
         "No",
         "",
         [
@@ -6393,7 +5996,7 @@
         58
       ],
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6426,7 +6029,7 @@
         314
       ],
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6539,7 +6142,7 @@
         58
       ],
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6574,7 +6177,7 @@
         58
       ],
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6690,7 +6293,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "maid_whiskers_cake_420633006346221_low"
+        "Magnificent Actress Eimi Fukada_135623151309977_low"
       ]
     },
     {
@@ -6705,7 +6308,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6741,7 +6344,7 @@
         106
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -6789,7 +6392,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6800,131 +6403,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        358
-      ],
-      "flags": {},
-      "order": 61,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 356,
@@ -6938,7 +6416,7 @@
         26
       ],
       "flags": {},
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -6976,7 +6454,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -7127,7 +6605,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -7154,41 +6632,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 26,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 365,
@@ -7369,46 +6812,6 @@
       }
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -4216.54345703125,
-        -388.352294921875
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            668,
-            676
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "可爱的动漫女孩，长着毛茸茸的茴香耳朵和蓬松的大尾巴，金色的凌乱长发，蓝色的眼睛，穿着女仆装，黑色金叶图案的长裙，系着白色围裙，张着嘴，手里拿着精美的黑森林蛋糕，上面插着蜡烛。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 99,
       "type": "PrimitiveNode",
       "pos": [
@@ -7420,7 +6823,7 @@
         106
       ],
       "flags": {},
-      "order": 28,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7533,7 +6936,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -7603,7 +7006,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:32b",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能详细地分解和扩展主题中的内容，并描述出来，越详细越好，并且详细描述周围的场景，以增加画面的色彩和丰富程度\n4. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题扩展场景内容，生成图像的提示词\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
-        570457616,
+        570457617,
         "randomize",
         40,
         0.9,
@@ -7640,7 +7043,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7735,7 +7138,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:32b",
         "# Role: 中文翻译官\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个中文翻译官，擅长把英文翻译成中文。\n\n### Translate\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是把我提供的英文提示词翻译成中文\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以中文语句和中文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 把我提供的英文提示词翻译成中文\n\n## Output\n1. 请以plain text格式返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
-        570457616,
+        570457617,
         "randomize",
         40,
         0.9,
@@ -7772,7 +7175,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 30,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7798,7 +7201,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7809,180 +7212,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 390,
-      "type": "Simple String",
-      "pos": [
-        -3775.34716796875,
-        -388.7906188964844
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            709
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL 本地",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://localhost:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 358,
-      "type": "Simple String",
-      "pos": [
-        -3775.34716796875,
-        -336.4611511230469
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 33,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            708
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL 远程",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://192.168.3.226:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 392,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3793.5673828125,
-        -289.14813232421875
-      ],
-      "size": [
-        261.2396545410156,
-        62.958675384521484
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "BOOLEAN",
-          "type": "BOOLEAN",
-          "links": [
-            712
-          ],
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "title": "开关(False：远程, True：本地)",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        true
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 389,
-      "type": "Text Input Switch",
-      "pos": [
-        -3556.202392578125,
-        -361.2727355957031
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 59,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_a",
-          "type": "STRING",
-          "link": 709,
-          "widget": {
-            "name": "text_a"
-          }
-        },
-        {
-          "name": "text_b",
-          "type": "STRING",
-          "link": 708,
-          "widget": {
-            "name": "text_b"
-          }
-        },
-        {
-          "name": "boolean",
-          "type": "BOOLEAN",
-          "link": 712,
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            710
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Input Switch"
-      },
-      "widgets_values": [
-        "",
-        "",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 379,
@@ -7998,7 +7227,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -8037,43 +7266,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 380,
-      "type": "Simple String",
-      "pos": [
-        -3358.132568359375,
-        -390.17315673828125
-      ],
-      "size": [
-        302.45526123046875,
-        58
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            699
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "LLM Model",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "deepseek-r1:32b"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 344,
       "type": "Note",
       "pos": [
@@ -8087,7 +7279,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8168,86 +7360,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4214.029296875,
-        32.980587005615234
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        570457616,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4216.55810546875,
-        -142.92901611328125
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "anime",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 368,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -8261,7 +7373,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -8331,7 +7443,7 @@
         "http://127.0.0.1:11434",
         "deepseek-r1:32b",
         "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
-        570457616,
+        570457617,
         "randomize",
         40,
         0.9,
@@ -8368,7 +7480,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -8469,7 +7581,7 @@
         106
       ],
       "flags": {},
-      "order": 39,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8505,7 +7617,7 @@
         60.429901123046875
       ],
       "flags": {},
-      "order": 40,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8539,8 +7651,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 41,
-      "mode": 4,
+      "order": 32,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8573,51 +7685,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1688.202392578125,
-        36.16735076904297
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 42,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 274,
       "type": "CR Text",
       "pos": [
@@ -8629,7 +7696,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 43,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8747,7 +7814,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 63,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -8814,7 +7881,7 @@
         146.6509246826172
       ],
       "flags": {},
-      "order": 44,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8854,7 +7921,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8875,6 +7942,939 @@
       },
       "color": "#322",
       "bgcolor": "#533"
+    },
+    {
+      "id": 390,
+      "type": "Simple String",
+      "pos": [
+        -3775.34716796875,
+        -388.7906188964844
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 36,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            709
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL 本地",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://localhost:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 358,
+      "type": "Simple String",
+      "pos": [
+        -3775.34716796875,
+        -336.4611511230469
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            708
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL 远程",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://192.168.3.226:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 380,
+      "type": "Simple String",
+      "pos": [
+        -3358.132568359375,
+        -390.17315673828125
+      ],
+      "size": [
+        302.45526123046875,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            699
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "LLM Model",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "deepseek-r1:7b"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 389,
+      "type": "Text Input Switch",
+      "pos": [
+        -3556.202392578125,
+        -361.2727355957031
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_a",
+          "type": "STRING",
+          "link": 709,
+          "widget": {
+            "name": "text_a"
+          }
+        },
+        {
+          "name": "text_b",
+          "type": "STRING",
+          "link": 708,
+          "widget": {
+            "name": "text_b"
+          }
+        },
+        {
+          "name": "boolean",
+          "type": "BOOLEAN",
+          "link": 712,
+          "widget": {
+            "name": "boolean"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            710
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text Input Switch"
+      },
+      "widgets_values": [
+        "",
+        "",
+        true
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4214.029296875,
+        32.980587005615234
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        570457617,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4216.55810546875,
+        -142.92901611328125
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "base",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1688.202392578125,
+        36.16735076904297
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1DevEdgeOfReality_v26.safetensors",
+        "fp8_e4m3fn"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        358
+      ],
+      "flags": {},
+      "order": 61,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 97,
+      "type": "easy showAnything",
+      "pos": [
+        2796.23583984375,
+        3956.20166015625
+      ],
+      "size": [
+        289.333251953125,
+        76.000244140625
+      ],
+      "flags": {},
+      "order": 76,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 236,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3163.927001953125,
+        3413.867431640625
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            622,
+            642
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 67,
+      "type": "easy showAnything",
+      "pos": [
+        3828.96142578125,
+        3600.13818359375
+      ],
+      "size": [
+        289.333251953125,
+        76
+      ],
+      "flags": {},
+      "order": 90,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 174,
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "1104"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 64,
+      "type": "CR Upscale Image",
+      "pos": [
+        3484.88720703125,
+        3619.248046875
+      ],
+      "size": [
+        314.39385986328125,
+        222
+      ],
+      "flags": {},
+      "order": 67,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 493
+        },
+        {
+          "name": "rescale_factor",
+          "type": "FLOAT",
+          "link": 622,
+          "widget": {
+            "name": "rescale_factor"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            173,
+            177,
+            635
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Upscale Image"
+      },
+      "widgets_values": [
+        "RealESRGAN_x4.pth",
+        "rescale",
+        4,
+        1024,
+        "lanczos",
+        "true",
+        16
+      ]
+    },
+    {
+      "id": 347,
+      "type": "Image Comparer (rgthree)",
+      "pos": [
+        5405.6796875,
+        3979.991455078125
+      ],
+      "size": [
+        613.3534545898438,
+        755.3240356445312
+      ],
+      "flags": {},
+      "order": 188,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "image_a",
+          "type": "IMAGE",
+          "link": 631,
+          "dir": 3
+        },
+        {
+          "name": "image_b",
+          "type": "IMAGE",
+          "link": 639,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "直接放大 与 Tile放大对比",
+      "properties": {
+        "comparer_mode": "Slide"
+      },
+      "widgets_values": [
+        [
+          {
+            "name": "A",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_zzzfj_00003_.png&type=temp&subfolder=&rand=0.9763187890516607"
+          },
+          {
+            "name": "B",
+            "selected": true,
+            "url": "/api/view?filename=rgthree.compare._temp_zzzfj_00004_.png&type=temp&subfolder=&rand=0.8777940481927298"
+          }
+        ]
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 75,
+      "type": "KSamplerAdvanced",
+      "pos": [
+        4598.021484375,
+        3945.410888671875
+      ],
+      "size": [
+        315,
+        334
+      ],
+      "flags": {},
+      "order": 180,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 599
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 637
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 597
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 183
+        },
+        {
+          "name": "noise_seed",
+          "type": "INT",
+          "link": 561,
+          "widget": {
+            "name": "noise_seed"
+          }
+        },
+        {
+          "name": "start_at_step",
+          "type": "INT",
+          "link": 508,
+          "widget": {
+            "name": "start_at_step"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 602,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 244,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 245,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            191
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSamplerAdvanced"
+      },
+      "widgets_values": [
+        "enable",
+        915378153791828,
+        "fixed",
+        20,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        40,
+        10000,
+        "disable"
+      ]
+    },
+    {
+      "id": 145,
+      "type": "ControlNetApplySD3",
+      "pos": [
+        2321.468017578125,
+        -336.2202453613281
+      ],
+      "size": [
+        315,
+        186
+      ],
+      "flags": {},
+      "order": 155,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 534
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 532
+        },
+        {
+          "name": "control_net",
+          "type": "CONTROL_NET",
+          "link": 294
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 300
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 295
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "links": [
+            577
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "links": [
+            584
+          ],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ControlNetApplySD3"
+      },
+      "widgets_values": [
+        1,
+        0,
+        0.4
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -4216.54345703125,
+        -388.352294921875
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            668,
+            676
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "美女演员Eimi Fukada在奢华的酒店餐厅里庆祝2025新年，桌上摆满美食和美酒，周围摆满了彩色纸包装的礼物和气球",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 392,
+      "type": "PrimitiveNode",
+      "pos": [
+        -3793.5673828125,
+        -289.14813232421875
+      ],
+      "size": [
+        261.2396545410156,
+        62.958675384521484
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "BOOLEAN",
+          "type": "BOOLEAN",
+          "links": [
+            712
+          ],
+          "widget": {
+            "name": "boolean"
+          }
+        }
+      ],
+      "title": "开关(False：远程, True：本地)",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        true
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -10969,10 +10969,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917354,
+      "scale": 1,
       "offset": [
-        4515.832809440965,
-        469.1520043738291
+        4390.217687481831,
+        707.9311353772238
       ]
     },
     "groupNodes": {},
@@ -10988,10 +10988,10 @@
       "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
       "ComfyUI_LayerStyle": "84d357ad826731a931c305bf11a1101b8ac2976c",
-      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
+      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a"
     },
     "VHS_latentpreview": false,
