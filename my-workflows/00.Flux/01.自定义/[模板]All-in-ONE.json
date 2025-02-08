@@ -14,7 +14,7 @@
         126
       ],
       "flags": {},
-      "order": 80,
+      "order": 79,
       "mode": 2,
       "inputs": [
         {
@@ -69,76 +69,6 @@
       ]
     },
     {
-      "id": 11,
-      "type": "DualCLIPLoader",
-      "pos": [
-        -1098.5316162109375,
-        -46.5359001159668
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 0,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            118
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DualCLIPLoader"
-      },
-      "widgets_values": [
-        "t5xxl_fp16.safetensors",
-        "clip_l.safetensors",
-        "flux",
-        "default"
-      ]
-    },
-    {
-      "id": 10,
-      "type": "VAELoader",
-      "pos": [
-        -1100.14501953125,
-        111.5850830078125
-      ],
-      "size": [
-        311.81634521484375,
-        60.429901123046875
-      ],
-      "flags": {},
-      "order": 1,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            203,
-            300
-          ],
-          "slot_index": 0,
-          "shape": 3
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAELoader"
-      },
-      "widgets_values": [
-        "ae.safetensors"
-      ]
-    },
-    {
       "id": 144,
       "type": "LoadImage",
       "pos": [
@@ -150,7 +80,7 @@
         352.1552734375
       ],
       "flags": {},
-      "order": 2,
+      "order": 0,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -193,7 +123,7 @@
         58
       ],
       "flags": {},
-      "order": 3,
+      "order": 1,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -299,7 +229,7 @@
         26
       ],
       "flags": {},
-      "order": 72,
+      "order": 71,
       "mode": 2,
       "inputs": [
         {
@@ -339,7 +269,7 @@
         314
       ],
       "flags": {},
-      "order": 4,
+      "order": 2,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -380,7 +310,7 @@
         66.572509765625
       ],
       "flags": {},
-      "order": 5,
+      "order": 3,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -412,7 +342,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 6,
+      "order": 4,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -459,7 +389,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 7,
+      "order": 5,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -470,51 +400,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 274,
-      "type": "CR Text",
-      "pos": [
-        -1696.222900390625,
-        553.00732421875
-      ],
-      "size": [
-        315.4391784667969,
-        112.69139862060547
-      ],
-      "flags": {},
-      "order": 8,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            485
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 画质",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 91,
@@ -659,7 +544,7 @@
         82
       ],
       "flags": {},
-      "order": 9,
+      "order": 6,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -692,7 +577,7 @@
         58
       ],
       "flags": {},
-      "order": 10,
+      "order": 7,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -784,7 +669,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -972,7 +857,7 @@
         26
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 2,
       "inputs": [
         {
@@ -1193,7 +1078,7 @@
         399.7327880859375
       ],
       "flags": {},
-      "order": 11,
+      "order": 8,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1241,7 +1126,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 50,
+      "order": 49,
       "mode": 2,
       "inputs": [
         {
@@ -1288,7 +1173,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 49,
+      "order": 48,
       "mode": 2,
       "inputs": [
         {
@@ -1333,7 +1218,7 @@
         58
       ],
       "flags": {},
-      "order": 12,
+      "order": 9,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1365,7 +1250,7 @@
         58
       ],
       "flags": {},
-      "order": 13,
+      "order": 10,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1397,7 +1282,7 @@
         234
       ],
       "flags": {},
-      "order": 65,
+      "order": 64,
       "mode": 2,
       "inputs": [
         {
@@ -1472,7 +1357,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 82,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -1562,7 +1447,7 @@
         58
       ],
       "flags": {},
-      "order": 79,
+      "order": 78,
       "mode": 2,
       "inputs": [
         {
@@ -1892,7 +1777,7 @@
         82
       ],
       "flags": {},
-      "order": 14,
+      "order": 11,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -1925,7 +1810,7 @@
         26
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 2,
       "inputs": [
         {
@@ -1963,7 +1848,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 15,
+      "order": 12,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2338,7 +2223,7 @@
         106
       ],
       "flags": {},
-      "order": 16,
+      "order": 13,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -2548,7 +2433,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 86,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -2586,7 +2471,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -2624,7 +2509,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2663,7 +2548,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2588,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -2784,7 +2669,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -2861,7 +2746,7 @@
         67.7606430053711
       ],
       "flags": {},
-      "order": 17,
+      "order": 14,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -3054,7 +2939,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -3095,7 +2980,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 71,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3302,7 +3187,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -3381,7 +3266,7 @@
         26
       ],
       "flags": {},
-      "order": 99,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -3421,7 +3306,7 @@
         26
       ],
       "flags": {},
-      "order": 78,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -3510,7 +3395,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -3840,7 +3725,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        105875989766766,
+        599524828828468,
         "randomize",
         20,
         1,
@@ -3930,7 +3815,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 82,
       "mode": 2,
       "inputs": [
         {
@@ -4079,7 +3964,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -4120,7 +4005,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -4209,7 +4094,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -4318,7 +4203,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        967184696069998,
+        980897550949992,
         "randomize",
         40,
         1,
@@ -4339,7 +4224,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -4463,7 +4348,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -4616,7 +4501,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 85,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -4777,44 +4662,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 136,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1706.0638427734375,
-        719.4970703125
-      ],
-      "size": [
-        530.082763671875,
-        146.6509246826172
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            282
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "text_negative"
-          }
-        }
-      ],
-      "title": "Negative Prompt",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, "
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 133,
       "type": "Display Int (rgthree)",
       "pos": [
@@ -4826,7 +4673,7 @@
         76
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -4863,7 +4710,7 @@
         142
       ],
       "flags": {},
-      "order": 19,
+      "order": 15,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4900,7 +4747,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        397774718522726,
+        672257516792980,
         "randomize"
       ],
       "color": "#232",
@@ -4918,7 +4765,7 @@
         106
       ],
       "flags": {},
-      "order": 20,
+      "order": 16,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5050,7 +4897,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        227355126746188,
+        180960989004240,
         "randomize",
         25,
         1,
@@ -5232,7 +5079,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 81,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -6031,7 +5878,7 @@
         26
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 2,
       "inputs": [
         {
@@ -6069,7 +5916,7 @@
         26
       ],
       "flags": {},
-      "order": 69,
+      "order": 68,
       "mode": 2,
       "inputs": [
         {
@@ -6146,7 +5993,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 21,
+      "order": 17,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6190,7 +6037,7 @@
         58
       ],
       "flags": {},
-      "order": 22,
+      "order": 18,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6228,7 +6075,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 55,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -6278,7 +6125,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 70,
+      "order": 69,
       "mode": 2,
       "inputs": [
         {
@@ -6317,7 +6164,7 @@
         222
       ],
       "flags": {},
-      "order": 68,
+      "order": 67,
       "mode": 2,
       "inputs": [
         {
@@ -6375,7 +6222,9 @@
         512.3726196289062,
         58
       ],
-      "flags": {},
+      "flags": {
+        "collapsed": true
+      },
       "order": 118,
       "mode": 0,
       "inputs": [
@@ -6420,7 +6269,7 @@
         314
       ],
       "flags": {},
-      "order": 23,
+      "order": 19,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6450,75 +6299,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 275,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1322.1885986328125,
-        501.3463439941406
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 60,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": 484,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 485,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 486,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            664
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a +  c + ',' +  b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
     },
     {
       "id": 90,
@@ -6613,7 +6393,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 20,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6646,7 +6426,7 @@
         314
       ],
       "flags": {},
-      "order": 25,
+      "order": 21,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6759,7 +6539,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6794,7 +6574,7 @@
         58
       ],
       "flags": {},
-      "order": 27,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6816,51 +6596,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1692.947021484375,
-        270.4232482910156
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 28,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 207,
@@ -6970,7 +6705,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7006,7 +6741,7 @@
         106
       ],
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -7054,7 +6789,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 30,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7192,51 +6927,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1702.9051513671875,
-        -288.0257263183594
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 31,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada, Eimi Fukada, wearing black glasses,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 356,
       "type": "Reroute",
       "pos": [
@@ -7248,7 +6938,7 @@
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -7286,7 +6976,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -7426,109 +7116,6 @@
       }
     },
     {
-      "id": 369,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -4197.49609375,
-        144.22671508789062
-      ],
-      "size": [
-        429.6598205566406,
-        76
-      ],
-      "flags": {},
-      "order": 109,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 680,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "文件名",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 370,
-      "type": "CR Split String",
-      "pos": [
-        -3937.6767578125,
-        72.06904602050781
-      ],
-      "size": [
-        601.3021850585938,
-        408.3687438964844
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 102,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 679,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            680,
-            695
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "</think>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 375,
       "type": "Reroute",
       "pos": [
@@ -7540,7 +7127,7 @@
         26
       ],
       "flags": {},
-      "order": 77,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -7569,42 +7156,6 @@
       }
     },
     {
-      "id": 130,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": [
-        -2288.2939453125,
-        513.174560546875
-      ],
-      "size": [
-        515.7156982421875,
-        370
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 93,
       "type": "UNETLoader",
       "pos": [
@@ -7616,7 +7167,7 @@
         82
       ],
       "flags": {},
-      "order": 33,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7829,7 +7380,7 @@
         200
       ],
       "flags": {},
-      "order": 34,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7858,39 +7409,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 373,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3707.848876953125,
-        -44.699859619140625
-      ],
-      "size": [
-        663.0563354492188,
-        343.88311767578125
-      ],
-      "flags": {},
-      "order": 114,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 689,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 99,
       "type": "PrimitiveNode",
       "pos": [
@@ -7902,7 +7420,7 @@
         106
       ],
       "flags": {},
-      "order": 35,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7927,45 +7445,6 @@
       },
       "widgets_values": [
         "ipndm",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1667.141357421875,
-        67.73341369628906
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "anime",
         "fixed",
         ""
       ],
@@ -8041,77 +7520,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 367,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1319.819091796875,
-        573.9827880859375
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 121,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 664,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 704,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            666,
-            667,
-            707
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 363,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -8125,7 +7533,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -8219,113 +7627,6 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 368,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -4188.0263671875,
-        71.79547882080078
-      ],
-      "size": [
-        873.451416015625,
-        1298.7374267578125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 89,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 668,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 694,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 698,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 669,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            679
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
-        "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
-        570457616,
-        "randomize",
-        40,
-        0.9,
-        0.8,
-        -1,
-        1,
-        1,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 387,
       "type": "Note",
       "pos": [
@@ -8339,7 +7640,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 37,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8471,7 +7772,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8497,7 +7798,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8508,47 +7809,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4215.6826171875,
-        -146.63372802734375
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656,
-            661,
-            669
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        570457616,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 390,
@@ -8564,7 +7824,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 41,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8601,7 +7861,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 42,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8636,7 +7896,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 43,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8675,7 +7935,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -8738,7 +7998,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 63,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -8790,7 +8050,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 44,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8827,7 +8087,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8873,6 +8133,748 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 373,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3707.848876953125,
+        -44.699859619140625
+      ],
+      "size": [
+        663.0563354492188,
+        343.88311767578125
+      ],
+      "flags": {},
+      "order": 114,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 689,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4214.029296875,
+        32.980587005615234
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 37,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656,
+            661,
+            669
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        570457616,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4216.55810546875,
+        -142.92901611328125
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 38,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "anime",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 368,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -4186.74560546875,
+        197.46044921875
+      ],
+      "size": [
+        873.451416015625,
+        1298.7374267578125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 86,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 668,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 694,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 698,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 669,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            679
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "deepseek-r1:32b",
+        "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
+        570457616,
+        "randomize",
+        40,
+        0.9,
+        0.8,
+        -1,
+        1,
+        1,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 370,
+      "type": "CR Split String",
+      "pos": [
+        -3956.381103515625,
+        197.82693481445312
+      ],
+      "size": [
+        601.3021850585938,
+        408.3687438964844
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 101,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 679,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            680,
+            695
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "</think>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 369,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -4211.1826171875,
+        255.294189453125
+      ],
+      "size": [
+        429.6598205566406,
+        76
+      ],
+      "flags": {},
+      "order": 109,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 680,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 11,
+      "type": "DualCLIPLoader",
+      "pos": [
+        -1088.9984130859375,
+        -141.1358642578125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            118
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DualCLIPLoader"
+      },
+      "widgets_values": [
+        "t5xxl_fp16.safetensors",
+        "clip_l.safetensors",
+        "flux",
+        "default"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "VAELoader",
+      "pos": [
+        -1082.5450439453125,
+        17.718427658081055
+      ],
+      "size": [
+        311.81634521484375,
+        60.429901123046875
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            203,
+            300
+          ],
+          "slot_index": 0,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "ae.safetensors"
+      ]
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1695.572021484375,
+        -331.29248046875
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada, Eimi Fukada, wearing black glasses,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1688.202392578125,
+        36.16735076904297
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 274,
+      "type": "CR Text",
+      "pos": [
+        -1680.2509765625,
+        317.8641052246094
+      ],
+      "size": [
+        315.4391784667969,
+        112.69139862060547
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            485
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 画质",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 367,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1317.1573486328125,
+        329.0787353515625
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 121,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 664,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 704,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            666,
+            667,
+            707
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 275,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1317.752197265625,
+        196.1035919189453
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": 484,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 485,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 486,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            664
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a +  c + ',' +  b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 136,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1689.204345703125,
+        480.80450439453125
+      ],
+      "size": [
+        530.082763671875,
+        146.6509246826172
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            282
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "text_negative"
+          }
+        }
+      ],
+      "title": "Negative Prompt",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, "
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 130,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": [
+        -2278.53369140625,
+        422.6666564941406
+      ],
+      "size": [
+        515.7156982421875,
+        370
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 45,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "position",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#322",
+      "bgcolor": "#533"
     }
   ],
   "links": [
@@ -10891,8 +10893,8 @@
       "bounding": [
         -1716.0638427734375,
         -475.1511535644531,
-        575.317626953125,
-        1364.55859375
+        578.8668823242188,
+        1266.9520263671875
       ],
       "color": "#8AA",
       "font_size": 24,
@@ -10967,10 +10969,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1,
+      "scale": 0.8264462809917354,
       "offset": [
-        2403.746531116538,
-        132.64524293512204
+        4515.832809440965,
+        469.1520043738291
       ]
     },
     "groupNodes": {},
@@ -10980,7 +10982,6 @@
       "comfy-core": "0.3.12",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
       "ComfyUI-GGUF": "5875c52f59baca3a9372d68c43a3775e21846fe0",
-      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "ComfyUI-KJNodes": "c9c8dcd5e7ed2f7669f130a5ced1e3005264a2de",
       "was-node-suite-comfyui": "056badacda52e88d29d6a65f9509cd3115ace0f2",
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
@@ -10988,6 +10989,7 @@
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
       "ComfyUI_LayerStyle": "84d357ad826731a931c305bf11a1101b8ac2976c",
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+      "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a"
