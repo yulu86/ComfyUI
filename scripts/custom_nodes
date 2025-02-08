@@ -73,4 +73,4 @@ ComfyUI-HunyuanLoom=https://gh-proxy.com/https://github.com/logtd/ComfyUI-Hunyua
 # ComfyUI-Ollama-Describer
 ComfyUI-Ollama-Describer=https://gh-proxy.com/https://github.com/alisson-anjos/ComfyUI-Ollama-Describer.git
 # Comfyui-Deepseek
-Comfyui-Deepseek=https://gh-proxy.com/https://github.com/yichengup/Comfyui-Deepseek.git
+Comfyui-Deepseek=git@github.com:yulu86/Comfyui-Deepseek.git
