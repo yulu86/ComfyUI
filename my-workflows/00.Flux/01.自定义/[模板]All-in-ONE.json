@@ -683,7 +683,7 @@
       ],
       "flags": {},
       "order": 156,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -727,7 +727,7 @@
         "collapsed": true
       },
       "order": 159,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -2193,7 +2193,7 @@
       ],
       "flags": {},
       "order": 147,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -2253,7 +2253,7 @@
       ],
       "flags": {},
       "order": 150,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -3005,7 +3005,7 @@
       ],
       "flags": {},
       "order": 145,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "",
@@ -4358,7 +4358,7 @@
       ],
       "flags": {},
       "order": 95,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "height",
@@ -4545,7 +4545,7 @@
       ],
       "flags": {},
       "order": 160,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -4816,7 +4816,7 @@
       ],
       "flags": {},
       "order": 78,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image_a",
@@ -4866,7 +4866,7 @@
       ],
       "flags": {},
       "order": 89,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -4985,7 +4985,7 @@
       ],
       "flags": {},
       "order": 110,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "pixels",
@@ -5026,7 +5026,7 @@
       ],
       "flags": {},
       "order": 174,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -5072,7 +5072,7 @@
       ],
       "flags": {},
       "order": 175,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -5108,7 +5108,7 @@
       ],
       "flags": {},
       "order": 176,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "tiles",
@@ -5164,7 +5164,7 @@
       ],
       "flags": {},
       "order": 99,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -5201,7 +5201,7 @@
       ],
       "flags": {},
       "order": 88,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -5240,7 +5240,7 @@
       ],
       "flags": {},
       "order": 51,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "",
@@ -5278,7 +5278,7 @@
       ],
       "flags": {},
       "order": 66,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "",
@@ -5317,7 +5317,7 @@
         "collapsed": true
       },
       "order": 169,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "conditioning",
@@ -5355,7 +5355,7 @@
       ],
       "flags": {},
       "order": 17,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -5401,7 +5401,7 @@
         "collapsed": true
       },
       "order": 60,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "_float",
@@ -5723,7 +5723,7 @@
       ],
       "flags": {},
       "order": 130,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -5782,7 +5782,7 @@
       ],
       "flags": {},
       "order": 135,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -6294,7 +6294,7 @@
       ],
       "flags": {},
       "order": 74,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -6333,7 +6333,7 @@
       ],
       "flags": {},
       "order": 87,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -6372,7 +6372,7 @@
       ],
       "flags": {},
       "order": 179,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image_a",
@@ -6864,7 +6864,7 @@
       ],
       "flags": {},
       "order": 180,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image_a",
@@ -7244,7 +7244,7 @@
       ],
       "flags": {},
       "order": 122,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -7259,7 +7259,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,,solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, anime art style, stunning female character with perfect figure, Maldivian water villa setting, infinity pool, bikini attire, holding a cocktail, tropical beach scene, clear blue ocean, white sandy beach, lush palm trees and greenery in the background, modern minimalist architecture of the water house, serene atmosphere, vibrant colors, soft lighting, delicate details on the bikini and accessories, elegant pose with one hand resting on the edge of the pool, calm and relaxed expression, subtle makeup with glowing skin, flowing hair in the breeze, wooden deck around the pool, additional elements like a ladder leading into the water, modern furniture nearby, seamless blend of nature and luxury, warm tones dominating the color palette, high-quality visual details, picturesque view of the ocean horizon"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7277,7 +7277,7 @@
       ],
       "flags": {},
       "order": 171,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -7379,7 +7379,7 @@
       ],
       "flags": {},
       "order": 38,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -7415,7 +7415,7 @@
       ],
       "flags": {},
       "order": 153,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -7506,7 +7506,7 @@
       ],
       "flags": {},
       "order": 77,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -7951,7 +7951,7 @@
         "collapsed": false
       },
       "order": 115,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -7966,7 +7966,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "动漫风格，美女角色拥有完美身材，马尔代夫水屋场景，无边泳池，比基尼装束，热带海滩环境，清澈的蓝色海洋，细腻的白色沙滩，背景中郁郁葱葱的棕榈树和绿植，现代极简主义风格的水上别墅建筑，宁静的氛围，鲜艳的色彩，柔和的光线，比基尼和配饰上的精致细节，优雅的姿态，一只手倚靠在泳池边缘，平静而放松的表情，淡淡的妆容和透亮的肌肤，随风飘动的长发，泳池周围的木制甲板，附近有通往水面的梯子和现代家具，自然与奢华的无缝融合，暖色调为主色系，高质量的画面细节，海平线的美丽全景视图。"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8167,7 +8167,7 @@
       ],
       "flags": {},
       "order": 65,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "image",
@@ -8274,7 +8274,7 @@
         "collapsed": true
       },
       "order": 177,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -8341,7 +8341,7 @@
         "collapsed": true
       },
       "order": 178,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -10382,10 +10382,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.2100000000000004,
+      "scale": 1.1,
       "offset": {
-        "0": 1693.927490234375,
-        "1": -39.1168327331543
+        "0": 3476.460205078125,
+        "1": 43.63070297241211
       }
     },
     "groupNodes": {},
