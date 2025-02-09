@@ -683,7 +683,7 @@
       ],
       "flags": {},
       "order": 156,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "samples",
@@ -727,7 +727,7 @@
         "collapsed": true
       },
       "order": 159,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -1923,7 +1923,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Japanese Beauty Christmas_697814622788451_redux"
+        "Anime_beauty_at_Maldives_pools_1080977232230984_redux"
       ]
     },
     {
@@ -2193,7 +2193,7 @@
       ],
       "flags": {},
       "order": 147,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -2253,7 +2253,7 @@
       ],
       "flags": {},
       "order": 150,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -2274,7 +2274,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Eimi_Fukada_Bali_Getaway_57822674138975_high"
+        "Anime_beauty_at_Maldives_pools_222851807530151_high"
       ]
     },
     {
@@ -3005,7 +3005,7 @@
       ],
       "flags": {},
       "order": 145,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -3587,7 +3587,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        740926037151013,
+        40925637813909,
         "randomize",
         20,
         1,
@@ -4358,7 +4358,7 @@
       ],
       "flags": {},
       "order": 95,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "height",
@@ -4483,7 +4483,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        441166335907847,
+        76355394105652,
         "randomize"
       ],
       "color": "#232",
@@ -4545,7 +4545,7 @@
       ],
       "flags": {},
       "order": 160,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "images",
@@ -4633,7 +4633,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        15281736518059,
+        107799384458460,
         "randomize",
         25,
         1,
@@ -4816,7 +4816,7 @@
       ],
       "flags": {},
       "order": 78,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -4841,151 +4841,17 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vddaq_00003_.png&type=temp&subfolder=&rand=0.8420961796271555"
+            "url": "/api/view?filename=rgthree.compare._temp_fqldc_00007_.png&type=temp&subfolder=&rand=0.5598430957705742"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vddaq_00004_.png&type=temp&subfolder=&rand=0.6407379842012739"
+            "url": "/api/view?filename=rgthree.compare._temp_fqldc_00008_.png&type=temp&subfolder=&rand=0.3291927289162373"
           }
         ]
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 230,
-      "type": "Image Save",
-      "pos": [
-        6071.96923828125,
-        3749.525634765625
-      ],
-      "size": [
-        315,
-        602
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 178,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 430
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 428,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "links": null
-        },
-        {
-          "name": "files",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Image Save (JPG)",
-      "properties": {
-        "Node name for S&R": "Image Save"
-      },
-      "widgets_values": [
-        "[time(%Y-%m-%d)]/03_high",
-        "ComfyUI",
-        "_",
-        4,
-        "false",
-        "jpg",
-        300,
-        100,
-        "true",
-        "false",
-        "false",
-        "false",
-        "true",
-        "false",
-        "false"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 231,
-      "type": "Image Save",
-      "pos": [
-        6071.96923828125,
-        3791.7998046875
-      ],
-      "size": [
-        315,
-        602
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 177,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 429
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "link": 427,
-          "widget": {
-            "name": "filename_prefix"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "links": null
-        },
-        {
-          "name": "files",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Image Save (PNG)",
-      "properties": {
-        "Node name for S&R": "Image Save"
-      },
-      "widgets_values": [
-        "[time(%Y-%m-%d)]/03_high",
-        "ComfyUI",
-        "_",
-        4,
-        "false",
-        "png",
-        300,
-        100,
-        "true",
-        "false",
-        "false",
-        "false",
-        "true",
-        "true",
-        "true"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 69,
@@ -5000,7 +4866,7 @@
       ],
       "flags": {},
       "order": 89,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -5119,7 +4985,7 @@
       ],
       "flags": {},
       "order": 110,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "pixels",
@@ -5160,7 +5026,7 @@
       ],
       "flags": {},
       "order": 174,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "samples",
@@ -5206,7 +5072,7 @@
       ],
       "flags": {},
       "order": 175,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "images",
@@ -5242,7 +5108,7 @@
       ],
       "flags": {},
       "order": 176,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "tiles",
@@ -5298,7 +5164,7 @@
       ],
       "flags": {},
       "order": 99,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -5335,7 +5201,7 @@
       ],
       "flags": {},
       "order": 88,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -5374,7 +5240,7 @@
       ],
       "flags": {},
       "order": 51,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -5412,7 +5278,7 @@
       ],
       "flags": {},
       "order": 66,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "",
@@ -5451,7 +5317,7 @@
         "collapsed": true
       },
       "order": 169,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "conditioning",
@@ -5489,7 +5355,7 @@
       ],
       "flags": {},
       "order": 17,
-      "mode": 2,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -5514,7 +5380,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Eimi_Fukada_Bali_Getaway_1093986982372360_low_0001.png",
+        "Anime_beauty_at_Maldives_pools_905074787971223_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -5535,7 +5401,7 @@
         "collapsed": true
       },
       "order": 60,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "_float",
@@ -5857,7 +5723,7 @@
       ],
       "flags": {},
       "order": 130,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -5916,7 +5782,7 @@
       ],
       "flags": {},
       "order": 135,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "anything",
@@ -5937,7 +5803,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Eimi_Fukada_in_Bali  \nRealistic style, beautiful and attractive female influencer Eimi Fukada, standing at the edge of an infinity pool in front of a water villa in Bali, wearing a stylish and sexy bikini, holding a elegant glass cup with cocktail, stunning tropical beach background with crystal-clear waters, sunny weather with bright reflections, lush greenery and palm trees surrounding the area, soft warm lighting, vibrant high-saturation colors, detailed facial features, confident and relaxed expression, fashionable summer appearance, exotic vacation vibe, luxury resort atmosphere, slight smile on her face, refreshing drink in hand, tropical flowers and coconut trees nearby, modern architecture of the water villa, serene ocean view in the distance, golden hour glow, soft waves and ripples on the pool water, intricate details in the environment, high level of detail and realism, captivating and Instagram-worthy composition, slight low-angle shot to emphasize the beauty of the scene and the luxurious setting._436903107154664_low"
+        "Anime_beauty_at_Maldives_pools_905074787971223_low"
       ]
     },
     {
@@ -5972,52 +5838,6 @@
       },
       "widgets_values": [
         "40"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 98,
-      "type": "easy mathInt",
-      "pos": [
-        -1071.120361328125,
-        374.1222229003906
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {},
-      "order": 55,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "link": 512,
-          "widget": {
-            "name": "a"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            505
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale steps",
-      "properties": {
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        40,
-        16,
-        "add"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -6103,41 +5923,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 382,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4337.44384765625,
-        -384.21026611328125
-      ],
-      "size": [
-        434.6526794433594,
-        183.7159881591797
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 115,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 706,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "图片内容",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 379,
@@ -6509,7 +6294,7 @@
       ],
       "flags": {},
       "order": 74,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -6548,7 +6333,7 @@
       ],
       "flags": {},
       "order": 87,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "anything",
@@ -6575,65 +6360,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 64,
-      "type": "CR Upscale Image",
-      "pos": [
-        3484.88720703125,
-        3619.248046875
-      ],
-      "size": [
-        314.39385986328125,
-        222
-      ],
-      "flags": {},
-      "order": 65,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 493
-        },
-        {
-          "name": "rescale_factor",
-          "type": "FLOAT",
-          "link": 622,
-          "widget": {
-            "name": "rescale_factor"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            173,
-            177,
-            635
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Upscale Image"
-      },
-      "widgets_values": [
-        "RealESRGAN_x4.pth",
-        "rescale",
-        4,
-        1024,
-        "lanczos",
-        "true",
-        16
-      ]
-    },
-    {
       "id": 347,
       "type": "Image Comparer (rgthree)",
       "pos": [
@@ -6646,7 +6372,7 @@
       ],
       "flags": {},
       "order": 179,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -6671,12 +6397,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ykjot_00001_.png&type=temp&subfolder=&rand=0.3698133780844004"
+            "url": "/api/view?filename=rgthree.compare._temp_kgyps_00005_.png&type=temp&subfolder=&rand=0.3366073218267862"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ykjot_00002_.png&type=temp&subfolder=&rand=0.3753834952226103"
+            "url": "/api/view?filename=rgthree.compare._temp_kgyps_00006_.png&type=temp&subfolder=&rand=0.7120807509354987"
           }
         ]
       ],
@@ -6822,7 +6548,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
+        "base",
         "No",
         "",
         [
@@ -6981,115 +6707,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 369,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2384.16357421875,
-        -140.14183044433594
-      ],
-      "size": [
-        429.6598205566406,
-        76
-      ],
-      "flags": {},
-      "order": 104,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 720,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "文件名",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 396,
-      "type": "CR Split String",
-      "pos": [
-        -2414.536865234375,
-        -374.3017883300781
-      ],
-      "size": [
-        247.9823455810547,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 98,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 719,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            720,
-            725
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            721,
-            724
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [
-            722,
-            723
-          ],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "<br/>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 372,
       "type": "CR Split String",
       "pos": [
@@ -7159,39 +6776,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 373,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3741.035400390625,
-        -145.23477172851562
-      ],
-      "size": [
-        688.2203369140625,
-        484.84881591796875
-      ],
-      "flags": {},
-      "order": 97,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 689,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 358,
@@ -7280,7 +6864,7 @@
       ],
       "flags": {},
       "order": 180,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image_a",
@@ -7305,12 +6889,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ihohc_00001_.png&type=temp&subfolder=&rand=0.4108366182076606"
+            "url": "/api/view?filename=rgthree.compare._temp_xhrte_00005_.png&type=temp&subfolder=&rand=0.1311317656758133"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ihohc_00002_.png&type=temp&subfolder=&rand=0.3388262239912152"
+            "url": "/api/view?filename=rgthree.compare._temp_xhrte_00006_.png&type=temp&subfolder=&rand=0.6594536141599943"
           }
         ]
       ],
@@ -7356,139 +6940,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 385,
-      "type": "Note",
-      "pos": [
-        -2441.130615234375,
-        -1222.05029296875
-      ],
-      "size": [
-        1229.749755859375,
-        711.9693603515625
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - AI提示词",
-      "properties": {},
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<br/>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<br/>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 363,
-      "type": "OllamaGenerateAdvance",
-      "pos": [
-        -2830.5458984375,
-        -241.66453552246094
-      ],
-      "size": [
-        657.4258422851562,
-        1128.7105712890625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 75,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "context",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "context"
-          },
-          "shape": 7
-        },
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 676,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "url",
-          "type": "STRING",
-          "link": 718,
-          "widget": {
-            "name": "url"
-          }
-        },
-        {
-          "name": "model",
-          "type": "COMBO",
-          "link": 700,
-          "widget": {
-            "name": "model"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 656,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "response",
-          "type": "STRING",
-          "links": [
-            683
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "context",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "OllamaGenerateAdvance"
-      },
-      "widgets_values": [
-        "",
-        false,
-        "http://127.0.0.1:11434",
-        "",
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<br/>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<br/>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        1125870252,
-        "randomize",
-        60,
-        0.8,
-        0.8,
-        -1,
-        1,
-        0,
-        false,
-        "text",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 392,
       "type": "PrimitiveNode",
       "pos": [
@@ -7500,7 +6951,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7537,7 +6988,7 @@
         82
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7572,7 +7023,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7606,137 +7057,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        382
-      ],
-      "flags": {},
-      "order": 58,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -7748,8 +7068,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 34,
-      "mode": 0,
+      "order": 33,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -7782,45 +7102,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 137,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4216.55810546875,
-        -142.92901611328125
-      ],
-      "size": [
-        433.0302734375,
-        126.60602569580078
-      ],
-      "flags": {},
-      "order": 35,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "COMBO",
-          "type": "COMBO",
-          "links": [
-            283
-          ],
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "title": "Style",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "cinematic",
-        "fixed",
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 274,
       "type": "CR Text",
       "pos": [
@@ -7832,7 +7113,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 36,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7879,7 +7160,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 37,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7905,7 +7186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7929,7 +7210,7 @@
         58
       ],
       "flags": {},
-      "order": 39,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7963,7 +7244,7 @@
       ],
       "flags": {},
       "order": 122,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -7978,49 +7259,10 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,,solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, anime art style, stunning female character with perfect figure, Maldivian water villa setting, infinity pool, bikini attire, holding a cocktail, tropical beach scene, clear blue ocean, white sandy beach, lush palm trees and greenery in the background, modern minimalist architecture of the water house, serene atmosphere, vibrant colors, soft lighting, delicate details on the bikini and accessories, elegant pose with one hand resting on the edge of the pool, calm and relaxed expression, subtle makeup with glowing skin, flowing hair in the breeze, wooden deck around the pool, additional elements like a ladder leading into the water, modern furniture nearby, seamless blend of nature and luxury, warm tones dominating the color palette, high-quality visual details, picturesque view of the ocean horizon"
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4214.029296875,
-        32.980587005615234
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        1125870252,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 75,
@@ -8035,7 +7277,7 @@
       ],
       "flags": {},
       "order": 171,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -8136,8 +7378,8 @@
         58
       ],
       "flags": {},
-      "order": 41,
-      "mode": 2,
+      "order": 38,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8173,7 +7415,7 @@
       ],
       "flags": {},
       "order": 153,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "model",
@@ -8242,7 +7484,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        445008795081642,
+        931189826463466,
         "randomize",
         40,
         1,
@@ -8264,7 +7506,7 @@
       ],
       "flags": {},
       "order": 77,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "image",
@@ -8318,6 +7560,307 @@
       ]
     },
     {
+      "id": 385,
+      "type": "Note",
+      "pos": [
+        -2441.130615234375,
+        -1222.05029296875
+      ],
+      "size": [
+        1229.749755859375,
+        711.9693603515625
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 39,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - AI提示词",
+      "properties": {},
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 369,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2384.16357421875,
+        -140.14183044433594
+      ],
+      "size": [
+        429.6598205566406,
+        76
+      ],
+      "flags": {},
+      "order": 104,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 720,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4214.029296875,
+        32.980587005615234
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 40,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        1125870253,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        382
+      ],
+      "flags": {},
+      "order": 58,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 137,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4216.55810546875,
+        -142.92901611328125
+      ],
+      "size": [
+        433.0302734375,
+        126.60602569580078
+      ],
+      "flags": {},
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "COMBO",
+          "type": "COMBO",
+          "links": [
+            283
+          ],
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "title": "Style",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "base",
+        "fixed",
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 373,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3741.035400390625,
+        -145.23477172851562
+      ],
+      "size": [
+        688.2203369140625,
+        484.84881591796875
+      ],
+      "flags": {},
+      "order": 97,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 689,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
       "id": 380,
       "type": "Simple String",
       "pos": [
@@ -8349,7 +7892,7 @@
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
-        "deepseek-r1:70b"
+        "deepseek-r1:32b"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -8384,7 +7927,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "网红美女Eimi Fukada在巴厘岛度假，穿着性感比基尼站在水屋的无边泳池边，手里拿着精致玻璃杯装的鸡尾酒",
+        "动漫风格的美女，完美的身材，在马尔代夫的水屋的无边泳池边，穿着比基尼，手里拿着鸡尾酒",
         [
           false,
           true
@@ -8392,6 +7935,463 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 382,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4337.44384765625,
+        -384.21026611328125
+      ],
+      "size": [
+        434.6526794433594,
+        183.7159881591797
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 115,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 706,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "图片内容",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "动漫风格，美女角色拥有完美身材，马尔代夫水屋场景，无边泳池，比基尼装束，热带海滩环境，清澈的蓝色海洋，细腻的白色沙滩，背景中郁郁葱葱的棕榈树和绿植，现代极简主义风格的水上别墅建筑，宁静的氛围，鲜艳的色彩，柔和的光线，比基尼和配饰上的精致细节，优雅的姿态，一只手倚靠在泳池边缘，平静而放松的表情，淡淡的妆容和透亮的肌肤，随风飘动的长发，泳池周围的木制甲板，附近有通往水面的梯子和现代家具，自然与奢华的无缝融合，暖色调为主色系，高质量的画面细节，海平线的美丽全景视图。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 363,
+      "type": "OllamaGenerateAdvance",
+      "pos": [
+        -2999.21240234375,
+        -209.66453552246094
+      ],
+      "size": [
+        657.4258422851562,
+        1128.7105712890625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 75,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "context",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "context"
+          },
+          "shape": 7
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 676,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "url",
+          "type": "STRING",
+          "link": 718,
+          "widget": {
+            "name": "url"
+          }
+        },
+        {
+          "name": "model",
+          "type": "COMBO",
+          "link": 700,
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 656,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            683
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "context",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "OllamaGenerateAdvance"
+      },
+      "widgets_values": [
+        "",
+        false,
+        "http://127.0.0.1:11434",
+        "",
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n>>>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n>>>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
+        1125870253,
+        "randomize",
+        60,
+        0.8,
+        0.8,
+        -1,
+        1,
+        0,
+        false,
+        "text",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 396,
+      "type": "CR Split String",
+      "pos": [
+        -2414.536865234375,
+        -374.3017883300781
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 98,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 719,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            720,
+            725
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            721,
+            724
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [
+            722,
+            723
+          ],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        ">>>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 64,
+      "type": "CR Upscale Image",
+      "pos": [
+        3484.88720703125,
+        3619.248046875
+      ],
+      "size": [
+        314.39385986328125,
+        222
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 493
+        },
+        {
+          "name": "rescale_factor",
+          "type": "FLOAT",
+          "link": 622,
+          "widget": {
+            "name": "rescale_factor"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            173,
+            177,
+            635
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Upscale Image"
+      },
+      "widgets_values": [
+        "RealESRGAN_x4.pth",
+        "rescale",
+        4,
+        1024,
+        "lanczos",
+        "true",
+        8
+      ]
+    },
+    {
+      "id": 98,
+      "type": "easy mathInt",
+      "pos": [
+        -1071.120361328125,
+        374.1222229003906
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "link": 512,
+          "widget": {
+            "name": "a"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            505
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale steps",
+      "properties": {
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        40,
+        10,
+        "add"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 231,
+      "type": "Image Save",
+      "pos": [
+        6071.96923828125,
+        3791.7998046875
+      ],
+      "size": [
+        315,
+        602
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 177,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 429
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 427,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "files",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Image Save (PNG)",
+      "properties": {
+        "Node name for S&R": "Image Save"
+      },
+      "widgets_values": [
+        "[time(%Y-%m-%d)]/03_high",
+        "ComfyUI",
+        "_",
+        4,
+        "false",
+        "png",
+        300,
+        100,
+        "true",
+        "false",
+        "false",
+        "false",
+        "true",
+        "true",
+        "true"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 230,
+      "type": "Image Save",
+      "pos": [
+        6071.96923828125,
+        3749.525634765625
+      ],
+      "size": [
+        315,
+        602
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 178,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 430
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "link": 428,
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": null
+        },
+        {
+          "name": "files",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Image Save (JPG)",
+      "properties": {
+        "Node name for S&R": "Image Save"
+      },
+      "widgets_values": [
+        "[time(%Y-%m-%d)]/03_high",
+        "ComfyUI",
+        "_",
+        4,
+        "false",
+        "jpg",
+        300,
+        100,
+        "true",
+        "false",
+        "false",
+        "false",
+        "true",
+        "false",
+        "false"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -10382,11 +10382,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1,
-      "offset": [
-        4863.276670744159,
-        732.3797880916247
-      ]
+      "scale": 1.2100000000000004,
+      "offset": {
+        "0": 1693.927490234375,
+        "1": -39.1168327331543
+      }
     },
     "groupNodes": {},
     "ue_links": [],
