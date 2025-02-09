@@ -5776,7 +5776,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 59,
       "mode": 2,
       "inputs": [
         {
@@ -7029,7 +7029,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
+        "",
         "# Role: 中文翻译官\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个中文翻译官，擅长把英文翻译成中文。\n\n### Translate\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是把我提供的英文提示词翻译成中文\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以中文语句和中文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 把我提供的英文提示词翻译成中文\n\n## Output\n1. 请以plain text格式返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457617,
         "randomize",
@@ -7094,7 +7094,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -7308,7 +7308,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
+        "",
         "# Role: 图片标题生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作评价图像作品。请按照以下信息生成图片标题。\n\n### Generate Title\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个图片标题\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和英文短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文单词返回，最多3个英文单词，单词间用_分隔\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457617,
         "randomize",
@@ -7636,7 +7636,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -7840,43 +7840,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 380,
-      "type": "Simple String",
-      "pos": [
-        -3358.132568359375,
-        -390.17315673828125
-      ],
-      "size": [
-        302.45526123046875,
-        58
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            699
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "LLM Model",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "deepseek-r1:7b"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 389,
       "type": "Text Input Switch",
       "pos": [
@@ -7890,7 +7853,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -7951,7 +7914,7 @@
         82
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8031,7 +7994,7 @@
         58
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8389,7 +8352,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8428,7 +8391,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8522,7 +8485,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
+        "",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等90-120个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题扩展场景内容，生成图像的提示词\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求返回",
         570457617,
         "randomize",
@@ -8559,7 +8522,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8604,7 +8567,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8649,7 +8612,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8688,7 +8651,7 @@
         200
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8728,7 +8691,7 @@
         82
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8763,7 +8726,7 @@
         358
       ],
       "flags": {},
-      "order": 63,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -8875,6 +8838,43 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 380,
+      "type": "Simple String",
+      "pos": [
+        -3358.132568359375,
+        -390.17315673828125
+      ],
+      "size": [
+        302.45526123046875,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 45,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            699
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "LLM Model",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "deepseek-r1:32b"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -10969,10 +10969,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.9090909090909091,
+      "scale": 1.1,
       "offset": [
-        1212.8588993634835,
-        517.1484571529426
+        4549.494180740069,
+        930.1894421067975
       ]
     },
     "groupNodes": {},
