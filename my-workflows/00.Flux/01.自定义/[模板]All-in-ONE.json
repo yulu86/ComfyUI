@@ -1,6 +1,6 @@
 {
-  "last_node_id": 397,
-  "last_link_id": 725,
+  "last_node_id": 398,
+  "last_link_id": 726,
   "nodes": [
     {
       "id": 144,
@@ -2367,7 +2367,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 85,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3128,7 +3128,7 @@
         26
       ],
       "flags": {},
-      "order": 98,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -3587,7 +3587,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        801657597114918,
+        740926037151013,
         "randomize",
         20,
         1,
@@ -3984,97 +3984,6 @@
       }
     },
     {
-      "id": 42,
-      "type": "KSampler",
-      "pos": [
-        3163.82421875,
-        -154.64813232421875
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 153,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 613
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 211
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 217
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 127
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 566,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 610,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 575,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 243,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            128
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        612367232548441,
-        "randomize",
-        40,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        1
-      ]
-    },
-    {
       "id": 330,
       "type": "Reroute",
       "pos": [
@@ -4210,7 +4119,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 86,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4249,7 +4158,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -4574,7 +4483,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        516867274308286,
+        441166335907847,
         "randomize"
       ],
       "color": "#232",
@@ -4724,7 +4633,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        969563249732938,
+        15281736518059,
         "randomize",
         25,
         1,
@@ -5625,7 +5534,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 61,
+      "order": 60,
       "mode": 2,
       "inputs": [
         {
@@ -6028,7 +5937,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Eimi_Fukada_Bali_Getaway_1093986982372360_low"
+        "Eimi_Fukada_in_Bali  \nRealistic style, beautiful and attractive female influencer Eimi Fukada, standing at the edge of an infinity pool in front of a water villa in Bali, wearing a stylish and sexy bikini, holding a elegant glass cup with cocktail, stunning tropical beach background with crystal-clear waters, sunny weather with bright reflections, lush greenery and palm trees surrounding the area, soft warm lighting, vibrant high-saturation colors, detailed facial features, confident and relaxed expression, fashionable summer appearance, exotic vacation vibe, luxury resort atmosphere, slight smile on her face, refreshing drink in hand, tropical flowers and coconut trees nearby, modern architecture of the water villa, serene ocean view in the distance, golden hour glow, soft waves and ripples on the pool water, intricate details in the environment, high level of detail and realism, captivating and Instagram-worthy composition, slight low-angle shot to emphasize the beauty of the scene and the luxurious setting._436903107154664_low"
       ]
     },
     {
@@ -6244,7 +6153,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 57,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -6433,7 +6342,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -6538,7 +6447,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 57,
       "mode": 0,
       "inputs": [
         {
@@ -6599,7 +6508,7 @@
         76.000244140625
       ],
       "flags": {},
-      "order": 75,
+      "order": 74,
       "mode": 2,
       "inputs": [
         {
@@ -6842,43 +6751,6 @@
         1,
         0,
         0.4
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 380,
-      "type": "Simple String",
-      "pos": [
-        -3358.132568359375,
-        -390.17315673828125
-      ],
-      "size": [
-        302.45526123046875,
-        58
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            699
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "LLM Model",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "deepseek-r1:32b"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -7155,7 +7027,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 97,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -7231,7 +7103,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -7300,7 +7172,7 @@
         484.84881591796875
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -7335,7 +7207,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7372,7 +7244,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7457,7 +7329,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7497,7 +7369,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7523,7 +7395,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -7628,7 +7500,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7665,7 +7537,7 @@
         82
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7700,7 +7572,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7745,7 +7617,7 @@
         382
       ],
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -7876,7 +7748,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7921,7 +7793,7 @@
         126.60602569580078
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7960,7 +7832,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8007,7 +7879,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8033,7 +7905,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8044,45 +7916,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -4216.54345703125,
-        -388.352294921875
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "网红美女Eimi Fukada在巴厘岛度假，穿着性感比基尼站在水屋的无边泳池边，手里拿着精致玻璃杯装的橙汁",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 151,
@@ -8096,7 +7929,7 @@
         58
       ],
       "flags": {},
-      "order": 41,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8162,7 +7995,7 @@
         82
       ],
       "flags": {},
-      "order": 42,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8188,72 +8021,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 66,
-      "type": "TTP_Tile_image_size",
-      "pos": [
-        3827.516845703125,
-        3423.8583984375
-      ],
-      "size": [
-        315,
-        126
-      ],
-      "flags": {},
-      "order": 77,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 173
-        },
-        {
-          "name": "width_factor",
-          "type": "INT",
-          "link": 238,
-          "widget": {
-            "name": "width_factor"
-          }
-        },
-        {
-          "name": "height_factor",
-          "type": "INT",
-          "link": 239,
-          "widget": {
-            "name": "height_factor"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "tile_width",
-          "type": "INT",
-          "links": [
-            174,
-            201
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "tile_height",
-          "type": "INT",
-          "links": [
-            176,
-            202
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "TTP_Tile_image_size"
-      },
-      "widgets_values": [
-        3,
-        3,
-        0.05
-      ]
     },
     {
       "id": 75,
@@ -8369,7 +8136,7 @@
         58
       ],
       "flags": {},
-      "order": 43,
+      "order": 41,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8389,6 +8156,239 @@
       },
       "widgets_values": [
         "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 42,
+      "type": "KSampler",
+      "pos": [
+        3163.82421875,
+        -154.64813232421875
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 153,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 613
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 211
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 217
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 127
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 566,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 610,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 575,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 243,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            128
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        445008795081642,
+        "randomize",
+        40,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 66,
+      "type": "TTP_Tile_image_size",
+      "pos": [
+        3827.516845703125,
+        3423.8583984375
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 77,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 173
+        },
+        {
+          "name": "width_factor",
+          "type": "INT",
+          "link": 238,
+          "widget": {
+            "name": "width_factor"
+          }
+        },
+        {
+          "name": "height_factor",
+          "type": "INT",
+          "link": 239,
+          "widget": {
+            "name": "height_factor"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "tile_width",
+          "type": "INT",
+          "links": [
+            174,
+            201
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "tile_height",
+          "type": "INT",
+          "links": [
+            176,
+            202
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "TTP_Tile_image_size"
+      },
+      "widgets_values": [
+        3,
+        3,
+        0.05
+      ]
+    },
+    {
+      "id": 380,
+      "type": "Simple String",
+      "pos": [
+        -3358.132568359375,
+        -390.17315673828125
+      ],
+      "size": [
+        302.45526123046875,
+        58
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            699
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "LLM Model",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "deepseek-r1:70b"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -4216.54345703125,
+        -388.352294921875
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "网红美女Eimi Fukada在巴厘岛度假，穿着性感比基尼站在水屋的无边泳池边，手里拿着精致玻璃杯装的鸡尾酒",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -10383,10 +10383,10 @@
   "extra": {
     "ds": {
       "scale": 1,
-      "offset": {
-        "0": 4294.3515625,
-        "1": 477.3056945800781
-      }
+      "offset": [
+        4863.276670744159,
+        732.3797880916247
+      ]
     },
     "groupNodes": {},
     "ue_links": [],
