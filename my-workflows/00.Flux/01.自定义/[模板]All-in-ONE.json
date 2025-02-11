@@ -4374,7 +4374,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        829084492531027,
+        136570826583620,
         "randomize"
       ],
       "color": "#232",
@@ -5188,7 +5188,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Anime_beauty_at_Maldives_pools_905074787971223_low_0001.png",
+        "Mikami_Yua_coffee_shop_119844913160508_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -5611,7 +5611,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Rebecca_at_Cafe_1004732309112957_low"
+        "Mikami_Yua_Coffee_Scene_318938452904213_low"
       ]
     },
     {
@@ -5777,7 +5777,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 64,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -6099,7 +6099,7 @@
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
         "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "anime",
+        "cinematic",
         "No",
         "",
         [
@@ -6803,7 +6803,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "anime",
+        "cinematic",
         "fixed",
         ""
       ],
@@ -7344,7 +7344,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 4,
       "inputs": [
         {
@@ -7488,9 +7488,9 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
+        "",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n>>>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n>>>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        691072192,
+        691072193,
         "randomize",
         60,
         0.8,
@@ -7988,32 +7988,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 149,
-      "type": "Note",
-      "pos": [
-        -2943.238037109375,
-        -827.6770629882812
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 39,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning\n\n\n1208592001"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 385,
       "type": "Note",
       "pos": [
@@ -8027,7 +8001,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8038,224 +8012,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1691.667724609375,
-        -330.3164367675781
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            484
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "Rebecca, rebecca,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 39,
-      "type": "Power Lora Loader (rgthree)",
-      "pos": [
-        -736.0025024414062,
-        -398.56475830078125
-      ],
-      "size": [
-        340.20001220703125,
-        382
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 426,
-          "dir": 3
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 118,
-          "dir": 3
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            207
-          ],
-          "slot_index": 0,
-          "shape": 3,
-          "dir": 4
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            117,
-            229
-          ],
-          "slot_index": 1,
-          "shape": 3,
-          "dir": 4
-        }
-      ],
-      "properties": {
-        "Show Strengths": "Single Strength"
-      },
-      "widgets_values": [
-        null,
-        {
-          "type": "PowerLoraLoaderHeaderWidget"
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 0.92,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "strength": 1,
-          "strengthTwo": null
-        },
-        {
-          "on": true,
-          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
-          "strength": 0.8,
-          "strengthTwo": null
-        },
-        {
-          "on": false,
-          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
-          "strength": 0.9,
-          "strengthTwo": null
-        },
-        null,
-        ""
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 42,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "赛博朋克2077边缘行者中的Rebecca穿着时尚，在咖啡厅喝咖啡",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 413,
@@ -8272,7 +8028,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 43,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8347,7 +8103,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 44,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8389,7 +8145,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8436,45 +8192,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 360,
-      "type": "PrimitiveNode",
-      "pos": [
-        -4527.974609375,
-        -392.9818420410156
-      ],
-      "size": [
-        394.4327697753906,
-        82
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            656
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "seed"
-          }
-        }
-      ],
-      "title": "Seed",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        691072192,
-        "fixed"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 42,
@@ -8559,7 +8276,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        29346917690643,
+        1099946113013799,
         "randomize",
         40,
         1,
@@ -8899,7 +8616,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1051094428506762,
+        563543156974647,
         "randomize",
         25,
         1,
@@ -8983,7 +8700,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        566007448298208,
+        552751691771024,
         "randomize",
         20,
         1,
@@ -9053,6 +8770,295 @@
         true
       ],
       "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 39,
+      "type": "Power Lora Loader (rgthree)",
+      "pos": [
+        -736.0025024414062,
+        -398.56475830078125
+      ],
+      "size": [
+        340.20001220703125,
+        406
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 426,
+          "dir": 3
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 118,
+          "dir": 3
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            207
+          ],
+          "slot_index": 0,
+          "shape": 3,
+          "dir": 4
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            117,
+            229
+          ],
+          "slot_index": 1,
+          "shape": 3,
+          "dir": 4
+        }
+      ],
+      "properties": {
+        "Show Strengths": "Single Strength"
+      },
+      "widgets_values": [
+        null,
+        {
+          "type": "PowerLoraLoaderHeaderWidget"
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\majicbeauty1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\墨幽-Flux-Lora-网图_MYH-1.1_(This is a high-resolution everyday scene image with a natural style).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\2B_clean-(2B).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 0.92,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\Pov_Cowgirl_FLUX.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\FOCUSON2F1.safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
+          "strength": 1,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "01_Fixed_Character\\Sakura Haruno_(Sakura. An anime screenshot of).safetensors",
+          "strength": 0.8,
+          "strengthTwo": null
+        },
+        {
+          "on": false,
+          "lora": "99_Others\\Akira_Toriyama_Style_(akira toriyama style).safetensors",
+          "strength": 0.9,
+          "strengthTwo": null
+        },
+        {
+          "on": true,
+          "lora": "01_Fixed_Character\\Yua_Mikami_FLUX_(yua_mikami_kk).safetensors",
+          "strength": 0.95,
+          "strengthTwo": null
+        },
+        null,
+        ""
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 149,
+      "type": "Note",
+      "pos": [
+        -2943.238037109375,
+        -827.6770629882812
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 43,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "- 视角：(portait:1.5), (far_shot:1.8), (Boyfriend's point of view), looking at viewer, \n\n- 角色多角度生成：a character sheet, (pure_white_background:1.5), multiple views, from multiple angles, visible face, portrait,\n\n- 墨幽Lora：(This is a high-resolution everyday scene image with a natural style)\n\n- FocusOn：role play of female submission, Male POV perspective,a women naked kneeling in front viewer, She was tied with BDSM style.\n\n- Cowboy：Woman sitting on man, Woman kneeling on man, Woman squatting on man, naked, cowgirl position sex, vaginal, hands behind head, open mouth, moaning\n\n\n- yua_mikami_kk\n\n1208592001"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 44,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "美女Mikami Yua穿着时尚，在咖啡厅喝咖啡",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1691.667724609375,
+        -330.3164367675781
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            484
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "yua_mikami_kk,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 360,
+      "type": "PrimitiveNode",
+      "pos": [
+        -4527.974609375,
+        -392.9818420410156
+      ],
+      "size": [
+        394.4327697753906,
+        82
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            656
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "title": "Seed",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        691072193,
+        "fixed"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -11216,10 +11222,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.683013455365071,
+      "scale": 1.6105100000000008,
       "offset": {
-        "0": 3311.401123046875,
-        "1": 77.82120513916016
+        "0": 3396.756591796875,
+        "1": -3.575425863265991
       }
     },
     "groupNodes": {},
