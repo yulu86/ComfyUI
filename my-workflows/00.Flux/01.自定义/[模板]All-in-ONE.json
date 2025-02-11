@@ -1,6 +1,6 @@
 {
-  "last_node_id": 414,
-  "last_link_id": 752,
+  "last_node_id": 419,
+  "last_link_id": 757,
   "nodes": [
     {
       "id": 144,
@@ -90,7 +90,7 @@
         234
       ],
       "flags": {},
-      "order": 141,
+      "order": 143,
       "mode": 4,
       "inputs": [
         {
@@ -323,7 +323,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 132,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -378,7 +378,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 137,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -416,7 +416,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 142,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -521,7 +521,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 126,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -617,7 +617,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -656,7 +656,7 @@
         46
       ],
       "flags": {},
-      "order": 164,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -700,7 +700,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 167,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -801,7 +801,7 @@
         154
       ],
       "flags": {},
-      "order": 145,
+      "order": 147,
       "mode": 2,
       "inputs": [
         {
@@ -860,7 +860,7 @@
         76
       ],
       "flags": {},
-      "order": 149,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -897,7 +897,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 180,
+      "order": 184,
       "mode": 2,
       "inputs": [
         {
@@ -944,7 +944,7 @@
         46
       ],
       "flags": {},
-      "order": 178,
+      "order": 181,
       "mode": 2,
       "inputs": [
         {
@@ -1265,7 +1265,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 84,
+      "order": 85,
       "mode": 2,
       "inputs": [
         {
@@ -1394,7 +1394,7 @@
         102
       ],
       "flags": {},
-      "order": 96,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -1439,7 +1439,7 @@
         130
       ],
       "flags": {},
-      "order": 95,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -1491,7 +1491,7 @@
         102
       ],
       "flags": {},
-      "order": 106,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -1537,7 +1537,7 @@
         26
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -1573,7 +1573,7 @@
         138
       ],
       "flags": {},
-      "order": 118,
+      "order": 119,
       "mode": 2,
       "inputs": [
         {
@@ -1647,7 +1647,7 @@
         58
       ],
       "flags": {},
-      "order": 114,
+      "order": 115,
       "mode": 2,
       "inputs": [
         {
@@ -1789,7 +1789,7 @@
         246
       ],
       "flags": {},
-      "order": 134,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -1816,7 +1816,7 @@
         154
       ],
       "flags": {},
-      "order": 147,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -1875,7 +1875,7 @@
         76
       ],
       "flags": {},
-      "order": 151,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -1914,7 +1914,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 152,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -1979,7 +1979,7 @@
         26
       ],
       "flags": {},
-      "order": 107,
+      "order": 108,
       "mode": 2,
       "inputs": [
         {
@@ -2017,7 +2017,7 @@
         26
       ],
       "flags": {},
-      "order": 108,
+      "order": 109,
       "mode": 2,
       "inputs": [
         {
@@ -2055,7 +2055,7 @@
         26
       ],
       "flags": {},
-      "order": 98,
+      "order": 99,
       "mode": 2,
       "inputs": [
         {
@@ -2093,7 +2093,7 @@
         26
       ],
       "flags": {},
-      "order": 99,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -2166,7 +2166,7 @@
         154
       ],
       "flags": {},
-      "order": 155,
+      "order": 157,
       "mode": 2,
       "inputs": [
         {
@@ -2226,7 +2226,7 @@
         76
       ],
       "flags": {},
-      "order": 158,
+      "order": 160,
       "mode": 2,
       "inputs": [
         {
@@ -2265,7 +2265,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 172,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -2303,7 +2303,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 171,
+      "order": 174,
       "mode": 0,
       "inputs": [
         {
@@ -2341,7 +2341,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 90,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -2539,7 +2539,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -2618,7 +2618,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 150,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -2691,7 +2691,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -2733,7 +2733,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -2775,7 +2775,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 86,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -2857,7 +2857,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 157,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -2897,7 +2897,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -2937,7 +2937,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 165,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -2978,7 +2978,7 @@
         26
       ],
       "flags": {},
-      "order": 153,
+      "order": 155,
       "mode": 2,
       "inputs": [
         {
@@ -3062,7 +3062,7 @@
         26
       ],
       "flags": {},
-      "order": 174,
+      "order": 177,
       "mode": 0,
       "inputs": [
         {
@@ -3102,7 +3102,7 @@
         26
       ],
       "flags": {},
-      "order": 103,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -3142,7 +3142,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -3185,7 +3185,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -3277,7 +3277,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -3319,7 +3319,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 140,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -3365,7 +3365,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 181,
+      "order": 185,
       "mode": 2,
       "inputs": [
         {
@@ -3430,7 +3430,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 113,
+      "order": 114,
       "mode": 2,
       "inputs": [
         {
@@ -3457,7 +3457,7 @@
         46
       ],
       "flags": {},
-      "order": 128,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -3488,89 +3488,6 @@
       "widgets_values": []
     },
     {
-      "id": 165,
-      "type": "KSampler",
-      "pos": [
-        5149.830078125,
-        1854.0775146484375
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 125,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 323
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 324
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 325
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 326
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 559,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 422,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 423,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            339
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        567554412694692,
-        "randomize",
-        20,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        1
-      ]
-    },
-    {
       "id": 177,
       "type": "ImageCrop",
       "pos": [
@@ -3582,7 +3499,7 @@
         130
       ],
       "flags": {},
-      "order": 133,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -3651,7 +3568,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -3745,7 +3662,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 130,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -3887,7 +3804,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -4009,7 +3926,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 169,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -4051,7 +3968,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 166,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -4093,7 +4010,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 91,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -4172,7 +4089,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -4201,7 +4118,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -4246,7 +4163,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -4291,7 +4208,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -4331,7 +4248,7 @@
         106
       ],
       "flags": {},
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -4457,7 +4374,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        385101380868382,
+        829084492531027,
         "randomize"
       ],
       "color": "#232",
@@ -4518,7 +4435,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 168,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -4534,89 +4451,6 @@
       "widgets_values": []
     },
     {
-      "id": 247,
-      "type": "KSampler",
-      "pos": [
-        3759.2041015625,
-        829.602783203125
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 176,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 438
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 439
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 440
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 441
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 545,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 476,
-          "widget": {
-            "name": "scheduler"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 475,
-          "widget": {
-            "name": "sampler_name"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            455
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        635138324517598,
-        "randomize",
-        25,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        1
-      ]
-    },
-    {
       "id": 249,
       "type": "InpaintModelConditioning",
       "pos": [
@@ -4628,7 +4462,7 @@
         138
       ],
       "flags": {},
-      "order": 173,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -4704,7 +4538,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -4742,7 +4576,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 138,
+      "order": 140,
       "mode": 2,
       "inputs": [
         {
@@ -4839,7 +4673,7 @@
         142
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -4918,7 +4752,7 @@
         26
       ],
       "flags": {},
-      "order": 175,
+      "order": 178,
       "mode": 0,
       "inputs": [
         {
@@ -4958,7 +4792,7 @@
         46
       ],
       "flags": {},
-      "order": 112,
+      "order": 113,
       "mode": 2,
       "inputs": [
         {
@@ -4999,7 +4833,7 @@
         150
       ],
       "flags": {},
-      "order": 182,
+      "order": 186,
       "mode": 2,
       "inputs": [
         {
@@ -5045,7 +4879,7 @@
         26
       ],
       "flags": {},
-      "order": 183,
+      "order": 188,
       "mode": 2,
       "inputs": [
         {
@@ -5081,7 +4915,7 @@
         118
       ],
       "flags": {},
-      "order": 184,
+      "order": 189,
       "mode": 2,
       "inputs": [
         {
@@ -5137,7 +4971,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -5174,7 +5008,7 @@
         76
       ],
       "flags": {},
-      "order": 93,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -5290,7 +5124,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 177,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -5426,7 +5260,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -5553,7 +5387,7 @@
         234
       ],
       "flags": {},
-      "order": 146,
+      "order": 148,
       "mode": 4,
       "inputs": [
         {
@@ -5696,7 +5530,7 @@
         154
       ],
       "flags": {},
-      "order": 139,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -5755,7 +5589,7 @@
         76
       ],
       "flags": {},
-      "order": 143,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -5777,7 +5611,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Rebecca_in_a_Cyberpunk_Cafe_554749372133444_low"
+        "Rebecca_at_Cafe_1004732309112957_low"
       ]
     },
     {
@@ -6049,7 +5883,7 @@
         76
       ],
       "flags": {},
-      "order": 92,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -6088,7 +5922,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 187,
+      "order": 192,
       "mode": 2,
       "inputs": [
         {
@@ -6138,7 +5972,7 @@
         186
       ],
       "flags": {},
-      "order": 154,
+      "order": 156,
       "mode": 4,
       "inputs": [
         {
@@ -6212,7 +6046,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 127,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -6366,7 +6200,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 188,
+      "order": 193,
       "mode": 2,
       "inputs": [
         {
@@ -6532,7 +6366,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 131,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -6552,108 +6386,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 75,
-      "type": "KSamplerAdvanced",
-      "pos": [
-        4598.021484375,
-        3945.410888671875
-      ],
-      "size": [
-        315,
-        334
-      ],
-      "flags": {},
-      "order": 179,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 599
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 637
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 597
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 183
-        },
-        {
-          "name": "noise_seed",
-          "type": "INT",
-          "link": 561,
-          "widget": {
-            "name": "noise_seed"
-          }
-        },
-        {
-          "name": "start_at_step",
-          "type": "INT",
-          "link": 508,
-          "widget": {
-            "name": "start_at_step"
-          }
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 602,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 244,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 245,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            191
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSamplerAdvanced"
-      },
-      "widgets_values": [
-        "enable",
-        915378153791828,
-        "fixed",
-        20,
-        0.6,
-        "ipndm",
-        "ddim_uniform",
-        40,
-        10000,
-        "disable"
-      ]
     },
     {
       "id": 338,
@@ -6690,97 +6422,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 42,
-      "type": "KSampler",
-      "pos": [
-        3163.82421875,
-        -154.64813232421875
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 161,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 613
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 211
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 217
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 127
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "link": 566,
-          "widget": {
-            "name": "steps"
-          }
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "link": 610,
-          "widget": {
-            "name": "seed"
-          }
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "link": 575,
-          "widget": {
-            "name": "sampler_name"
-          }
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "link": 243,
-          "widget": {
-            "name": "scheduler"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            128
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        484102093381918,
-        "randomize",
-        40,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        1
-      ]
     },
     {
       "id": 66,
@@ -6862,7 +6503,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 123,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -6882,65 +6523,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 64,
-      "type": "CR Upscale Image",
-      "pos": [
-        3484.88720703125,
-        3619.248046875
-      ],
-      "size": [
-        314.39385986328125,
-        222
-      ],
-      "flags": {},
-      "order": 69,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 493
-        },
-        {
-          "name": "rescale_factor",
-          "type": "FLOAT",
-          "link": 622,
-          "widget": {
-            "name": "rescale_factor"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            173,
-            177,
-            635
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Upscale Image"
-      },
-      "widgets_values": [
-        "RealESRGAN_x4.pth",
-        "rescale",
-        4,
-        1024,
-        "lanczos",
-        "true",
-        8
-      ]
     },
     {
       "id": 98,
@@ -7002,7 +6584,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 185,
+      "order": 190,
       "mode": 2,
       "inputs": [
         {
@@ -7069,7 +6651,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 186,
+      "order": 191,
       "mode": 2,
       "inputs": [
         {
@@ -7137,7 +6719,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 111,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -7242,7 +6824,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -7312,7 +6894,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 110,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -7462,7 +7044,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 116,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -7504,7 +7086,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 117,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -7543,7 +7125,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -7578,7 +7160,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 115,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -7621,7 +7203,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 109,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -7943,7 +7525,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -8160,7 +7742,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -8231,7 +7813,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -8729,7 +8311,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 120,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -8834,7 +8416,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 122,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -8893,6 +8475,584 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 42,
+      "type": "KSampler",
+      "pos": [
+        3163.82421875,
+        -154.64813232421875
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 163,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 613
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 211
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 217
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 127
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 566,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 610,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 575,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 243,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            128,
+            753
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        29346917690643,
+        "randomize",
+        40,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 64,
+      "type": "CR Upscale Image",
+      "pos": [
+        3484.88720703125,
+        3619.248046875
+      ],
+      "size": [
+        314.39385986328125,
+        222
+      ],
+      "flags": {},
+      "order": 69,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 493
+        },
+        {
+          "name": "rescale_factor",
+          "type": "FLOAT",
+          "link": 622,
+          "widget": {
+            "name": "rescale_factor"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            173,
+            177,
+            635,
+            754
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Upscale Image"
+      },
+      "widgets_values": [
+        "RealESRGAN_x4.pth",
+        "rescale",
+        4,
+        1024,
+        "lanczos",
+        "true",
+        8
+      ]
+    },
+    {
+      "id": 416,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        4187.0263671875,
+        4194.26220703125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 84,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 754
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 75,
+      "type": "KSamplerAdvanced",
+      "pos": [
+        4598.021484375,
+        3945.410888671875
+      ],
+      "size": [
+        315,
+        334
+      ],
+      "flags": {},
+      "order": 183,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 599
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 637
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 597
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 183
+        },
+        {
+          "name": "noise_seed",
+          "type": "INT",
+          "link": 561,
+          "widget": {
+            "name": "noise_seed"
+          }
+        },
+        {
+          "name": "start_at_step",
+          "type": "INT",
+          "link": 508,
+          "widget": {
+            "name": "start_at_step"
+          }
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "link": 602,
+          "widget": {
+            "name": "steps"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 244,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 245,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            191,
+            755
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSamplerAdvanced"
+      },
+      "widgets_values": [
+        "enable",
+        915378153791828,
+        "fixed",
+        20,
+        0.6,
+        "ipndm",
+        "ddim_uniform",
+        40,
+        10000,
+        "disable"
+      ]
+    },
+    {
+      "id": 417,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        4996.30322265625,
+        4194.26220703125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 187,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 755
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 418,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        4085.87744140625,
+        1163.0743408203125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 182,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 756
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 247,
+      "type": "KSampler",
+      "pos": [
+        3759.2041015625,
+        829.602783203125
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 179,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 438
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 439
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 440
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 441
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 545,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 476,
+          "widget": {
+            "name": "scheduler"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 475,
+          "widget": {
+            "name": "sampler_name"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            455,
+            756
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        1051094428506762,
+        "randomize",
+        25,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 165,
+      "type": "KSampler",
+      "pos": [
+        5149.830078125,
+        1854.0775146484375
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 126,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 323
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 324
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 325
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 326
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "link": 559,
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "link": 422,
+          "widget": {
+            "name": "sampler_name"
+          }
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "link": 423,
+          "widget": {
+            "name": "scheduler"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            339,
+            757
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        566007448298208,
+        "randomize",
+        20,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        1
+      ]
+    },
+    {
+      "id": 419,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        5538.68212890625,
+        2229.48974609375
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 130,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 757
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 415,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        3513.283203125,
+        137.85739135742188
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 167,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 753
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
     }
   ],
   "links": [
@@ -10879,6 +11039,46 @@
       396,
       1,
       "STRING"
+    ],
+    [
+      753,
+      42,
+      0,
+      415,
+      0,
+      "*"
+    ],
+    [
+      754,
+      64,
+      0,
+      416,
+      0,
+      "*"
+    ],
+    [
+      755,
+      75,
+      0,
+      417,
+      0,
+      "*"
+    ],
+    [
+      756,
+      247,
+      0,
+      418,
+      0,
+      "*"
+    ],
+    [
+      757,
+      165,
+      0,
+      419,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -11016,10 +11216,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.210000000000001,
+      "scale": 0.683013455365071,
       "offset": {
-        "0": -2498.303955078125,
-        "1": 820.846923828125
+        "0": 3311.401123046875,
+        "1": 77.82120513916016
       }
     },
     "groupNodes": {},
