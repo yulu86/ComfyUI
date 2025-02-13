@@ -1,6 +1,6 @@
 {
-  "last_node_id": 422,
-  "last_link_id": 785,
+  "last_node_id": 424,
+  "last_link_id": 788,
   "nodes": [
     {
       "id": 144,
@@ -90,7 +90,7 @@
         234
       ],
       "flags": {},
-      "order": 130,
+      "order": 132,
       "mode": 4,
       "inputs": [
         {
@@ -323,7 +323,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -378,7 +378,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -416,7 +416,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -505,62 +505,6 @@
       "widgets_values": [
         "ae.safetensors"
       ]
-    },
-    {
-      "id": 304,
-      "type": "JoinStrings",
-      "pos": [
-        -191.57208251953125,
-        -554.3770751953125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 114,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "string1",
-          "type": "STRING",
-          "link": 549,
-          "widget": {
-            "name": "string1"
-          }
-        },
-        {
-          "name": "string2",
-          "type": "STRING",
-          "link": 548,
-          "widget": {
-            "name": "string2"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            550
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "JoinStrings"
-      },
-      "widgets_values": [
-        "",
-        "",
-        "_"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 303,
@@ -656,7 +600,7 @@
         46
       ],
       "flags": {},
-      "order": 153,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -700,7 +644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 157,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -801,7 +745,7 @@
         154
       ],
       "flags": {},
-      "order": 134,
+      "order": 136,
       "mode": 2,
       "inputs": [
         {
@@ -860,7 +804,7 @@
         76
       ],
       "flags": {},
-      "order": 138,
+      "order": 140,
       "mode": 2,
       "inputs": [
         {
@@ -897,7 +841,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 172,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -944,7 +888,7 @@
         46
       ],
       "flags": {},
-      "order": 170,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -1789,7 +1733,7 @@
         246
       ],
       "flags": {},
-      "order": 123,
+      "order": 125,
       "mode": 2,
       "inputs": [
         {
@@ -1816,7 +1760,7 @@
         154
       ],
       "flags": {},
-      "order": 136,
+      "order": 138,
       "mode": 2,
       "inputs": [
         {
@@ -1875,7 +1819,7 @@
         76
       ],
       "flags": {},
-      "order": 140,
+      "order": 142,
       "mode": 2,
       "inputs": [
         {
@@ -1914,7 +1858,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 141,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -2158,8 +2102,8 @@
       "id": 279,
       "type": "Reroute",
       "pos": [
-        3153.477294921875,
-        3100.5478515625
+        2957.37646484375,
+        2790.8681640625
       ],
       "size": [
         75,
@@ -2168,7 +2112,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -2196,8 +2140,8 @@
       "id": 280,
       "type": "Reroute",
       "pos": [
-        3153.477294921875,
-        3131.85498046875
+        2957.37646484375,
+        2822.17529296875
       ],
       "size": [
         75,
@@ -2206,7 +2150,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -2234,8 +2178,8 @@
       "id": 281,
       "type": "Reroute",
       "pos": [
-        3153.477294921875,
-        3163.780517578125
+        2957.37646484375,
+        2854.100830078125
       ],
       "size": [
         75,
@@ -2272,8 +2216,8 @@
       "id": 282,
       "type": "Reroute",
       "pos": [
-        3153.477294921875,
-        3195.52490234375
+        2957.37646484375,
+        2885.84521484375
       ],
       "size": [
         75,
@@ -2310,8 +2254,8 @@
       "id": 283,
       "type": "Reroute",
       "pos": [
-        3153.477294921875,
-        3228.510009765625
+        2957.37646484375,
+        2918.830322265625
       ],
       "size": [
         75,
@@ -2320,7 +2264,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -2399,7 +2343,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -2441,7 +2385,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -2520,7 +2464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -2593,7 +2537,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -2635,7 +2579,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 145,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -2759,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -2799,7 +2743,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -2839,7 +2783,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -2869,47 +2813,6 @@
       }
     },
     {
-      "id": 310,
-      "type": "Reroute",
-      "pos": [
-        3153.477294921875,
-        3067.6455078125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 68,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 567,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "INT",
-          "links": [
-            772
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 212,
       "type": "Reroute",
       "pos": [
@@ -2923,7 +2826,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -3015,7 +2918,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -3057,7 +2960,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -3103,7 +3006,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 173,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -3237,7 +3140,7 @@
         130
       ],
       "flags": {},
-      "order": 122,
+      "order": 124,
       "mode": 2,
       "inputs": [
         {
@@ -3542,7 +3445,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -3585,7 +3488,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 78,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3664,7 +3567,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -3706,7 +3609,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -3843,51 +3746,6 @@
       "widgets_values": []
     },
     {
-      "id": 321,
-      "type": "Reroute",
-      "pos": [
-        6805.26171875,
-        2781.290283203125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 137,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 587,
-          "pos": [
-            37.5,
-            0
-          ],
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            589
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
       "id": 302,
       "type": "Reroute",
       "pos": [
@@ -3901,7 +3759,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 149,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -4067,7 +3925,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        58928587746774,
+        53553777523642,
         "randomize"
       ],
       "color": "#232",
@@ -4128,7 +3986,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 158,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -4155,7 +4013,7 @@
         138
       ],
       "flags": {},
-      "order": 163,
+      "order": 165,
       "mode": 2,
       "inputs": [
         {
@@ -4231,7 +4089,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 160,
+      "order": 162,
       "mode": 2,
       "inputs": [
         {
@@ -4269,7 +4127,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 127,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -4303,42 +4161,6 @@
           }
         ]
       ]
-    },
-    {
-      "id": 278,
-      "type": "Reroute",
-      "pos": [
-        3174.574462890625,
-        3855.896484375
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 64,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 492
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "IMAGE",
-          "links": [
-            638
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
     },
     {
       "id": 199,
@@ -4481,7 +4303,7 @@
         234
       ],
       "flags": {},
-      "order": 135,
+      "order": 137,
       "mode": 4,
       "inputs": [
         {
@@ -4624,7 +4446,7 @@
         154
       ],
       "flags": {},
-      "order": 128,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -4683,7 +4505,7 @@
         76
       ],
       "flags": {},
-      "order": 132,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -4705,7 +4527,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Fashionable_Coffee_Lovers_803991453846318_low"
+        "Beautiful_Woman_Coffee_Shop_58928587746774_low"
       ]
     },
     {
@@ -4902,7 +4724,7 @@
         186
       ],
       "flags": {},
-      "order": 143,
+      "order": 145,
       "mode": 4,
       "inputs": [
         {
@@ -4961,88 +4783,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 90,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -601.866455078125,
-        89.03245544433594
-      ],
-      "size": [
-        391.8108215332031,
-        606.1542358398438
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 115,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_positive",
-          "type": "STRING",
-          "link": 667,
-          "widget": {
-            "name": "text_positive"
-          }
-        },
-        {
-          "name": "text_negative",
-          "type": "STRING",
-          "link": 282,
-          "widget": {
-            "name": "text_negative"
-          }
-        },
-        {
-          "name": "style",
-          "type": "COMBO",
-          "link": 283,
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            222,
-            715
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            230
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 358,
@@ -5119,44 +4859,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 136,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1685.300048828125,
-        481.7805480957031
-      ],
-      "size": [
-        528.2103271484375,
-        279.6590576171875
-      ],
-      "flags": {},
-      "order": 25,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            282
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "text_negative"
-          }
-        }
-      ],
-      "title": "Negative Prompt",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, "
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -5168,7 +4870,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5213,7 +4915,7 @@
         58
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5233,39 +4935,6 @@
       "widgets_values": [
         "flux1-redux-dev.safetensors"
       ]
-    },
-    {
-      "id": 384,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4339.6640625,
-        -160.04782104492188
-      ],
-      "size": [
-        428.7169189453125,
-        368.8460998535156
-      ],
-      "flags": {},
-      "order": 120,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 715,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 382,
@@ -5380,7 +5049,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5555,7 +5224,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5864,7 +5533,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5900,7 +5569,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6238,7 +5907,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6493,7 +6162,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6517,7 +6186,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6562,7 +6231,7 @@
         82
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6599,7 +6268,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6626,7 +6295,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6701,7 +6370,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6743,7 +6412,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6803,7 +6472,7 @@
         262
       ],
       "flags": {},
-      "order": 150,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -6874,7 +6543,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        977952034765739,
+        926880104203839,
         "randomize",
         40,
         1,
@@ -6895,7 +6564,7 @@
         82
       ],
       "flags": {},
-      "order": 171,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -6926,7 +6595,7 @@
         262
       ],
       "flags": {},
-      "order": 165,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -6989,7 +6658,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1078476696270076,
+        240306214154722,
         "randomize",
         25,
         1,
@@ -7073,7 +6742,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        966591374517820,
+        295309959350425,
         "randomize",
         20,
         1,
@@ -7125,7 +6794,7 @@
         82
       ],
       "flags": {},
-      "order": 154,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -7295,7 +6964,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7321,7 +6990,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7361,7 +7030,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7406,7 +7075,7 @@
         82
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7434,91 +7103,11 @@
       "bgcolor": "#353"
     },
     {
-      "id": 195,
-      "type": "LoadImage",
-      "pos": [
-        2747.57568359375,
-        3399.427001953125
-      ],
-      "size": [
-        366.3084411621094,
-        388.9892578125
-      ],
-      "flags": {},
-      "order": 44,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            492,
-            758
-          ],
-          "slot_index": 0,
-          "shape": 3
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [],
-          "slot_index": 1,
-          "shape": 3
-        }
-      ],
-      "title": "加载需要高清化的图像",
-      "properties": {
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Fashionable_Coffee_Lovers_803991453846318_low_0001.png",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3163.927001953125,
-        3413.867431640625
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "4"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 231,
       "type": "Image Save",
       "pos": [
-        4907.4599609375,
-        3503.62255859375
+        4916.3349609375,
+        3182.40771484375
       ],
       "size": [
         315,
@@ -7527,7 +7116,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 168,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -7581,118 +7170,18 @@
       "bgcolor": "#335"
     },
     {
-      "id": 421,
-      "type": "UpscaleModelLoader",
-      "pos": [
-        3176.750732421875,
-        3567.185791015625
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "UPSCALE_MODEL",
-          "type": "UPSCALE_MODEL",
-          "links": [
-            767
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UpscaleModelLoader"
-      },
-      "widgets_values": [
-        "RealESRGAN_x4.pth"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 351,
-      "type": "Reroute",
-      "pos": [
-        4020.781005859375,
-        3855.7529296875
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 77,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 638
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "IMAGE",
-          "links": [
-            640
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 417,
-      "type": "LayerUtility: PurgeVRAM",
-      "pos": [
-        4011.3154296875,
-        3567.1279296875
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 166,
-      "mode": 2,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 773
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "LayerUtility: PurgeVRAM"
-      },
-      "widgets_values": [
-        false,
-        true
-      ],
-      "color": "rgba(38, 73, 116, 0.7)"
-    },
-    {
       "id": 209,
       "type": "Evaluate Strings",
       "pos": [
-        4415.68408203125,
-        3600.605224609375
+        4424.55908203125,
+        3279.390380859375
       ],
       "size": [
         315,
         154
       ],
       "flags": {},
-      "order": 144,
+      "order": 146,
       "mode": 2,
       "inputs": [
         {
@@ -7744,15 +7233,15 @@
       "id": 210,
       "type": "easy showAnything",
       "pos": [
-        4423.62841796875,
-        3812.118408203125
+        4432.50341796875,
+        3490.903564453125
       ],
       "size": [
         289.333251953125,
         76
       ],
       "flags": {},
-      "order": 147,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -7774,22 +7263,22 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Fashionable_Coffee_Lovers_867283344144598_high"
+        "Beautiful_Woman_Coffee_Shop_933222124236543_high"
       ]
     },
     {
       "id": 219,
       "type": "Reroute",
       "pos": [
-        4346.87451171875,
-        3434.86767578125
+        4355.74951171875,
+        3113.65283203125
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 142,
+      "order": 144,
       "mode": 2,
       "inputs": [
         {
@@ -7824,8 +7313,8 @@
       "id": 230,
       "type": "Image Save",
       "pos": [
-        4907.4599609375,
-        3461.34814453125
+        4916.3349609375,
+        3140.13330078125
       ],
       "size": [
         315,
@@ -7834,7 +7323,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 169,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -7891,15 +7380,15 @@
       "id": 348,
       "type": "Image Comparer (rgthree)",
       "pos": [
-        5122.93212890625,
-        3442.6171875
+        5131.80712890625,
+        3121.40234375
       ],
       "size": [
         613.3534545898438,
         755.3240356445312
       ],
       "flags": {},
-      "order": 167,
+      "order": 169,
       "mode": 2,
       "inputs": [
         {
@@ -7925,12 +7414,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dghpa_00001_.png&type=temp&subfolder=&rand=0.9020650908175962"
+            "url": "/api/view?filename=rgthree.compare._temp_gpsvt_00003_.png&type=temp&subfolder=&rand=0.25461053346253637"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dghpa_00002_.png&type=temp&subfolder=&rand=0.6440577585335783"
+            "url": "/api/view?filename=rgthree.compare._temp_gpsvt_00004_.png&type=temp&subfolder=&rand=0.35337053817618025"
           }
         ]
       ],
@@ -7949,7 +7438,7 @@
         58
       ],
       "flags": {},
-      "order": 47,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7973,18 +7462,598 @@
       "bgcolor": "#353"
     },
     {
+      "id": 422,
+      "type": "Int",
+      "pos": [
+        -1071.120361328125,
+        379.29718017578125
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            785
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Steps",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "10"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 310,
+      "type": "Reroute",
+      "pos": [
+        2957.37646484375,
+        2757.9658203125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 68,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 567,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "INT",
+          "links": [
+            772
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 321,
+      "type": "Reroute",
+      "pos": [
+        6756.9453125,
+        2492.474853515625
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 139,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 587,
+          "pos": [
+            37.5,
+            0
+          ],
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            589
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": true
+      }
+    },
+    {
+      "id": 417,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        4057.29638671875,
+        3248.333984375
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 168,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 773
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 278,
+      "type": "Reroute",
+      "pos": [
+        3195.5478515625,
+        3755.70849609375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 66,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 492
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "IMAGE",
+          "links": [
+            786
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 351,
+      "type": "Reroute",
+      "pos": [
+        4654.74609375,
+        3759.80859375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 78,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 786
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "IMAGE",
+          "links": [
+            640
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3239.1728515625,
+        3341.550537109375
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 45,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 421,
+      "type": "UpscaleModelLoader",
+      "pos": [
+        3241.259521484375,
+        3458.753662109375
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "UPSCALE_MODEL",
+          "type": "UPSCALE_MODEL",
+          "links": [
+            767
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UpscaleModelLoader"
+      },
+      "widgets_values": [
+        "RealESRGAN_x4.pth"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 195,
+      "type": "LoadImage",
+      "pos": [
+        2768.161865234375,
+        3173.8671875
+      ],
+      "size": [
+        366.3084411621094,
+        388.9892578125
+      ],
+      "flags": {},
+      "order": 47,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            492,
+            758
+          ],
+          "slot_index": 0,
+          "shape": 3
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [],
+          "slot_index": 1,
+          "shape": 3
+        }
+      ],
+      "title": "加载需要高清化的图像",
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Beautiful_Woman_Coffee_Shop_58928587746774_low_0001.png",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 384,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4339.6640625,
+        -160.04782104492188
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {},
+      "order": 120,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 715,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 90,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -601.866455078125,
+        89.03245544433594
+      ],
+      "size": [
+        391.8108215332031,
+        606.1542358398438
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 115,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_positive",
+          "type": "STRING",
+          "link": 667,
+          "widget": {
+            "name": "text_positive"
+          }
+        },
+        {
+          "name": "text_negative",
+          "type": "STRING",
+          "link": 282,
+          "widget": {
+            "name": "text_negative"
+          }
+        },
+        {
+          "name": "style",
+          "type": "COMBO",
+          "link": 283,
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            222,
+            715,
+            787
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            230,
+            788
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
+        "cinematic",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 423,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -1097.7945556640625,
+        -982.8723754882812
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 121,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 787,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 304,
+      "type": "JoinStrings",
+      "pos": [
+        -122.71729278564453,
+        -554.3770751953125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 114,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string1",
+          "type": "STRING",
+          "link": 549,
+          "widget": {
+            "name": "string1"
+          }
+        },
+        {
+          "name": "string2",
+          "type": "STRING",
+          "link": 548,
+          "widget": {
+            "name": "string2"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            550
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JoinStrings"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "_"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 424,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -577.3038330078125,
+        -982.8723754882812
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 123,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 788,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "Show Negative  Prompt",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
       "id": 420,
       "type": "UltimateSDUpscale",
       "pos": [
-        3620.040771484375,
-        3426.84130859375
+        3712.001953125,
+        3089.4931640625
       ],
       "size": [
         315,
         614
       ],
       "flags": {},
-      "order": 164,
+      "order": 166,
       "mode": 2,
       "inputs": [
         {
@@ -8076,16 +8145,16 @@
       },
       "widgets_values": [
         2,
-        364429919215786,
+        1087195206495817,
         "randomize",
         20,
-        0.6000000000000001,
+        1,
         "ipndm",
         "ddim_uniform",
-        0.3,
+        0.2,
         "Linear",
-        512,
-        512,
+        768,
+        576,
         8,
         32,
         "None",
@@ -8098,15 +8167,15 @@
       ]
     },
     {
-      "id": 422,
-      "type": "Int",
+      "id": 136,
+      "type": "PrimitiveNode",
       "pos": [
-        -1071.120361328125,
-        379.29718017578125
+        -1685.300048828125,
+        481.7805480957031
       ],
       "size": [
-        315,
-        58
+        528.2103271484375,
+        279.6590576171875
       ],
       "flags": {},
       "order": 48,
@@ -8114,23 +8183,26 @@
       "inputs": [],
       "outputs": [
         {
-          "name": "INT",
-          "type": "INT",
+          "name": "STRING",
+          "type": "STRING",
           "links": [
-            785
+            282
           ],
-          "slot_index": 0
+          "slot_index": 0,
+          "widget": {
+            "name": "text_negative"
+          }
         }
       ],
-      "title": "Upscale Steps",
+      "title": "Negative Prompt",
       "properties": {
-        "Node name for S&R": "Int"
+        "Run widget replace on values": false
       },
       "widgets_values": [
-        "10"
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, "
       ],
-      "color": "#232",
-      "bgcolor": "#353"
+      "color": "#322",
+      "bgcolor": "#533"
     }
   ],
   "links": [
@@ -9431,14 +9503,6 @@
       "CONDITIONING"
     ],
     [
-      638,
-      278,
-      0,
-      351,
-      0,
-      "*"
-    ],
-    [
       640,
       351,
       0,
@@ -9901,6 +9965,30 @@
       283,
       0,
       "*"
+    ],
+    [
+      786,
+      278,
+      0,
+      351,
+      0,
+      "*"
+    ],
+    [
+      787,
+      90,
+      0,
+      423,
+      0,
+      "*"
+    ],
+    [
+      788,
+      90,
+      1,
+      424,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -9921,8 +10009,8 @@
       "id": 3,
       "title": "03. Upscale Image by Tile",
       "bounding": [
-        2726.86669921875,
-        3316.537109375,
+        2735.739990234375,
+        2995.322265625,
         3042.212646484375,
         911.6115112304688
       ],
@@ -10038,11 +10126,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5131581182307069,
-      "offset": [
-        693.5045701224203,
-        -2186.780116106811
-      ]
+      "scale": 0.620921323059155,
+      "offset": {
+        "0": 3234.520751953125,
+        "1": 588.1531372070312
+      }
     },
     "groupNodes": {},
     "ue_links": [],
@@ -10050,18 +10138,18 @@
       "comfy-core": "0.3.14",
       "ComfyUI_AdvancedRefluxControl": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
       "ComfyUI-GGUF": "5875c52f59baca3a9372d68c43a3775e21846fe0",
-      "ComfyUI-KJNodes": "c9c8dcd5e7ed2f7669f130a5ced1e3005264a2de",
       "was-node-suite-comfyui": "056badacda52e88d29d6a65f9509cd3115ace0f2",
       "efficiency-nodes-comfyui": "3ead4afd120833f3bffdefeca0d6545df8051798",
       "ComfyUI-Easy-Use": "17379c5156a0003b52d2fc6b7da9409e7ea20b32",
       "rgthree-comfy": "5d771b8b56a343c24a26e8cea1f0c87c3d58102f",
       "ComfyUI_LayerStyle": "84d357ad826731a931c305bf11a1101b8ac2976c",
+      "ComfyUI-KJNodes": "c9c8dcd5e7ed2f7669f130a5ced1e3005264a2de",
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "Comfyui-Deepseek": "f436d1b5756af4d3c3786b6919881f64e983703a",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a",
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "ComfyUI_UltimateSDUpscale": "ff3fdfeee03de46d4462211cffd165d27155e858"
     },
     "VHS_latentpreview": false,
