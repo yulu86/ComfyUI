@@ -1,6 +1,6 @@
 {
-  "last_node_id": 424,
-  "last_link_id": 788,
+  "last_node_id": 436,
+  "last_link_id": 805,
   "nodes": [
     {
       "id": 144,
@@ -90,7 +90,7 @@
         234
       ],
       "flags": {},
-      "order": 132,
+      "order": 137,
       "mode": 4,
       "inputs": [
         {
@@ -163,7 +163,7 @@
         26
       ],
       "flags": {},
-      "order": 71,
+      "order": 76,
       "mode": 2,
       "inputs": [
         {
@@ -323,7 +323,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 122,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -378,7 +378,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 128,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -416,7 +416,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -521,7 +521,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 53,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -561,7 +561,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 118,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -600,7 +600,7 @@
         46
       ],
       "flags": {},
-      "order": 155,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -644,7 +644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 159,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -709,7 +709,7 @@
         26
       ],
       "flags": {},
-      "order": 49,
+      "order": 54,
       "mode": 2,
       "inputs": [
         {
@@ -745,7 +745,7 @@
         154
       ],
       "flags": {},
-      "order": 136,
+      "order": 141,
       "mode": 2,
       "inputs": [
         {
@@ -804,7 +804,7 @@
         76
       ],
       "flags": {},
-      "order": 140,
+      "order": 145,
       "mode": 2,
       "inputs": [
         {
@@ -841,7 +841,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 174,
+      "order": 179,
       "mode": 2,
       "inputs": [
         {
@@ -888,7 +888,7 @@
         46
       ],
       "flags": {},
-      "order": 172,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -978,7 +978,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 52,
+      "order": 57,
       "mode": 2,
       "inputs": [
         {
@@ -1025,7 +1025,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 51,
+      "order": 56,
       "mode": 2,
       "inputs": [
         {
@@ -1134,7 +1134,7 @@
         234
       ],
       "flags": {},
-      "order": 67,
+      "order": 72,
       "mode": 2,
       "inputs": [
         {
@@ -1209,7 +1209,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 80,
+      "order": 85,
       "mode": 2,
       "inputs": [
         {
@@ -1299,7 +1299,7 @@
         58
       ],
       "flags": {},
-      "order": 79,
+      "order": 84,
       "mode": 2,
       "inputs": [
         {
@@ -1338,7 +1338,7 @@
         102
       ],
       "flags": {},
-      "order": 87,
+      "order": 92,
       "mode": 2,
       "inputs": [
         {
@@ -1383,7 +1383,7 @@
         130
       ],
       "flags": {},
-      "order": 86,
+      "order": 91,
       "mode": 2,
       "inputs": [
         {
@@ -1435,7 +1435,7 @@
         102
       ],
       "flags": {},
-      "order": 95,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -1481,7 +1481,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 93,
       "mode": 2,
       "inputs": [
         {
@@ -1517,7 +1517,7 @@
         138
       ],
       "flags": {},
-      "order": 106,
+      "order": 111,
       "mode": 2,
       "inputs": [
         {
@@ -1591,7 +1591,7 @@
         58
       ],
       "flags": {},
-      "order": 102,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -1662,7 +1662,7 @@
         26
       ],
       "flags": {},
-      "order": 50,
+      "order": 55,
       "mode": 2,
       "inputs": [
         {
@@ -1733,7 +1733,7 @@
         246
       ],
       "flags": {},
-      "order": 125,
+      "order": 130,
       "mode": 2,
       "inputs": [
         {
@@ -1760,7 +1760,7 @@
         154
       ],
       "flags": {},
-      "order": 138,
+      "order": 143,
       "mode": 2,
       "inputs": [
         {
@@ -1819,7 +1819,7 @@
         76
       ],
       "flags": {},
-      "order": 142,
+      "order": 147,
       "mode": 2,
       "inputs": [
         {
@@ -1858,7 +1858,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 143,
+      "order": 148,
       "mode": 2,
       "inputs": [
         {
@@ -1923,7 +1923,7 @@
         26
       ],
       "flags": {},
-      "order": 96,
+      "order": 101,
       "mode": 2,
       "inputs": [
         {
@@ -1961,7 +1961,7 @@
         26
       ],
       "flags": {},
-      "order": 97,
+      "order": 102,
       "mode": 2,
       "inputs": [
         {
@@ -1999,7 +1999,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 94,
       "mode": 2,
       "inputs": [
         {
@@ -2037,7 +2037,7 @@
         26
       ],
       "flags": {},
-      "order": 90,
+      "order": 95,
       "mode": 2,
       "inputs": [
         {
@@ -2112,7 +2112,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 164,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -2150,7 +2150,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -2188,7 +2188,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -2226,7 +2226,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -2264,7 +2264,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 64,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -2303,7 +2303,7 @@
         26
       ],
       "flags": {},
-      "order": 58,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -2343,7 +2343,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -2385,7 +2385,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 127,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -2423,7 +2423,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -2464,7 +2464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 141,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -2537,7 +2537,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 153,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -2579,7 +2579,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -2621,7 +2621,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 82,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -2662,7 +2662,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -2743,7 +2743,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 150,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -2783,7 +2783,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 157,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -2826,7 +2826,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -2872,7 +2872,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 55,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -2918,7 +2918,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -2960,7 +2960,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -3006,7 +3006,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -3071,7 +3071,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 101,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -3098,7 +3098,7 @@
         46
       ],
       "flags": {},
-      "order": 116,
+      "order": 121,
       "mode": 2,
       "inputs": [
         {
@@ -3140,7 +3140,7 @@
         130
       ],
       "flags": {},
-      "order": 124,
+      "order": 129,
       "mode": 2,
       "inputs": [
         {
@@ -3209,7 +3209,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 81,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -3303,7 +3303,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -3358,7 +3358,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3399,7 +3399,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 57,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -3445,7 +3445,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -3488,7 +3488,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -3527,7 +3527,7 @@
         26
       ],
       "flags": {},
-      "order": 69,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -3567,7 +3567,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -3609,7 +3609,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -3651,7 +3651,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 85,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -3690,7 +3690,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -3730,7 +3730,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 94,
+      "order": 99,
       "mode": 2,
       "inputs": [
         {
@@ -3759,7 +3759,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -3799,7 +3799,7 @@
         106
       ],
       "flags": {},
-      "order": 91,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -3851,7 +3851,7 @@
         76
       ],
       "flags": {},
-      "order": 54,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -3925,7 +3925,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        164012863576470,
+        672924393281191,
         "randomize"
       ],
       "color": "#232",
@@ -3986,7 +3986,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 160,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -4013,7 +4013,7 @@
         138
       ],
       "flags": {},
-      "order": 165,
+      "order": 170,
       "mode": 2,
       "inputs": [
         {
@@ -4089,7 +4089,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 162,
+      "order": 167,
       "mode": 2,
       "inputs": [
         {
@@ -4127,7 +4127,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 129,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -4176,7 +4176,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -4303,7 +4303,7 @@
         234
       ],
       "flags": {},
-      "order": 137,
+      "order": 142,
       "mode": 4,
       "inputs": [
         {
@@ -4446,7 +4446,7 @@
         154
       ],
       "flags": {},
-      "order": 130,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -4505,7 +4505,7 @@
         76
       ],
       "flags": {},
-      "order": 134,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -4527,7 +4527,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Eimi_Fukada_Yacht_Party_413127705834823_low"
+        "Eimi_Fukada_Yacht_Party_324934752376484_low"
       ]
     },
     {
@@ -4657,7 +4657,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 65,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -4724,7 +4724,7 @@
         186
       ],
       "flags": {},
-      "order": 145,
+      "order": 150,
       "mode": 4,
       "inputs": [
         {
@@ -4822,88 +4822,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 390,
-      "type": "Simple String",
-      "pos": [
-        -4091.081787109375,
-        -400.2449645996094
-      ],
-      "size": [
-        512.3726196289062,
-        58
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 24,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            709
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Ollama URL 本地",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "http://localhost:11434"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1684.298095703125,
-        37.143402099609375
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 25,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 151,
       "type": "StyleModelLoader",
       "pos": [
@@ -4915,7 +4833,7 @@
         58
       ],
       "flags": {},
-      "order": 26,
+      "order": 24,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4950,7 +4868,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 111,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -4972,70 +4890,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 406,
-      "type": "Text Input Switch",
-      "pos": [
-        -2609.518798828125,
-        -92.39642333984375
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 100,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_a",
-          "type": "STRING",
-          "link": 738,
-          "widget": {
-            "name": "text_a"
-          }
-        },
-        {
-          "name": "text_b",
-          "type": "STRING",
-          "link": 739,
-          "widget": {
-            "name": "text_b"
-          }
-        },
-        {
-          "name": "boolean",
-          "type": "BOOLEAN",
-          "link": 743,
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            740
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Input Switch"
-      },
-      "widgets_values": [
-        "",
-        "",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 137,
       "type": "PrimitiveNode",
       "pos": [
@@ -5049,7 +4903,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5070,7 +4924,7 @@
         "Run widget replace on values": false
       },
       "widgets_values": [
-        "cinematic",
+        "base",
         "fixed",
         ""
       ],
@@ -5091,7 +4945,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -5147,70 +5001,6 @@
       "shape": 1
     },
     {
-      "id": 405,
-      "type": "Text Input Switch",
-      "pos": [
-        -2609.518798828125,
-        -142.93504333496094
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 99,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_a",
-          "type": "STRING",
-          "link": 735,
-          "widget": {
-            "name": "text_a"
-          }
-        },
-        {
-          "name": "text_b",
-          "type": "STRING",
-          "link": 736,
-          "widget": {
-            "name": "text_b"
-          }
-        },
-        {
-          "name": "boolean",
-          "type": "BOOLEAN",
-          "link": 742,
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            737
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Input Switch"
-      },
-      "widgets_values": [
-        "",
-        "",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 380,
       "type": "Simple String",
       "pos": [
@@ -5224,7 +5014,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 28,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5261,7 +5051,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -5311,13 +5101,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 737,
+          "link": 800,
           "widget": {
             "name": "value"
           }
@@ -5353,13 +5143,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 105,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 740
+          "link": 805
         }
       ],
       "outputs": [
@@ -5392,7 +5182,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 112,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -5427,13 +5217,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 103,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 733,
+          "link": 795,
           "widget": {
             "name": "value"
           }
@@ -5456,70 +5246,6 @@
       }
     },
     {
-      "id": 404,
-      "type": "Text Input Switch",
-      "pos": [
-        -2609.518798828125,
-        -193.24530029296875
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 98,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_a",
-          "type": "STRING",
-          "link": 732,
-          "widget": {
-            "name": "text_a"
-          }
-        },
-        {
-          "name": "text_b",
-          "type": "STRING",
-          "link": 734,
-          "widget": {
-            "name": "text_b"
-          }
-        },
-        {
-          "name": "boolean",
-          "type": "BOOLEAN",
-          "link": 741,
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            733
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text Input Switch"
-      },
-      "widgets_values": [
-        "",
-        "",
-        true
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 130,
       "type": "Fast Groups Muter (rgthree)",
       "pos": [
@@ -5533,7 +5259,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5556,48 +5282,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 407,
-      "type": "PrimitiveNode",
-      "pos": [
-        -3033.967041015625,
-        -344.893310546875
-      ],
-      "size": [
-        302.2181701660156,
-        68.28301239013672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 30,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "BOOLEAN",
-          "type": "BOOLEAN",
-          "links": [
-            741,
-            742,
-            743
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "boolean"
-          }
-        }
-      ],
-      "title": "开关(False：DeepSeek, True：Ollama)",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        true
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 399,
       "type": "DeepseekAdvancedNode",
       "pos": [
@@ -5611,7 +5295,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 68,
       "mode": 4,
       "inputs": [
         {
@@ -5679,7 +5363,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -5792,7 +5476,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 92,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -5827,7 +5511,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 81,
       "mode": 4,
       "inputs": [
         {
@@ -5853,7 +5537,7 @@
           "name": "string_1",
           "type": "*",
           "links": [
-            734
+            790
           ],
           "slot_index": 0
         },
@@ -5861,7 +5545,7 @@
           "name": "string_2",
           "type": "*",
           "links": [
-            736
+            797
           ],
           "slot_index": 1
         },
@@ -5869,7 +5553,7 @@
           "name": "string_3",
           "type": "*",
           "links": [
-            739
+            803
           ],
           "slot_index": 2
         },
@@ -5907,7 +5591,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 31,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5946,7 +5630,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -6009,7 +5693,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -6080,7 +5764,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 93,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -6106,7 +5790,7 @@
           "name": "string_1",
           "type": "*",
           "links": [
-            732
+            789
           ],
           "slot_index": 0
         },
@@ -6114,7 +5798,7 @@
           "name": "string_2",
           "type": "*",
           "links": [
-            735
+            796
           ],
           "slot_index": 1
         },
@@ -6122,7 +5806,7 @@
           "name": "string_3",
           "type": "*",
           "links": [
-            738
+            802
           ],
           "slot_index": 2
         },
@@ -6149,32 +5833,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 344,
-      "type": "Note",
-      "pos": [
-        -3460.06689453125,
-        -827.6770629882812
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 32,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 主题创意",
-      "properties": {},
-      "widgets_values": [
-        "我准备用AI创建几张\"一拳超人地狱吹雪\"的照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出\n\n\nIMG_0314.HEIC:\n\nhttp://192.168.3.226:11434"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 274,
       "type": "CR Text",
       "pos": [
@@ -6186,7 +5844,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 33,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6220,41 +5878,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            426
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1DevEdgeOfReality_v26.safetensors",
-        "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 385,
       "type": "Note",
       "pos": [
@@ -6268,7 +5891,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 35,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6295,7 +5918,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 36,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6334,7 +5957,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 108,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -6356,68 +5979,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 243,
-      "type": "Note",
-      "pos": [
-        -1107.1409912109375,
-        553.9972534179688
-      ],
-      "size": [
-        460.3273620605469,
-        234.8047332763672
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 步数和采样器选择Tips",
-      "properties": {},
-      "widgets_values": [
-        "真人：\nSteps = 40,\nUpscale steps = 16,\nSampler = ipndm,\nScheduler = ddim_uniform\n\n动画：\nSteps = 30,\nUpscale steps = 12,\nSampler = deis,\nScheduler = ddim_uniform\n"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
-      "id": 402,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3020.615478515625,
-        220.8515167236328
-      ],
-      "size": [
-        599.4024047851562,
-        347.8898620605469
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 110,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 745,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "提示词(英文)",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 42,
       "type": "KSampler",
       "pos": [
@@ -6429,7 +5990,7 @@
         262
       ],
       "flags": {},
-      "order": 152,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -6500,7 +6061,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        460662206159407,
+        993279113384420,
         "randomize",
         40,
         1,
@@ -6521,7 +6082,7 @@
         82
       ],
       "flags": {},
-      "order": 173,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -6552,7 +6113,7 @@
         262
       ],
       "flags": {},
-      "order": 167,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -6615,7 +6176,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        188516975010919,
+        74513605251273,
         "randomize",
         25,
         1,
@@ -6636,7 +6197,7 @@
         262
       ],
       "flags": {},
-      "order": 113,
+      "order": 118,
       "mode": 2,
       "inputs": [
         {
@@ -6699,7 +6260,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        912877388012321,
+        814422608062312,
         "randomize",
         20,
         1,
@@ -6720,7 +6281,7 @@
         82
       ],
       "flags": {},
-      "order": 117,
+      "order": 122,
       "mode": 2,
       "inputs": [
         {
@@ -6751,7 +6312,7 @@
         82
       ],
       "flags": {},
-      "order": 156,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -6784,7 +6345,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 38,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6808,7 +6369,7 @@
         82
       ],
       "flags": {},
-      "order": 39,
+      "order": 33,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6849,7 +6410,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -6914,7 +6475,7 @@
         154
       ],
       "flags": {},
-      "order": 146,
+      "order": 151,
       "mode": 2,
       "inputs": [
         {
@@ -6974,7 +6535,7 @@
         76
       ],
       "flags": {},
-      "order": 149,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -7011,7 +6572,7 @@
         26
       ],
       "flags": {},
-      "order": 144,
+      "order": 149,
       "mode": 2,
       "inputs": [
         {
@@ -7056,7 +6617,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 171,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -7121,7 +6682,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 169,
+      "order": 174,
       "mode": 2,
       "inputs": [
         {
@@ -7171,7 +6732,7 @@
         58
       ],
       "flags": {},
-      "order": 40,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7208,7 +6769,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 68,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -7249,7 +6810,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -7292,7 +6853,7 @@
         82
       ],
       "flags": {},
-      "order": 168,
+      "order": 173,
       "mode": 2,
       "inputs": [
         {
@@ -7323,7 +6884,7 @@
         26
       ],
       "flags": {},
-      "order": 63,
+      "order": 66,
       "mode": 2,
       "inputs": [
         {
@@ -7359,7 +6920,7 @@
         26
       ],
       "flags": {},
-      "order": 77,
+      "order": 80,
       "mode": 2,
       "inputs": [
         {
@@ -7395,7 +6956,7 @@
         58
       ],
       "flags": {},
-      "order": 41,
+      "order": 35,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7430,7 +6991,7 @@
         58
       ],
       "flags": {},
-      "order": 42,
+      "order": 36,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7463,7 +7024,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 43,
+      "order": 37,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7508,7 +7069,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 120,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -7530,90 +7091,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 90,
-      "type": "SDXLPromptStyler",
-      "pos": [
-        -601.866455078125,
-        89.03245544433594
-      ],
-      "size": [
-        391.8108215332031,
-        606.1542358398438
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 115,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text_positive",
-          "type": "STRING",
-          "link": 667,
-          "widget": {
-            "name": "text_positive"
-          }
-        },
-        {
-          "name": "text_negative",
-          "type": "STRING",
-          "link": 282,
-          "widget": {
-            "name": "text_negative"
-          }
-        },
-        {
-          "name": "style",
-          "type": "COMBO",
-          "link": 283,
-          "widget": {
-            "name": "style"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "positive_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            222,
-            715,
-            787
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "negative_prompt_text_g",
-          "type": "STRING",
-          "links": [
-            230,
-            788
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SDXLPromptStyler"
-      },
-      "widgets_values": [
-        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
-        "cinematic",
-        "No",
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 423,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -7627,7 +7104,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -7663,7 +7140,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 114,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -7718,7 +7195,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -7751,7 +7228,7 @@
         614
       ],
       "flags": {},
-      "order": 166,
+      "order": 171,
       "mode": 2,
       "inputs": [
         {
@@ -7843,7 +7320,7 @@
       },
       "widgets_values": [
         2,
-        586831498385796,
+        1017296197031647,
         "randomize",
         20,
         1,
@@ -7876,7 +7353,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 44,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7917,7 +7394,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 45,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7957,7 +7434,7 @@
         58
       ],
       "flags": {},
-      "order": 46,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7981,6 +7458,571 @@
       "bgcolor": "#353"
     },
     {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 41,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "美女Eimi Fukada戴着黑色眼镜，穿着比基尼，在私人游艇甲板派对上喝鸡尾酒",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 390,
+      "type": "Simple String",
+      "pos": [
+        -4091.081787109375,
+        -400.2449645996094
+      ],
+      "size": [
+        512.3726196289062,
+        58
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 42,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            709
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Ollama URL 本地",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "http://localhost:11434"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 90,
+      "type": "SDXLPromptStyler",
+      "pos": [
+        -601.866455078125,
+        89.03245544433594
+      ],
+      "size": [
+        391.8108215332031,
+        606.1542358398438
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 120,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_positive",
+          "type": "STRING",
+          "link": 667,
+          "widget": {
+            "name": "text_positive"
+          }
+        },
+        {
+          "name": "text_negative",
+          "type": "STRING",
+          "link": 282,
+          "widget": {
+            "name": "text_negative"
+          }
+        },
+        {
+          "name": "style",
+          "type": "COMBO",
+          "link": 283,
+          "widget": {
+            "name": "style"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "positive_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            222,
+            715,
+            787
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "negative_prompt_text_g",
+          "type": "STRING",
+          "links": [
+            230,
+            788
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SDXLPromptStyler"
+      },
+      "widgets_values": [
+        "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
+        "base",
+        "No",
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 402,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3020.615478515625,
+        220.8515167236328
+      ],
+      "size": [
+        599.4024047851562,
+        347.8898620605469
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 115,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 745,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "提示词(英文)",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 427,
+      "type": "CR Text",
+      "pos": [
+        -3520.4521484375,
+        697.31982421875
+      ],
+      "size": [
+        308.35137939453125,
+        101
+      ],
+      "flags": {},
+      "order": 43,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            804
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "空",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 429,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -104.85707092285156
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 105,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 802,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 803,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 804,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 801,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            805
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Prompts Negative",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 430,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -154.94857788085938
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 104,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 796,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 797,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 799,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 798,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            800
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Prompts Positive",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 428,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -210.05996704101562
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 103,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 789,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 790,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 791,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 794,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            795
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1684.298095703125,
+        37.143402099609375
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 44,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -7992,8 +8034,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 47,
-      "mode": 0,
+      "order": 45,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8026,6 +8068,41 @@
       "bgcolor": "#353"
     },
     {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            426
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "fp8_e4m3fn"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 39,
       "type": "Power Lora Loader (rgthree)",
       "pos": [
@@ -8037,7 +8114,7 @@
         406
       ],
       "flags": {},
-      "order": 61,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -8103,7 +8180,7 @@
           "strengthTwo": null
         },
         {
-          "on": true,
+          "on": false,
           "lora": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
           "strength": 0.9,
           "strengthTwo": null
@@ -8163,15 +8240,41 @@
       "bgcolor": "#353"
     },
     {
-      "id": 359,
-      "type": "String",
+      "id": 344,
+      "type": "Note",
       "pos": [
-        -5053.3701171875,
-        -425.44287109375
+        -3460.06689453125,
+        -827.6770629882812
       ],
       "size": [
-        400,
-        200
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 47,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 主题创意",
+      "properties": {},
+      "widgets_values": [
+        "我准备用AI创建几张\"一拳超人地狱吹雪\"的照片，用于发布到小红书以吸引粉丝，请帮我想5个好的主题创意，按照主题、画面风格、描述的格式输出\n\n\nIMG_0314.HEIC:\n\nhttp://192.168.3.226:11434"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 435,
+      "type": "Note",
+      "pos": [
+        -2725.74267578125,
+        -433.9336242675781
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
       ],
       "flags": {
         "pinned": true
@@ -8179,27 +8282,184 @@
       "order": 48,
       "mode": 0,
       "inputs": [],
+      "outputs": [],
+      "title": "Note - 开关",
+      "properties": {},
+      "widgets_values": [
+        "1 - Ollama\n2 - DeepSeek API\n3 - 手动"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 426,
+      "type": "Simple String",
+      "pos": [
+        -4524.9130859375,
+        697.31982421875
+      ],
+      "size": [
+        377.4978942871094,
+        60.6619987487793
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 49,
+      "mode": 2,
+      "inputs": [],
       "outputs": [
         {
           "name": "STRING",
           "type": "STRING",
           "links": [
-            676,
-            727
+            791
           ],
           "slot_index": 0
         }
       ],
       "title": "主题",
       "properties": {
-        "Node name for S&R": "String"
+        "Node name for S&R": "Simple String"
       },
       "widgets_values": [
-        "美女Eimi Fukada戴着黑色眼镜，穿着比基尼，在私人游艇甲板派对上喝鸡尾酒",
+        "Leo_Villareal_Style"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 243,
+      "type": "Note",
+      "pos": [
+        -1107.1409912109375,
+        553.9972534179688
+      ],
+      "size": [
+        460.3273620605469,
+        234.8047332763672
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 50,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 步数和采样器选择Tips",
+      "properties": {},
+      "widgets_values": [
+        "真人：\nSteps = 40,\nUpscale steps = 16,\nSampler = ipndm,\nScheduler = ddim_uniform\n\n动画：\nSteps = 30,\nUpscale steps = 12,\nSampler = deis,\nScheduler = ddim_uniform\n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 436,
+      "type": "Note",
+      "pos": [
+        -4066.422119140625,
+        1089.9410400390625
+      ],
+      "size": [
+        463.71160888671875,
+        319.4094543457031
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "Leo Villareal Style, LED Light Matrix, Pulsing Grid Patterns, Chromatic Gradients, Algorithmic Rhythm, Binary Code Rain Effects, Quantum Dot Illumination, Holographic Prism Refractions, Data Stream Visualization, Neon Grid Topography, Pixel Wave Propagation, Minimalist Geometric Abstraction, Random wave,"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4096.33056640625,
+        697.31982421875
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            799
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "ghibli style, kiki \\(majo no takkyuubin\\), 1girl, :o, bangs, black eyes, black hair, black shirt, blush, bow, bow hairband, collarbone, day, fingernails, food, fruit, hair bow, hairband, holding, holding food, holding fruit, looking at viewer, open mouth, outdoors, red bow, red hairband, shirt, short hair, solo, strawberry, sunlight, upper body, water drop ,",
         [
           false,
           true
         ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 434,
+      "type": "easy int",
+      "pos": [
+        -3068.9638671875,
+        -395.4829406738281
+      ],
+      "size": [
+        277.43426513671875,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            794,
+            798,
+            801
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "开关",
+      "properties": {
+        "Node name for S&R": "easy int"
+      },
+      "widgets_values": [
+        1
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -9663,102 +9923,6 @@
       "STRING"
     ],
     [
-      732,
-      396,
-      0,
-      404,
-      0,
-      "STRING"
-    ],
-    [
-      733,
-      404,
-      0,
-      376,
-      0,
-      "*"
-    ],
-    [
-      734,
-      400,
-      0,
-      404,
-      1,
-      "STRING"
-    ],
-    [
-      735,
-      396,
-      1,
-      405,
-      0,
-      "STRING"
-    ],
-    [
-      736,
-      400,
-      1,
-      405,
-      1,
-      "STRING"
-    ],
-    [
-      737,
-      405,
-      0,
-      381,
-      0,
-      "*"
-    ],
-    [
-      738,
-      396,
-      2,
-      406,
-      0,
-      "STRING"
-    ],
-    [
-      739,
-      400,
-      2,
-      406,
-      1,
-      "STRING"
-    ],
-    [
-      740,
-      406,
-      0,
-      383,
-      0,
-      "*"
-    ],
-    [
-      741,
-      407,
-      0,
-      404,
-      2,
-      "BOOLEAN"
-    ],
-    [
-      742,
-      407,
-      0,
-      405,
-      2,
-      "BOOLEAN"
-    ],
-    [
-      743,
-      407,
-      0,
-      406,
-      2,
-      "BOOLEAN"
-    ],
-    [
       744,
       376,
       0,
@@ -9989,6 +10153,126 @@
       424,
       0,
       "*"
+    ],
+    [
+      789,
+      396,
+      0,
+      428,
+      0,
+      "STRING"
+    ],
+    [
+      790,
+      400,
+      0,
+      428,
+      1,
+      "STRING"
+    ],
+    [
+      791,
+      426,
+      0,
+      428,
+      2,
+      "STRING"
+    ],
+    [
+      794,
+      434,
+      0,
+      428,
+      4,
+      "INT"
+    ],
+    [
+      795,
+      428,
+      0,
+      376,
+      0,
+      "*"
+    ],
+    [
+      796,
+      396,
+      1,
+      430,
+      0,
+      "STRING"
+    ],
+    [
+      797,
+      400,
+      1,
+      430,
+      1,
+      "STRING"
+    ],
+    [
+      798,
+      434,
+      0,
+      430,
+      4,
+      "INT"
+    ],
+    [
+      799,
+      425,
+      0,
+      430,
+      2,
+      "STRING"
+    ],
+    [
+      800,
+      430,
+      0,
+      381,
+      0,
+      "*"
+    ],
+    [
+      801,
+      434,
+      0,
+      429,
+      4,
+      "INT"
+    ],
+    [
+      802,
+      396,
+      2,
+      429,
+      0,
+      "STRING"
+    ],
+    [
+      803,
+      400,
+      2,
+      429,
+      1,
+      "STRING"
+    ],
+    [
+      804,
+      427,
+      0,
+      429,
+      2,
+      "STRING"
+    ],
+    [
+      805,
+      429,
+      0,
+      383,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -10121,16 +10405,29 @@
       "color": "#3f789e",
       "font_size": 24,
       "flags": {}
+    },
+    {
+      "id": 22,
+      "title": "Prompts - 手工",
+      "bounding": [
+        -4534.9130859375,
+        623.7198486328125,
+        1354.995849609375,
+        394.54180908203125
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.9487171000000014,
-      "offset": [
-        2428.582260937895,
-        -508.1769903195525
-      ]
+      "scale": 0.9090909090909091,
+      "offset": {
+        "0": 4337.55078125,
+        "1": 158.01109313964844
+      }
     },
     "groupNodes": {},
     "ue_links": [],
@@ -10149,8 +10446,8 @@
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "Comfyui-Deepseek": "f436d1b5756af4d3c3786b6919881f64e983703a",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
-      "ComfyUI_UltimateSDUpscale": "ff3fdfeee03de46d4462211cffd165d27155e858"
+      "ComfyUI_UltimateSDUpscale": "ff3fdfeee03de46d4462211cffd165d27155e858",
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e"
     },
     "VHS_latentpreview": false,
     "VHS_latentpreviewrate": 0
