@@ -4270,65 +4270,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 207,
-      "type": "Evaluate Strings",
-      "pos": [
-        3168.57958984375,
-        -360.2206115722656
-      ],
-      "size": [
-        315,
-        154
-      ],
-      "flags": {},
-      "order": 149,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 389,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            388,
-            433
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + \"_\" + b ",
-        "False",
-        "Hello",
-        "low",
-        "!"
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159",
-      "shape": 1
-    },
-    {
       "id": 116,
       "type": "easy showAnything",
       "pos": [
@@ -4362,7 +4303,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Squirrel_in_Ice_Age_123167119621604_low"
+        "Leo_Villareal_Style_341150627998767_low"
       ]
     },
     {
@@ -4675,7 +4616,7 @@
         "collapsed": false
       },
       "order": 24,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -4712,7 +4653,7 @@
         "collapsed": true
       },
       "order": 63,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -4920,7 +4861,7 @@
         "collapsed": true
       },
       "order": 83,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "context",
@@ -5033,7 +4974,7 @@
       ],
       "flags": {},
       "order": 25,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -5072,7 +5013,7 @@
         "collapsed": true
       },
       "order": 68,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text_a",
@@ -5135,7 +5076,7 @@
         "collapsed": true
       },
       "order": 107,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -5387,7 +5328,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        516628737640218,
+        520756370400491,
         "randomize",
         40,
         1,
@@ -5502,7 +5443,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        193005629164941,
+        192407715547242,
         "randomize",
         25,
         1,
@@ -5586,7 +5527,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        748483944765370,
+        350865685775649,
         "randomize",
         20,
         1,
@@ -6539,7 +6480,7 @@
       },
       "widgets_values": [
         2,
-        557942557937401,
+        1074191394813066,
         "randomize",
         20,
         1,
@@ -6755,7 +6696,7 @@
         "collapsed": false
       },
       "order": 36,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -6792,7 +6733,7 @@
         "collapsed": true
       },
       "order": 37,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -6829,7 +6770,7 @@
         "collapsed": true
       },
       "order": 38,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -6865,7 +6806,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -6947,7 +6888,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 72,
       "mode": 4,
       "inputs": [
         {
@@ -7016,7 +6957,7 @@
         "collapsed": true
       },
       "order": 94,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -7269,7 +7210,7 @@
       ],
       "flags": {},
       "order": 106,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "source",
@@ -7284,7 +7225,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "<think>\n好，我需要为用户生成一个关于“抽象动漫风格的壁纸”的提示词。首先，我要理解用户的需求：他们想要一张AI生成的图片，作为壁纸使用，采用抽象动漫风格。\n\n接下来，根据用户的指示，我应该先创建图像标题。由于主题是抽象动漫风格的壁纸，我可以将其命名为“Abstract_Anime_Wallpaper”，这样简洁明了，符合要求不超过三个单词。\n\n然后，扩展场景内容。考虑到是壁纸，背景应该是充满活力且吸引眼球的，所以我会选择霓虹灯、几何图案和渐变色彩这些元素。为了增加层次感，加入浮游生物或像素化的角色作为点缀，使画面更加生动。\n\n关于风格，用户指定了抽象动漫，所以需要强调柔和的色调与未来感的结合，比如使用低多边形（low-polygon）线条来表现角色轮廓，同时利用模糊和半透明效果增强整体氛围。这样的设计不仅美观，还适合用作壁纸，不会过于复杂影响视觉。\n\n在提示词中，我还需要加入一些细节，如动态光线、流动的色彩，这些元素能增加画面的动感和层次感。此外，确保颜色对比鲜明，这样可以突出各个部分的细节，使整个背景看起来更加协调和谐。\n\n最后，翻译成中文时要保持描述的详细性和准确性，确保用户能够清楚地理解每个关键词的意义，从而在AI绘画过程中得到满意的结果。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7395,7 +7336,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -7537,7 +7478,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 4,
       "inputs": [
         {
@@ -7631,7 +7572,7 @@
       ],
       "flags": {},
       "order": 39,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -7657,7 +7598,7 @@
         "collapsed": true
       },
       "order": 40,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7723,7 +7664,7 @@
         "Node name for S&R": "easy int"
       },
       "widgets_values": [
-        1
+        4
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7824,51 +7765,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4097.4814453125,
-        1413.15380859375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 43,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            814
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "score_6, score_5, score_4, bad quality, worst quality, worst detail, sketch, censorship, furry",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 408,
       "type": "String",
       "pos": [
@@ -7883,7 +7779,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7961,7 +7857,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7994,7 +7890,7 @@
         142
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8031,7 +7927,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        580408370027814,
+        498613865493002,
         "randomize"
       ],
       "color": "#232",
@@ -8232,7 +8128,7 @@
         195.27806091308594
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8243,51 +8139,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 274,
@@ -8301,7 +8152,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 49,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8407,224 +8258,6 @@
       }
     },
     {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 50,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 455,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1638.5693359375,
-        913.31884765625
-      ],
-      "size": [
-        352.91259765625,
-        170
-      ],
-      "flags": {},
-      "order": 67,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 829
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 828
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            835
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            836
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).safetensors",
-          "image": "loras/02_Kind_of_Girl\\xjie_mihuan_(xijie_mihuan).jpeg"
-        },
-        1,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1686.1072998046875,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            847
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "xijie_mihuan,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1112.324951171875,
-        913.31884765625
-      ],
-      "size": [
-        354.12896728515625,
-        170
-      ],
-      "flags": {},
-      "order": 82,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 835
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 836
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            837
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            838
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Fixed_Character\\eimiFukada_eimifukada.safetensors",
-          "image": null
-        },
-        1,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 459,
       "type": "LoraLoader|pysssss",
       "pos": [
@@ -8700,7 +8333,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 52,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8747,7 +8380,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 72,
+      "order": 74,
       "mode": 4,
       "inputs": [
         {
@@ -8816,7 +8449,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -8976,49 +8609,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 53,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "冰河世纪中的小松鼠坐在餐桌前吃拉面",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 360,
       "type": "PrimitiveNode",
       "pos": [
@@ -9030,8 +8620,8 @@
         82
       ],
       "flags": {},
-      "order": 54,
-      "mode": 0,
+      "order": 49,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -9069,7 +8659,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 55,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9094,6 +8684,418 @@
       ],
       "color": "#322",
       "bgcolor": "#533"
+    },
+    {
+      "id": 207,
+      "type": "Evaluate Strings",
+      "pos": [
+        3244.845947265625,
+        -260.4872741699219
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 149,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 389,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            388,
+            433
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \"_\" + b ",
+        "False",
+        "Hello",
+        "low",
+        "!"
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "shape": 1
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "抽象动漫风格的可爱女孩",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 458,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1112.324951171875,
+        913.31884765625
+      ],
+      "size": [
+        354.12896728515625,
+        170
+      ],
+      "flags": {},
+      "order": 82,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 835
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 836
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            837
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            838
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_美女\\01_真人角色\\eimiFukada_eimifukada.safetensors",
+          "image": "loras/01_美女\\01_真人角色\\eimiFukada_eimifukada.jpeg"
+        },
+        0.5,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 455,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1638.5693359375,
+        913.31884765625
+      ],
+      "size": [
+        352.91259765625,
+        170
+      ],
+      "flags": {},
+      "order": 67,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 829
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 828
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            835
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            836
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "03_画面风格\\Flux_Hidden-Worlds_v2.safetensors",
+          "image": "loras/03_画面风格\\Flux_Hidden-Worlds_v2.jpeg"
+        },
+        1,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1686.1072998046875,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            847
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4097.4814453125,
+        1413.15380859375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            814
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "A fantasy landscape hidden world inside of an PC. Beside the PC, the text \"Hidden Worlds 2\" is displayed with colored neons.",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -11248,11 +11250,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6209213230591554,
-      "offset": [
-        3159.965717420514,
-        529.4182853490064
-      ]
+      "scale": 1.610510000000001,
+      "offset": {
+        "0": -3293.271728515625,
+        "1": 288.8172912597656
+      }
     },
     "groupNodes": {},
     "ue_links": [],
