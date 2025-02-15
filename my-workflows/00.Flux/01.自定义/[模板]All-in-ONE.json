@@ -1,6 +1,6 @@
 {
-  "last_node_id": 447,
-  "last_link_id": 823,
+  "last_node_id": 448,
+  "last_link_id": 824,
   "nodes": [
     {
       "id": 144,
@@ -3925,7 +3925,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        357607280881717,
+        758167656985230,
         "randomize"
       ],
       "color": "#232",
@@ -4527,7 +4527,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Doraemon_Futuristic_Fantasy_314091575834946_low"
+        "Leo_Villareal_Style_847162321825177_low"
       ]
     },
     {
@@ -4909,7 +4909,7 @@
         "collapsed": false
       },
       "order": 25,
-      "mode": 2,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -4946,7 +4946,7 @@
         "collapsed": true
       },
       "order": 64,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -5191,7 +5191,7 @@
         "collapsed": true
       },
       "order": 83,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "context",
@@ -5304,7 +5304,7 @@
       ],
       "flags": {},
       "order": 27,
-      "mode": 2,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -5343,7 +5343,7 @@
         "collapsed": true
       },
       "order": 70,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -5406,7 +5406,7 @@
         "collapsed": true
       },
       "order": 103,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -5703,7 +5703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        491093596851673,
+        42446270015554,
         "randomize",
         40,
         1,
@@ -5818,7 +5818,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        834512615624391,
+        36986647278776,
         "randomize",
         25,
         1,
@@ -5902,7 +5902,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        621571609334242,
+        735452838999367,
         "randomize",
         20,
         1,
@@ -6160,7 +6160,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Eimi_Fukada_Yacht_Party_1090303177773675_high"
+        "Leo_Villareal_Style_817655397818608_high"
       ]
     },
     {
@@ -6311,12 +6311,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_jcndp_00001_.png&type=temp&subfolder=&rand=0.5509024597590086"
+            "url": "/api/view?filename=rgthree.compare._temp_xirsz_00001_.png&type=temp&subfolder=&rand=0.12521212920989777"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_jcndp_00002_.png&type=temp&subfolder=&rand=0.4562576397523772"
+            "url": "/api/view?filename=rgthree.compare._temp_xirsz_00002_.png&type=temp&subfolder=&rand=0.03344305083173782"
           }
         ]
       ],
@@ -6654,7 +6654,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Eimi_Fukada_Yacht_Party_413127705834823_low_0001.png",
+        "Leo_Villareal_Style_268579670774744_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -6923,7 +6923,7 @@
       },
       "widgets_values": [
         2,
-        203765881109710,
+        354087975425894,
         "randomize",
         20,
         1,
@@ -7138,51 +7138,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 427,
-      "type": "CR Text",
-      "pos": [
-        -3521.60107421875,
-        1413.15380859375
-      ],
-      "size": [
-        308.35137939453125,
-        101
-      ],
-      "flags": {},
-      "order": 38,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            816
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "空",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -7194,7 +7149,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7239,7 +7194,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7284,7 +7239,7 @@
         82
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7458,7 +7413,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7484,7 +7439,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 43,
+      "order": 42,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7521,7 +7476,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7532,51 +7487,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4097.4814453125,
-        1413.15380859375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            814
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "ghibli style, kiki \\(majo no takkyuubin\\), 1girl, :o, bangs, black eyes, black hair, black shirt, blush, bow, bow hairband, collarbone, day, fingernails, food, fruit, hair bow, hairband, holding, holding food, holding fruit, looking at viewer, open mouth, outdoors, red bow, red hairband, shirt, short hair, solo, strawberry, sunlight, upper body, water drop ,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 434,
@@ -7592,7 +7502,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 46,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7612,7 +7522,7 @@
         "Node name for S&R": "easy int"
       },
       "widgets_values": [
-        3
+        4
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7629,8 +7539,8 @@
         82
       ],
       "flags": {},
-      "order": 47,
-      "mode": 2,
+      "order": 45,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7670,8 +7580,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
-      "mode": 2,
+      "order": 46,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7707,8 +7617,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 49,
-      "mode": 2,
+      "order": 47,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7729,49 +7639,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 50,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "哆啦A梦",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 400,
@@ -7854,30 +7721,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 436,
-      "type": "Note",
-      "pos": [
-        -4512.1279296875,
-        1531.58935546875
-      ],
-      "size": [
-        395.3870544433594,
-        165.90072631835938
-      ],
-      "flags": {},
-      "order": 51,
-      "mode": 2,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "Leo Villareal Style, LED Light Matrix, Pulsing Grid Patterns, Chromatic Gradients, Algorithmic Rhythm, Binary Code Rain Effects, Quantum Dot Illumination, Holographic Prism Refractions, Data Stream Visualization, Neon Grid Topography, Pixel Wave Propagation, Minimalist Geometric Abstraction, Random wave,"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     },
     {
       "id": 399,
@@ -8031,7 +7874,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 52,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8075,7 +7918,7 @@
         "collapsed": true
       },
       "order": 92,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -8328,7 +8171,7 @@
       ],
       "flags": {},
       "order": 102,
-      "mode": 2,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -8362,7 +8205,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 53,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8481,7 +8324,7 @@
         "collapsed": true
       },
       "order": 85,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "prompt",
@@ -8541,7 +8384,7 @@
         "collapsed": true
       },
       "order": 94,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -8623,7 +8466,7 @@
         "collapsed": true
       },
       "order": 72,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "a",
@@ -8683,7 +8526,7 @@
         "collapsed": false
       },
       "order": 93,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -8698,7 +8541,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "Error: Expecting value: line 1 column 1 (char 0)"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8718,7 +8561,7 @@
         "collapsed": true
       },
       "order": 95,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -8733,10 +8576,169 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "Error occurred during API call"
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 436,
+      "type": "Note",
+      "pos": [
+        -4524.248046875,
+        1524.9224853515625
+      ],
+      "size": [
+        395.3870544433594,
+        165.90072631835938
+      ],
+      "flags": {},
+      "order": 50,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "Leo Villareal Style, LED Light Matrix, Pulsing Grid Patterns, Chromatic Gradients, Algorithmic Rhythm, Binary Code Rain Effects, Quantum Dot Illumination, Holographic Prism Refractions, Data Stream Visualization, Neon Grid Topography, Pixel Wave Propagation, Minimalist Geometric Abstraction, Random wave,"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4097.4814453125,
+        1413.15380859375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            814
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "ghibli style, kiki \\(majo no takkyuubin\\), 1girl, :o, bangs, black eyes, black hair, black shirt, blush, bow, bow hairband, collarbone, day, fingernails, food, fruit, hair bow, hairband, holding, holding food, holding fruit, looking at viewer, open mouth, outdoors, red bow, red hairband, shirt, short hair, solo, watermelon, sunlight, upper body, water drop ,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 427,
+      "type": "CR Text",
+      "pos": [
+        -3521.60107421875,
+        1413.15380859375
+      ],
+      "size": [
+        308.35137939453125,
+        101
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 52,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            816
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "空",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "吉卜力动画风格的可爱少女在海边跳跃，穿着比基尼，蓝天碧水，水果和果汁",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -10790,10 +10792,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917354,
+      "scale": 0.620921323059155,
       "offset": {
-        "0": 5136.751953125,
-        "1": 799.2943725585938
+        "0": 5897.2646484375,
+        "1": 136.5689239501953
       }
     },
     "groupNodes": {},
