@@ -1,6 +1,6 @@
 {
-  "last_node_id": 439,
-  "last_link_id": 805,
+  "last_node_id": 447,
+  "last_link_id": 823,
   "nodes": [
     {
       "id": 144,
@@ -90,7 +90,7 @@
         234
       ],
       "flags": {},
-      "order": 137,
+      "order": 142,
       "mode": 4,
       "inputs": [
         {
@@ -163,7 +163,7 @@
         26
       ],
       "flags": {},
-      "order": 76,
+      "order": 77,
       "mode": 2,
       "inputs": [
         {
@@ -323,7 +323,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 127,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -378,7 +378,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -416,7 +416,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 138,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -561,7 +561,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -600,7 +600,7 @@
         46
       ],
       "flags": {},
-      "order": 160,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -644,7 +644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 164,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -745,7 +745,7 @@
         154
       ],
       "flags": {},
-      "order": 141,
+      "order": 146,
       "mode": 2,
       "inputs": [
         {
@@ -804,7 +804,7 @@
         76
       ],
       "flags": {},
-      "order": 145,
+      "order": 150,
       "mode": 2,
       "inputs": [
         {
@@ -841,7 +841,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 179,
+      "order": 184,
       "mode": 2,
       "inputs": [
         {
@@ -888,7 +888,7 @@
         46
       ],
       "flags": {},
-      "order": 177,
+      "order": 182,
       "mode": 2,
       "inputs": [
         {
@@ -1134,7 +1134,7 @@
         234
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 2,
       "inputs": [
         {
@@ -1209,7 +1209,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 85,
+      "order": 87,
       "mode": 2,
       "inputs": [
         {
@@ -1299,7 +1299,7 @@
         58
       ],
       "flags": {},
-      "order": 84,
+      "order": 86,
       "mode": 2,
       "inputs": [
         {
@@ -1338,7 +1338,7 @@
         102
       ],
       "flags": {},
-      "order": 92,
+      "order": 97,
       "mode": 2,
       "inputs": [
         {
@@ -1383,7 +1383,7 @@
         130
       ],
       "flags": {},
-      "order": 91,
+      "order": 96,
       "mode": 2,
       "inputs": [
         {
@@ -1435,7 +1435,7 @@
         102
       ],
       "flags": {},
-      "order": 100,
+      "order": 105,
       "mode": 2,
       "inputs": [
         {
@@ -1481,7 +1481,7 @@
         26
       ],
       "flags": {},
-      "order": 93,
+      "order": 98,
       "mode": 2,
       "inputs": [
         {
@@ -1517,7 +1517,7 @@
         138
       ],
       "flags": {},
-      "order": 111,
+      "order": 116,
       "mode": 2,
       "inputs": [
         {
@@ -1591,7 +1591,7 @@
         58
       ],
       "flags": {},
-      "order": 107,
+      "order": 112,
       "mode": 2,
       "inputs": [
         {
@@ -1733,7 +1733,7 @@
         246
       ],
       "flags": {},
-      "order": 130,
+      "order": 135,
       "mode": 2,
       "inputs": [
         {
@@ -1760,7 +1760,7 @@
         154
       ],
       "flags": {},
-      "order": 143,
+      "order": 148,
       "mode": 2,
       "inputs": [
         {
@@ -1819,7 +1819,7 @@
         76
       ],
       "flags": {},
-      "order": 147,
+      "order": 152,
       "mode": 2,
       "inputs": [
         {
@@ -1858,7 +1858,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 148,
+      "order": 153,
       "mode": 2,
       "inputs": [
         {
@@ -1923,7 +1923,7 @@
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 106,
       "mode": 2,
       "inputs": [
         {
@@ -1961,7 +1961,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 107,
       "mode": 2,
       "inputs": [
         {
@@ -1999,7 +1999,7 @@
         26
       ],
       "flags": {},
-      "order": 94,
+      "order": 99,
       "mode": 2,
       "inputs": [
         {
@@ -2037,7 +2037,7 @@
         26
       ],
       "flags": {},
-      "order": 95,
+      "order": 100,
       "mode": 2,
       "inputs": [
         {
@@ -2112,7 +2112,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 169,
+      "order": 174,
       "mode": 0,
       "inputs": [
         {
@@ -2150,7 +2150,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 168,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -2188,7 +2188,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 88,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -2226,7 +2226,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 78,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -2385,7 +2385,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -2464,7 +2464,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -2537,7 +2537,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -2579,7 +2579,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -2621,7 +2621,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 87,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -2662,7 +2662,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2703,7 +2703,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 153,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -2743,7 +2743,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 155,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -2783,7 +2783,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -2826,7 +2826,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 140,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -2918,7 +2918,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -2960,7 +2960,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -3006,7 +3006,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 180,
+      "order": 185,
       "mode": 2,
       "inputs": [
         {
@@ -3071,7 +3071,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 106,
+      "order": 111,
       "mode": 2,
       "inputs": [
         {
@@ -3098,7 +3098,7 @@
         46
       ],
       "flags": {},
-      "order": 121,
+      "order": 126,
       "mode": 2,
       "inputs": [
         {
@@ -3140,7 +3140,7 @@
         130
       ],
       "flags": {},
-      "order": 129,
+      "order": 134,
       "mode": 2,
       "inputs": [
         {
@@ -3209,7 +3209,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 88,
       "mode": 2,
       "inputs": [
         {
@@ -3303,7 +3303,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 124,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -3358,7 +3358,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3445,7 +3445,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -3488,7 +3488,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -3527,7 +3527,7 @@
         26
       ],
       "flags": {},
-      "order": 74,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -3567,7 +3567,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 166,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -3609,7 +3609,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -3651,7 +3651,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 89,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -3690,7 +3690,7 @@
         26
       ],
       "flags": {},
-      "order": 81,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -3730,7 +3730,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 99,
+      "order": 104,
       "mode": 2,
       "inputs": [
         {
@@ -3759,7 +3759,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -3799,7 +3799,7 @@
         106
       ],
       "flags": {},
-      "order": 96,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -3925,7 +3925,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        485497780262718,
+        357607280881717,
         "randomize"
       ],
       "color": "#232",
@@ -3986,7 +3986,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 165,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -4013,7 +4013,7 @@
         138
       ],
       "flags": {},
-      "order": 170,
+      "order": 175,
       "mode": 2,
       "inputs": [
         {
@@ -4089,7 +4089,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 167,
+      "order": 172,
       "mode": 2,
       "inputs": [
         {
@@ -4127,7 +4127,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 134,
+      "order": 139,
       "mode": 2,
       "inputs": [
         {
@@ -4176,7 +4176,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -4303,7 +4303,7 @@
         234
       ],
       "flags": {},
-      "order": 142,
+      "order": 147,
       "mode": 4,
       "inputs": [
         {
@@ -4446,7 +4446,7 @@
         154
       ],
       "flags": {},
-      "order": 135,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -4505,7 +4505,7 @@
         76
       ],
       "flags": {},
-      "order": 139,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -4527,7 +4527,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Doraemon_557347372921167_low"
+        "Doraemon_Futuristic_Fantasy_314091575834946_low"
       ]
     },
     {
@@ -4644,75 +4644,6 @@
       ]
     },
     {
-      "id": 275,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1313.847900390625,
-        197.07965087890625
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 68,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "c",
-          "type": "STRING",
-          "link": 484,
-          "widget": {
-            "name": "c"
-          },
-          "shape": 7
-        },
-        {
-          "name": "a",
-          "type": "STRING",
-          "link": 485,
-          "widget": {
-            "name": "a"
-          },
-          "shape": 7
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "link": 486,
-          "widget": {
-            "name": "b"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            664
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a +  c + ',' +  b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 145,
       "type": "ControlNetApplySD3",
       "pos": [
@@ -4724,7 +4655,7 @@
         186
       ],
       "flags": {},
-      "order": 150,
+      "order": 155,
       "mode": 4,
       "inputs": [
         {
@@ -4831,7 +4762,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 116,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -4908,7 +4839,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 114,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -4978,7 +4909,7 @@
         "collapsed": false
       },
       "order": 25,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -5015,7 +4946,7 @@
         "collapsed": true
       },
       "order": 64,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -5064,7 +4995,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 109,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -5106,7 +5037,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 110,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -5145,7 +5076,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 117,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -5180,7 +5111,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 108,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -5246,74 +5177,6 @@
       "shape": 2
     },
     {
-      "id": 399,
-      "type": "DeepseekAdvancedNode",
-      "pos": [
-        -4427.85888671875,
-        478.886962890625
-      ],
-      "size": [
-        857.3333740234375,
-        939.3333740234375
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 71,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "link": 727,
-          "widget": {
-            "name": "prompt"
-          }
-        },
-        {
-          "name": "system_prompt",
-          "type": "STRING",
-          "link": 747,
-          "widget": {
-            "name": "system_prompt"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            728
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "DeepseekAdvancedNode"
-      },
-      "widgets_values": [
-        "",
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<yusplit>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<yusplit>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        1,
-        2048,
-        0.8,
-        0,
-        0,
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 363,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -5327,8 +5190,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
-      "mode": 0,
+      "order": 83,
+      "mode": 2,
       "inputs": [
         {
           "name": "context",
@@ -5429,39 +5292,6 @@
       "bgcolor": "#593930"
     },
     {
-      "id": 373,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -4469.697265625,
-        -166.7618865966797
-      ],
-      "size": [
-        1233.6463623046875,
-        462.3016662597656
-      ],
-      "flags": {},
-      "order": 97,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 689,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 392,
       "type": "PrimitiveNode",
       "pos": [
@@ -5474,7 +5304,7 @@
       ],
       "flags": {},
       "order": 27,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -5513,7 +5343,7 @@
         "collapsed": true
       },
       "order": 70,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text_a",
@@ -5562,77 +5392,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 372,
-      "type": "CR Split String",
-      "pos": [
-        -3536.428466796875,
-        -254.81240844726562
-      ],
-      "size": [
-        257.66217041015625,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 90,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 683,
-          "widget": {
-            "name": "text"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            689
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            719
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "</think>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 396,
       "type": "CR Split String",
       "pos": [
@@ -5646,8 +5405,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
-      "mode": 0,
+      "order": 103,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -5809,7 +5568,8 @@
           "type": "STRING",
           "links": [
             750,
-            752
+            752,
+            811
           ],
           "slot_index": 0
         }
@@ -5839,7 +5599,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 113,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -5872,7 +5632,7 @@
         262
       ],
       "flags": {},
-      "order": 157,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -5943,7 +5703,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        680653186188535,
+        491093596851673,
         "randomize",
         40,
         1,
@@ -5964,7 +5724,7 @@
         82
       ],
       "flags": {},
-      "order": 178,
+      "order": 183,
       "mode": 2,
       "inputs": [
         {
@@ -5995,7 +5755,7 @@
         262
       ],
       "flags": {},
-      "order": 172,
+      "order": 177,
       "mode": 2,
       "inputs": [
         {
@@ -6058,7 +5818,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        524833253847079,
+        834512615624391,
         "randomize",
         25,
         1,
@@ -6079,7 +5839,7 @@
         262
       ],
       "flags": {},
-      "order": 118,
+      "order": 123,
       "mode": 2,
       "inputs": [
         {
@@ -6142,7 +5902,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        59873303746633,
+        621571609334242,
         "randomize",
         20,
         1,
@@ -6163,7 +5923,7 @@
         82
       ],
       "flags": {},
-      "order": 122,
+      "order": 127,
       "mode": 2,
       "inputs": [
         {
@@ -6194,7 +5954,7 @@
         82
       ],
       "flags": {},
-      "order": 161,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -6253,7 +6013,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 180,
       "mode": 2,
       "inputs": [
         {
@@ -6318,7 +6078,7 @@
         154
       ],
       "flags": {},
-      "order": 151,
+      "order": 156,
       "mode": 2,
       "inputs": [
         {
@@ -6378,7 +6138,7 @@
         76
       ],
       "flags": {},
-      "order": 154,
+      "order": 159,
       "mode": 2,
       "inputs": [
         {
@@ -6415,7 +6175,7 @@
         26
       ],
       "flags": {},
-      "order": 149,
+      "order": 154,
       "mode": 2,
       "inputs": [
         {
@@ -6460,7 +6220,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 176,
+      "order": 181,
       "mode": 2,
       "inputs": [
         {
@@ -6525,7 +6285,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 174,
+      "order": 179,
       "mode": 2,
       "inputs": [
         {
@@ -6612,7 +6372,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -6653,7 +6413,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -6696,7 +6456,7 @@
         82
       ],
       "flags": {},
-      "order": 173,
+      "order": 178,
       "mode": 2,
       "inputs": [
         {
@@ -6763,7 +6523,7 @@
         26
       ],
       "flags": {},
-      "order": 80,
+      "order": 81,
       "mode": 2,
       "inputs": [
         {
@@ -6912,7 +6672,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 125,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -6947,7 +6707,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -6983,7 +6743,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 119,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -7038,7 +6798,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 128,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -7071,7 +6831,7 @@
         614
       ],
       "flags": {},
-      "order": 171,
+      "order": 176,
       "mode": 2,
       "inputs": [
         {
@@ -7163,7 +6923,7 @@
       },
       "widgets_values": [
         2,
-        296069574217697,
+        203765881109710,
         "randomize",
         20,
         1,
@@ -7271,7 +7031,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 120,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -7356,7 +7116,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 115,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -7381,8 +7141,8 @@
       "id": 427,
       "type": "CR Text",
       "pos": [
-        -3520.4521484375,
-        697.31982421875
+        -3521.60107421875,
+        1413.15380859375
       ],
       "size": [
         308.35137939453125,
@@ -7397,7 +7157,7 @@
           "name": "text",
           "type": "*",
           "links": [
-            804
+            816
           ],
           "slot_index": 0
         },
@@ -7421,282 +7181,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 429,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -104.85707092285156
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 105,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 802,
-          "widget": {
-            "name": "text1"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 803,
-          "widget": {
-            "name": "text2"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "link": 804,
-          "widget": {
-            "name": "text3"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "text4"
-          },
-          "shape": 7
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "link": 801,
-          "widget": {
-            "name": "Input"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            805
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Prompts 中文",
-      "properties": {
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 430,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -154.94857788085938
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 104,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 796,
-          "widget": {
-            "name": "text1"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 797,
-          "widget": {
-            "name": "text2"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "link": 799,
-          "widget": {
-            "name": "text3"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "text4"
-          },
-          "shape": 7
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "link": 798,
-          "widget": {
-            "name": "Input"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            800
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Prompts Positive",
-      "properties": {
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 428,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -210.05996704101562
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 103,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "link": 789,
-          "widget": {
-            "name": "text1"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "link": 790,
-          "widget": {
-            "name": "text2"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "link": 791,
-          "widget": {
-            "name": "text3"
-          },
-          "shape": 7
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "link": null,
-          "widget": {
-            "name": "text4"
-          },
-          "shape": 7
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "link": 794,
-          "widget": {
-            "name": "Input"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            795
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 276,
@@ -7987,37 +7471,11 @@
       "bgcolor": "#653"
     },
     {
-      "id": 435,
-      "type": "Note",
-      "pos": [
-        -2725.74267578125,
-        -433.9336242675781
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 43,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 开关",
-      "properties": {},
-      "widgets_values": [
-        "1 - Ollama\n2 - DeepSeek API\n3 - 手动"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 426,
       "type": "Simple String",
       "pos": [
-        -4524.9130859375,
-        697.31982421875
+        -4526.064453125,
+        1413.15380859375
       ],
       "size": [
         377.4978942871094,
@@ -8026,7 +7484,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 44,
+      "order": 43,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8034,7 +7492,7 @@
           "name": "STRING",
           "type": "STRING",
           "links": [
-            791
+            812
           ],
           "slot_index": 0
         }
@@ -8063,7 +7521,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8076,44 +7534,18 @@
       "bgcolor": "#653"
     },
     {
-      "id": 436,
-      "type": "Note",
-      "pos": [
-        -4066.422119140625,
-        1089.9410400390625
-      ],
-      "size": [
-        463.71160888671875,
-        319.4094543457031
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 46,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 常用提示词",
-      "properties": {},
-      "widgets_values": [
-        "Leo Villareal Style, LED Light Matrix, Pulsing Grid Patterns, Chromatic Gradients, Algorithmic Rhythm, Binary Code Rain Effects, Quantum Dot Illumination, Holographic Prism Refractions, Data Stream Visualization, Neon Grid Topography, Pixel Wave Propagation, Minimalist Geometric Abstraction, Random wave,"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
-    },
-    {
       "id": 425,
       "type": "CR Text",
       "pos": [
-        -4096.33056640625,
-        697.31982421875
+        -4097.4814453125,
+        1413.15380859375
       ],
       "size": [
         524.8606567382812,
         302.068603515625
       ],
       "flags": {},
-      "order": 47,
+      "order": 45,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8121,7 +7553,7 @@
           "name": "text",
           "type": "*",
           "links": [
-            799
+            814
           ],
           "slot_index": 0
         },
@@ -8160,7 +7592,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 48,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8180,7 +7612,7 @@
         "Node name for S&R": "easy int"
       },
       "widgets_values": [
-        1
+        3
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -8197,8 +7629,8 @@
         82
       ],
       "flags": {},
-      "order": 49,
-      "mode": 0,
+      "order": 47,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -8238,8 +7670,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 50,
-      "mode": 0,
+      "order": 48,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -8275,8 +7707,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 51,
-      "mode": 0,
+      "order": 49,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -8312,7 +7744,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 52,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8321,7 +7753,8 @@
           "type": "STRING",
           "links": [
             676,
-            727
+            727,
+            807
           ],
           "slot_index": 0
         }
@@ -8341,54 +7774,11 @@
       "bgcolor": "#353"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5776.24609375,
-        109.12081909179688
-      ],
-      "size": [
-        844.4733276367188,
-        749.340087890625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 53,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 400,
       "type": "CR Split String",
       "pos": [
         -3644.224365234375,
-        478.886962890625
+        494.213623046875
       ],
       "size": [
         247.9823455810547,
@@ -8397,8 +7787,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
-      "mode": 4,
+      "order": 84,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -8464,6 +7854,889 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 436,
+      "type": "Note",
+      "pos": [
+        -4512.1279296875,
+        1531.58935546875
+      ],
+      "size": [
+        395.3870544433594,
+        165.90072631835938
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 2,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 常用提示词",
+      "properties": {},
+      "widgets_values": [
+        "Leo Villareal Style, LED Light Matrix, Pulsing Grid Patterns, Chromatic Gradients, Algorithmic Rhythm, Binary Code Rain Effects, Quantum Dot Illumination, Holographic Prism Refractions, Data Stream Visualization, Neon Grid Topography, Pixel Wave Propagation, Minimalist Geometric Abstraction, Random wave,"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 399,
+      "type": "DeepseekAdvancedNode",
+      "pos": [
+        -4427.85888671875,
+        494.213623046875
+      ],
+      "size": [
+        857.3333740234375,
+        939.3333740234375
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 71,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 727,
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "name": "system_prompt",
+          "type": "STRING",
+          "link": 747,
+          "widget": {
+            "name": "system_prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            728
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DeepseekAdvancedNode"
+      },
+      "widgets_values": [
+        "",
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<yusplit>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<yusplit>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
+        1,
+        2048,
+        0.8,
+        0,
+        0,
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 275,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1313.847900390625,
+        197.07965087890625
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 68,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": 484,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        },
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 485,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "link": 486,
+          "widget": {
+            "name": "b"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            664
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a +  c + ',' +  b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5776.24609375,
+        109.12081909179688
+      ],
+      "size": [
+        844.4733276367188,
+        749.340087890625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 372,
+      "type": "CR Split String",
+      "pos": [
+        -3536.428466796875,
+        -254.81240844726562
+      ],
+      "size": [
+        257.66217041015625,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 92,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 683,
+          "widget": {
+            "name": "text"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            689
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            719
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "</think>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 430,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -154.94857788085938
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 109,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 796,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 797,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 815,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": 814,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 798,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            800
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Prompts Positive",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 429,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -104.85707092285156
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 110,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 802,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 803,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 817,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": 816,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 801,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            805
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "Prompts 中文",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 373,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -4469.697265625,
+        -166.7618865966797
+      ],
+      "size": [
+        1233.6463623046875,
+        462.3016662597656
+      ],
+      "flags": {},
+      "order": 102,
+      "mode": 2,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 689,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 435,
+      "type": "Note",
+      "pos": [
+        -2725.74267578125,
+        -433.9336242675781
+      ],
+      "size": [
+        478.841064453125,
+        152.5651397705078
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 开关",
+      "properties": {},
+      "widgets_values": [
+        "1 - Ollama\n2 - DeepSeek-v3\n3 - DeepSeek-r1\n4 - 手动"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 428,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2736.55859375,
+        -210.05996704101562
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 108,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "link": 789,
+          "widget": {
+            "name": "text1"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "link": 790,
+          "widget": {
+            "name": "text2"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "link": 813,
+          "widget": {
+            "name": "text3"
+          },
+          "shape": 7
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "link": 812,
+          "widget": {
+            "name": "text4"
+          },
+          "shape": 7
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "link": 794,
+          "widget": {
+            "name": "Input"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            795
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "图片名称",
+      "properties": {
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 440,
+      "type": "DeepseekReasonerNode",
+      "pos": [
+        -4240.29638671875,
+        753.532958984375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 85,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "link": 808,
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "reasoning",
+          "type": "STRING",
+          "links": [
+            821
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "answer",
+          "type": "STRING",
+          "links": [
+            822,
+            823
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "DeepseekReasonerNode"
+      },
+      "widgets_values": [
+        "",
+        true,
+        1,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 444,
+      "type": "CR Split String",
+      "pos": [
+        -3745.056640625,
+        753.532958984375
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 94,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 822,
+          "widget": {
+            "name": "text"
+          }
+        },
+        {
+          "name": "delimiter",
+          "type": "STRING",
+          "link": 811,
+          "widget": {
+            "name": "delimiter"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            813
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            815
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [
+            817
+          ],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        ">>>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 442,
+      "type": "Evaluate Strings",
+      "pos": [
+        -4430.75,
+        753.532958984375
+      ],
+      "size": [
+        302.5815734863281,
+        172.21368408203125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 72,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "link": 806,
+          "widget": {
+            "name": "a"
+          },
+          "shape": 7
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "link": 807,
+          "widget": {
+            "name": "c"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            808
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的主题是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 445,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -4476.71630859375,
+        807.8278198242188
+      ],
+      "size": [
+        1233.6463623046875,
+        462.3016662597656
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 93,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 821,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 447,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3997.162841796875,
+        714.845947265625
+      ],
+      "size": [
+        557.1619873046875,
+        408.2314453125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 95,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 823,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -10172,14 +10445,6 @@
       "STRING"
     ],
     [
-      791,
-      426,
-      0,
-      428,
-      2,
-      "STRING"
-    ],
-    [
       794,
       434,
       0,
@@ -10220,14 +10485,6 @@
       "INT"
     ],
     [
-      799,
-      425,
-      0,
-      430,
-      2,
-      "STRING"
-    ],
-    [
       800,
       430,
       0,
@@ -10260,18 +10517,114 @@
       "STRING"
     ],
     [
-      804,
+      805,
+      429,
+      0,
+      383,
+      0,
+      "*"
+    ],
+    [
+      806,
+      408,
+      0,
+      442,
+      0,
+      "STRING"
+    ],
+    [
+      807,
+      359,
+      0,
+      442,
+      1,
+      "STRING"
+    ],
+    [
+      808,
+      442,
+      0,
+      440,
+      0,
+      "STRING"
+    ],
+    [
+      811,
+      413,
+      0,
+      444,
+      1,
+      "STRING"
+    ],
+    [
+      812,
+      426,
+      0,
+      428,
+      3,
+      "STRING"
+    ],
+    [
+      813,
+      444,
+      0,
+      428,
+      2,
+      "STRING"
+    ],
+    [
+      814,
+      425,
+      0,
+      430,
+      3,
+      "STRING"
+    ],
+    [
+      815,
+      444,
+      1,
+      430,
+      2,
+      "STRING"
+    ],
+    [
+      816,
       427,
       0,
+      429,
+      3,
+      "STRING"
+    ],
+    [
+      817,
+      444,
+      2,
       429,
       2,
       "STRING"
     ],
     [
-      805,
-      429,
+      821,
+      440,
       0,
-      383,
+      445,
+      0,
+      "*"
+    ],
+    [
+      822,
+      440,
+      1,
+      444,
+      0,
+      "STRING"
+    ],
+    [
+      823,
+      440,
+      1,
+      447,
       0,
       "*"
     ]
@@ -10396,10 +10749,10 @@
     },
     {
       "id": 21,
-      "title": "02_Prompts Generation - DeepSeek",
+      "title": "02_Prompts Generation - DeepSeek-v3",
       "bounding": [
         -4538.3994140625,
-        368.78204345703125,
+        384.10870361328125,
         1360.1387939453125,
         194.39268493652344
       ],
@@ -10409,12 +10762,25 @@
     },
     {
       "id": 22,
-      "title": "03_Prompts Generation - 手工",
+      "title": "04_Prompts Generation - 手工",
       "bounding": [
-        -4534.9130859375,
-        623.7198486328125,
+        -4536.064453125,
+        1339.553955078125,
         1354.995849609375,
         394.54180908203125
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 23,
+      "title": "03_Prompts Generation - DeepSeek-r1",
+      "bounding": [
+        -4535.11572265625,
+        639.2422485351562,
+        1352.866455078125,
+        648.953857421875
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -10424,10 +10790,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650705,
+      "scale": 0.8264462809917354,
       "offset": {
-        "0": 4967.44921875,
-        "1": 883.2451171875
+        "0": 5136.751953125,
+        "1": 799.2943725585938
       }
     },
     "groupNodes": {},
@@ -10445,10 +10811,10 @@
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
       "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-      "Comfyui-Deepseek": "f436d1b5756af4d3c3786b6919881f64e983703a",
       "comfyui-ollama": "cfa314d36efbb2344ba22a76256200016ad9570a",
       "ComfyUI_UltimateSDUpscale": "ff3fdfeee03de46d4462211cffd165d27155e858",
-      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e"
+      "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
+      "Comfyui-Deepseek": "d0f029853095059fc37f1cd8feea23adf79f8b1c"
     },
     "VHS_latentpreview": false,
     "VHS_latentpreviewrate": 0
