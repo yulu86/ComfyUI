@@ -5462,88 +5462,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 400,
-      "type": "CR Split String",
-      "pos": [
-        -3644.224365234375,
-        478.886962890625
-      ],
-      "size": [
-        247.9823455810547,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 83,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 728,
-          "widget": {
-            "name": "text"
-          }
-        },
-        {
-          "name": "delimiter",
-          "type": "STRING",
-          "link": 750,
-          "widget": {
-            "name": "delimiter"
-          },
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            790
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            797
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [
-            803
-          ],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "<yusplit>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 392,
       "type": "PrimitiveNode",
       "pos": [
@@ -7305,49 +7223,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5776.24609375,
-        109.12081909179688
-      ],
-      "size": [
-        844.4733276367188,
-        749.340087890625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 37,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 422,
       "type": "Int",
       "pos": [
@@ -7359,7 +7234,7 @@
         58
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7514,7 +7389,7 @@
         101
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -7625,7 +7500,7 @@
           "links": null
         }
       ],
-      "title": "Prompts Negative",
+      "title": "Prompts 中文",
       "properties": {
         "Node name for S&R": "CR Text Input Switch (4 way)"
       },
@@ -7835,7 +7710,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7880,7 +7755,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7925,7 +7800,7 @@
         82
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8099,7 +7974,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8125,7 +8000,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8151,7 +8026,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 45,
+      "order": 44,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8188,7 +8063,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8214,7 +8089,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 47,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8238,7 +8113,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -8285,7 +8160,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8322,7 +8197,7 @@
         82
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8363,7 +8238,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8400,7 +8275,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8437,7 +8312,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8464,6 +8339,131 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5776.24609375,
+        109.12081909179688
+      ],
+      "size": [
+        844.4733276367188,
+        749.340087890625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 400,
+      "type": "CR Split String",
+      "pos": [
+        -3644.224365234375,
+        478.886962890625
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 83,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 728,
+          "widget": {
+            "name": "text"
+          }
+        },
+        {
+          "name": "delimiter",
+          "type": "STRING",
+          "link": 750,
+          "widget": {
+            "name": "delimiter"
+          },
+          "shape": 7
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            790
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            797
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [
+            803
+          ],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "<yusplit>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -10424,10 +10424,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.751314800901578,
+      "scale": 0.6830134553650705,
       "offset": {
-        "0": 6347.8779296875,
-        "1": 419.40093994140625
+        "0": 4967.44921875,
+        "1": 883.2451171875
       }
     },
     "groupNodes": {},
