@@ -1,6 +1,6 @@
 {
-  "last_node_id": 448,
-  "last_link_id": 824,
+  "last_node_id": 453,
+  "last_link_id": 827,
   "nodes": [
     {
       "id": 144,
@@ -3925,7 +3925,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        758167656985230,
+        163548987706849,
         "randomize"
       ],
       "color": "#232",
@@ -4527,7 +4527,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Leo_Villareal_Style_847162321825177_low"
+        "Leo_Villareal_Style_623012283662516_low"
       ]
     },
     {
@@ -4909,7 +4909,7 @@
         "collapsed": false
       },
       "order": 25,
-      "mode": 0,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -4946,7 +4946,7 @@
         "collapsed": true
       },
       "order": 64,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -5140,43 +5140,6 @@
       }
     },
     {
-      "id": 130,
-      "type": "Fast Groups Muter (rgthree)",
-      "pos": [
-        -2278.49462890625,
-        684.59716796875
-      ],
-      "size": [
-        515.7156982421875,
-        370
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 26,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "OPT_CONNECTION",
-          "type": "*",
-          "links": [],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "matchColors": "",
-        "matchTitle": "",
-        "showNav": true,
-        "sort": "position",
-        "customSortAlphabet": "",
-        "toggleRestriction": "default"
-      },
-      "color": "#322",
-      "bgcolor": "#533",
-      "shape": 2
-    },
-    {
       "id": 363,
       "type": "OllamaGenerateAdvance",
       "pos": [
@@ -5191,7 +5154,7 @@
         "collapsed": true
       },
       "order": 83,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "context",
@@ -5303,8 +5266,8 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 27,
-      "mode": 0,
+      "order": 26,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -5343,7 +5306,7 @@
         "collapsed": true
       },
       "order": 70,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text_a",
@@ -5406,7 +5369,7 @@
         "collapsed": true
       },
       "order": 103,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -5485,7 +5448,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5532,7 +5495,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5559,7 +5522,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 30,
+      "order": 29,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5703,7 +5666,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        42446270015554,
+        448836892765504,
         "randomize",
         40,
         1,
@@ -5818,7 +5781,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        36986647278776,
+        1081706388442856,
         "randomize",
         25,
         1,
@@ -5902,7 +5865,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        735452838999367,
+        850110436451574,
         "randomize",
         20,
         1,
@@ -5987,7 +5950,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6335,7 +6298,7 @@
         58
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6559,7 +6522,7 @@
         58
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6594,7 +6557,7 @@
         58
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6627,7 +6590,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 2,
       "inputs": [],
       "outputs": [
@@ -6923,7 +6886,7 @@
       },
       "widgets_values": [
         2,
-        354087975425894,
+        455383346421241,
         "randomize",
         20,
         1,
@@ -6956,7 +6919,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6994,7 +6957,7 @@
         58
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7149,7 +7112,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7194,7 +7157,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7239,7 +7202,7 @@
         82
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7413,7 +7376,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7439,8 +7402,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 42,
-      "mode": 2,
+      "order": 41,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -7476,7 +7439,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7487,45 +7450,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 434,
-      "type": "easy int",
-      "pos": [
-        -3068.9638671875,
-        -395.4829406738281
-      ],
-      "size": [
-        277.43426513671875,
-        58
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 44,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "int",
-          "type": "INT",
-          "links": [
-            794,
-            798,
-            801
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "开关",
-      "properties": {
-        "Node name for S&R": "easy int"
-      },
-      "widgets_values": [
-        4
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 360,
@@ -7539,8 +7463,8 @@
         82
       ],
       "flags": {},
-      "order": 45,
-      "mode": 0,
+      "order": 43,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -7580,8 +7504,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 46,
-      "mode": 0,
+      "order": 44,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -7617,8 +7541,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
-      "mode": 0,
+      "order": 45,
+      "mode": 2,
       "inputs": [],
       "outputs": [
         {
@@ -7874,7 +7798,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 48,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7918,7 +7842,7 @@
         "collapsed": true
       },
       "order": 92,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "text",
@@ -8171,7 +8095,7 @@
       ],
       "flags": {},
       "order": 102,
-      "mode": 0,
+      "mode": 2,
       "inputs": [
         {
           "name": "source",
@@ -8186,36 +8110,10 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "<think>\n嗯，用户让我生成一个关于“三国志游戏”的AI绘画提示词。首先，我得理解他们的需求是什么。他们想用这些图片发布到小红书吸引粉丝，所以内容需要吸引人，可能偏向视觉效果和故事感。\n\n接下来，根据工作流程，我需要先生成标题。通常不超过三个英文单词，用下划线分隔。比如“Three_Kingdoms_Gameplay”或者更具体的场景描述，比如“War_Strategy_Battle”。\n\n然后是扩展场景内容。用户希望提示词包含风格、内容主体等，150-180个形容词或关键词。我得想象一个三国志游戏的典型画面：可能是战争场面，将领们在战场上指挥，士兵们奋勇作战。\n\n考虑到人物的话，可能包括关羽、张飞这样的著名角色，他们穿着各自的标志性服装，动作姿势要显得英勇有力。场景方面，要有古战场的感觉，比如烽火连天、战鼓齐鸣，士兵们排成整齐的阵型，旌旗飘扬，马匹奔腾。\n\n还要加入一些细节元素，比如古代武器如长枪和弓箭，铠甲的细节纹理，以及背景中的山峦和河流，增加画面的丰富度。光影方面，可能需要明亮的阳光突出战场的紧张氛围，或者夕阳西下增添史诗感。\n\n风格上，可以选择现实主义或电影化的画面，让整体看起来更有冲击力。同时，提示词里要包括动作细节，比如将领们指挥军队，士兵们呐喊冲锋，这样的动态场景会更吸引眼球。\n\n最后，翻译成中文时要确保关键词和描述准确对应，不遗漏任何重要元素。整个思考过程需要细致入微，确保每个部分都被详细分解和扩展，满足用户对高质量提示词的需求。"
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 435,
-      "type": "Note",
-      "pos": [
-        -2725.74267578125,
-        -433.9336242675781
-      ],
-      "size": [
-        478.841064453125,
-        152.5651397705078
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 49,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [],
-      "title": "Note - 开关",
-      "properties": {},
-      "widgets_values": [
-        "1 - Ollama\n2 - DeepSeek-v3\n3 - DeepSeek-r1\n4 - 手动"
-      ],
-      "color": "#432",
-      "bgcolor": "#653"
     },
     {
       "id": 428,
@@ -8541,7 +8439,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Error: Expecting value: line 1 column 1 (char 0)"
+        "嗯，用户让我生成一个关于“三国志游戏”的提示词，用于小红书吸引粉丝。首先，我需要确定用户的需求。他们可能想要一些视觉冲击力强、符合游戏风格并且能引起三国爱好者共鸣的图片。\n\n首先，标题部分，按照要求用三个英文单词，用下划线连接。可能想到“Three_Kingdoms_Warriors”这样既点明主题又有动作元素。\n\n接下来是英文提示词。需要包含风格、内容主体、周围场景等。三国志游戏通常有历史战争元素，所以可能会选择水墨画风格，这样既有中国风又符合游戏感。然后主要人物比如关羽、张飞、赵云，他们的经典形象很重要，比如青龙偃月刀、蛇矛、亮银枪。服饰方面，传统盔甲、披风，细节如龙纹刺绣、金属质感。场景方面，战场背景，燃烧的旗帜、断剑、战马奔腾，天空可能有乌云和闪电，增加紧张感。风格上结合3D渲染和手绘质感，增强视觉冲击。另外，动态元素比如冲锋姿态、尘土飞扬，远处有军队和攻城器械，背景加入山脉和长城，增加层次感。颜色方面，深红、金色、墨黑，搭配火焰和能量特效，突出史诗感。最后，强调电影级光影和细节，比如盔甲反光、飘动的头发，增强真实感。\n\n中文翻译部分要准确对应，确保每个元素都翻译到位，比如“3D rendered cinematic scene”翻译成“3D渲染电影级场景”，保持专业术语正确。同时注意文化元素，比如“水墨画风格”对应“ink painting style”，确保符合三国题材的传统美学。\n\n需要检查是否符合所有规则：没有多余文本，只用英文短语，分段正确，没有使用markdown，没有其他语言。还要注意人物来自三国志游戏，所以不需要特别注明出处，但如果有具体角色名字，比如关羽，可能需要说明来自《三国演义》或游戏，但用户给的例子中没有提到，所以可能不需要。不过用户提供的例子中提到了Rebecca来自Cyberpunk 2077，所以可能需要注明。但三国人物是历史/文学人物，可能不需要，但根据用户规则，如果涉及著名角色，要写明出处。不过三国志游戏本身是游戏，所以可能人物直接关联到游戏。可能需要确认，但根据例子，用户可能希望直接写游戏名称。例如“Three Kingdoms warriors from the classic strategy game series”这样处理。\n\n另外，确保提示词足够详细，150-180个形容词或关键词，尽可能详细分解场景。比如战场上的元素：燃烧的旗帜、断剑、战马、尘土、军队、攻城器械、山脉、长城、乌云、闪电等。人物细节：肌肉线条、面部表情、飘动的头发、披风等。特效方面：火焰、能量、烟雾、光线效果。风格方面：水墨画、3D渲染、手绘质感、史诗构图、电影级光影。\n\n最后检查格式是否正确，标题、分割线、英文提示词、分割线、中文提示词，全部使用纯文本，没有多余内容。例如，没有标题外的文字，正确使用“---”分割，中英文部分对应，没有hashtag或markdown。确保所有规则都被遵守，比如仅用英文和中文，没有其他语言，短语和语句正确分隔。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8576,7 +8474,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Error occurred during API call"
+        "Three_Kingdoms_Warriors\n---\nink painting style, 3D rendered cinematic scene, Three Kingdoms warriors from the classic strategy game series, Guan Yu with flowing beard wielding Green Dragon Crescent Blade, Zhang Fei roaring with Serpent Spear, Zhao Yun in silver armor riding white steed, traditional Chinese armor with dragon patterns, dynamic battlefield composition, burning war flags in background, broken swords and shields scattered on ground, warhorses galloping through smoke, swirling storm clouds above battlefield, golden light piercing through dark skies, intricate ink wash textures blending with digital brushstrokes, heroic facial expressions showing determination, blood-stained cloth wraps, floating fabric ribbons, ancient Chinese city walls under siege, flaming arrows raining from towers, soldiers climbing siege ladders, war drums vibrating the air, mystical qi energy swirling around warriors' weapons, calligraphic blood splatter effects, traditional Chinese landscape elements with misty mountains in distance, cinematic depth of field, dramatic low-angle perspective, highly detailed metal armor reflections, dynamic wind-blown hair and beards, traditional Chinese color palette of crimson, gold and ink black, glowing energy effects on legendary weapons, historical war atmosphere with fantasy elements\n---\n水墨画风格，3D渲染电影级场景，经典策略游戏系列三国名将形象，美髯飘动的关羽挥舞青龙偃月刀，怒目圆睁的张飞手持丈八蛇矛，银甲白马的赵云挺枪冲锋，传统中式铠甲带有龙纹装饰，动态战场构图，背景中燃烧的战旗，地面散落的断剑残盾，战马穿越硝烟奔腾，战场上空翻涌的雷云，金色光芒穿透黑暗天际，细腻的墨染纹理与数码笔触融合，英雄人物坚毅的面部表情，染血的布质绑带，飘动的织物缎带，遭受围攻的古代城墙，箭塔射下的火雨，攀爬云梯的士兵，震撼空气的战鼓声波，环绕神兵的玄妙真气能量，书法风格的血溅特效，远处雾霭笼罩的山水元素，电影级景深效果，戏剧性的低角度视角，高度细节化的金属铠甲反光，动态风吹动的发须，传统中国色彩体系的朱红鎏金与墨黑，传说武器上的发光能量特效，融合奇幻元素的历史战争氛围。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8593,8 +8491,8 @@
         165.90072631835938
       ],
       "flags": {},
-      "order": 50,
-      "mode": 2,
+      "order": 47,
+      "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -8617,8 +8515,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 51,
-      "mode": 2,
+      "order": 48,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8664,8 +8562,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 52,
-      "mode": 2,
+      "order": 49,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8696,6 +8594,108 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 434,
+      "type": "easy int",
+      "pos": [
+        -2993.43017578125,
+        656.1171264648438
+      ],
+      "size": [
+        277.43426513671875,
+        58
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 50,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            794,
+            798,
+            801
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "开关",
+      "properties": {
+        "Node name for S&R": "easy int"
+      },
+      "widgets_values": [
+        4
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 435,
+      "type": "Note",
+      "pos": [
+        -2993.43017578125,
+        787.0662231445312
+      ],
+      "size": [
+        267.64105224609375,
+        126.89842987060547
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "title": "Note - 开关",
+      "properties": {},
+      "widgets_values": [
+        "1 - Ollama\n2 - DeepSeek-v3\n3 - DeepSeek-r1\n4 - 手动"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 130,
+      "type": "Fast Groups Muter (rgthree)",
+      "pos": [
+        -2646.628173828125,
+        656.1171264648438
+      ],
+      "size": [
+        515.7156982421875,
+        370
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "OPT_CONNECTION",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "matchColors": "",
+        "matchTitle": "",
+        "showNav": true,
+        "sort": "alphanumeric",
+        "customSortAlphabet": "",
+        "toggleRestriction": "default"
+      },
+      "color": "#322",
+      "bgcolor": "#533",
+      "shape": 2
     },
     {
       "id": 359,
@@ -8731,7 +8731,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "吉卜力动画风格的可爱少女在海边跳跃，穿着比基尼，蓝天碧水，水果和果汁",
+        "三国志游戏",
         [
           false,
           true
@@ -10738,7 +10738,7 @@
     },
     {
       "id": 20,
-      "title": "01_Prompts Generation - Ollama",
+      "title": "Prompts Generation 01- Ollama",
       "bounding": [
         -4537.974609375,
         -473.844970703125,
@@ -10751,7 +10751,7 @@
     },
     {
       "id": 21,
-      "title": "02_Prompts Generation - DeepSeek-v3",
+      "title": "Prompts Generation 02- DeepSeek-v3",
       "bounding": [
         -4538.3994140625,
         384.10870361328125,
@@ -10764,7 +10764,7 @@
     },
     {
       "id": 22,
-      "title": "04_Prompts Generation - 手工",
+      "title": "Prompts Generation 04- 手工",
       "bounding": [
         -4536.064453125,
         1339.553955078125,
@@ -10777,7 +10777,7 @@
     },
     {
       "id": 23,
-      "title": "03_Prompts Generation - DeepSeek-r1",
+      "title": "Prompts Generation 03- DeepSeek-r1",
       "bounding": [
         -4535.11572265625,
         639.2422485351562,
@@ -10792,10 +10792,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.620921323059155,
+      "scale": 0.7513148009015777,
       "offset": {
-        "0": 5897.2646484375,
-        "1": 136.5689239501953
+        "0": 3394.71875,
+        "1": 731.043212890625
       }
     },
     "groupNodes": {},
