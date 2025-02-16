@@ -4303,7 +4303,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Natural_Landscape_Background_933529857489133_low"
+        "Foxy_Chicken_Adventure_967220789352955_low"
       ]
     },
     {
@@ -4616,7 +4616,7 @@
         "collapsed": false
       },
       "order": 24,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -4653,7 +4653,7 @@
         "collapsed": true
       },
       "order": 63,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -4861,7 +4861,7 @@
         "collapsed": true
       },
       "order": 83,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "context",
@@ -4974,7 +4974,7 @@
       ],
       "flags": {},
       "order": 25,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -5013,7 +5013,7 @@
         "collapsed": true
       },
       "order": 68,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text_a",
@@ -5076,7 +5076,7 @@
         "collapsed": true
       },
       "order": 107,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -5328,7 +5328,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1053928552030988,
+        758254995685828,
         "randomize",
         40,
         1,
@@ -5443,7 +5443,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        395403632773542,
+        810173367220136,
         "randomize",
         25,
         1,
@@ -5527,7 +5527,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        369188932528052,
+        55701175509521,
         "randomize",
         20,
         1,
@@ -5785,7 +5785,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Leo_Villareal_Style_817655397818608_high"
+        "Calm_afternoon bookstore_739781435095942_high"
       ]
     },
     {
@@ -5936,12 +5936,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_xirsz_00001_.png&type=temp&subfolder=&rand=0.12521212920989777"
+            "url": "/api/view?filename=rgthree.compare._temp_dasgs_00001_.png&type=temp&subfolder=&rand=0.23279992470449384"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_xirsz_00002_.png&type=temp&subfolder=&rand=0.03344305083173782"
+            "url": "/api/view?filename=rgthree.compare._temp_dasgs_00002_.png&type=temp&subfolder=&rand=0.7841798986957986"
           }
         ]
       ],
@@ -6279,7 +6279,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Leo_Villareal_Style_268579670774744_low_0001.png",
+        "Calm_afternoon bookstore_1044118772552135_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -6480,7 +6480,7 @@
       },
       "widgets_values": [
         2,
-        84379611810989,
+        745863901632157,
         "randomize",
         20,
         1,
@@ -6733,7 +6733,7 @@
         "collapsed": true
       },
       "order": 37,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -6770,7 +6770,7 @@
         "collapsed": true
       },
       "order": 38,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -6957,7 +6957,7 @@
         "collapsed": true
       },
       "order": 94,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -7210,7 +7210,7 @@
       ],
       "flags": {},
       "order": 106,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "source",
@@ -7225,7 +7225,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "<think>\n好，我需要帮用户生成一个AI绘画的提示词。首先，用户的主题是“动漫风格，宁静的午后，小书店门口的墙上倚靠着一辆自行车，可爱的黄白相间毛色的猫咪从书店门口路过”。我要把这个主题分解成详细的描述。\n\n首先，确定整体氛围：宁静、温暖、怀旧，这些关键词很重要。场景是在一个小书店外，所以要有书架、书籍、木质装饰等元素，可能还有书香气息和柔和的阳光透过窗户洒进来。\n\n接下来是自行车，倚靠在墙上，细节方面可以考虑车轮、链条、车筐，颜色可能是复古或深色，增加画面的真实感。\n\n然后是猫咪的部分，黄白相间毛色，看起来很可爱。猫咪的动作可以从书店门口路过，可能正在张望或者好奇地观察周围环境。这部分要突出猫咪的特征和动作，让画面生动起来。\n\n还要考虑环境元素：书籍、书架、窗台上的装饰品，以及阳光带来的温暖氛围。整体风格是动漫，所以颜色要柔和，线条流畅，光影效果自然。\n\n最后，确保提示词包含所有这些细节，并且用英文和中文分别表达出来。标题部分要简洁，最多三个单词，比如“Calm_afternoon书店门口的宁静午后”。\n\n这样整理下来，就能生成一个详细且符合用户要求的提示词了。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7337,7 +7337,7 @@
         "collapsed": true
       },
       "order": 88,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "prompt",
@@ -7397,7 +7397,7 @@
         "collapsed": true
       },
       "order": 96,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -7479,7 +7479,7 @@
         "collapsed": true
       },
       "order": 74,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -7539,7 +7539,7 @@
         "collapsed": false
       },
       "order": 95,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -7554,7 +7554,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Error: Expecting value: line 1 column 1 (char 0)"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7664,7 +7664,7 @@
         "Node name for S&R": "easy int"
       },
       "widgets_values": [
-        1
+        3
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7823,7 +7823,7 @@
         "collapsed": true
       },
       "order": 97,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -7838,7 +7838,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Error occurred during API call"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7927,7 +7927,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        991961570521014,
+        198881753179917,
         "randomize"
       ],
       "color": "#232",
@@ -8621,7 +8621,7 @@
       ],
       "flags": {},
       "order": 49,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8999,10 +8999,10 @@
       },
       "widgets_values": [
         {
-          "content": "05_其他\\landscapex.safetensors",
-          "image": "loras/05_其他\\landscapex.png"
+          "content": "03_画面风格\\pp-storybook_rank2_bf16.safetensors",
+          "image": null
         },
-        1,
+        0.8,
         1,
         "[none]"
       ],
@@ -9045,7 +9045,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "landscapex",
+        "ppstorybook",
         [
           false,
           true
@@ -9088,7 +9088,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "自然风景壁纸，宽阔的视野",
+        "儿童绘本，小狐狸在偷鸡",
         [
           false,
           true
@@ -11092,7 +11092,7 @@
     },
     {
       "id": 3,
-      "title": "03. Upscale Image by Tile",
+      "title": "图像生成 04 - Upscale Image by Tile",
       "bounding": [
         2735.739990234375,
         2995.322265625,
@@ -11105,7 +11105,7 @@
     },
     {
       "id": 8,
-      "title": "02. (可选) Redux Model",
+      "title": "图像控制 01 - Redux Model(可选) ",
       "bounding": [
         236.57131958007812,
         -479.1595458984375,
@@ -11131,7 +11131,7 @@
     },
     {
       "id": 15,
-      "title": "02. (可选) ControllNet",
+      "title": "图像控制 02 - ControlNet(可选) ",
       "bounding": [
         1797.096435546875,
         -480.13470458984375,
@@ -11144,7 +11144,7 @@
     },
     {
       "id": 17,
-      "title": "02. 万物迁移",
+      "title": "图像生成 03 - 万物迁移",
       "bounding": [
         2734.0146484375,
         1315.2254638671875,
@@ -11157,7 +11157,7 @@
     },
     {
       "id": 18,
-      "title": "01. Flux Dev & Lora Image Generate",
+      "title": "图像生成 01 - Flux Dev & Lora Image Generate",
       "bounding": [
         2721.41552734375,
         -479.1462707519531,
@@ -11170,7 +11170,7 @@
     },
     {
       "id": 19,
-      "title": "02. 重绘 Inpainting",
+      "title": "图像生成 02 - 重绘 Inpainting",
       "bounding": [
         2731.06640625,
         548.770263671875,
@@ -11250,10 +11250,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.9487171000000014,
+      "scale": 0.46650738020973337,
       "offset": {
-        "0": -3452.208251953125,
-        "1": 223.6354522705078
+        "0": 1701.6715087890625,
+        "1": 1327.3955078125
       }
     },
     "groupNodes": {},
