@@ -163,7 +163,7 @@
         26
       ],
       "flags": {},
-      "order": 77,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -466,7 +466,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 68,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -506,7 +506,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -1154,7 +1154,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 91,
+      "order": 94,
       "mode": 4,
       "inputs": [
         {
@@ -1283,7 +1283,7 @@
         102
       ],
       "flags": {},
-      "order": 101,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -1328,7 +1328,7 @@
         130
       ],
       "flags": {},
-      "order": 100,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -1380,7 +1380,7 @@
         102
       ],
       "flags": {},
-      "order": 112,
+      "order": 115,
       "mode": 4,
       "inputs": [
         {
@@ -1426,7 +1426,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -1462,7 +1462,7 @@
         138
       ],
       "flags": {},
-      "order": 122,
+      "order": 127,
       "mode": 4,
       "inputs": [
         {
@@ -1536,7 +1536,7 @@
         58
       ],
       "flags": {},
-      "order": 119,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -1678,7 +1678,7 @@
         246
       ],
       "flags": {},
-      "order": 142,
+      "order": 147,
       "mode": 4,
       "inputs": [
         {
@@ -1868,7 +1868,7 @@
         26
       ],
       "flags": {},
-      "order": 113,
+      "order": 116,
       "mode": 4,
       "inputs": [
         {
@@ -1906,7 +1906,7 @@
         26
       ],
       "flags": {},
-      "order": 114,
+      "order": 117,
       "mode": 4,
       "inputs": [
         {
@@ -1944,7 +1944,7 @@
         26
       ],
       "flags": {},
-      "order": 103,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -1982,7 +1982,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -2133,7 +2133,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -2171,7 +2171,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2209,7 +2209,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -2248,7 +2248,7 @@
         26
       ],
       "flags": {},
-      "order": 61,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -2288,7 +2288,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 63,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -2368,7 +2368,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 59,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -2566,7 +2566,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 93,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2607,7 +2607,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -2817,7 +2817,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -3016,7 +3016,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 118,
+      "order": 120,
       "mode": 4,
       "inputs": [
         {
@@ -3043,7 +3043,7 @@
         46
       ],
       "flags": {},
-      "order": 132,
+      "order": 139,
       "mode": 4,
       "inputs": [
         {
@@ -3085,7 +3085,7 @@
         130
       ],
       "flags": {},
-      "order": 141,
+      "order": 146,
       "mode": 4,
       "inputs": [
         {
@@ -3154,7 +3154,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -3248,7 +3248,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 78,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -3289,7 +3289,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 60,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3378,7 +3378,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3417,7 +3417,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -3499,7 +3499,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 124,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -3538,7 +3538,7 @@
         26
       ],
       "flags": {},
-      "order": 120,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -3578,7 +3578,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 111,
+      "order": 114,
       "mode": 4,
       "inputs": [
         {
@@ -3647,7 +3647,7 @@
         106
       ],
       "flags": {},
-      "order": 105,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -3699,7 +3699,7 @@
         76
       ],
       "flags": {},
-      "order": 69,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -3893,7 +3893,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 148,
+      "order": 154,
       "mode": 4,
       "inputs": [
         {
@@ -3942,7 +3942,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 139,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -4131,76 +4131,6 @@
       ]
     },
     {
-      "id": 291,
-      "type": "Int",
-      "pos": [
-        -349.21942138671875,
-        -108.9134750366211
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 17,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            519
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Width",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "1024"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 292,
-      "type": "Int",
-      "pos": [
-        -349.21942138671875,
-        -0.4338870942592621
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 18,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            544
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Height",
-      "properties": {
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "768"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 116,
       "type": "easy showAnything",
       "pos": [
@@ -4234,7 +4164,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Leo_Villareal_Style_914345081623118_low"
+        "Colorful_Juice_Drips_1120685290834455_low"
       ]
     },
     {
@@ -4249,7 +4179,7 @@
         106
       ],
       "flags": {},
-      "order": 19,
+      "order": 17,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4292,7 +4222,7 @@
         106
       ],
       "flags": {},
-      "order": 20,
+      "order": 18,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4328,7 +4258,7 @@
         60.429901123046875
       ],
       "flags": {},
-      "order": 21,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4434,7 +4364,7 @@
         58
       ],
       "flags": {},
-      "order": 22,
+      "order": 20,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4469,7 +4399,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 23,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4511,7 +4441,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 24,
+      "order": 22,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4548,7 +4478,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 60,
       "mode": 4,
       "inputs": [
         {
@@ -4598,7 +4528,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -4640,7 +4570,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -4682,7 +4612,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 80,
       "mode": 4,
       "inputs": [
         {
@@ -4795,7 +4725,7 @@
         62.958675384521484
       ],
       "flags": {},
-      "order": 25,
+      "order": 23,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -4834,7 +4764,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 65,
       "mode": 4,
       "inputs": [
         {
@@ -4897,7 +4827,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 103,
       "mode": 4,
       "inputs": [
         {
@@ -4979,7 +4909,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 26,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5006,7 +4936,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 27,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5030,42 +4960,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 401,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2695.98828125,
-        14.591224670410156
-      ],
-      "size": [
-        643.8655395507812,
-        169.394775390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 140,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 744,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "文件名",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 418,
@@ -5173,7 +5067,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        81988342831163,
+        329471959665825,
         "randomize",
         25,
         1,
@@ -5194,7 +5088,7 @@
         262
       ],
       "flags": {},
-      "order": 128,
+      "order": 131,
       "mode": 4,
       "inputs": [
         {
@@ -5257,7 +5151,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1062727336185623,
+        1075236429556211,
         "randomize",
         20,
         1,
@@ -5278,7 +5172,7 @@
         82
       ],
       "flags": {},
-      "order": 133,
+      "order": 140,
       "mode": 4,
       "inputs": [
         {
@@ -5342,7 +5236,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 28,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5515,7 +5409,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Nezha_Staring_Intensely_71222986463904_high"
+        "Colorful_Juice_Drips_184490940219013_high"
       ]
     },
     {
@@ -5666,12 +5560,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dmcxf_00001_.png&type=temp&subfolder=&rand=0.7483832835784323"
+            "url": "/api/view?filename=rgthree.compare._temp_scjyc_00001_.png&type=temp&subfolder=&rand=0.07270729726717096"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dmcxf_00002_.png&type=temp&subfolder=&rand=0.5956133309043024"
+            "url": "/api/view?filename=rgthree.compare._temp_scjyc_00002_.png&type=temp&subfolder=&rand=0.3192501123620495"
           }
         ]
       ],
@@ -5690,7 +5584,7 @@
         58
       ],
       "flags": {},
-      "order": 29,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5727,7 +5621,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -5842,7 +5736,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 62,
       "mode": 4,
       "inputs": [
         {
@@ -5878,7 +5772,7 @@
         26
       ],
       "flags": {},
-      "order": 81,
+      "order": 78,
       "mode": 4,
       "inputs": [
         {
@@ -5903,41 +5797,6 @@
       }
     },
     {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3239.1728515625,
-        3341.550537109375
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 30,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "4"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 421,
       "type": "UpscaleModelLoader",
       "pos": [
@@ -5949,7 +5808,7 @@
         58
       ],
       "flags": {},
-      "order": 31,
+      "order": 28,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5982,7 +5841,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 32,
+      "order": 29,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6009,7 +5868,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Nezha_Staring_Intensely_794446740989641_low_0001.png",
+        "Colorful_Juice_Drips_1120685290834455_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -6030,7 +5889,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 147,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -6175,7 +6034,7 @@
       },
       "widgets_values": [
         2,
-        14312156577573,
+        8377702524540,
         "randomize",
         20,
         1,
@@ -6208,7 +6067,7 @@
         58
       ],
       "flags": {},
-      "order": 33,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6245,7 +6104,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 144,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -6297,7 +6156,7 @@
       },
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, ",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,",
         "base",
         "No",
         "",
@@ -6325,7 +6184,7 @@
         82
       ],
       "flags": {},
-      "order": 34,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6362,7 +6221,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 35,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -6373,43 +6232,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 426,
-      "type": "Simple String",
-      "pos": [
-        -4526.064453125,
-        1413.15380859375
-      ],
-      "size": [
-        377.4978942871094,
-        60.6619987487793
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            812
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Leo_Villareal_Style"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 390,
@@ -6425,7 +6247,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 37,
+      "order": 33,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6462,7 +6284,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 38,
+      "order": 34,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6499,7 +6321,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -6581,7 +6403,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 72,
+      "order": 73,
       "mode": 4,
       "inputs": [
         {
@@ -6649,7 +6471,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 95,
+      "order": 92,
       "mode": 4,
       "inputs": [
         {
@@ -6720,7 +6542,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -6862,7 +6684,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 74,
       "mode": 4,
       "inputs": [
         {
@@ -6920,7 +6742,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 151,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -6942,41 +6764,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 447,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3997.162841796875,
-        714.845947265625
-      ],
-      "size": [
-        557.1619873046875,
-        408.2314453125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 99,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 823,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "返回的答案",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "Nezha_Staring_Intensely  \n---  \nepic dynamic composition, Low Angle, traditional Chinese ink painting style with digital enhancements, Nezha from Chinese mythology (Nezha: The Devil's Birth), youthful deity with fierce expression, flowing red silk ribbons (Huntian Ling), golden glowing arm rings, barefoot standing atop swirling clouds, fiery halos encircling ankles (Wind Fire Wheels), piercing gaze directly at viewer, dynamic wind effects tousling hair and clothing, celestial battlefield backdrop with stormy skies and distant mountain peaks, glowing spear (Fire-Tipped Spear) held diagonally across body, swirling dragon patterns in surrounding energy currents, intricate armor detailing with lotus motifs, glowing spiritual energy aura, dramatic contrasting colors of crimson and jade, floating magical talismans with ancient scripts, broken celestial pillars in mid-air, swirling vortex of yin-yang energy below feet, celestial dragons emerging from thunderclouds, golden light breaking through dark clouds, hyper-detailed fabric textures, volumetric lighting effects, mythical atmosphere blending traditional Chinese elements with modern fantasy aesthetics  \n---  \n史诗般的动态构图，低角度镜头，传统中国水墨画风格结合数字增强效果，中国神话中的哪吒形象（出自《哪吒之魔童降世》），神情凛然的少年天神，飘动的红色混天绫，金光流转的乾坤圈，赤足立于翻腾的云海之上，脚踝环绕烈焰风火轮，穿透性目光直视观者，劲风效果吹拂发丝与衣袂，天庭战场背景呈现暴风雨天空与远山轮廓，斜持火尖枪的威武姿态，能量漩涡中游动的龙形纹路，莲花纹饰的精美铠甲细节，灵气环绕的发光能量场，朱红与翡翠色的强烈色彩对比，漂浮着古篆符咒的符纸，空中悬浮的断裂天柱，脚下旋转的阴阳能量漩涡，雷云中隐现的应龙身影，穿透乌云的金色圣光，超写实的织物纹理，体积光效表现，融合传统中国元素与现代奇幻美学的神话氛围"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 456,
       "type": "Fast Groups Bypasser (rgthree)",
       "pos": [
@@ -6990,7 +6777,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 39,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7023,7 +6810,7 @@
         142
       ],
       "flags": {},
-      "order": 40,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7060,7 +6847,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        894433948986092,
+        394340230866429,
         "randomize"
       ],
       "color": "#232",
@@ -7078,7 +6865,7 @@
         26
       ],
       "flags": {},
-      "order": 115,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -7116,7 +6903,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 152,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -7171,7 +6958,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 150,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -7224,7 +7011,7 @@
         26
       ],
       "flags": {},
-      "order": 116,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -7261,7 +7048,7 @@
         195.27806091308594
       ],
       "flags": {},
-      "order": 41,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -7285,7 +7072,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 42,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7330,7 +7117,7 @@
         26
       ],
       "flags": {},
-      "order": 106,
+      "order": 100,
       "mode": 4,
       "inputs": [
         {
@@ -7366,7 +7153,7 @@
         26
       ],
       "flags": {},
-      "order": 107,
+      "order": 101,
       "mode": 4,
       "inputs": [
         {
@@ -7402,7 +7189,7 @@
         170
       ],
       "flags": {},
-      "order": 94,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -7466,7 +7253,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 43,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7513,7 +7300,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 72,
       "mode": 4,
       "inputs": [
         {
@@ -7582,7 +7369,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -7651,7 +7438,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 137,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -7718,7 +7505,7 @@
         82
       ],
       "flags": {},
-      "order": 44,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7744,44 +7531,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 136,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1686.180419921875,
-        113.42327117919922
-      ],
-      "size": [
-        528.2103271484375,
-        279.6590576171875
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            282
-          ],
-          "slot_index": 0,
-          "widget": {
-            "name": "text_negative"
-          }
-        }
-      ],
-      "title": "Negative Prompt",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges,(freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans, "
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
     },
     {
       "id": 207,
@@ -7856,7 +7605,7 @@
         170
       ],
       "flags": {},
-      "order": 82,
+      "order": 79,
       "mode": 4,
       "inputs": [
         {
@@ -7920,7 +7669,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 46,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7965,7 +7714,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 47,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8041,50 +7790,6 @@
       }
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5776.24609375,
-        109.12081909179688
-      ],
-      "size": [
-        845.2066040039062,
-        887.206787109375
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 48,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748,
-            806
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含图片风格、内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, Low Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 470,
       "type": "Reroute",
       "pos": [
@@ -8098,7 +7803,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 146,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -8143,7 +7848,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 143,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -8185,7 +7890,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 138,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -8231,7 +7936,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -8273,7 +7978,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 129,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -8313,7 +8018,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 149,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -8348,7 +8053,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 134,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -8381,7 +8086,7 @@
         100.44618225097656
       ],
       "flags": {},
-      "order": 49,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -8407,7 +8112,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 50,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8441,42 +8146,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 471,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -4116.341796875,
-        1790.1383056640625
-      ],
-      "size": [
-        599.4024047851562,
-        347.8898620605469
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 153,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "link": 860,
-          "dir": 3
-        }
-      ],
-      "outputs": [],
-      "title": "提示词(英文)",
-      "properties": {
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 403,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8490,7 +8159,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -8541,7 +8210,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "嗯，用户让我生成一个关于哪吒站在空中凝视镜头的AI绘画提示词。首先，我需要确定主题的核心元素：哪吒、空中、凝视镜头。哪吒是中国神话中的经典人物，可能来自《封神演义》或动画电影《哪吒之魔童降世》。用户可能希望突出他的传统形象，但也可能喜欢现代改编版本。\n\n接下来，按照规则，提示词需要包含风格、主体、细节、环境、视角等。首先确定艺术风格。用户例子中用了8bit像素风格，但这里可能需要更具中国风的元素，比如水墨风格或传统动画风格。不过用户没有特别指定，所以可能需要结合奇幻和动态元素。\n\n环境方面，哪吒站在空中，周围可能有云海、火焰、混天绫、风火轮，背景可以是天空、山脉或天宫。需要详细描述这些元素，增加色彩和丰富度。视角方面，用户例子用了低角度，但这里哪吒在空中凝视镜头，可能适合Eye Level或Low Angle，突出他的威严。\n\n人物特征：哪吒通常形象是孩童，丸子头，混天绫，乾坤圈，火尖枪，风火轮。服饰颜色鲜艳，红黄为主。动作姿势是站立空中，凝视镜头，可能带有战斗后的效果，如火焰环绕，飘动的混天绫。\n\n需要加入细节，比如发光的武器，动态的云层，闪电效果，传统中国建筑在背景，龙元素等。风格可以考虑中国水墨画结合数字绘画，增强史诗感。\n\n还要注意提示词的结构，英文部分用短语，中文翻译准确。检查是否符合规则，比如不用markdown，不分段，无多余文字。可能需要包括拍摄视角如Low Angle，环境中的元素如云海、天宫，人物动作和服饰细节。\n\n最后确保中英文提示词都覆盖所有要点，字数在150-180词左右，形容词丰富，场景详细。比如“epic dynamic composition”对应“史诗般的动态构图”，“glowing red silk ribbons”对应“发光的红色混天绫”等。确认没有遗漏著名作品出处，比如《哪吒之魔童降世》。"
+        "Error: Expecting value: line 1 column 1 (char 0)"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8560,7 +8229,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 117,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -8602,7 +8271,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 125,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -8694,7 +8363,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 126,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -8786,7 +8455,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 127,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -8877,7 +8546,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -8918,7 +8587,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 108,
+      "order": 102,
       "mode": 4,
       "inputs": [
         {
@@ -8934,7 +8603,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "<think>\n嗯，我现在需要帮用户生成一个AI绘画的提示词。用户给的主题是“哪吒站在空中凝视着观众”。首先，我得理解这个主题的核心元素：哪吒、空中、凝视观众。\n\n哪吒是中国神话中的角色，来自《封神演义》，通常被描绘为少年英雄，有着独特的能力和形象。所以，提示词里需要包含他的特征，比如红头发、混天绫、火尖枪，还有他的铠甲和靴子。\n\n接下来是场景设定：空中。这可能意味着背景有云彩或者天空元素，可以考虑霞光、闪电等自然现象来增加画面的动态感。凝视观众则说明拍摄角度应该是正视图，让哪吒直视镜头，增强互动感。\n\n用户要求包括环境和场景细节，所以我要加入一些背景元素，比如祥云、雷电，这些都能突出哪吒作为神将的形象。此外，光线也很重要，神圣的光芒可以营造出一种超凡脱俗的感觉。\n\n关于拍摄视角，选择正视图可以让观众直接与哪吒对视，增强画面的冲击力和情感表达。同时，姿势方面，哪吒应该是坚定而自信的，手中握着火尖枪，混天绫飘动，显示出他的力量和准备战斗的状态。\n\n颜色方面，使用鲜明的颜色来突出他的形象，比如红色头发、金色光芒，这些都能让画面更加生动。整体风格应该是详细且充满活力的，同时带有传统神话元素与现代视觉效果的结合。\n\n最后，确保提示词涵盖所有细节：人物特征、服饰、动作、环境、光线和视角。这样生成出来的图像才能全面而生动地呈现用户的需求。"
+        "<think>\n好，我需要为用户生成一个适合Flux模型的提示词，主题是“抽象艺术，色彩丰富的果汁液滴向下滴入精致的高脚玻璃杯中”。首先，我会解析这个主题。\n\n主题中的主要元素有：抽象艺术、色彩丰富、果汁液滴、高脚玻璃杯。这些都需要详细描述，并且要符合Flux模型的要求，包括环境、场景和拍摄视角等。\n\n接下来，我会考虑图像的标题，根据用户给的例子，最多三个英文单词，用下划线分隔。这里可以取“Colorful_Juice_Drips”或者更简洁一点的“Juice_Drip_Art”。\n\n然后是生成英文提示词。需要包括抽象艺术风格、高脚玻璃杯的精致细节、果汁液滴的颜色和质感，以及环境氛围。比如使用“Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot”来描述整体风格和视角。\n\n接着要详细描绘果汁液滴的状态：“Colorful juice drips, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions”。\n\n环境部分，可以加入一些抽象元素：“Abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition”。\n\n最后，整合所有这些描述，形成一个连贯的提示词。确保涵盖所有要求：风格、内容主体、细节、环境、视角等。\n\n翻译成中文时，要保持原意，同时让语句流畅自然。比如“抽象艺术风格，绚丽多彩的颜色，高亮光泽效果，水晶般透明的玻璃杯，精致细腻的纹理，特写镜头”等等。\n\n检查是否遗漏了什么，比如是否有提到著名的角色或人物？在这个主题中没有涉及，所以不用补充这部分内容。确保提示词详细且丰富，能够帮助Flux模型生成出理想的艺术画面。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8954,7 +8623,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 51,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8991,7 +8660,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 71,
+      "order": 69,
       "mode": 4,
       "inputs": [
         {
@@ -9038,7 +8707,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -9085,7 +8754,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 96,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -9132,7 +8801,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -9164,158 +8833,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 52,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "哪吒站在空中凝视着镜头",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 455,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1638.5693359375,
-        913.31884765625
-      ],
-      "size": [
-        352.91259765625,
-        170
-      ],
-      "flags": {},
-      "order": 66,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 829
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 828
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            835
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            836
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\02_动漫\\01_动漫角色\\nezha.safetensors",
-          "image": null
-        },
-        0.8,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1686.1072998046875,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 53,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            847
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "nezha",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 235,
@@ -9427,7 +8944,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        892079204356668,
+        320195189284401,
         "randomize",
         40,
         1,
@@ -9435,6 +8952,380 @@
         "ddim_uniform",
         1
       ]
+    },
+    {
+      "id": 292,
+      "type": "Int",
+      "pos": [
+        -349.21942138671875,
+        -0.4338870942592621
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            544
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Height",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "1360"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 291,
+      "type": "Int",
+      "pos": [
+        -349.21942138671875,
+        -108.9134750366211
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 47,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            519
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Width",
+      "properties": {
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "630"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 455,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1638.5693359375,
+        913.31884765625
+      ],
+      "size": [
+        352.91259765625,
+        170
+      ],
+      "flags": {},
+      "order": 64,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 829
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 828
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            835
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            836
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\03_画面风格\\abstract_arts_flux_lora_03.safetensors",
+          "image": "loras/01_Flux\\03_画面风格\\abstract_arts_flux_lora_03.jpeg"
+        },
+        0.8,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1686.1072998046875,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 48,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            847
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "abstract_arts",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5776.24609375,
+        109.12081909179688
+      ],
+      "size": [
+        845.2066040039062,
+        887.206787109375
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 49,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含图片风格、内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, Low Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 50,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "抽象艺术，色彩丰富的果汁液滴向下滴入精致的高脚玻璃杯中",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 447,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3997.162841796875,
+        714.845947265625
+      ],
+      "size": [
+        557.1619873046875,
+        408.2314453125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 99,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 823,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "Error occurred during API call"
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 136,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1686.180419921875,
+        113.42327117919922
+      ],
+      "size": [
+        528.2103271484375,
+        279.6590576171875
+      ],
+      "flags": {},
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            282
+          ],
+          "slot_index": 0,
+          "widget": {
+            "name": "text_negative"
+          }
+        }
+      ],
+      "title": "Negative Prompt",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3239.1728515625,
+        3341.550537109375
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "2"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 402,
@@ -9451,7 +9342,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 145,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -9471,6 +9362,115 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 471,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -4116.341796875,
+        1790.1383056640625
+      ],
+      "size": [
+        599.4024047851562,
+        347.8898620605469
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 152,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 860,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "提示词(英文)",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 401,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2695.98828125,
+        14.591224670410156
+      ],
+      "size": [
+        643.8655395507812,
+        169.394775390625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 138,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "link": 744,
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 426,
+      "type": "Simple String",
+      "pos": [
+        -4526.064453125,
+        1413.15380859375
+      ],
+      "size": [
+        377.4978942871094,
+        60.6619987487793
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            812
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Colorful_Juice_Drips"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     },
     {
       "id": 425,
@@ -9508,7 +9508,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "epic dynamic composition, Low Angle, traditional Chinese ink painting style with digital enhancements, Nezha from Chinese mythology (Nezha: The Devil's Birth), youthful deity with fierce expression, flowing red silk ribbons (Huntian Ling), golden glowing arm rings, barefoot standing atop swirling clouds, fiery halos encircling ankles (Wind Fire Wheels), piercing gaze directly at viewer, dynamic wind effects tousling hair and clothing, celestial battlefield backdrop with stormy skies and distant mountain peaks, glowing spear (Fire-Tipped Spear) held diagonally across body, swirling dragon patterns in surrounding energy currents, intricate armor detailing with lotus motifs, glowing spiritual energy aura, dramatic contrasting colors of crimson and jade, floating magical talismans with ancient scripts, broken celestial pillars in mid-air, swirling vortex of yin-yang energy below feet, celestial dragons emerging from thunderclouds, golden light breaking through dark clouds, hyper-detailed fabric textures, volumetric lighting effects, mythical atmosphere blending traditional Chinese elements with modern fantasy aesthetics",
+        "Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot, colorful juice drips, ice cubes, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions, abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition",
         [
           false,
           true
@@ -11750,10 +11750,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917354,
+      "scale": 1.1,
       "offset": {
-        "0": 1039.7960205078125,
-        "1": 745.9089965820312
+        "0": 3013.57666015625,
+        "1": -433.5429992675781
       }
     },
     "groupNodes": {},
@@ -11769,9 +11769,9 @@
       "ComfyUI_LayerStyle": "7b326d13e43fc4022cd80e472c7af67027409b1e",
       "ComfyUI-KJNodes": "fb03b434142e9548765724f01a05ddcbf3a17be4",
       "cg-use-everywhere": "ce510b97d10e69d5fd0042e115ecd946890d2079",
-      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "ComfyUI_Comfyroll_CustomNodes": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
       "comfyui-ollama": "fdbed85930933b860a0a84a0bb77bb7f4342d9ed",
+      "ComfyLiterals": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
       "ComfyUI_UltimateSDUpscale": "ff3fdfeee03de46d4462211cffd165d27155e858",
       "ComfyUI-WD14-Tagger": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
       "Comfyui-Deepseek": "38a649aa8e06598900e41e743f2505c8e45ef849",
