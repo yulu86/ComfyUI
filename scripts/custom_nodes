@@ -71,6 +71,6 @@ ComfyUI-HunyuanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyU
 # ComfyUI-HunyuanLoom
 ComfyUI-HunyuanLoom=https://gh-proxy.com/https://github.com/logtd/ComfyUI-HunyuanLoom.git
 # Comfyui-Deepseek
-Comfyui-Deepseek=git@github.com:yulu86/Comfyui-Deepseek.git
+Comfyui-Deepseek=https://gh-proxy.com/https://github.com/yichengup/Comfyui-Deepseek.git
 # ComfyUI-Custom-Scripts
 ComfyUI-Custom-Scripts=https://gh-proxy.com/https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
