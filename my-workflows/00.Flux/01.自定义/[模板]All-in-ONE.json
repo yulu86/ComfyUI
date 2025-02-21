@@ -8615,41 +8615,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3239.1728515625,
-        3341.550537109375
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 45,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "2"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 402,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8771,7 +8736,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8943,7 +8908,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8986,7 +8951,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9033,7 +8998,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 49,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9074,7 +9039,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9279,7 +9244,7 @@
       ],
       "size": [
         300,
-        400
+        500
       ],
       "flags": {},
       "order": 70,
@@ -9472,7 +9437,7 @@
         58
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9507,7 +9472,7 @@
         58
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9542,7 +9507,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9587,7 +9552,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9619,6 +9584,41 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3239.1728515625,
+        3341.550537109375
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -11869,10 +11869,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5644739300537773,
+      "scale": 1.1,
       "offset": [
-        4097.836278279506,
-        577.1219399029005
+        -2581.439443850509,
+        -3132.090573421019
       ]
     },
     "groupNodes": {},
