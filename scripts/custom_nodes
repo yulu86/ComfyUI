@@ -74,3 +74,7 @@ ComfyUI-HunyuanLoom=https://gh-proxy.com/https://github.com/logtd/ComfyUI-Hunyua
 Comfyui-Deepseek=https://gh-proxy.com/https://github.com/yichengup/Comfyui-Deepseek.git
 # ComfyUI-Custom-Scripts
 ComfyUI-Custom-Scripts=https://gh-proxy.com/https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+# ComfyUI-Florence2
+ComfyUI-Florence2=https://gh-proxy.com/https://github.com/kijai/ComfyUI-Florence2.git
+# comfyui-tensorops
+comfyui-tensorops=https://gh-proxy.com/https://github.com/un-seen/comfyui-tensorops.git
