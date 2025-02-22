@@ -50,7 +50,9 @@ xpu_available = False
 torch_version = ""
 try:
     torch_version = torch.version.__version__
-    xpu_available = (int(torch_version[0]) < 2 or (int(torch_version[0]) == 2 and int(torch_version[2]) <= 4)) and torch.xpu.is_available()
+    temp = torch_version.split(".")
+    torch_version_numeric = (int(temp[0]), int(temp[1]))
+    xpu_available = (torch_version_numeric[0] < 2 or (torch_version_numeric[0] == 2 and torch_version_numeric[1] <= 4)) and torch.xpu.is_available()
 except:
     pass
 
@@ -218,7 +220,7 @@ def is_amd():
 
 MIN_WEIGHT_MEMORY_RATIO = 0.4
 if is_nvidia():
-    MIN_WEIGHT_MEMORY_RATIO = 0.1
+    MIN_WEIGHT_MEMORY_RATIO = 0.0
 
 ENABLE_PYTORCH_ATTENTION = False
 if args.use_pytorch_cross_attention:
@@ -227,7 +229,7 @@ if args.use_pytorch_cross_attention:
 
 try:
     if is_nvidia():
-        if int(torch_version[0]) >= 2:
+        if torch_version_numeric[0] >= 2:
             if ENABLE_PYTORCH_ATTENTION == False and args.use_split_cross_attention == False and args.use_quad_cross_attention == False:
                 ENABLE_PYTORCH_ATTENTION = True
     if is_intel_xpu() or is_ascend_npu():
@@ -242,8 +244,8 @@ try:
         arch = torch.cuda.get_device_properties(get_torch_device()).gcnArchName
         logging.info("AMD arch: {}".format(arch))
         if args.use_split_cross_attention == False and args.use_quad_cross_attention == False:
-            if int(torch_version[0]) >= 2 and int(torch_version[2]) >= 7:  # works on 2.6 but doesn't actually seem to improve much
-                if arch in ["gfx1100"]: #TODO: more arches
+            if torch_version_numeric[0] >= 2 and torch_version_numeric[1] >= 7:  # works on 2.6 but doesn't actually seem to improve much
+                if any((a in arch) for a in ["gfx1100", "gfx1101"]):  # TODO: more arches
                     ENABLE_PYTORCH_ATTENTION = True
 except:
     pass
@@ -261,7 +263,7 @@ except:
     pass
 
 try:
-    if int(torch_version[0]) == 2 and int(torch_version[2]) >= 5:
+    if torch_version_numeric[0] == 2 and torch_version_numeric[1] >= 5:
         torch.backends.cuda.allow_fp16_bf16_reduction_math_sdp(True)
 except:
     logging.warning("Warning, could not set allow_fp16_bf16_reduction_math_sdp")
@@ -941,7 +943,7 @@ def force_upcast_attention_dtype():
     upcast = args.force_upcast_attention
 
     macos_version = mac_version()
-    if macos_version is not None and ((14, 5) <= macos_version <= (15, 2)):  # black image bug on recent versions of macOS
+    if macos_version is not None and ((14, 5) <= macos_version < (16,)):  # black image bug on recent versions of macOS
         upcast = True
 
     if upcast:
@@ -1019,8 +1021,6 @@ def is_directml_enabled():
     return False
 
 def should_use_fp16(device=None, model_params=0, prioritize_performance=True, manual_cast=False):
-    global directml_enabled
-
     if device is not None:
         if is_device_cpu(device):
             return False
@@ -1031,8 +1031,8 @@ def should_use_fp16(device=None, model_params=0, prioritize_performance=True, ma
     if FORCE_FP32:
         return False
 
-    if directml_enabled:
-        return False
+    if is_directml_enabled():
+        return True
 
     if (device is not None and is_device_mps(device)) or mps_mode():
         return True
@@ -1106,13 +1106,20 @@ def should_use_bf16(device=None, model_params=0, prioritize_performance=True, ma
     if is_ascend_npu():
         return True
 
+    if is_amd():
+        arch = torch.cuda.get_device_properties(device).gcnArchName
+        if any((a in arch) for a in ["gfx1030", "gfx1031", "gfx1010", "gfx1011", "gfx1012", "gfx906", "gfx900", "gfx803"]):  # RDNA2 and older don't support bf16
+            if manual_cast:
+                return True
+            return False
+
     props = torch.cuda.get_device_properties(device)
     if props.major >= 8:
         return True
 
     bf16_works = torch.cuda.is_bf16_supported()
 
-    if bf16_works or manual_cast:
+    if bf16_works and manual_cast:
         free_model_memory = maximum_vram_for_weights(device)
         if (not prioritize_performance) or model_params * 4 > free_model_memory:
             return True
@@ -1131,11 +1138,11 @@ def supports_fp8_compute(device=None):
     if props.minor < 9:
         return False
 
-    if int(torch_version[0]) < 2 or (int(torch_version[0]) == 2 and int(torch_version[2]) < 3):
+    if torch_version_numeric[0] < 2 or (torch_version_numeric[0] == 2 and torch_version_numeric[1] < 3):
         return False
 
     if WINDOWS:
-        if (int(torch_version[0]) == 2 and int(torch_version[2]) < 4):
+        if (torch_version_numeric[0] == 2 and torch_version_numeric[1] < 4):
             return False
 
     return True
