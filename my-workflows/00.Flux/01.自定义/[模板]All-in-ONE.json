@@ -1,6 +1,6 @@
 {
-  "last_node_id": 507,
-  "last_link_id": 904,
+  "last_node_id": 510,
+  "last_link_id": 906,
   "nodes": [
     {
       "id": 144,
@@ -788,7 +788,7 @@
         46
       ],
       "flags": {},
-      "order": 211,
+      "order": 210,
       "mode": 4,
       "inputs": [
         {
@@ -4588,7 +4588,7 @@
         82
       ],
       "flags": {},
-      "order": 212,
+      "order": 211,
       "mode": 4,
       "inputs": [
         {
@@ -4682,7 +4682,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        854584105413355,
+        505815708081587,
         "randomize",
         25,
         1,
@@ -4766,7 +4766,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        614161546213331,
+        993385862472652,
         "randomize",
         20,
         1,
@@ -4918,14 +4918,14 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 209,
+      "order": 212,
       "mode": 4,
       "inputs": [
         {
           "name": "image_a",
           "type": "IMAGE",
           "dir": 3,
-          "link": 774
+          "link": 905
         },
         {
           "name": "image_b",
@@ -4944,12 +4944,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00013_.png&type=temp&subfolder=&rand=0.9216611044815357"
+            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00021_.png&type=temp&subfolder=&rand=0.5062253492557249"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00014_.png&type=temp&subfolder=&rand=0.06364807059825583"
+            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00022_.png&type=temp&subfolder=&rand=0.4064793747400317"
           }
         ]
       ],
@@ -5031,37 +5031,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 417,
-      "type": "LayerUtility: PurgeVRAM",
-      "pos": [
-        4057.29638671875,
-        3248.333984375
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 208,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 773
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "Node name for S&R": "LayerUtility: PurgeVRAM"
-      },
-      "widgets_values": [
-        false,
-        true
-      ],
-      "color": "rgba(38, 73, 116, 0.7)"
     },
     {
       "id": 278,
@@ -5946,7 +5915,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        41793823660319,
+        70160118020878,
         "randomize"
       ],
       "color": "#232",
@@ -7781,7 +7750,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        397868032759600,
+        321973921563389,
         "randomize",
         40,
         1,
@@ -9613,41 +9582,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3239.1728515625,
-        3341.550537109375
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "1"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 420,
       "type": "UltimateSDUpscale",
       "pos": [
@@ -9739,7 +9673,6 @@
           "type": "IMAGE",
           "links": [
             773,
-            774,
             776
           ],
           "slot_index": 0
@@ -9750,7 +9683,7 @@
       },
       "widgets_values": [
         2,
-        32298869551971,
+        893219322655904,
         "randomize",
         20,
         1,
@@ -9770,65 +9703,6 @@
         true,
         false
       ]
-    },
-    {
-      "id": 209,
-      "type": "Evaluate Strings",
-      "pos": [
-        4424.55908203125,
-        3279.390380859375
-      ],
-      "size": [
-        315,
-        154
-      ],
-      "flags": {},
-      "order": 190,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 590
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            428,
-            904
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + \"_\" + b ",
-        "False",
-        "Hello",
-        "high",
-        "!"
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159",
-      "shape": 1
     },
     {
       "id": 490,
@@ -9877,73 +9751,6 @@
         ".txt",
         "utf-8",
         ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 230,
-      "type": "Image Save",
-      "pos": [
-        4850.6806640625,
-        3201.00048828125
-      ],
-      "size": [
-        315,
-        602
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 210,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 776
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 428
-        }
-      ],
-      "outputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "links": null
-        },
-        {
-          "name": "files",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Image Save (JPG)",
-      "properties": {
-        "Node name for S&R": "Image Save"
-      },
-      "widgets_values": [
-        "[time(%Y-%m-%d)]/03_high",
-        "ComfyUI",
-        "_",
-        4,
-        "false",
-        "jpg",
-        300,
-        100,
-        "true",
-        "false",
-        "false",
-        "false",
-        "true",
-        "false",
-        "false"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -10025,6 +9832,204 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 230,
+      "type": "Image Save",
+      "pos": [
+        4850.6806640625,
+        3195.581298828125
+      ],
+      "size": [
+        315,
+        602
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 209,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 776
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 428
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": [
+            905
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "files",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "Image Save (JPG)",
+      "properties": {
+        "Node name for S&R": "Image Save"
+      },
+      "widgets_values": [
+        "[time(%Y-%m-%d)]/03_high",
+        "ComfyUI",
+        "_",
+        4,
+        "false",
+        "jpg",
+        300,
+        100,
+        "true",
+        "false",
+        "false",
+        "false",
+        "true",
+        "false",
+        "false"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3239.1728515625,
+        3341.550537109375
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 56,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "4"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 209,
+      "type": "Evaluate Strings",
+      "pos": [
+        4424.55908203125,
+        3279.390380859375
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 190,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 590
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            428,
+            904
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + \"_\" + b ",
+        "False",
+        "Hello",
+        "high",
+        "!"
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "shape": 1
+    },
+    {
+      "id": 417,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        4072.697021484375,
+        3491.800537109375
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 208,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 773
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
     }
   ],
   "links": [
@@ -11509,14 +11514,6 @@
       "*"
     ],
     [
-      774,
-      420,
-      0,
-      348,
-      0,
-      "IMAGE"
-    ],
-    [
       776,
       420,
       0,
@@ -12179,6 +12176,14 @@
       490,
       1,
       "STRING"
+    ],
+    [
+      905,
+      230,
+      0,
+      348,
+      0,
+      "IMAGE"
     ]
   ],
   "groups": [
@@ -12355,10 +12360,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.771561000000001,
+      "scale": 0.289664379736688,
       "offset": [
-        2789.181766943334,
-        -365.47861141642375
+        5127.762681572124,
+        1065.0438974822957
       ]
     },
     "groupNodes": {},
