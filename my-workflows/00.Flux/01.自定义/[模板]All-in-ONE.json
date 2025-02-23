@@ -36,6 +36,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -72,6 +74,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPVisionLoader"
       },
       "widgets_values": [
@@ -141,6 +145,7 @@
         }
       ],
       "properties": {
+        "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
       "widgets_values": [
@@ -223,6 +228,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -256,6 +263,7 @@
         }
       ],
       "properties": {
+        "ver": "5875c52f59baca3a9372d68c43a3775e21846fe0",
         "Node name for S&R": "UnetLoaderGGUF"
       },
       "widgets_values": [
@@ -366,6 +374,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
@@ -400,6 +410,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAELoader"
       },
       "widgets_values": [
@@ -441,6 +453,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Number to Text"
       },
       "widgets_values": [],
@@ -526,6 +540,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAEDecode"
       },
       "widgets_values": []
@@ -575,6 +591,8 @@
       ],
       "title": "Image Save (PNG)",
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Image Save"
       },
       "widgets_values": [
@@ -629,6 +647,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "DifferentialDiffusion"
       },
       "widgets_values": []
@@ -679,6 +699,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -723,6 +745,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
@@ -759,6 +783,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "comparer_mode": "Slide"
       },
       "widgets_values": [
@@ -814,6 +840,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAEDecode"
       },
       "widgets_values": []
@@ -855,6 +883,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -899,6 +929,8 @@
       ],
       "title": "CLIP Text Encode (Positive Prompt)",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
@@ -946,6 +978,8 @@
       ],
       "title": "CLIP Text Encode (Negative Prompt)",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
@@ -984,6 +1018,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPVisionLoader"
       },
       "widgets_values": [
@@ -1016,6 +1052,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "StyleModelLoader"
       },
       "widgets_values": [
@@ -1085,6 +1123,7 @@
         }
       ],
       "properties": {
+        "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
       "widgets_values": [
@@ -1128,6 +1167,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "FluxGuidance"
       },
       "widgets_values": [
@@ -1177,6 +1218,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "EmptyImage"
       },
       "widgets_values": [
@@ -1225,6 +1268,8 @@
       ],
       "title": "Image Concatenate - 遮罩",
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "f3d931a630e01821fc1375c9aa24401ab2852347",
         "Node name for S&R": "ImageConcanate"
       },
       "widgets_values": [
@@ -1300,6 +1345,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "InpaintModelConditioning"
       },
       "widgets_values": [
@@ -1338,6 +1385,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "ImageToMask"
       },
       "widgets_values": [
@@ -1370,6 +1419,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
@@ -1409,6 +1460,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "DifferentialDiffusion"
       },
       "widgets_values": []
@@ -1442,6 +1495,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAELoader"
       },
       "widgets_values": [
@@ -1494,6 +1549,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -1538,6 +1595,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
@@ -1589,6 +1648,8 @@
       ],
       "title": "Image Save (PNG)",
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Image Save"
       },
       "widgets_values": [
@@ -1789,6 +1850,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "DualCLIPLoader"
       },
       "widgets_values": [
@@ -2215,6 +2278,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "ControlNetLoader"
       },
       "widgets_values": [
@@ -2299,6 +2364,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "FluxGuidance"
       },
       "widgets_values": [
@@ -2691,6 +2758,8 @@
       ],
       "title": "Image Save (PNG)",
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Image Save"
       },
       "widgets_values": [
@@ -2736,6 +2805,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
@@ -2778,6 +2849,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAEDecode"
       },
       "widgets_values": []
@@ -2840,6 +2913,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "ImageCrop"
       },
       "widgets_values": [
@@ -3204,6 +3279,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
@@ -3292,6 +3369,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "EmptyLatentImage"
       },
       "widgets_values": [
@@ -3330,6 +3409,8 @@
       "outputs": [],
       "title": "Last Seed",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Int (rgthree)"
       },
       "widgets_values": [
@@ -3450,6 +3531,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "InpaintModelConditioning"
       },
       "widgets_values": [
@@ -3490,6 +3573,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "ConditioningZeroOut"
       },
       "widgets_values": [],
@@ -3526,6 +3611,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "comparer_mode": "Slide"
       },
       "widgets_values": [
@@ -3581,6 +3668,8 @@
       ],
       "title": "图片名称",
       "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
@@ -3623,6 +3712,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -3663,6 +3754,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -3735,6 +3828,7 @@
         }
       ],
       "properties": {
+        "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
       "widgets_values": [
@@ -3776,6 +3870,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
@@ -3852,6 +3948,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "DualCLIPLoader"
       },
       "widgets_values": [
@@ -3889,6 +3987,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "VAELoader"
       },
       "widgets_values": [
@@ -3957,6 +4057,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "ControlNetApplySD3"
       },
       "widgets_values": [
@@ -3994,6 +4096,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "StyleModelLoader"
       },
       "widgets_values": [
@@ -4071,6 +4175,8 @@
       ],
       "title": "LLM Model",
       "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
@@ -4121,6 +4227,7 @@
         }
       ],
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR String To Combo"
       },
       "widgets_values": [
@@ -4297,6 +4404,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-ollama",
+        "ver": "fdbed85930933b860a0a84a0bb77bb7f4342d9ed",
         "Node name for S&R": "OllamaGenerateAdvance"
       },
       "widgets_values": [
@@ -4418,6 +4527,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Text Input Switch"
       },
       "widgets_values": [
@@ -4501,6 +4612,7 @@
         }
       ],
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
       "widgets_values": [
@@ -4568,6 +4680,8 @@
       ],
       "title": "分隔符",
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy string"
       },
       "widgets_values": [
@@ -4599,6 +4713,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: PurgeVRAM"
       },
       "widgets_values": [
@@ -4679,6 +4795,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
@@ -4763,6 +4881,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
@@ -4798,6 +4918,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: PurgeVRAM"
       },
       "widgets_values": [
@@ -4829,6 +4951,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: PurgeVRAM"
       },
       "widgets_values": [
@@ -4937,6 +5061,8 @@
       "outputs": [],
       "title": "原图 与 Tile放大对比",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "comparer_mode": "Slide"
       },
       "widgets_values": [
@@ -4983,6 +5109,7 @@
       ],
       "title": "Steps",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
       "widgets_values": [
@@ -5129,6 +5256,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "UpscaleModelLoader"
       },
       "widgets_values": [
@@ -5173,6 +5302,8 @@
       ],
       "title": "加载需要高清化的图像",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -5228,6 +5359,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "f3d931a630e01821fc1375c9aa24401ab2852347",
         "Node name for S&R": "JoinStrings"
       },
       "widgets_values": [
@@ -5265,6 +5398,7 @@
       ],
       "title": "Upscale Steps",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
       "widgets_values": [
@@ -5299,6 +5433,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
@@ -5363,6 +5499,8 @@
       ],
       "title": "Ollama URL 本地",
       "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
@@ -5400,6 +5538,8 @@
       ],
       "title": "Ollama URL 远程",
       "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
@@ -5481,6 +5621,7 @@
         }
       ],
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
       "widgets_values": [
@@ -5535,6 +5676,7 @@
         }
       ],
       "properties": {
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
         "Node name for S&R": "DeepseekAdvancedNode"
       },
       "widgets_values": [
@@ -5620,6 +5762,7 @@
         }
       ],
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
       "widgets_values": [
@@ -5675,6 +5818,7 @@
         }
       ],
       "properties": {
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
         "Node name for S&R": "DeepseekReasonerNode"
       },
       "widgets_values": [
@@ -5762,6 +5906,7 @@
         }
       ],
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
       "widgets_values": [
@@ -5818,6 +5963,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -5912,6 +6059,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
@@ -6000,6 +6149,8 @@
       ],
       "title": "CLIP文本编码（Negative Prompt)",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
@@ -6055,6 +6206,8 @@
       ],
       "title": "CLIP Text Encode (Positive Prompt)",
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
@@ -6160,6 +6313,7 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -6228,6 +6382,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -6297,6 +6453,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -6366,6 +6524,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -6466,6 +6626,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -6529,6 +6691,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
         "Node name for S&R": "LoraLoader|pysssss"
       },
       "widgets_values": [
@@ -6576,6 +6740,7 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -6872,6 +7037,8 @@
       "outputs": [],
       "title": " 提示词(中文)",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -6939,6 +7106,7 @@
       ],
       "title": " 提示词(中文)",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -6978,6 +7146,8 @@
       "outputs": [],
       "title": " 提示词(中文)",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -7013,6 +7183,8 @@
       "outputs": [],
       "title": "思考过程",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -7142,6 +7314,7 @@
       ],
       "title": "Prompts 中文",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text Input Switch (4 way)"
       },
       "widgets_values": [
@@ -7234,6 +7407,7 @@
       ],
       "title": "Prompts Positive",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text Input Switch (4 way)"
       },
       "widgets_values": [
@@ -7326,6 +7500,7 @@
       ],
       "title": "图片名称",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text Input Switch (4 way)"
       },
       "widgets_values": [
@@ -7406,6 +7581,8 @@
       "outputs": [],
       "title": "思考过程",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -7444,6 +7621,7 @@
       ],
       "title": "开关",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
       "widgets_values": [
@@ -7489,6 +7667,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy mathInt"
       },
       "widgets_values": [
@@ -7536,6 +7716,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy mathInt"
       },
       "widgets_values": [
@@ -7583,6 +7765,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy mathInt"
       },
       "widgets_values": [
@@ -7630,6 +7814,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
         "Node name for S&R": "easy mathInt"
       },
       "widgets_values": [
@@ -7663,6 +7849,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
@@ -7747,6 +7935,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
@@ -7809,6 +7999,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
         "Node name for S&R": "LoraLoader|pysssss"
       },
       "widgets_values": [
@@ -7855,6 +8047,7 @@
       ],
       "title": "模板",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
       "widgets_values": [
@@ -7894,6 +8087,8 @@
       "outputs": [],
       "title": "返回的答案",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -7968,6 +8163,8 @@
       "outputs": [],
       "title": "提示词(英文)",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -8004,6 +8201,8 @@
       "outputs": [],
       "title": "提示词(英文)",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -8040,6 +8239,8 @@
       "outputs": [],
       "title": "文件名",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -8077,6 +8278,8 @@
       ],
       "title": "主题",
       "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
         "Node name for S&R": "Simple String"
       },
       "widgets_values": [
@@ -8123,6 +8326,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-kjnodes",
+        "ver": "f3d931a630e01821fc1375c9aa24401ab2852347",
         "Node name for S&R": "ImageConcanate"
       },
       "widgets_values": [
@@ -8207,6 +8412,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: ImageScaleByAspectRatio V2"
       },
       "widgets_values": [
@@ -8256,6 +8463,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
@@ -8298,6 +8507,7 @@
       ],
       "title": "提示词",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -8341,6 +8551,7 @@
       ],
       "title": "主题",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
       "widgets_values": [
@@ -8386,6 +8597,7 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -8557,69 +8769,11 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "PreviewImage"
       },
       "widgets_values": []
-    },
-    {
-      "id": 487,
-      "type": "easy humanSegmentation",
-      "pos": [
-        3138.78076171875,
-        2319.998046875
-      ],
-      "size": [
-        300,
-        500
-      ],
-      "flags": {},
-      "order": 72,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 877
-        }
-      ],
-      "outputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "links": [
-            878
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "mask",
-          "type": "MASK",
-          "links": [
-            879
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "bbox",
-          "type": "BBOX",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "easy humanSegmentation",
-        "values": [
-          5,
-          9
-        ]
-      },
-      "widgets_values": [
-        "human_parsing_lip",
-        0.4,
-        0,
-        "5,9"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 180,
@@ -8700,6 +8854,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: ImageScaleByAspectRatio V2"
       },
       "widgets_values": [
@@ -8747,6 +8903,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
         "Node name for S&R": "MaskToImage"
       },
       "widgets_values": []
@@ -8778,6 +8936,7 @@
       ],
       "title": "Width",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
       "widgets_values": [
@@ -8813,6 +8972,7 @@
       ],
       "title": "Height",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
       "widgets_values": [
@@ -8854,6 +9014,7 @@
       ],
       "title": "提示词 - 画质",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -8899,6 +9060,7 @@
       ],
       "title": "提示词 - 美女(可选)",
       "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
@@ -8938,6 +9100,8 @@
       "outputs": [],
       "title": "图片内容",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -9069,6 +9233,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
         "Node name for S&R": "LoraLoader|pysssss"
       },
       "widgets_values": [
@@ -9108,6 +9274,8 @@
       "outputs": [],
       "title": "Show Positive  Prompt",
       "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
@@ -9179,6 +9347,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui-art-venture",
+        "ver": "50abaace756b96f5f5dc2c9d72826ef371afd45e",
         "Node name for S&R": "SDXLPromptStyler"
       },
       "widgets_values": [
@@ -9313,6 +9483,7 @@
         }
       ],
       "properties": {
+        "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
         "Node name for S&R": "String Literal"
       },
       "widgets_values": [
@@ -9396,6 +9567,7 @@
         }
       ],
       "properties": {
+        "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
         "Node name for S&R": "String Literal"
       },
       "widgets_values": [
@@ -9679,6 +9851,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "comfyui_ultimatesdupscale",
+        "ver": "ff3fdfeee03de46d4462211cffd165d27155e858",
         "Node name for S&R": "UltimateSDUpscale"
       },
       "widgets_values": [
@@ -9740,6 +9914,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Save Text File"
       },
       "widgets_values": [
@@ -9820,6 +9996,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Text Concatenate"
       },
       "widgets_values": [
@@ -9882,6 +10060,8 @@
       ],
       "title": "Image Save (JPG)",
       "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
         "Node name for S&R": "Image Save"
       },
       "widgets_values": [
@@ -9931,6 +10111,7 @@
       ],
       "title": "Upscale Factor",
       "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Float"
       },
       "widgets_values": [
@@ -9987,6 +10168,8 @@
         }
       ],
       "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
@@ -10023,6 +10206,8 @@
       ],
       "outputs": [],
       "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
         "Node name for S&R": "LayerUtility: PurgeVRAM"
       },
       "widgets_values": [
@@ -10030,6 +10215,68 @@
         true
       ],
       "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 487,
+      "type": "easy humanSegmentation",
+      "pos": [
+        3135.56005859375,
+        2197.59912109375
+      ],
+      "size": [
+        300,
+        500
+      ],
+      "flags": {},
+      "order": 72,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 877
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": [
+            878
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "mask",
+          "type": "MASK",
+          "links": [
+            879
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "bbox",
+          "type": "BBOX",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy humanSegmentation",
+        "values": [
+          5,
+          9
+        ]
+      },
+      "widgets_values": [
+        "human_parsing_lip",
+        0.4,
+        0,
+        "5,9"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -12360,10 +12607,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.289664379736688,
+      "scale": 0.620921323059155,
       "offset": [
-        5127.762681572124,
-        1065.0438974822957
+        -1654.7819653044603,
+        -1458.3959554903745
       ]
     },
     "groupNodes": {},
