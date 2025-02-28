@@ -3832,7 +3832,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_864307173649938_low"
+        "Surreal_Cosmic_Abstraction_1009712819762205_low"
       ]
     },
     {
@@ -4589,7 +4589,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        16131979795294,
+        813110138898986,
         "randomize",
         25,
         1,
@@ -4675,7 +4675,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        942312438938594,
+        755409005742374,
         "randomize",
         20,
         1,
@@ -5687,7 +5687,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        28094834167710,
+        320321259287595,
         "randomize"
       ],
       "color": "#232",
@@ -7491,7 +7491,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        164082509111646,
+        256458516775118,
         "randomize",
         40,
         1,
@@ -7565,44 +7565,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 136,
-      "type": "PrimitiveNode",
-      "pos": [
-        -1686.180419921875,
-        113.42327117919922
-      ],
-      "size": [
-        528.2103271484375,
-        279.6590576171875
-      ],
-      "flags": {},
-      "order": 40,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "widget": {
-            "name": "text_negative"
-          },
-          "links": [
-            282
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Negative Prompt",
-      "properties": {
-        "Run widget replace on values": false
-      },
-      "widgets_values": [
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,"
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
     },
     {
       "id": 471,
@@ -7694,7 +7656,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 41,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7872,7 +7834,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7917,7 +7879,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7963,7 +7925,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8308,7 +8270,7 @@
         58
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8344,7 +8306,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8390,7 +8352,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8423,43 +8385,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 382,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4337.44384765625,
-        -384.21026611328125
-      ],
-      "size": [
-        434.6526794433594,
-        183.7159881591797
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 138,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 706
-        }
-      ],
-      "outputs": [],
-      "title": "图片内容",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 460,
@@ -8700,7 +8625,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8784,7 +8709,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 49,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9088,7 +9013,7 @@
       },
       "widgets_values": [
         2,
-        275713830480319,
+        319853761206705,
         "randomize",
         20,
         1,
@@ -9327,7 +9252,7 @@
         58
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9521,7 +9446,7 @@
         58
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9593,7 +9518,7 @@
         106
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9636,7 +9561,7 @@
         106
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10099,7 +10024,7 @@
         160.07000732421875
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10260,51 +10185,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5798.24755859375,
-        57.120819091796875
-      ],
-      "size": [
-        846.5399780273438,
-        996.5400390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748,
-            806
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ndigital art\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 90,
       "type": "SDXLPromptStyler",
       "pos": [
@@ -10373,7 +10253,7 @@
       },
       "widgets_values": [
         "(This is a high-resolution everyday scene image with a natural style),(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed,solo,1 girl,cute, smile,(skin dentation), (large breasts:1.3), (professional lighting, bokeh), (blouse:1.3), (portait:0.8), (gorgeous, bloom), (floating hair),(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, sunlight, looking at viewer, depth of field, (small head:1.4), bare shoulders, pureerosface, (gradient background),  (at Specialized restaurants or tea rooms within the Ritz-Carlton hotel), (fancy afternoon tea), (at table), (lemon tea on table), (fancy cups and plates), macaron",
-        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,",
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, sign (one's name with a pen etc), paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,",
         "base",
         "No",
         "",
@@ -10381,50 +10261,6 @@
           false,
           true
         ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 56,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "桌面壁纸，随机内容",
         [
           false,
           true
@@ -10467,6 +10303,170 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5798.24755859375,
+        57.120819091796875
+      ],
+      "size": [
+        846.5399780273438,
+        996.5400390625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 54,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 382,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4337.44384765625,
+        -384.21026611328125
+      ],
+      "size": [
+        434.6526794433594,
+        183.7159881591797
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 138,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 706
+        }
+      ],
+      "outputs": [],
+      "title": "图片内容",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 136,
+      "type": "PrimitiveNode",
+      "pos": [
+        -1686.180419921875,
+        113.42327117919922
+      ],
+      "size": [
+        528.2103271484375,
+        279.6590576171875
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "widget": {
+            "name": "text_negative"
+          },
+          "links": [
+            282
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Negative Prompt",
+      "properties": {
+        "Run widget replace on values": false
+      },
+      "widgets_values": [
+        "(low res), (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), logo, text, watermark, sign (one's name with a pen etc), paintings, sketches, black_borders, black_edges, white_borders, white_edges, (freckles:1.5), (skin_spots:2), Skin blemishes, dark skin spots, freckles, dark spots, acnes, (skin blemishes), (age spot), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), (bad hands), (missing fingers), extra digit, (futa:1.1), (bad body), glans,"
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "高清桌面壁纸，随机主题",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -12853,10 +12853,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917354,
+      "scale": 1.610510000000001,
       "offset": [
-        5197.677839190958,
-        580.1239391453965
+        -3427.8235858275125,
+        367.9228592295588
       ]
     },
     "groupNodes": {},
