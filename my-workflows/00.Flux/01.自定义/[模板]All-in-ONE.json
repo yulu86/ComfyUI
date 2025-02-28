@@ -168,7 +168,7 @@
         26
       ],
       "flags": {},
-      "order": 90,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2388,7 +2388,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 102,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -2429,7 +2429,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 92,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 91,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -2979,7 +2979,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -3832,7 +3832,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_879562766277912_low"
+        "Abstract_Serene_Landscape_204990733929908_low"
       ]
     },
     {
@@ -4714,7 +4714,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        505815708081587,
+        148487714912183,
         "randomize",
         25,
         1,
@@ -4800,7 +4800,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        993385862472652,
+        433076418283306,
         "randomize",
         20,
         1,
@@ -5476,7 +5476,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -5559,7 +5559,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 76,
       "mode": 4,
       "inputs": [
         {
@@ -5700,8 +5700,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
-      "mode": 4,
+      "order": 92,
+      "mode": 0,
       "inputs": [
         {
           "name": "prompt",
@@ -5761,8 +5761,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
-      "mode": 4,
+      "order": 101,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -5844,8 +5844,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
-      "mode": 4,
+      "order": 77,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -5978,7 +5978,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        70160118020878,
+        1035983915166339,
         "randomize"
       ],
       "color": "#232",
@@ -6218,7 +6218,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 73,
       "mode": 4,
       "inputs": [
         {
@@ -6289,7 +6289,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -6938,7 +6938,7 @@
       ],
       "flags": {},
       "order": 38,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -6964,7 +6964,7 @@
         "collapsed": true
       },
       "order": 39,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -7048,8 +7048,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 97,
-      "mode": 4,
+      "order": 100,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -7066,7 +7066,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Error: Expecting value: line 1 column 1 (char 0)"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -7621,7 +7621,7 @@
         "collapsed": true
       },
       "order": 96,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -7670,7 +7670,7 @@
         "collapsed": true
       },
       "order": 107,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "a",
@@ -7818,7 +7818,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        321973921563389,
+        597513441734576,
         "randomize",
         40,
         1,
@@ -7894,88 +7894,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5776.24609375,
-        109.12081909179688
-      ],
-      "size": [
-        845.2066040039062,
-        887.206787109375
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748,
-            806
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含图片风格、内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\n8bit pixel art style, Low Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n8比特像素艺术风格，低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 447,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3997.162841796875,
-        714.845947265625
-      ],
-      "size": [
-        557.1619873046875,
-        408.2314453125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 99,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 823
-        }
-      ],
-      "outputs": [],
-      "title": "返回的答案",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "Error occurred during API call"
-      ],
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 136,
       "type": "PrimitiveNode",
       "pos": [
@@ -7987,7 +7905,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8141,8 +8059,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 43,
-      "mode": 0,
+      "order": 42,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8227,7 +8145,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 100,
+      "order": 97,
       "mode": 4,
       "inputs": [
         {
@@ -8319,7 +8237,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8364,8 +8282,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 45,
-      "mode": 0,
+      "order": 44,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8399,50 +8317,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 46,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "美女Eimi Fukada穿着白色衬衫和蓝色牛仔裤在街边自拍",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -8454,7 +8328,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 47,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8667,7 +8541,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 101,
+      "order": 98,
       "mode": 4,
       "inputs": [
         {
@@ -8799,7 +8673,7 @@
         58
       ],
       "flags": {},
-      "order": 48,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8835,7 +8709,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 49,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8881,7 +8755,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 50,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9311,7 +9185,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 51,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9395,7 +9269,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 52,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9699,7 +9573,7 @@
       },
       "widgets_values": [
         2,
-        893219322655904,
+        946152670995553,
         "randomize",
         20,
         1,
@@ -9938,7 +9812,7 @@
         58
       ],
       "flags": {},
-      "order": 53,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10132,7 +10006,7 @@
         58
       ],
       "flags": {},
-      "order": 54,
+      "order": 52,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10204,7 +10078,7 @@
         106
       ],
       "flags": {},
-      "order": 55,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10247,7 +10121,7 @@
         106
       ],
       "flags": {},
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10277,6 +10151,132 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 55,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "桌面壁纸，随机内容",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 447,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -3997.162841796875,
+        714.845947265625
+      ],
+      "size": [
+        557.1619873046875,
+        408.2314453125
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 102,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 823
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5776.24609375,
+        109.12081909179688
+      ],
+      "size": [
+        845.2066040039062,
+        887.206787109375
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ndigital art\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -12607,11 +12607,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6209213230591556,
-      "offset": [
-        4919.177375005982,
-        234.61868335463797
-      ]
+      "scale": 1,
+      "offset": {
+        "0": 5576.3408203125,
+        "1": 547.9976196289062
+      }
     },
     "groupNodes": {},
     "ue_links": [],
