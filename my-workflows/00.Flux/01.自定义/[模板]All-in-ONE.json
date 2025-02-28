@@ -168,7 +168,7 @@
         26
       ],
       "flags": {},
-      "order": 88,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -433,7 +433,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 68,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -1187,7 +1187,7 @@
         130
       ],
       "flags": {},
-      "order": 108,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -1241,7 +1241,7 @@
         102
       ],
       "flags": {},
-      "order": 118,
+      "order": 116,
       "mode": 4,
       "inputs": [
         {
@@ -1289,7 +1289,7 @@
         138
       ],
       "flags": {},
-      "order": 131,
+      "order": 129,
       "mode": 4,
       "inputs": [
         {
@@ -1365,7 +1365,7 @@
         58
       ],
       "flags": {},
-      "order": 124,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -1684,7 +1684,7 @@
         26
       ],
       "flags": {},
-      "order": 119,
+      "order": 117,
       "mode": 4,
       "inputs": [
         {
@@ -1722,7 +1722,7 @@
         26
       ],
       "flags": {},
-      "order": 120,
+      "order": 118,
       "mode": 4,
       "inputs": [
         {
@@ -1760,7 +1760,7 @@
         26
       ],
       "flags": {},
-      "order": 111,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -1798,7 +1798,7 @@
         26
       ],
       "flags": {},
-      "order": 112,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -1951,7 +1951,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 75,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -2388,7 +2388,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 99,
+      "order": 98,
       "mode": 0,
       "inputs": [
         {
@@ -2429,7 +2429,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 90,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -2593,7 +2593,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 70,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -2794,7 +2794,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 123,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 89,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -2979,7 +2979,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 74,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -3107,7 +3107,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3189,7 +3189,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 126,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -3228,7 +3228,7 @@
         26
       ],
       "flags": {},
-      "order": 121,
+      "order": 124,
       "mode": 0,
       "inputs": [
         {
@@ -3268,7 +3268,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 117,
+      "order": 115,
       "mode": 4,
       "inputs": [
         {
@@ -3339,7 +3339,7 @@
         106
       ],
       "flags": {},
-      "order": 113,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -3393,7 +3393,7 @@
         76
       ],
       "flags": {},
-      "order": 69,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -3832,7 +3832,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Surreal_Cosmic_Abstraction_1009712819762205_low"
+        "Fantasy_Maiden_Wallpaper_317617356872753_low"
       ]
     },
     {
@@ -4206,7 +4206,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 83,
+      "order": 82,
       "mode": 4,
       "inputs": [
         {
@@ -4360,7 +4360,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 66,
       "mode": 4,
       "inputs": [
         {
@@ -4589,7 +4589,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        813110138898986,
+        625351494927977,
         "randomize",
         25,
         1,
@@ -4675,7 +4675,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        755409005742374,
+        747163410317920,
         "randomize",
         20,
         1,
@@ -4859,12 +4859,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00021_.png&type=temp&subfolder=&rand=0.5062253492557249"
+            "url": "/api/view?filename=rgthree.compare._temp_zrxyv_00001_.png&type=temp&subfolder=&rand=0.5894991924953112"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_vapcv_00022_.png&type=temp&subfolder=&rand=0.4064793747400317"
+            "url": "/api/view?filename=rgthree.compare._temp_zrxyv_00002_.png&type=temp&subfolder=&rand=0.16471012899378712"
           }
         ]
       ],
@@ -4921,7 +4921,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -5096,7 +5096,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_879562766277912_low_0001.png",
+        "Fantasy_Maiden_Wallpaper_531536416661350_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -5197,43 +5197,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 27,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            829
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.15",
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 344,
       "type": "Note",
       "pos": [
@@ -5247,7 +5210,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5273,7 +5236,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 29,
+      "order": 28,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5312,7 +5275,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 30,
+      "order": 29,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5351,7 +5314,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 75,
       "mode": 4,
       "inputs": [
         {
@@ -5420,7 +5383,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 95,
+      "order": 94,
       "mode": 4,
       "inputs": [
         {
@@ -5492,7 +5455,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -5553,7 +5516,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 77,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -5615,7 +5578,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5648,7 +5611,7 @@
         142
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5687,7 +5650,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        320321259287595,
+        432716515217186,
         "randomize"
       ],
       "color": "#232",
@@ -5819,7 +5782,7 @@
         195.27806091308594
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5843,7 +5806,7 @@
         26
       ],
       "flags": {},
-      "order": 103,
+      "order": 112,
       "mode": 4,
       "inputs": [
         {
@@ -5868,52 +5831,6 @@
       }
     },
     {
-      "id": 464,
-      "type": "CR Text",
-      "pos": [
-        -640.8151245117188,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 34,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            849
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "rebecca,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 466,
       "type": "Evaluate Strings",
       "pos": [
@@ -5927,7 +5844,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 74,
       "mode": 4,
       "inputs": [
         {
@@ -5998,7 +5915,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -6138,7 +6055,7 @@
         82
       ],
       "flags": {},
-      "order": 35,
+      "order": 33,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6227,118 +6144,6 @@
       "color": "#2a363b",
       "bgcolor": "#3f5159",
       "shape": 1
-    },
-    {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1112.324951171875,
-        913.31884765625
-      ],
-      "size": [
-        354.12896728515625,
-        170
-      ],
-      "flags": {},
-      "order": 82,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 835
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 836
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            837
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            838
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_美女\\01_真人角色\\eimiFukada_eimifukada.safetensors",
-          "image": "loras/01_美女\\01_真人角色\\eimiFukada_eimifukada.jpeg"
-        },
-        0.5,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 36,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 309,
@@ -6646,7 +6451,7 @@
         100.44618225097656
       ],
       "flags": {},
-      "order": 37,
+      "order": 34,
       "mode": 4,
       "inputs": [],
       "outputs": [],
@@ -6672,7 +6477,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 38,
+      "order": 35,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6757,7 +6562,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 116,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -6799,7 +6604,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 127,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -6892,7 +6697,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 128,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -6985,7 +6790,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 129,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -7077,7 +6882,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 122,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -7119,7 +6924,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 105,
+      "order": 103,
       "mode": 4,
       "inputs": [
         {
@@ -7157,7 +6962,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 39,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7195,7 +7000,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 71,
+      "order": 70,
       "mode": 4,
       "inputs": [
         {
@@ -7244,7 +7049,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -7293,7 +7098,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 96,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -7342,7 +7147,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -7491,7 +7296,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        256458516775118,
+        1096241439440986,
         "randomize",
         40,
         1,
@@ -7512,7 +7317,7 @@
         170
       ],
       "flags": {},
-      "order": 66,
+      "order": 77,
       "mode": 4,
       "inputs": [
         {
@@ -7605,44 +7410,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 401,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2800.231201171875,
-        5.500313758850098
-      ],
-      "size": [
-        643.8655395507812,
-        169.394775390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 144,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 744
-        }
-      ],
-      "outputs": [],
-      "title": "文件名",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 426,
       "type": "Simple String",
       "pos": [
@@ -7656,7 +7423,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 40,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7693,7 +7460,7 @@
         102
       ],
       "flags": {},
-      "order": 109,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -7742,7 +7509,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 97,
+      "order": 96,
       "mode": 4,
       "inputs": [
         {
@@ -7834,7 +7601,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 41,
+      "order": 38,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7879,7 +7646,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 42,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7925,7 +7692,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 43,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8138,7 +7905,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 98,
+      "order": 97,
       "mode": 4,
       "inputs": [
         {
@@ -8232,7 +7999,7 @@
         26
       ],
       "flags": {},
-      "order": 110,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -8270,7 +8037,7 @@
         58
       ],
       "flags": {},
-      "order": 44,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8306,7 +8073,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 45,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8341,52 +8108,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 46,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 460,
       "type": "Reroute",
       "pos": [
@@ -8398,7 +8119,7 @@
         26
       ],
       "flags": {},
-      "order": 115,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -8435,7 +8156,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 113,
       "mode": 4,
       "inputs": [
         {
@@ -8458,72 +8179,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 459,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -574.1238403320312,
-        913.31884765625
-      ],
-      "size": [
-        352.2490539550781,
-        170
-      ],
-      "flags": {},
-      "order": 94,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 837
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 838
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            843
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            844
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
-          "image": "loras/01_Fixed_Character\\Rebecca_Cyberpunk_Edgerunners_-_Flux.jpeg"
-        },
-        1,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 492,
@@ -8625,7 +8280,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8709,7 +8364,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9013,7 +8668,7 @@
       },
       "widgets_values": [
         2,
-        319853761206705,
+        1031235263191645,
         "randomize",
         20,
         1,
@@ -9252,7 +8907,7 @@
         58
       ],
       "flags": {},
-      "order": 49,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9384,7 +9039,7 @@
         500
       ],
       "flags": {},
-      "order": 72,
+      "order": 71,
       "mode": 4,
       "inputs": [
         {
@@ -9446,7 +9101,7 @@
         58
       ],
       "flags": {},
-      "order": 50,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9482,7 +9137,7 @@
         26
       ],
       "flags": {},
-      "order": 114,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -9518,7 +9173,7 @@
         106
       ],
       "flags": {},
-      "order": 51,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9561,7 +9216,7 @@
         106
       ],
       "flags": {},
-      "order": 52,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9659,7 +9314,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -9696,7 +9351,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 100,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -9733,7 +9388,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -9856,7 +9511,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -9941,7 +9596,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 104,
       "mode": 4,
       "inputs": [
         {
@@ -10024,7 +9679,7 @@
         160.07000732421875
       ],
       "flags": {},
-      "order": 53,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10067,7 +9722,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 130,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -10145,44 +9800,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 514,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2131.8837890625,
-        5.500313758850098
-      ],
-      "size": [
-        270.3789367675781,
-        76
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 136,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 912
-        }
-      ],
-      "outputs": [],
-      "title": "画面风格",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 90,
@@ -10319,7 +9936,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 54,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10398,7 +10015,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 55,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10425,6 +10042,352 @@
       "bgcolor": "#533"
     },
     {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 458,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1112.324951171875,
+        913.31884765625
+      ],
+      "size": [
+        354.12896728515625,
+        170
+      ],
+      "flags": {},
+      "order": 92,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 835
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 836
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            837
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            838
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\01_美女\\01_真人角色\\eimiFukada_eimifukada.safetensors",
+          "image": "loras/01_Flux\\01_美女\\01_真人角色\\eimiFukada_eimifukada.jpeg"
+        },
+        0.9,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 459,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -574.1238403320312,
+        913.31884765625
+      ],
+      "size": [
+        352.2490539550781,
+        170
+      ],
+      "flags": {},
+      "order": 102,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 837
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 838
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            843
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            844
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\02_动漫\\01_动漫角色\\Rebecca_Cyberpunk_Edgerunners_-_Flux.safetensors",
+          "image": "loras/01_Flux\\02_动漫\\01_动漫角色\\Rebecca_Cyberpunk_Edgerunners_-_Flux.jpeg"
+        },
+        1,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 464,
+      "type": "CR Text",
+      "pos": [
+        -640.8151245117188,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            849
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "rebecca,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 514,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2695.87109375,
+        88.14493560791016
+      ],
+      "size": [
+        270.3789367675781,
+        76
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 136,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 912
+        }
+      ],
+      "outputs": [],
+      "title": "画面风格",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 401,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2346.936767578125,
+        88.14493560791016
+      ],
+      "size": [
+        263.7003479003906,
+        76
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 144,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 744
+        }
+      ],
+      "outputs": [],
+      "title": "文件名",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
       "id": 359,
       "type": "String",
       "pos": [
@@ -10438,7 +10401,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10459,11 +10422,48 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "高清桌面壁纸，随机主题",
+        "高清桌面壁纸，幻想少女",
         [
           false,
           true
         ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            829
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "fp8_e4m3fn"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -12853,10 +12853,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.610510000000001,
+      "scale": 0.8264462809917354,
       "offset": [
-        -3427.8235858275125,
-        367.9228592295588
+        3746.831396141458,
+        -243.011631523829
       ]
     },
     "groupNodes": {},
