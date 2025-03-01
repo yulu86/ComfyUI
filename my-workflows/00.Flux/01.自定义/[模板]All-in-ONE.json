@@ -4589,7 +4589,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        625351494927977,
+        1030608517154252,
         "randomize",
         25,
         1,
@@ -4675,7 +4675,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        747163410317920,
+        440006160627344,
         "randomize",
         20,
         1,
@@ -5314,7 +5314,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 75,
+      "order": 76,
       "mode": 4,
       "inputs": [
         {
@@ -5455,7 +5455,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -5516,7 +5516,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -5650,7 +5650,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        432716515217186,
+        603410965163185,
         "randomize"
       ],
       "color": "#232",
@@ -5793,113 +5793,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 461,
-      "type": "Reroute",
-      "pos": [
-        -108.41451263427734,
-        576.1897583007812
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 112,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 843
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "MODEL",
-          "links": [
-            845
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 466,
-      "type": "Evaluate Strings",
-      "pos": [
-        -187.46881103515625,
-        1018.6466064453125
-      ],
-      "size": [
-        315,
-        154
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 74,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 847
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "b"
-          },
-          "link": 848
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": 849
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            850
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + ',' + b +  ',' + c",
-        "False",
-        "Hello",
-        " World",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
     },
     {
       "id": 275,
@@ -7296,7 +7189,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1096241439440986,
+        696124736010519,
         "randomize",
         40,
         1,
@@ -7317,7 +7210,7 @@
         170
       ],
       "flags": {},
-      "order": 77,
+      "order": 75,
       "mode": 4,
       "inputs": [
         {
@@ -8145,42 +8038,6 @@
       }
     },
     {
-      "id": 462,
-      "type": "Reroute",
-      "pos": [
-        -108.41451263427734,
-        616.5232543945312
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 113,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 844
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CLIP",
-          "links": [
-            846
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 492,
       "type": "Reroute",
       "pos": [
@@ -8668,7 +8525,7 @@
       },
       "widgets_values": [
         2,
-        1031235263191645,
+        977916108830343,
         "randomize",
         20,
         1,
@@ -9314,7 +9171,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -9351,7 +9208,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -9388,7 +9245,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -9511,7 +9368,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -10099,7 +9956,7 @@
         170
       ],
       "flags": {},
-      "order": 92,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -10211,7 +10068,7 @@
         170
       ],
       "flags": {},
-      "order": 102,
+      "order": 99,
       "mode": 4,
       "inputs": [
         {
@@ -10388,50 +10245,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "高清桌面壁纸，幻想少女",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 93,
       "type": "UNETLoader",
       "pos": [
@@ -10443,7 +10256,7 @@
         82
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10464,6 +10277,202 @@
       "widgets_values": [
         "flux1-dev.safetensors",
         "fp8_e4m3fn"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 462,
+      "type": "Reroute",
+      "pos": [
+        28.1531925201416,
+        941.2871704101562
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 113,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 844
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CLIP",
+          "links": [
+            846
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 461,
+      "type": "Reroute",
+      "pos": [
+        28.1531925201416,
+        900.9536743164062
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 112,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 843
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "MODEL",
+          "links": [
+            845
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 466,
+      "type": "Evaluate Strings",
+      "pos": [
+        28.1531925201416,
+        1023.9706420898438
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 74,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 847
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 848
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 849
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            850
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + ',' + b +  ',' + c",
+        "False",
+        "Hello",
+        " World",
+        "!"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5053.3701171875,
+        -425.44287109375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 56,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "高清桌面壁纸，一拳超人中战栗的龙卷",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -12853,11 +12862,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8264462809917354,
-      "offset": [
-        3746.831396141458,
-        -243.011631523829
-      ]
+      "scale": 0.620921323059155,
+      "offset": {
+        "0": 4107.65234375,
+        "1": 493.8662414550781
+      }
     },
     "groupNodes": {},
     "ue_links": [],
