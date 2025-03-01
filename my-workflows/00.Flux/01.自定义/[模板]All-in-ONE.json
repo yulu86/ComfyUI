@@ -1,6 +1,6 @@
 {
-  "last_node_id": 518,
-  "last_link_id": 915,
+  "last_node_id": 527,
+  "last_link_id": 942,
   "nodes": [
     {
       "id": 144,
@@ -94,7 +94,7 @@
         234
       ],
       "flags": {},
-      "order": 168,
+      "order": 161,
       "mode": 4,
       "inputs": [
         {
@@ -286,7 +286,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 165,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -324,7 +324,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 171,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -433,7 +433,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 67,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -475,7 +475,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 160,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -514,7 +514,7 @@
         46
       ],
       "flags": {},
-      "order": 198,
+      "order": 189,
       "mode": 0,
       "inputs": [
         {
@@ -560,7 +560,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 202,
+      "order": 193,
       "mode": 0,
       "inputs": [
         {
@@ -627,7 +627,7 @@
         26
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 4,
       "inputs": [
         {
@@ -665,7 +665,7 @@
         154
       ],
       "flags": {},
-      "order": 179,
+      "order": 168,
       "mode": 4,
       "inputs": [
         {
@@ -726,7 +726,7 @@
         76
       ],
       "flags": {},
-      "order": 182,
+      "order": 172,
       "mode": 4,
       "inputs": [
         {
@@ -765,7 +765,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 216,
+      "order": 207,
       "mode": 4,
       "inputs": [
         {
@@ -814,7 +814,7 @@
         46
       ],
       "flags": {},
-      "order": 213,
+      "order": 204,
       "mode": 4,
       "inputs": [
         {
@@ -908,7 +908,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 60,
+      "order": 59,
       "mode": 4,
       "inputs": [
         {
@@ -957,7 +957,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 59,
+      "order": 58,
       "mode": 4,
       "inputs": [
         {
@@ -1289,7 +1289,7 @@
         138
       ],
       "flags": {},
-      "order": 129,
+      "order": 126,
       "mode": 4,
       "inputs": [
         {
@@ -1440,7 +1440,7 @@
         26
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 4,
       "inputs": [
         {
@@ -1515,7 +1515,7 @@
         154
       ],
       "flags": {},
-      "order": 184,
+      "order": 174,
       "mode": 4,
       "inputs": [
         {
@@ -1576,7 +1576,7 @@
         76
       ],
       "flags": {},
-      "order": 188,
+      "order": 177,
       "mode": 4,
       "inputs": [
         {
@@ -1617,7 +1617,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 189,
+      "order": 178,
       "mode": 4,
       "inputs": [
         {
@@ -1875,7 +1875,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 207,
+      "order": 198,
       "mode": 0,
       "inputs": [
         {
@@ -1913,7 +1913,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 206,
+      "order": 197,
       "mode": 0,
       "inputs": [
         {
@@ -1951,7 +1951,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 127,
       "mode": 0,
       "inputs": [
         {
@@ -2027,7 +2027,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -2066,7 +2066,7 @@
         26
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -2106,7 +2106,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 63,
+      "order": 62,
       "mode": 0,
       "inputs": [
         {
@@ -2148,7 +2148,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 162,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -2227,7 +2227,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 180,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -2302,7 +2302,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 195,
+      "order": 187,
       "mode": 0,
       "inputs": [
         {
@@ -2344,7 +2344,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 186,
+      "order": 180,
       "mode": 0,
       "inputs": [
         {
@@ -2470,7 +2470,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 187,
+      "order": 181,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 191,
+      "order": 183,
       "mode": 0,
       "inputs": [
         {
@@ -2550,7 +2550,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 200,
+      "order": 191,
       "mode": 0,
       "inputs": [
         {
@@ -2593,7 +2593,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 69,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -2639,7 +2639,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 167,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -2681,7 +2681,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 174,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -2727,7 +2727,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 217,
+      "order": 208,
       "mode": 4,
       "inputs": [
         {
@@ -2823,7 +2823,7 @@
         46
       ],
       "flags": {},
-      "order": 145,
+      "order": 141,
       "mode": 4,
       "inputs": [
         {
@@ -2867,7 +2867,7 @@
         130
       ],
       "flags": {},
-      "order": 152,
+      "order": 145,
       "mode": 4,
       "inputs": [
         {
@@ -2979,7 +2979,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -3025,7 +3025,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 196,
+      "order": 188,
       "mode": 0,
       "inputs": [
         {
@@ -3147,7 +3147,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 204,
+      "order": 195,
       "mode": 0,
       "inputs": [
         {
@@ -3189,7 +3189,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -3299,7 +3299,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 192,
+      "order": 184,
       "mode": 0,
       "inputs": [
         {
@@ -3393,7 +3393,7 @@
         76
       ],
       "flags": {},
-      "order": 68,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -3432,7 +3432,7 @@
         138
       ],
       "flags": {},
-      "order": 208,
+      "order": 199,
       "mode": 4,
       "inputs": [
         {
@@ -3510,7 +3510,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 205,
+      "order": 196,
       "mode": 4,
       "inputs": [
         {
@@ -3550,7 +3550,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 161,
+      "order": 152,
       "mode": 4,
       "inputs": [
         {
@@ -3601,7 +3601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 143,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -3734,7 +3734,7 @@
         234
       ],
       "flags": {},
-      "order": 175,
+      "order": 169,
       "mode": 4,
       "inputs": [
         {
@@ -3808,7 +3808,7 @@
         76
       ],
       "flags": {},
-      "order": 177,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -3832,7 +3832,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Fantasy_Maiden_Wallpaper_317617356872753_low"
+        "Colorful_Juice_Drips_233568468112223_low"
       ]
     },
     {
@@ -3921,7 +3921,7 @@
         186
       ],
       "flags": {},
-      "order": 183,
+      "order": 176,
       "mode": 4,
       "inputs": [
         {
@@ -4071,7 +4071,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 61,
       "mode": 4,
       "inputs": [
         {
@@ -4122,25 +4122,24 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
+          "link": 924,
           "widget": {
             "name": "value"
-          },
-          "link": 800
+          }
         }
       ],
       "outputs": [
         {
           "name": "",
-          "type": "STRING",
+          "type": "*",
           "links": [
-            704,
-            856
+            704
           ],
           "slot_index": 0
         }
@@ -4164,7 +4163,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 134,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -4173,16 +4172,15 @@
           "widget": {
             "name": "value"
           },
-          "link": 795
+          "link": 923
         }
       ],
       "outputs": [
         {
           "name": "",
-          "type": "STRING",
+          "type": "*",
           "links": [
-            696,
-            744
+            696
           ],
           "slot_index": 0
         }
@@ -4360,7 +4358,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 65,
       "mode": 4,
       "inputs": [
         {
@@ -4462,7 +4460,8 @@
           "links": [
             750,
             752,
-            811
+            811,
+            922
           ],
           "slot_index": 0
         }
@@ -4491,7 +4490,7 @@
         82
       ],
       "flags": {},
-      "order": 214,
+      "order": 205,
       "mode": 4,
       "inputs": [
         {
@@ -4524,7 +4523,7 @@
         262
       ],
       "flags": {},
-      "order": 210,
+      "order": 201,
       "mode": 4,
       "inputs": [
         {
@@ -4589,7 +4588,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1030608517154252,
+        583177546210904,
         "randomize",
         25,
         1,
@@ -4675,7 +4674,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        440006160627344,
+        308972506039565,
         "randomize",
         20,
         1,
@@ -4696,7 +4695,7 @@
         82
       ],
       "flags": {},
-      "order": 146,
+      "order": 142,
       "mode": 4,
       "inputs": [
         {
@@ -4729,7 +4728,7 @@
         82
       ],
       "flags": {},
-      "order": 199,
+      "order": 190,
       "mode": 0,
       "inputs": [
         {
@@ -4788,7 +4787,7 @@
         26
       ],
       "flags": {},
-      "order": 190,
+      "order": 179,
       "mode": 4,
       "inputs": [
         {
@@ -4831,7 +4830,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 215,
+      "order": 206,
       "mode": 4,
       "inputs": [
         {
@@ -4960,7 +4959,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 63,
       "mode": 4,
       "inputs": [
         {
@@ -5117,7 +5116,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 151,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -5301,270 +5300,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 399,
-      "type": "DeepseekAdvancedNode",
-      "pos": [
-        -4427.85888671875,
-        494.213623046875
-      ],
-      "size": [
-        857.3333740234375,
-        939.3333740234375
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 76,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "widget": {
-            "name": "prompt"
-          },
-          "link": 727
-        },
-        {
-          "name": "system_prompt",
-          "type": "STRING",
-          "widget": {
-            "name": "system_prompt"
-          },
-          "link": 747
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            728
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
-        "Node name for S&R": "DeepseekAdvancedNode"
-      },
-      "widgets_values": [
-        "",
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<yusplit>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<yusplit>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
-        1,
-        2048,
-        0.8,
-        0,
-        0,
-        "",
-        [
-          false,
-          true
-        ],
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 372,
-      "type": "CR Split String",
-      "pos": [
-        -3536.428466796875,
-        -254.81240844726562
-      ],
-      "size": [
-        257.66217041015625,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 94,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 683
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            689
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            719
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "</think>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 440,
-      "type": "DeepseekReasonerNode",
-      "pos": [
-        -4240.29638671875,
-        753.532958984375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 92,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "widget": {
-            "name": "prompt"
-          },
-          "link": 808
-        }
-      ],
-      "outputs": [
-        {
-          "name": "reasoning",
-          "type": "STRING",
-          "links": [
-            821
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "answer",
-          "type": "STRING",
-          "links": [
-            822,
-            823
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
-        "Node name for S&R": "DeepseekReasonerNode"
-      },
-      "widgets_values": [
-        "",
-        true,
-        1,
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 442,
-      "type": "Evaluate Strings",
-      "pos": [
-        -4430.75,
-        753.532958984375
-      ],
-      "size": [
-        302.5815734863281,
-        172.21368408203125
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 77,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 806
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": 807
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            808
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b + c",
-        "False",
-        "Hello",
-        "我的主题是：",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 456,
       "type": "Fast Groups Bypasser (rgthree)",
       "pos": [
@@ -5650,7 +5385,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        603410965163185,
+        236177160099384,
         "randomize"
       ],
       "color": "#232",
@@ -5670,7 +5405,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 157,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -5727,7 +5462,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 155,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -5879,7 +5614,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 141,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -5989,7 +5724,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 173,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -6052,7 +5787,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 201,
+      "order": 192,
       "mode": 0,
       "inputs": [
         {
@@ -6081,181 +5816,6 @@
       }
     },
     {
-      "id": 470,
-      "type": "Reroute",
-      "pos": [
-        -3174.18505859375,
-        1352.2784423828125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 150,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "pos": [
-            37.5,
-            0
-          ],
-          "widget": {
-            "name": "value"
-          },
-          "link": 858
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            860
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
-      "id": 473,
-      "type": "Reroute",
-      "pos": [
-        -3098.71826171875,
-        1352.2784423828125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 147,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "pos": [
-            37.5,
-            0
-          ],
-          "link": 861
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            863
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
-      "id": 469,
-      "type": "Reroute",
-      "pos": [
-        -3174.938720703125,
-        392.9166564941406
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 142,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "pos": [
-            37.5,
-            0
-          ],
-          "widget": {
-            "name": "value"
-          },
-          "link": 856
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            857,
-            858
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
-      "id": 474,
-      "type": "Reroute",
-      "pos": [
-        -3099.6123046875,
-        392.9166564941406
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 140,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "pos": [
-            37.5,
-            0
-          ],
-          "link": 862
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "STRING",
-          "links": [
-            861
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": true
-      }
-    },
-    {
       "id": 383,
       "type": "Reroute",
       "pos": [
@@ -6269,23 +5829,21 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 805
+          "link": 925
         }
       ],
       "outputs": [
         {
           "name": "",
-          "type": "STRING",
+          "type": "*",
           "links": [
-            706,
-            746,
-            862
+            706
           ],
           "slot_index": 0
         }
@@ -6294,43 +5852,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 475,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -3485.460205078125,
-        1790.1383056640625
-      ],
-      "size": [
-        603.0744018554688,
-        348.3393859863281
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 154,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 863
-        }
-      ],
-      "outputs": [],
-      "title": " 提示词(中文)",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 436,
@@ -6345,7 +5866,7 @@
       ],
       "flags": {},
       "order": 34,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -6355,54 +5876,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 427,
-      "type": "CR Text",
-      "pos": [
-        -3413.791748046875,
-        1423.3912353515625
-      ],
-      "size": [
-        379.8664855957031,
-        302.818115234375
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 35,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            816
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": " 提示词(中文)",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 403,
@@ -6418,14 +5891,14 @@
       "flags": {
         "pinned": true
       },
-      "order": 139,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
           "name": "source",
           "type": "*",
           "dir": 3,
-          "link": 746
+          "link": 936
         }
       ],
       "outputs": [],
@@ -6461,10 +5934,10 @@
         {
           "name": "",
           "type": "*",
+          "link": 872,
           "widget": {
             "name": "value"
-          },
-          "link": 872
+          }
         }
       ],
       "outputs": [
@@ -6472,330 +5945,7 @@
           "name": "",
           "type": "INT",
           "links": [
-            873
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
-      "id": 429,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -104.85707092285156
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 125,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text1"
-          },
-          "link": 802
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text2"
-          },
-          "link": 803
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text3"
-          },
-          "link": 817
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text4"
-          },
-          "link": 816
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "widget": {
-            "name": "Input"
-          },
-          "link": 874
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            805
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Prompts 中文",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 430,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -154.94857788085938
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 126,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text1"
-          },
-          "link": 796
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text2"
-          },
-          "link": 797
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text3"
-          },
-          "link": 815
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text4"
-          },
-          "link": 814
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "widget": {
-            "name": "Input"
-          },
-          "link": 875
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            800
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "Prompts Positive",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 428,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2736.55859375,
-        -210.05996704101562
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 127,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text1"
-          },
-          "link": 789
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text2"
-          },
-          "link": 790
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text3"
-          },
-          "link": 813
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text4"
-          },
-          "link": 812
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "widget": {
-            "name": "Input"
-          },
-          "link": 876
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            795
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "图片名称",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 485,
-      "type": "Reroute",
-      "pos": [
-        -3136.80712890625,
-        431.6163330078125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 121,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "widget": {
-            "name": "value"
-          },
-          "link": 873
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "INT",
-          "links": [
-            874,
-            875,
-            876,
-            910
+            942
           ],
           "slot_index": 0
         }
@@ -6855,7 +6005,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6893,7 +6043,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 70,
+      "order": 69,
       "mode": 4,
       "inputs": [
         {
@@ -6929,55 +6079,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 481,
-      "type": "easy mathInt",
-      "pos": [
-        -3373.96630859375,
-        492.923095703125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 85,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "widget": {
-            "name": "a"
-          },
-          "link": 869
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            870
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-easy-use",
-        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        0,
-        2,
-        "add"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 482,
       "type": "easy mathInt",
       "pos": [
@@ -6992,7 +6093,7 @@
         "collapsed": true
       },
       "order": 95,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "a",
@@ -7027,55 +6128,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 483,
-      "type": "easy mathInt",
-      "pos": [
-        -3404.620361328125,
-        1502.8692626953125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 105,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "widget": {
-            "name": "a"
-          },
-          "link": 871
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            872
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-easy-use",
-        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        0,
-        4,
-        "add"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 235,
       "type": "PreviewImage",
       "pos": [
@@ -7087,7 +6139,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 203,
+      "order": 194,
       "mode": 0,
       "inputs": [
         {
@@ -7116,7 +6168,7 @@
         262
       ],
       "flags": {},
-      "order": 194,
+      "order": 186,
       "mode": 0,
       "inputs": [
         {
@@ -7189,7 +6241,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        696124736010519,
+        305835254468715,
         "randomize",
         40,
         1,
@@ -7210,7 +6262,7 @@
         170
       ],
       "flags": {},
-      "order": 75,
+      "order": 74,
       "mode": 4,
       "inputs": [
         {
@@ -7260,83 +6312,6 @@
         0.8,
         1,
         "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 471,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -4116.341796875,
-        1790.1383056640625
-      ],
-      "size": [
-        599.4024047851562,
-        347.8898620605469
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 159,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 860
-        }
-      ],
-      "outputs": [],
-      "title": "提示词(英文)",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 426,
-      "type": "Simple String",
-      "pos": [
-        -4526.064453125,
-        1413.15380859375
-      ],
-      "size": [
-        377.4978942871094,
-        60.6619987487793
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 37,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            812
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "cnr_id": "cg-use-everywhere",
-        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Colorful_Juice_Drips"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -7494,7 +6469,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 38,
+      "order": 36,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7528,52 +6503,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4129.60107421875,
-        1413.7598876953125
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 39,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            814
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot, colorful juice drips, ice cubes, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions, abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 273,
       "type": "CR Text",
       "pos": [
@@ -7585,7 +6514,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 40,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7633,7 +6562,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 185,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -7678,7 +6607,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 181,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -7724,7 +6653,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 178,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -7767,7 +6696,7 @@
         246
       ],
       "flags": {},
-      "order": 153,
+      "order": 146,
       "mode": 4,
       "inputs": [
         {
@@ -7930,7 +6859,7 @@
         58
       ],
       "flags": {},
-      "order": 41,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7966,7 +6895,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 42,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8051,7 +6980,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -8094,7 +7023,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 166,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -8137,7 +7066,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 43,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8178,7 +7107,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 172,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -8221,7 +7150,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 44,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8262,7 +7191,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 170,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -8305,7 +7234,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 164,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -8348,7 +7277,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -8392,7 +7321,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 163,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -8433,7 +7362,7 @@
         614
       ],
       "flags": {},
-      "order": 209,
+      "order": 200,
       "mode": 4,
       "inputs": [
         {
@@ -8525,7 +7454,7 @@
       },
       "widgets_values": [
         2,
-        977916108830343,
+        60383682101947,
         "randomize",
         20,
         1,
@@ -8560,7 +7489,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 197,
+      "order": 185,
       "mode": 4,
       "inputs": [
         {
@@ -8613,7 +7542,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 176,
+      "order": 170,
       "mode": 4,
       "inputs": [
         {
@@ -8693,7 +7622,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 212,
+      "order": 203,
       "mode": 4,
       "inputs": [
         {
@@ -8764,7 +7693,7 @@
         58
       ],
       "flags": {},
-      "order": 45,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8802,7 +7731,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 193,
+      "order": 182,
       "mode": 4,
       "inputs": [
         {
@@ -8863,7 +7792,7 @@
         82
       ],
       "flags": {},
-      "order": 211,
+      "order": 202,
       "mode": 4,
       "inputs": [
         {
@@ -8896,7 +7825,7 @@
         500
       ],
       "flags": {},
-      "order": 71,
+      "order": 70,
       "mode": 4,
       "inputs": [
         {
@@ -8958,7 +7887,7 @@
         58
       ],
       "flags": {},
-      "order": 46,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9030,7 +7959,7 @@
         106
       ],
       "flags": {},
-      "order": 47,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9073,7 +8002,7 @@
         106
       ],
       "flags": {},
-      "order": 48,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9128,7 +8057,7 @@
           "widget": {
             "name": "text"
           },
-          "link": 909
+          "link": 926
         }
       ],
       "outputs": [
@@ -9172,7 +8101,7 @@
         "collapsed": true
       },
       "order": 102,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "source",
@@ -9189,7 +8118,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "Tatsumaki_Desktop_Wallpaper  \n---  \nBird's Eye View, Tatsumaki from One-Punch Man, flowing green psychic hair, dynamic levitation pose, swirling telekinetic energy aura, shattered debris orbiting body, cracked concrete terrain, glowing neon-green energy veins, destroyed cityscape background with toppled skyscrapers, intense atmospheric perspective, cinematic volumetric lighting, hyper-detailed anime character design, translucent energy particles, wind-blown black slit dress, floating rock fragments with sharp edges, cracked asphalt patterns, glowing ocular effects, dramatic cloud formations with purple-orange gradient, chromatic aberration effects, holographic interface elements, particle dispersion trails, dynamic motion blur, cinematic depth of field, ultra-high resolution textures, vibrant contrast between emerald energy and dark urban ruins, widescreen 16:9 composition, 4K wallpaper-ready detailing  \n---  \n鸟瞰视角，《一拳超人》中的战栗龙卷，飘动的绿色超能力发丝，动态悬浮姿势，旋转的念动力能量光环，环绕身体的破碎残骸，龟裂的混凝土地面，发光的霓虹绿能量脉络，背景是倒塌摩天大楼的毁灭都市景观，强烈的大气透视效果，电影级体积光照，超高细节动漫角色设计，半透明能量粒子，被风吹起的黑色开衩长裙，带有锋利边缘的悬浮岩石碎片，裂开的沥青路面图案，发光的眼部特效，紫橙渐变的戏剧性云层构造，色差特效，全息界面元素，粒子扩散轨迹，动态运动模糊，电影级景深，超高分辨率材质，翠绿能量与黑暗都市废墟间的鲜明对比，宽屏16:9构图，4K壁纸级细节刻画  \n---  \nanime"
       ],
       "color": "#332922",
       "bgcolor": "#593930"
@@ -9209,7 +8138,7 @@
         "collapsed": false
       },
       "order": 100,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "source",
@@ -9226,95 +8155,10 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        ""
+        "嗯，用户让我生成一个关于“高清桌面壁纸，一拳超人中战栗的龙卷”的提示词。首先，我需要确定用户的需求。他们可能想要一张适合作为电脑桌面的高质量图像，主题是一拳超人中的龙卷角色。龙卷在动漫中是个重要角色，以强大的超能力和独特的造型著称。\n\n接下来，按照规则，我需要生成英文提示词，然后翻译成中文，并选择合适的画面风格。首先，标题部分应该简短，用三个英文单词，用下划线连接。比如“Tatsumaki_Desktop_Wallpaper”这样比较合适。\n\n然后提示词需要详细描述内容主体、环境、场景、视角等。龙卷的特征要详细：绿色卷发，黑色开衩长裙，漂浮姿势，能量光环，周围有碎片和岩石，背景是毁灭的城市，有霓虹色能量流。视角方面，可能用低角度（Low Angle）来突出她的强大气场，动态光线和颗粒效果增加动感。\n\n环境方面，破碎的摩天大楼、裂纹街道、能量漩涡，这些元素能增强场景的破坏感和紧张氛围。颜色方面，对比鲜明的霓虹色和暗色调背景，突出主体。还需要提到动漫风格的高细节，适合壁纸的宽高比，比如16:9，4K分辨率。\n\n画面风格方面，用户给的选项里有“anime”，所以应该选这个。同时要确保不包含其他多余内容，比如分段或hashtag。检查是否有提到著名角色和出处，这里龙卷出自《一拳超人》，必须写明。\n\n最后，翻译成中文时要准确对应，保持描述的详细和流畅。确保所有规则都被遵守，比如仅用英文短语，然后翻译，风格正确，格式正确。避免任何额外文本，严格按照示例的结构输出。"
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 444,
-      "type": "CR Split String",
-      "pos": [
-        -3704.72216796875,
-        728.5997314453125
-      ],
-      "size": [
-        247.9823455810547,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 101,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 822
-        },
-        {
-          "name": "delimiter",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "delimiter"
-          },
-          "link": 811
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            813
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            815
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [
-            817
-          ],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [
-            911
-          ],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        ">>>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 402,
@@ -9331,14 +8175,14 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 149,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
           "name": "source",
           "type": "*",
           "dir": 3,
-          "link": 857
+          "link": 935
         }
       ],
       "outputs": [],
@@ -9353,91 +8197,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 400,
-      "type": "CR Split String",
-      "pos": [
-        -3644.224365234375,
-        494.213623046875
-      ],
-      "size": [
-        247.9823455810547,
-        138
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 91,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 728
-        },
-        {
-          "name": "delimiter",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "delimiter"
-          },
-          "link": 750
-        }
-      ],
-      "outputs": [
-        {
-          "name": "string_1",
-          "type": "*",
-          "links": [
-            790
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "string_2",
-          "type": "*",
-          "links": [
-            797
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "string_3",
-          "type": "*",
-          "links": [
-            803
-          ],
-          "slot_index": 2
-        },
-        {
-          "name": "string_4",
-          "type": "*",
-          "links": [
-            913
-          ],
-          "slot_index": 3
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Split String"
-      },
-      "widgets_values": [
-        "text",
-        "<yusplit>"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 396,
@@ -9478,33 +8237,25 @@
         {
           "name": "string_1",
           "type": "*",
-          "links": [
-            789
-          ],
+          "links": [],
           "slot_index": 0
         },
         {
           "name": "string_2",
           "type": "*",
-          "links": [
-            796
-          ],
+          "links": [],
           "slot_index": 1
         },
         {
           "name": "string_3",
           "type": "*",
-          "links": [
-            802
-          ],
+          "links": [],
           "slot_index": 2
         },
         {
           "name": "string_4",
           "type": "*",
-          "links": [
-            914
-          ],
+          "links": [],
           "slot_index": 3
         },
         {
@@ -9525,140 +8276,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 518,
-      "type": "String",
-      "pos": [
-        -3564.2734375,
-        1549.18505859375
-      ],
-      "size": [
-        352.083984375,
-        160.07000732421875
-      ],
-      "flags": {},
-      "order": 49,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            915
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "画面风格",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "base",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 513,
-      "type": "CR Text Input Switch (4 way)",
-      "pos": [
-        -2737.18798828125,
-        -61.1051025390625
-      ],
-      "size": [
-        390.5999755859375,
-        174
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 128,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text1",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text1"
-          },
-          "link": 914
-        },
-        {
-          "name": "text2",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text2"
-          },
-          "link": 913
-        },
-        {
-          "name": "text3",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text3"
-          },
-          "link": 911
-        },
-        {
-          "name": "text4",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "text4"
-          },
-          "link": 915
-        },
-        {
-          "name": "Input",
-          "type": "INT",
-          "widget": {
-            "name": "Input"
-          },
-          "link": 910
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            909,
-            912
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "title": "画面风格",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text Input Switch (4 way)"
-      },
-      "widgets_values": [
-        1,
-        "",
-        "",
-        "",
-        ""
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 90,
       "type": "SDXLPromptStyler",
       "pos": [
@@ -9672,7 +8289,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 148,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -9755,7 +8372,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 169,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -9793,7 +8410,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 50,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9837,7 +8454,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 138,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -9872,7 +8489,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 51,
+      "order": 47,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9897,52 +8514,6 @@
       ],
       "color": "#322",
       "bgcolor": "#533"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 458,
@@ -10022,7 +8593,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 53,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10134,7 +8705,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 54,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10190,7 +8761,7 @@
           "name": "source",
           "type": "*",
           "dir": 3,
-          "link": 912
+          "link": 937
         }
       ],
       "outputs": [],
@@ -10221,14 +8792,14 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 144,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
           "name": "source",
           "type": "*",
           "dir": 3,
-          "link": 744
+          "link": 934
         }
       ],
       "outputs": [],
@@ -10256,7 +8827,7 @@
         82
       ],
       "flags": {},
-      "order": 55,
+      "order": 50,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10376,7 +8947,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -10447,7 +9018,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 56,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10476,6 +9047,950 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 372,
+      "type": "CR Split String",
+      "pos": [
+        -3536.428466796875,
+        -254.81240844726562
+      ],
+      "size": [
+        257.66217041015625,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 94,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 683
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            689
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            719,
+            916
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "</think>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 444,
+      "type": "CR Split String",
+      "pos": [
+        -3704.72216796875,
+        728.5997314453125
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 101,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 822
+        },
+        {
+          "name": "delimiter",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "delimiter"
+          },
+          "link": 811
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        ">>>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 440,
+      "type": "DeepseekReasonerNode",
+      "pos": [
+        -4240.29638671875,
+        753.532958984375
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 92,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 808
+        }
+      ],
+      "outputs": [
+        {
+          "name": "reasoning",
+          "type": "STRING",
+          "links": [
+            821
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "answer",
+          "type": "STRING",
+          "links": [
+            822,
+            823,
+            918
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
+        "Node name for S&R": "DeepseekReasonerNode"
+      },
+      "widgets_values": [
+        "",
+        true,
+        1,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 481,
+      "type": "easy mathInt",
+      "pos": [
+        -3373.96630859375,
+        492.923095703125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 85,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 869
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            870
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        2,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 400,
+      "type": "CR Split String",
+      "pos": [
+        -3644.224365234375,
+        494.213623046875
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 91,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 728
+        },
+        {
+          "name": "delimiter",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "delimiter"
+          },
+          "link": 750
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "<yusplit>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 399,
+      "type": "DeepseekAdvancedNode",
+      "pos": [
+        -4427.85888671875,
+        494.213623046875
+      ],
+      "size": [
+        857.3333740234375,
+        939.3333740234375
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 75,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 727
+        },
+        {
+          "name": "system_prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "system_prompt"
+          },
+          "link": 747
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            728,
+            917
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
+        "Node name for S&R": "DeepseekAdvancedNode"
+      },
+      "widgets_values": [
+        "",
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n<yusplit>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n<yusplit>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
+        1,
+        2048,
+        0.8,
+        0,
+        0,
+        "",
+        [
+          false,
+          true
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 442,
+      "type": "Evaluate Strings",
+      "pos": [
+        -4430.75,
+        753.532958984375
+      ],
+      "size": [
+        302.5815734863281,
+        172.21368408203125
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 76,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 806
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 807
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            808
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的主题是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 426,
+      "type": "Simple String",
+      "pos": [
+        -4526.064453125,
+        1413.15380859375
+      ],
+      "size": [
+        377.4978942871094,
+        60.6619987487793
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 52,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            938
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Colorful_Juice_Drips"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4129.60107421875,
+        1413.7598876953125
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            939
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot, colorful juice drips, ice cubes, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions, abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 518,
+      "type": "String",
+      "pos": [
+        -3564.2734375,
+        1549.18505859375
+      ],
+      "size": [
+        352.083984375,
+        160.07000732421875
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            940
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "画面风格",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "base",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 483,
+      "type": "easy mathInt",
+      "pos": [
+        -3404.620361328125,
+        1502.8692626953125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 105,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 871
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            872
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        4,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 521,
+      "type": "CR Split String",
+      "pos": [
+        -2508.8154296875,
+        -121.86152648925781
+      ],
+      "size": [
+        247.9823455810547,
+        138
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 125,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 921
+        },
+        {
+          "name": "delimiter",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "delimiter"
+          },
+          "link": 922
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string_1",
+          "type": "*",
+          "links": [
+            923,
+            934
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "string_2",
+          "type": "*",
+          "links": [
+            924,
+            935
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "string_3",
+          "type": "*",
+          "links": [
+            925,
+            936
+          ],
+          "slot_index": 2
+        },
+        {
+          "name": "string_4",
+          "type": "*",
+          "links": [
+            926,
+            937
+          ],
+          "slot_index": 3
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Split String"
+      },
+      "widgets_values": [
+        "text",
+        "<yusplit>"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 527,
+      "type": "Evaluate Strings",
+      "pos": [
+        -3387.330322265625,
+        1430.7889404296875
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 77,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 938
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 939
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 940
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            941
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + '\\n---\\n' + b + '\\n---\\n---\\n'+ c",
+        "False",
+        "Hello",
+        " World",
+        "!"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 519,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        -2762.55859375,
+        -121.86152648925781
+      ],
+      "size": [
+        390.5999755859375,
+        174
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 121,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text1"
+          },
+          "link": 916
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text2"
+          },
+          "link": 917
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text3"
+          },
+          "link": 918
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text4"
+          },
+          "link": 941
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "widget": {
+            "name": "Input"
+          },
+          "link": 942
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            921
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "图片Info",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text Input Switch (4 way)"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 55,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -11824,22 +11339,6 @@
       "STRING"
     ],
     [
-      744,
-      376,
-      0,
-      401,
-      0,
-      "*"
-    ],
-    [
-      746,
-      383,
-      0,
-      403,
-      0,
-      "*"
-    ],
-    [
       747,
       408,
       0,
@@ -12016,78 +11515,6 @@
       "*"
     ],
     [
-      789,
-      396,
-      0,
-      428,
-      0,
-      "STRING"
-    ],
-    [
-      790,
-      400,
-      0,
-      428,
-      1,
-      "STRING"
-    ],
-    [
-      795,
-      428,
-      0,
-      376,
-      0,
-      "*"
-    ],
-    [
-      796,
-      396,
-      1,
-      430,
-      0,
-      "STRING"
-    ],
-    [
-      797,
-      400,
-      1,
-      430,
-      1,
-      "STRING"
-    ],
-    [
-      800,
-      430,
-      0,
-      381,
-      0,
-      "*"
-    ],
-    [
-      802,
-      396,
-      2,
-      429,
-      0,
-      "STRING"
-    ],
-    [
-      803,
-      400,
-      2,
-      429,
-      1,
-      "STRING"
-    ],
-    [
-      805,
-      429,
-      0,
-      383,
-      0,
-      "*"
-    ],
-    [
       806,
       408,
       0,
@@ -12117,54 +11544,6 @@
       0,
       444,
       1,
-      "STRING"
-    ],
-    [
-      812,
-      426,
-      0,
-      428,
-      3,
-      "STRING"
-    ],
-    [
-      813,
-      444,
-      0,
-      428,
-      2,
-      "STRING"
-    ],
-    [
-      814,
-      425,
-      0,
-      430,
-      3,
-      "STRING"
-    ],
-    [
-      815,
-      444,
-      1,
-      430,
-      2,
-      "STRING"
-    ],
-    [
-      816,
-      427,
-      0,
-      429,
-      3,
-      "STRING"
-    ],
-    [
-      817,
-      444,
-      2,
-      429,
-      2,
       "STRING"
     ],
     [
@@ -12328,62 +11707,6 @@
       "STRING"
     ],
     [
-      856,
-      381,
-      0,
-      469,
-      0,
-      "*"
-    ],
-    [
-      857,
-      469,
-      0,
-      402,
-      0,
-      "*"
-    ],
-    [
-      858,
-      469,
-      0,
-      470,
-      0,
-      "*"
-    ],
-    [
-      860,
-      470,
-      0,
-      471,
-      0,
-      "*"
-    ],
-    [
-      861,
-      474,
-      0,
-      473,
-      0,
-      "*"
-    ],
-    [
-      862,
-      383,
-      0,
-      474,
-      0,
-      "*"
-    ],
-    [
-      863,
-      473,
-      0,
-      475,
-      0,
-      "*"
-    ],
-    [
       868,
       478,
       0,
@@ -12422,38 +11745,6 @@
       484,
       0,
       "*"
-    ],
-    [
-      873,
-      484,
-      0,
-      485,
-      0,
-      "*"
-    ],
-    [
-      874,
-      485,
-      0,
-      429,
-      4,
-      "INT"
-    ],
-    [
-      875,
-      485,
-      0,
-      430,
-      4,
-      "INT"
-    ],
-    [
-      876,
-      485,
-      0,
-      428,
-      4,
-      "INT"
     ],
     [
       877,
@@ -12632,60 +11923,148 @@
       "COMBO"
     ],
     [
-      909,
-      513,
+      916,
+      372,
+      1,
+      519,
       0,
+      "STRING"
+    ],
+    [
+      917,
+      399,
+      0,
+      519,
+      1,
+      "STRING"
+    ],
+    [
+      918,
+      440,
+      1,
+      519,
+      2,
+      "STRING"
+    ],
+    [
+      921,
+      519,
+      0,
+      521,
+      0,
+      "STRING"
+    ],
+    [
+      922,
+      413,
+      0,
+      521,
+      1,
+      "STRING"
+    ],
+    [
+      923,
+      521,
+      0,
+      376,
+      0,
+      "*"
+    ],
+    [
+      924,
+      521,
+      1,
+      381,
+      0,
+      "*"
+    ],
+    [
+      925,
+      521,
+      2,
+      383,
+      0,
+      "*"
+    ],
+    [
+      926,
+      521,
+      3,
       511,
       0,
       "STRING"
     ],
     [
-      910,
-      485,
+      934,
+      521,
       0,
-      513,
-      4,
-      "INT"
+      401,
+      0,
+      "*"
     ],
     [
-      911,
-      444,
-      3,
-      513,
+      935,
+      521,
+      1,
+      402,
+      0,
+      "*"
+    ],
+    [
+      936,
+      521,
       2,
-      "STRING"
+      403,
+      0,
+      "*"
     ],
     [
-      912,
-      513,
-      0,
+      937,
+      521,
+      3,
       514,
       0,
       "*"
     ],
     [
-      913,
-      400,
-      3,
-      513,
+      938,
+      426,
+      0,
+      527,
+      0,
+      "STRING"
+    ],
+    [
+      939,
+      425,
+      0,
+      527,
       1,
       "STRING"
     ],
     [
-      914,
-      396,
-      3,
-      513,
+      940,
+      518,
       0,
+      527,
+      2,
       "STRING"
     ],
     [
-      915,
-      518,
+      941,
+      527,
       0,
-      513,
+      519,
       3,
       "STRING"
+    ],
+    [
+      942,
+      484,
+      0,
+      519,
+      4,
+      "INT"
     ]
   ],
   "groups": [
@@ -12862,11 +12241,11 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.620921323059155,
-      "offset": {
-        "0": 4107.65234375,
-        "1": 493.8662414550781
-      }
+      "scale": 0.6209213230591556,
+      "offset": [
+        4520.1569857265895,
+        952.903132804516
+      ]
     },
     "groupNodes": {},
     "ue_links": [],
