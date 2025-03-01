@@ -1,6 +1,6 @@
 {
-  "last_node_id": 527,
-  "last_link_id": 942,
+  "last_node_id": 547,
+  "last_link_id": 967,
   "nodes": [
     {
       "id": 144,
@@ -94,7 +94,7 @@
         234
       ],
       "flags": {},
-      "order": 155,
+      "order": 163,
       "mode": 4,
       "inputs": [
         {
@@ -168,7 +168,7 @@
         26
       ],
       "flags": {},
-      "order": 83,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -286,7 +286,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -324,7 +324,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -433,7 +433,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 63,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -475,7 +475,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 141,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -514,7 +514,7 @@
         46
       ],
       "flags": {},
-      "order": 183,
+      "order": 191,
       "mode": 0,
       "inputs": [
         {
@@ -560,7 +560,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 187,
+      "order": 195,
       "mode": 0,
       "inputs": [
         {
@@ -627,7 +627,7 @@
         26
       ],
       "flags": {},
-      "order": 53,
+      "order": 55,
       "mode": 4,
       "inputs": [
         {
@@ -665,7 +665,7 @@
         154
       ],
       "flags": {},
-      "order": 162,
+      "order": 170,
       "mode": 4,
       "inputs": [
         {
@@ -726,7 +726,7 @@
         76
       ],
       "flags": {},
-      "order": 166,
+      "order": 174,
       "mode": 4,
       "inputs": [
         {
@@ -765,7 +765,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 201,
+      "order": 209,
       "mode": 4,
       "inputs": [
         {
@@ -814,7 +814,7 @@
         46
       ],
       "flags": {},
-      "order": 198,
+      "order": 206,
       "mode": 4,
       "inputs": [
         {
@@ -908,7 +908,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 56,
+      "order": 58,
       "mode": 4,
       "inputs": [
         {
@@ -957,7 +957,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 55,
+      "order": 57,
       "mode": 4,
       "inputs": [
         {
@@ -1072,7 +1072,7 @@
         234
       ],
       "flags": {},
-      "order": 75,
+      "order": 78,
       "mode": 4,
       "inputs": [
         {
@@ -1146,7 +1146,7 @@
         58
       ],
       "flags": {},
-      "order": 89,
+      "order": 94,
       "mode": 4,
       "inputs": [
         {
@@ -1187,7 +1187,7 @@
         130
       ],
       "flags": {},
-      "order": 100,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -1241,7 +1241,7 @@
         102
       ],
       "flags": {},
-      "order": 110,
+      "order": 117,
       "mode": 4,
       "inputs": [
         {
@@ -1289,7 +1289,7 @@
         138
       ],
       "flags": {},
-      "order": 120,
+      "order": 127,
       "mode": 4,
       "inputs": [
         {
@@ -1365,7 +1365,7 @@
         58
       ],
       "flags": {},
-      "order": 117,
+      "order": 124,
       "mode": 4,
       "inputs": [
         {
@@ -1440,7 +1440,7 @@
         26
       ],
       "flags": {},
-      "order": 54,
+      "order": 56,
       "mode": 4,
       "inputs": [
         {
@@ -1515,7 +1515,7 @@
         154
       ],
       "flags": {},
-      "order": 168,
+      "order": 176,
       "mode": 4,
       "inputs": [
         {
@@ -1576,7 +1576,7 @@
         76
       ],
       "flags": {},
-      "order": 171,
+      "order": 179,
       "mode": 4,
       "inputs": [
         {
@@ -1617,7 +1617,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 172,
+      "order": 180,
       "mode": 4,
       "inputs": [
         {
@@ -1684,7 +1684,7 @@
         26
       ],
       "flags": {},
-      "order": 111,
+      "order": 118,
       "mode": 4,
       "inputs": [
         {
@@ -1722,7 +1722,7 @@
         26
       ],
       "flags": {},
-      "order": 112,
+      "order": 119,
       "mode": 4,
       "inputs": [
         {
@@ -1760,7 +1760,7 @@
         26
       ],
       "flags": {},
-      "order": 103,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -1798,7 +1798,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -1875,7 +1875,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 192,
+      "order": 200,
       "mode": 0,
       "inputs": [
         {
@@ -1913,7 +1913,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 191,
+      "order": 199,
       "mode": 0,
       "inputs": [
         {
@@ -1951,7 +1951,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 121,
+      "order": 128,
       "mode": 0,
       "inputs": [
         {
@@ -1989,7 +1989,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -2027,7 +2027,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 61,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -2066,7 +2066,7 @@
         26
       ],
       "flags": {},
-      "order": 57,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -2106,7 +2106,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 59,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -2148,7 +2148,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 148,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -2186,7 +2186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 69,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -2227,7 +2227,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 167,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -2302,7 +2302,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 181,
+      "order": 189,
       "mode": 0,
       "inputs": [
         {
@@ -2344,7 +2344,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 174,
+      "order": 182,
       "mode": 0,
       "inputs": [
         {
@@ -2388,7 +2388,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 94,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -2429,7 +2429,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 85,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -2470,7 +2470,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 175,
+      "order": 183,
       "mode": 0,
       "inputs": [
         {
@@ -2510,7 +2510,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 177,
+      "order": 185,
       "mode": 0,
       "inputs": [
         {
@@ -2550,7 +2550,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 185,
+      "order": 193,
       "mode": 0,
       "inputs": [
         {
@@ -2593,7 +2593,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 65,
+      "order": 67,
       "mode": 0,
       "inputs": [
         {
@@ -2639,7 +2639,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 147,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -2681,7 +2681,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -2727,7 +2727,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 202,
+      "order": 210,
       "mode": 4,
       "inputs": [
         {
@@ -2794,7 +2794,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 116,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -2823,7 +2823,7 @@
         46
       ],
       "flags": {},
-      "order": 135,
+      "order": 140,
       "mode": 4,
       "inputs": [
         {
@@ -2867,7 +2867,7 @@
         130
       ],
       "flags": {},
-      "order": 139,
+      "order": 145,
       "mode": 4,
       "inputs": [
         {
@@ -2938,7 +2938,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 84,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -2979,7 +2979,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 68,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3025,7 +3025,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 182,
+      "order": 190,
       "mode": 0,
       "inputs": [
         {
@@ -3068,7 +3068,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -3107,7 +3107,7 @@
         26
       ],
       "flags": {},
-      "order": 81,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3147,7 +3147,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 189,
+      "order": 197,
       "mode": 0,
       "inputs": [
         {
@@ -3189,7 +3189,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 122,
+      "order": 129,
       "mode": 0,
       "inputs": [
         {
@@ -3228,7 +3228,7 @@
         26
       ],
       "flags": {},
-      "order": 118,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -3268,7 +3268,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 109,
+      "order": 116,
       "mode": 4,
       "inputs": [
         {
@@ -3299,7 +3299,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 178,
+      "order": 186,
       "mode": 0,
       "inputs": [
         {
@@ -3339,7 +3339,7 @@
         106
       ],
       "flags": {},
-      "order": 105,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -3393,7 +3393,7 @@
         76
       ],
       "flags": {},
-      "order": 64,
+      "order": 66,
       "mode": 0,
       "inputs": [
         {
@@ -3432,7 +3432,7 @@
         138
       ],
       "flags": {},
-      "order": 193,
+      "order": 201,
       "mode": 4,
       "inputs": [
         {
@@ -3510,7 +3510,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 190,
+      "order": 198,
       "mode": 4,
       "inputs": [
         {
@@ -3550,7 +3550,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 146,
+      "order": 149,
       "mode": 4,
       "inputs": [
         {
@@ -3601,7 +3601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 132,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -3734,7 +3734,7 @@
         234
       ],
       "flags": {},
-      "order": 163,
+      "order": 171,
       "mode": 4,
       "inputs": [
         {
@@ -3808,7 +3808,7 @@
         76
       ],
       "flags": {},
-      "order": 160,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -3832,7 +3832,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_549869118187564_low"
+        "Colorful_Juice_Drips_972943735463556_low"
       ]
     },
     {
@@ -3921,7 +3921,7 @@
         186
       ],
       "flags": {},
-      "order": 170,
+      "order": 178,
       "mode": 4,
       "inputs": [
         {
@@ -4071,7 +4071,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 58,
+      "order": 60,
       "mode": 4,
       "inputs": [
         {
@@ -4122,16 +4122,16 @@
       "flags": {
         "pinned": true
       },
-      "order": 125,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 924,
           "widget": {
             "name": "value"
-          }
+          },
+          "link": 924
         }
       ],
       "outputs": [
@@ -4163,7 +4163,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 123,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -4204,7 +4204,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 79,
+      "order": 82,
       "mode": 4,
       "inputs": [
         {
@@ -4358,7 +4358,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 64,
       "mode": 4,
       "inputs": [
         {
@@ -4410,46 +4410,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 413,
-      "type": "easy string",
-      "pos": [
-        -4901.86376953125,
-        502.91717529296875
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 20,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "string",
-          "type": "STRING",
-          "links": [
-            922
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "分隔符",
-      "properties": {
-        "cnr_id": "comfyui-easy-use",
-        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
-        "Node name for S&R": "easy string"
-      },
-      "widgets_values": [
-        "---"
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 418,
       "type": "LayerUtility: PurgeVRAM",
       "pos": [
@@ -4461,7 +4421,7 @@
         82
       ],
       "flags": {},
-      "order": 199,
+      "order": 207,
       "mode": 4,
       "inputs": [
         {
@@ -4494,7 +4454,7 @@
         262
       ],
       "flags": {},
-      "order": 195,
+      "order": 203,
       "mode": 4,
       "inputs": [
         {
@@ -4559,7 +4519,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        421950284531767,
+        601885549598130,
         "randomize",
         25,
         1,
@@ -4645,7 +4605,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        158585739428870,
+        1106405837142806,
         "randomize",
         20,
         1,
@@ -4666,46 +4626,13 @@
         82
       ],
       "flags": {},
-      "order": 136,
+      "order": 141,
       "mode": 4,
       "inputs": [
         {
           "name": "anything",
           "type": "*",
           "link": 757
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "cnr_id": "comfyui_layerstyle",
-        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
-        "Node name for S&R": "LayerUtility: PurgeVRAM"
-      },
-      "widgets_values": [
-        false,
-        true
-      ],
-      "color": "rgba(38, 73, 116, 0.7)"
-    },
-    {
-      "id": 415,
-      "type": "LayerUtility: PurgeVRAM",
-      "pos": [
-        3513.283203125,
-        137.85739135742188
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 184,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 753
         }
       ],
       "outputs": [],
@@ -4732,7 +4659,7 @@
         26
       ],
       "flags": {},
-      "order": 173,
+      "order": 181,
       "mode": 4,
       "inputs": [
         {
@@ -4775,7 +4702,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 200,
+      "order": 208,
       "mode": 4,
       "inputs": [
         {
@@ -4827,7 +4754,7 @@
         58
       ],
       "flags": {},
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4865,7 +4792,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -4904,7 +4831,7 @@
         26
       ],
       "flags": {},
-      "order": 60,
+      "order": 62,
       "mode": 4,
       "inputs": [
         {
@@ -4940,7 +4867,7 @@
         26
       ],
       "flags": {},
-      "order": 78,
+      "order": 81,
       "mode": 4,
       "inputs": [
         {
@@ -4976,7 +4903,7 @@
         58
       ],
       "flags": {},
-      "order": 22,
+      "order": 21,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5011,7 +4938,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 23,
+      "order": 22,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5061,7 +4988,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 137,
+      "order": 147,
       "mode": 0,
       "inputs": [
         {
@@ -5116,7 +5043,7 @@
         58
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5154,7 +5081,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 25,
+      "order": 24,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5193,7 +5120,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 26,
+      "order": 25,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5227,12 +5154,12 @@
       ],
       "size": [
         527.960693359375,
-        370
+        394
       ],
       "flags": {
         "pinned": true
       },
-      "order": 27,
+      "order": 26,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5265,7 +5192,7 @@
         142
       ],
       "flags": {},
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5304,7 +5231,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        715913582726662,
+        65660989027994,
         "randomize"
       ],
       "color": "#232",
@@ -5324,7 +5251,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 144,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -5381,7 +5308,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 142,
+      "order": 151,
       "mode": 0,
       "inputs": [
         {
@@ -5436,7 +5363,7 @@
         195.27806091308594
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5462,7 +5389,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -5533,7 +5460,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 133,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -5602,7 +5529,7 @@
         82
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -5643,7 +5570,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 153,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -5706,7 +5633,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 186,
+      "order": 194,
       "mode": 0,
       "inputs": [
         {
@@ -5748,7 +5675,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 127,
+      "order": 136,
       "mode": 0,
       "inputs": [
         {
@@ -5776,15 +5703,15 @@
       "id": 436,
       "type": "Note",
       "pos": [
-        -4524.248046875,
-        1524.9224853515625
+        -4519.005859375,
+        1519.27099609375
       ],
       "size": [
         369.9324951171875,
         100.44618225097656
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5810,7 +5737,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 128,
+      "order": 137,
       "mode": 0,
       "inputs": [
         {
@@ -5834,47 +5761,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 484,
-      "type": "Reroute",
-      "pos": [
-        -3156.1669921875,
-        1473.02294921875
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 108,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 872,
-          "widget": {
-            "name": "value"
-          }
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "INT",
-          "links": [
-            942
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 373,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -5886,7 +5772,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 98,
+      "order": 104,
       "mode": 4,
       "inputs": [
         {
@@ -5924,7 +5810,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5962,7 +5848,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 66,
+      "order": 68,
       "mode": 4,
       "inputs": [
         {
@@ -6011,7 +5897,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 96,
       "mode": 4,
       "inputs": [
         {
@@ -6058,7 +5944,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 188,
+      "order": 196,
       "mode": 0,
       "inputs": [
         {
@@ -6087,7 +5973,7 @@
         262
       ],
       "flags": {},
-      "order": 180,
+      "order": 188,
       "mode": 0,
       "inputs": [
         {
@@ -6160,7 +6046,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        889679027378446,
+        762055556713866,
         "randomize",
         40,
         1,
@@ -6181,7 +6067,7 @@
         170
       ],
       "flags": {},
-      "order": 70,
+      "order": 72,
       "mode": 4,
       "inputs": [
         {
@@ -6247,7 +6133,7 @@
         102
       ],
       "flags": {},
-      "order": 101,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -6296,7 +6182,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 92,
+      "order": 97,
       "mode": 4,
       "inputs": [
         {
@@ -6388,7 +6274,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 33,
+      "order": 32,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6433,7 +6319,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 34,
+      "order": 33,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6481,7 +6367,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 169,
+      "order": 177,
       "mode": 0,
       "inputs": [
         {
@@ -6526,7 +6412,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 165,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -6572,7 +6458,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 161,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -6615,7 +6501,7 @@
         246
       ],
       "flags": {},
-      "order": 140,
+      "order": 146,
       "mode": 4,
       "inputs": [
         {
@@ -6646,7 +6532,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 93,
+      "order": 98,
       "mode": 4,
       "inputs": [
         {
@@ -6740,7 +6626,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -6778,7 +6664,7 @@
         58
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6814,7 +6700,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6860,7 +6746,7 @@
         26
       ],
       "flags": {},
-      "order": 114,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -6899,7 +6785,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 145,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -6942,7 +6828,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 152,
+      "order": 160,
       "mode": 0,
       "inputs": [
         {
@@ -6985,7 +6871,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 37,
+      "order": 36,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7026,7 +6912,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -7069,7 +6955,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 38,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7110,7 +6996,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 157,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -7153,7 +7039,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 150,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -7196,7 +7082,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 143,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -7240,7 +7126,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 149,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -7281,7 +7167,7 @@
         614
       ],
       "flags": {},
-      "order": 194,
+      "order": 202,
       "mode": 4,
       "inputs": [
         {
@@ -7373,7 +7259,7 @@
       },
       "widgets_values": [
         2,
-        574709830846868,
+        514716509472000,
         "randomize",
         20,
         1,
@@ -7408,7 +7294,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 179,
+      "order": 187,
       "mode": 4,
       "inputs": [
         {
@@ -7461,7 +7347,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 164,
+      "order": 172,
       "mode": 4,
       "inputs": [
         {
@@ -7541,7 +7427,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 197,
+      "order": 205,
       "mode": 4,
       "inputs": [
         {
@@ -7612,7 +7498,7 @@
         58
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7650,7 +7536,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 176,
+      "order": 184,
       "mode": 4,
       "inputs": [
         {
@@ -7711,7 +7597,7 @@
         82
       ],
       "flags": {},
-      "order": 196,
+      "order": 204,
       "mode": 4,
       "inputs": [
         {
@@ -7744,7 +7630,7 @@
         500
       ],
       "flags": {},
-      "order": 67,
+      "order": 69,
       "mode": 4,
       "inputs": [
         {
@@ -7806,7 +7692,7 @@
         58
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7842,7 +7728,7 @@
         26
       ],
       "flags": {},
-      "order": 113,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -7878,7 +7764,7 @@
         106
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7921,7 +7807,7 @@
         106
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7967,7 +7853,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 129,
+      "order": 138,
       "mode": 0,
       "inputs": [
         {
@@ -8019,7 +7905,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 96,
+      "order": 101,
       "mode": 4,
       "inputs": [
         {
@@ -8057,7 +7943,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 126,
+      "order": 135,
       "mode": 0,
       "inputs": [
         {
@@ -8094,7 +7980,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 138,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -8177,7 +8063,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 156,
+      "order": 164,
       "mode": 0,
       "inputs": [
         {
@@ -8214,7 +8100,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 134,
+      "order": 144,
       "mode": 0,
       "inputs": [
         {
@@ -8249,7 +8135,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8287,7 +8173,7 @@
         170
       ],
       "flags": {},
-      "order": 86,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -8356,7 +8242,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 130,
+      "order": 139,
       "mode": 0,
       "inputs": [
         {
@@ -8394,7 +8280,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 124,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -8429,7 +8315,7 @@
         82
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8468,7 +8354,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 107,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -8508,7 +8394,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 106,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -8549,7 +8435,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -8607,50 +8493,6 @@
       "shape": 1
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5053.3701171875,
-        -425.44287109375
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 45,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "高清桌面壁纸，一拳超人中战栗的龙卷",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 481,
       "type": "easy mathInt",
       "pos": [
@@ -8664,7 +8506,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 82,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -8713,7 +8555,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 72,
+      "order": 74,
       "mode": 4,
       "inputs": [
         {
@@ -8782,7 +8624,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
+      "order": 75,
       "mode": 4,
       "inputs": [
         {
@@ -8831,180 +8673,6 @@
       "shape": 1
     },
     {
-      "id": 426,
-      "type": "Simple String",
-      "pos": [
-        -4526.064453125,
-        1413.15380859375
-      ],
-      "size": [
-        377.4978942871094,
-        60.6619987487793
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 46,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            938
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "cnr_id": "cg-use-everywhere",
-        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
-        "Node name for S&R": "Simple String"
-      },
-      "widgets_values": [
-        "Colorful_Juice_Drips"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4129.60107421875,
-        1413.7598876953125
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 47,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            939
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot, colorful juice drips, ice cubes, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions, abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 518,
-      "type": "String",
-      "pos": [
-        -3564.2734375,
-        1549.18505859375
-      ],
-      "size": [
-        352.083984375,
-        160.07000732421875
-      ],
-      "flags": {},
-      "order": 48,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            940
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "画面风格",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "base",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 483,
-      "type": "easy mathInt",
-      "pos": [
-        -3404.620361328125,
-        1502.8692626953125
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 99,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "widget": {
-            "name": "a"
-          },
-          "link": 871
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            872
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-easy-use",
-        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        0,
-        4,
-        "add"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 521,
       "type": "CR Split String",
       "pos": [
@@ -9019,7 +8687,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 119,
+      "order": 130,
       "mode": 0,
       "inputs": [
         {
@@ -9095,77 +8763,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 527,
-      "type": "Evaluate Strings",
-      "pos": [
-        -3387.330322265625,
-        1430.7889404296875
-      ],
-      "size": [
-        315,
-        154
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 71,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 938
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "b"
-          },
-          "link": 939
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": 940
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            941
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + '\\n---\\n' + b + '\\n---\\n---\\n'+ c",
-        "False",
-        "Hello",
-        " World",
-        "!"
-      ],
-      "color": "#222",
-      "bgcolor": "#000",
-      "shape": 1
-    },
-    {
       "id": 276,
       "type": "CR Text",
       "pos": [
@@ -9177,7 +8774,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 49,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9223,7 +8820,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 50,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9269,7 +8866,7 @@
         170
       ],
       "flags": {},
-      "order": 95,
+      "order": 100,
       "mode": 4,
       "inputs": [
         {
@@ -9324,51 +8921,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5798.24755859375,
-        57.120819091796875
-      ],
-      "size": [
-        846.5399780273438,
-        996.5400390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 51,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748,
-            806
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 440,
       "type": "DeepseekReasonerNode",
       "pos": [
@@ -9382,7 +8934,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -9443,7 +8995,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -9515,7 +9067,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 97,
+      "order": 102,
       "mode": 4,
       "inputs": [
         {
@@ -9539,10 +9091,894 @@
       "bgcolor": "#000"
     },
     {
+      "id": 464,
+      "type": "CR Text",
+      "pos": [
+        -640.8151245117188,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 46,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            849
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "Tat$umaki",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -487.5561218261719
+      ],
+      "size": [
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 47,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "高清桌面壁纸，一拳超人中战栗的龙卷",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 413,
+      "type": "easy string",
+      "pos": [
+        -4901.28369140625,
+        830.4976196289062
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 48,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            922
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "分隔符",
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy string"
+      },
+      "widgets_values": [
+        "---"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -211.74111938476562
+      ],
+      "size": [
+        846.5399780273438,
+        996.5400390625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 49,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4124.3583984375,
+        1408.1083984375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 50,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            951
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "Abstract art style, vibrant colors, high-gloss finish, crystal-clear glass, intricate details, close-up shot, colorful juice drips, ice cubes, dynamic motion, bright hues of red, orange, yellow, and green, viscous consistency, glistening droplets, reflections, refractions, abstract background with geometric patterns, soft gradients, metallic accents, artistic lighting effects, high-contrast visuals, cinematic composition",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 426,
+      "type": "Simple String",
+      "pos": [
+        -4520.822265625,
+        1407.50244140625
+      ],
+      "size": [
+        377.4978942871094,
+        60.6619987487793
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 51,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            938
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
+        "Node name for S&R": "Simple String"
+      },
+      "widgets_values": [
+        "Colorful_Juice_Drips"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 529,
+      "type": "JanusModelLoader",
+      "pos": [
+        -4493.94677734375,
+        1882.1259765625
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {},
+      "order": 52,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "model",
+          "type": "JANUS_MODEL",
+          "links": [
+            943
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "processor",
+          "type": "JANUS_PROCESSOR",
+          "links": [
+            944
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "janus-pro",
+        "ver": "4400129e5c33664ae6e927162a39ba4116f44b8b",
+        "Node name for S&R": "JanusModelLoader"
+      },
+      "widgets_values": [
+        "deepseek-ai/Janus-Pro-7B"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 483,
+      "type": "easy mathInt",
+      "pos": [
+        -3295.74609375,
+        1414.139404296875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 105,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 871
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            953
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        4,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 534,
+      "type": "Evaluate Strings",
+      "pos": [
+        -3440.81689453125,
+        1929.508056640625
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 92,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 952
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            962
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + '\\n---\\n' + b + '\\n---\\n---\\n'+ c",
+        "False",
+        "Colorful_Juice_Drips",
+        " World",
+        "base"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 518,
+      "type": "String",
+      "pos": [
+        -3575.49853515625,
+        1538.00048828125
+      ],
+      "size": [
+        358.6899719238281,
+        174.6638946533203
+      ],
+      "flags": {},
+      "order": 53,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            940
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "画面风格",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "base",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 527,
+      "type": "Evaluate Strings",
+      "pos": [
+        -3443.15625,
+        1475.5460205078125
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 76,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 938
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 951
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 940
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            961
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + '\\n---\\n' + b + '\\n---\\n---\\n'+ c",
+        "False",
+        "Hello",
+        " World",
+        "!"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 528,
+      "type": "LoadImage",
+      "pos": [
+        -4492.13818359375,
+        2008.87890625
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 54,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            945
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "example.png",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 415,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        3513.283203125,
+        137.85739135742188
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 192,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 753
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 530,
+      "type": "JanusImageUnderstanding",
+      "pos": [
+        -4013.81982421875,
+        1878.221923828125
+      ],
+      "size": [
+        418.62762451171875,
+        440.4901123046875
+      ],
+      "flags": {},
+      "order": 77,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "JANUS_MODEL",
+          "link": 943
+        },
+        {
+          "name": "processor",
+          "type": "JANUS_PROCESSOR",
+          "link": 944
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 945
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            952,
+            965
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "janus-pro",
+        "ver": "4400129e5c33664ae6e927162a39ba4116f44b8b",
+        "Node name for S&R": "JanusImageUnderstanding"
+      },
+      "widgets_values": [
+        "你是一个艺术专家，请尽可能详细地描述这张图片。描述要包含图像中的内容，包含画面风格、环境、场景细节等150-180个描述性形容词或关键词。如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词。请只用英文输出。",
+        152582200221878,
+        "randomize",
+        0.1,
+        0.95,
+        512,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 546,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        -3528.14404296875,
+        2236.10205078125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 93,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 965
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 544,
+      "type": "Evaluate Strings",
+      "pos": [
+        -3446.877685546875,
+        2139.8720703125
+      ],
+      "size": [
+        315,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 103,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 961
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 962
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            963
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b",
+        "False",
+        "Hello",
+        " World",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 535,
+      "type": "easy mathInt",
+      "pos": [
+        -3296.44287109375,
+        1853.311767578125
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 115,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 953
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            966
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        4,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 547,
+      "type": "Reroute",
+      "pos": [
+        -3091.3134765625,
+        1740.985595703125
+      ],
+      "size": [
+        84.9173583984375,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 122,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 966
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            967
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
+    },
+    {
+      "id": 545,
+      "type": "Reroute",
+      "pos": [
+        -3091.3134765625,
+        1700.7593994140625
+      ],
+      "size": [
+        90.4000015258789,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 114,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 963
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            964
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
+    },
+    {
       "id": 519,
       "type": "CR Text Input Switch (4 way)",
       "pos": [
-        -2762.55859375,
+        -2646.39794921875,
         -121.86152648925781
       ],
       "size": [
@@ -9553,7 +9989,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 115,
+      "order": 126,
       "mode": 0,
       "inputs": [
         {
@@ -9590,7 +10026,7 @@
           "widget": {
             "name": "text4"
           },
-          "link": 941
+          "link": 964
         },
         {
           "name": "Input",
@@ -9598,7 +10034,7 @@
           "widget": {
             "name": "Input"
           },
-          "link": 942
+          "link": 967
         }
       ],
       "outputs": [
@@ -9630,52 +10066,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 464,
-      "type": "CR Text",
-      "pos": [
-        -640.8151245117188,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            849
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "Tat$umaki",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -11376,14 +11766,6 @@
       "INT"
     ],
     [
-      872,
-      483,
-      0,
-      484,
-      0,
-      "*"
-    ],
-    [
       877,
       155,
       0,
@@ -11672,14 +12054,6 @@
       "STRING"
     ],
     [
-      939,
-      425,
-      0,
-      527,
-      1,
-      "STRING"
-    ],
-    [
       940,
       518,
       0,
@@ -11688,16 +12062,104 @@
       "STRING"
     ],
     [
-      941,
+      943,
+      529,
+      0,
+      530,
+      0,
+      "JANUS_MODEL"
+    ],
+    [
+      944,
+      529,
+      1,
+      530,
+      1,
+      "JANUS_PROCESSOR"
+    ],
+    [
+      945,
+      528,
+      0,
+      530,
+      2,
+      "IMAGE"
+    ],
+    [
+      951,
+      425,
+      0,
       527,
+      1,
+      "STRING"
+    ],
+    [
+      952,
+      530,
+      0,
+      534,
+      0,
+      "STRING"
+    ],
+    [
+      953,
+      483,
+      0,
+      535,
+      0,
+      "INT"
+    ],
+    [
+      961,
+      527,
+      0,
+      544,
+      0,
+      "STRING"
+    ],
+    [
+      962,
+      534,
+      0,
+      544,
+      1,
+      "STRING"
+    ],
+    [
+      963,
+      544,
+      0,
+      545,
+      0,
+      "*"
+    ],
+    [
+      964,
+      545,
       0,
       519,
       3,
       "STRING"
     ],
     [
-      942,
-      484,
+      965,
+      530,
+      0,
+      546,
+      0,
+      "*"
+    ],
+    [
+      966,
+      535,
+      0,
+      547,
+      0,
+      "*"
+    ],
+    [
+      967,
+      547,
       0,
       519,
       4,
@@ -11839,8 +12301,8 @@
       "id": 22,
       "title": "Prompts Generation 04- 手工",
       "bounding": [
-        -4536.064453125,
-        1339.553955078125,
+        -4530.822265625,
+        1333.902587890625,
         1354.995849609375,
         394.54180908203125
       ],
@@ -11873,15 +12335,28 @@
       "color": "#A88",
       "font_size": 24,
       "flags": {}
+    },
+    {
+      "id": 25,
+      "title": "Prompts Generation 05- 图片",
+      "bounding": [
+        -4528.34912109375,
+        1771.85595703125,
+        1350.4305419921875,
+        568.8530883789062
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1,
+      "scale": 0.620921323059155,
       "offset": [
-        3158.326830228211,
-        -150.9881466327219
+        6943.55467406348,
+        918.027282168019
       ]
     },
     "groupNodes": {},
