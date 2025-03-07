@@ -1,6 +1,6 @@
 {
-  "last_node_id": 580,
-  "last_link_id": 1014,
+  "last_node_id": 592,
+  "last_link_id": 1032,
   "nodes": [
     {
       "id": 144,
@@ -94,7 +94,7 @@
         234
       ],
       "flags": {},
-      "order": 185,
+      "order": 183,
       "mode": 4,
       "inputs": [
         {
@@ -168,7 +168,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 103,
       "mode": 4,
       "inputs": [
         {
@@ -286,7 +286,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 181,
+      "order": 179,
       "mode": 0,
       "inputs": [
         {
@@ -324,7 +324,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 188,
+      "order": 187,
       "mode": 0,
       "inputs": [
         {
@@ -433,7 +433,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 75,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -475,7 +475,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 172,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -514,7 +514,7 @@
         46
       ],
       "flags": {},
-      "order": 216,
+      "order": 224,
       "mode": 0,
       "inputs": [
         {
@@ -560,7 +560,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 220,
+      "order": 228,
       "mode": 0,
       "inputs": [
         {
@@ -627,7 +627,7 @@
         26
       ],
       "flags": {},
-      "order": 65,
+      "order": 66,
       "mode": 4,
       "inputs": [
         {
@@ -665,7 +665,7 @@
         174
       ],
       "flags": {},
-      "order": 192,
+      "order": 191,
       "mode": 4,
       "inputs": [
         {
@@ -773,7 +773,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 234,
+      "order": 242,
       "mode": 4,
       "inputs": [
         {
@@ -822,7 +822,7 @@
         46
       ],
       "flags": {},
-      "order": 231,
+      "order": 239,
       "mode": 4,
       "inputs": [
         {
@@ -916,7 +916,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 68,
+      "order": 69,
       "mode": 4,
       "inputs": [
         {
@@ -965,7 +965,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 67,
+      "order": 68,
       "mode": 4,
       "inputs": [
         {
@@ -1080,7 +1080,7 @@
         234
       ],
       "flags": {},
-      "order": 94,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -1154,7 +1154,7 @@
         58
       ],
       "flags": {},
-      "order": 111,
+      "order": 113,
       "mode": 4,
       "inputs": [
         {
@@ -1195,7 +1195,7 @@
         150
       ],
       "flags": {},
-      "order": 124,
+      "order": 126,
       "mode": 4,
       "inputs": [
         {
@@ -1257,7 +1257,7 @@
         102
       ],
       "flags": {},
-      "order": 136,
+      "order": 137,
       "mode": 4,
       "inputs": [
         {
@@ -1305,7 +1305,7 @@
         138
       ],
       "flags": {},
-      "order": 149,
+      "order": 147,
       "mode": 4,
       "inputs": [
         {
@@ -1456,7 +1456,7 @@
         26
       ],
       "flags": {},
-      "order": 66,
+      "order": 67,
       "mode": 4,
       "inputs": [
         {
@@ -1531,7 +1531,7 @@
         174
       ],
       "flags": {},
-      "order": 198,
+      "order": 201,
       "mode": 4,
       "inputs": [
         {
@@ -1600,7 +1600,7 @@
         88
       ],
       "flags": {},
-      "order": 201,
+      "order": 205,
       "mode": 4,
       "inputs": [
         {
@@ -1641,7 +1641,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 202,
+      "order": 206,
       "mode": 4,
       "inputs": [
         {
@@ -1708,7 +1708,7 @@
         26
       ],
       "flags": {},
-      "order": 137,
+      "order": 138,
       "mode": 4,
       "inputs": [
         {
@@ -1746,7 +1746,7 @@
         26
       ],
       "flags": {},
-      "order": 138,
+      "order": 139,
       "mode": 4,
       "inputs": [
         {
@@ -1784,7 +1784,7 @@
         26
       ],
       "flags": {},
-      "order": 127,
+      "order": 129,
       "mode": 4,
       "inputs": [
         {
@@ -1822,7 +1822,7 @@
         26
       ],
       "flags": {},
-      "order": 128,
+      "order": 130,
       "mode": 4,
       "inputs": [
         {
@@ -1899,7 +1899,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 225,
+      "order": 233,
       "mode": 0,
       "inputs": [
         {
@@ -1937,7 +1937,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 224,
+      "order": 232,
       "mode": 0,
       "inputs": [
         {
@@ -1975,7 +1975,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 150,
+      "order": 148,
       "mode": 0,
       "inputs": [
         {
@@ -2013,7 +2013,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 95,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -2051,7 +2051,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2090,7 +2090,7 @@
         26
       ],
       "flags": {},
-      "order": 69,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -2130,7 +2130,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 71,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -2172,7 +2172,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 178,
+      "order": 176,
       "mode": 0,
       "inputs": [
         {
@@ -2210,7 +2210,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 81,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -2326,7 +2326,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 214,
+      "order": 220,
       "mode": 0,
       "inputs": [
         {
@@ -2368,7 +2368,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 205,
+      "order": 209,
       "mode": 0,
       "inputs": [
         {
@@ -2412,7 +2412,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 116,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -2453,7 +2453,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -2494,7 +2494,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 206,
+      "order": 210,
       "mode": 0,
       "inputs": [
         {
@@ -2534,7 +2534,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 209,
+      "order": 214,
       "mode": 0,
       "inputs": [
         {
@@ -2574,7 +2574,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 218,
+      "order": 226,
       "mode": 0,
       "inputs": [
         {
@@ -2617,7 +2617,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -2663,7 +2663,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 177,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -2705,7 +2705,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 184,
+      "order": 182,
       "mode": 0,
       "inputs": [
         {
@@ -2751,7 +2751,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 235,
+      "order": 243,
       "mode": 4,
       "inputs": [
         {
@@ -2847,7 +2847,7 @@
         46
       ],
       "flags": {},
-      "order": 162,
+      "order": 160,
       "mode": 4,
       "inputs": [
         {
@@ -2891,7 +2891,7 @@
         190
       ],
       "flags": {},
-      "order": 167,
+      "order": 165,
       "mode": 4,
       "inputs": [
         {
@@ -2974,7 +2974,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 103,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -3015,7 +3015,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -3061,7 +3061,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 215,
+      "order": 221,
       "mode": 0,
       "inputs": [
         {
@@ -3104,7 +3104,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 96,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -3143,7 +3143,7 @@
         26
       ],
       "flags": {},
-      "order": 100,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -3183,7 +3183,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 222,
+      "order": 230,
       "mode": 0,
       "inputs": [
         {
@@ -3225,7 +3225,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 149,
       "mode": 0,
       "inputs": [
         {
@@ -3304,7 +3304,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 135,
+      "order": 136,
       "mode": 4,
       "inputs": [
         {
@@ -3335,7 +3335,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 210,
+      "order": 215,
       "mode": 0,
       "inputs": [
         {
@@ -3375,7 +3375,7 @@
         126
       ],
       "flags": {},
-      "order": 129,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -3437,7 +3437,7 @@
         112
       ],
       "flags": {},
-      "order": 76,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -3480,7 +3480,7 @@
         138
       ],
       "flags": {},
-      "order": 226,
+      "order": 234,
       "mode": 4,
       "inputs": [
         {
@@ -3558,7 +3558,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 223,
+      "order": 231,
       "mode": 4,
       "inputs": [
         {
@@ -3598,7 +3598,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 171,
+      "order": 169,
       "mode": 4,
       "inputs": [
         {
@@ -3649,7 +3649,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 164,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -3695,7 +3695,7 @@
         234
       ],
       "flags": {},
-      "order": 193,
+      "order": 192,
       "mode": 4,
       "inputs": [
         {
@@ -3769,7 +3769,7 @@
         88
       ],
       "flags": {},
-      "order": 190,
+      "order": 189,
       "mode": 0,
       "inputs": [
         {
@@ -3793,7 +3793,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_554114800521176_low"
+        "Tatsumaki_Desktop_Wallpaper_1036724031167633_low"
       ]
     },
     {
@@ -3882,7 +3882,7 @@
         186
       ],
       "flags": {},
-      "order": 200,
+      "order": 203,
       "mode": 4,
       "inputs": [
         {
@@ -4032,7 +4032,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 70,
+      "order": 71,
       "mode": 4,
       "inputs": [
         {
@@ -4083,7 +4083,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -4124,7 +4124,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 152,
       "mode": 0,
       "inputs": [
         {
@@ -4165,7 +4165,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 98,
+      "order": 99,
       "mode": 4,
       "inputs": [
         {
@@ -4243,7 +4243,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "deepseek-r1:32b",
+        "",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n>>>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n>>>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
         1744717106,
         "randomize",
@@ -4319,7 +4319,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 75,
       "mode": 4,
       "inputs": [
         {
@@ -4382,7 +4382,7 @@
         82
       ],
       "flags": {},
-      "order": 232,
+      "order": 240,
       "mode": 4,
       "inputs": [
         {
@@ -4415,7 +4415,7 @@
         298
       ],
       "flags": {},
-      "order": 228,
+      "order": 236,
       "mode": 4,
       "inputs": [
         {
@@ -4492,7 +4492,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        476582837627727,
+        310199901773551,
         "randomize",
         25,
         1,
@@ -4513,7 +4513,7 @@
         298
       ],
       "flags": {},
-      "order": 153,
+      "order": 151,
       "mode": 4,
       "inputs": [
         {
@@ -4590,7 +4590,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        392085039198787,
+        266331201726641,
         "randomize",
         20,
         1,
@@ -4611,7 +4611,7 @@
         82
       ],
       "flags": {},
-      "order": 163,
+      "order": 161,
       "mode": 4,
       "inputs": [
         {
@@ -4644,7 +4644,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 233,
+      "order": 241,
       "mode": 4,
       "inputs": [
         {
@@ -4734,7 +4734,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -4773,7 +4773,7 @@
         26
       ],
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 4,
       "inputs": [
         {
@@ -4809,7 +4809,7 @@
         26
       ],
       "flags": {},
-      "order": 97,
+      "order": 98,
       "mode": 4,
       "inputs": [
         {
@@ -4930,7 +4930,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 169,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -5173,7 +5173,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        114910576743353,
+        490979600442349,
         "randomize"
       ],
       "color": "#232",
@@ -5193,7 +5193,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -5250,7 +5250,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 173,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -5331,7 +5331,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -5402,7 +5402,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 165,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -5512,7 +5512,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 183,
+      "order": 181,
       "mode": 0,
       "inputs": [
         {
@@ -5575,7 +5575,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 219,
+      "order": 227,
       "mode": 0,
       "inputs": [
         {
@@ -5617,7 +5617,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 156,
       "mode": 0,
       "inputs": [
         {
@@ -5679,7 +5679,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 157,
       "mode": 0,
       "inputs": [
         {
@@ -5714,7 +5714,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 122,
+      "order": 124,
       "mode": 4,
       "inputs": [
         {
@@ -5790,7 +5790,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 79,
       "mode": 4,
       "inputs": [
         {
@@ -5839,7 +5839,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 113,
+      "order": 115,
       "mode": 4,
       "inputs": [
         {
@@ -5886,7 +5886,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 221,
+      "order": 229,
       "mode": 0,
       "inputs": [
         {
@@ -5915,7 +5915,7 @@
         318
       ],
       "flags": {},
-      "order": 213,
+      "order": 219,
       "mode": 0,
       "inputs": [
         {
@@ -6004,7 +6004,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        296491476028061,
+        807715561822850,
         "randomize",
         40,
         1,
@@ -6025,7 +6025,7 @@
         170
       ],
       "flags": {},
-      "order": 82,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -6091,7 +6091,7 @@
         102
       ],
       "flags": {},
-      "order": 125,
+      "order": 127,
       "mode": 4,
       "inputs": [
         {
@@ -6140,7 +6140,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 114,
+      "order": 116,
       "mode": 4,
       "inputs": [
         {
@@ -6329,7 +6329,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 199,
+      "order": 202,
       "mode": 0,
       "inputs": [
         {
@@ -6421,7 +6421,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 191,
+      "order": 190,
       "mode": 0,
       "inputs": [
         {
@@ -6464,7 +6464,7 @@
         246
       ],
       "flags": {},
-      "order": 168,
+      "order": 166,
       "mode": 4,
       "inputs": [
         {
@@ -6495,7 +6495,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 115,
+      "order": 117,
       "mode": 4,
       "inputs": [
         {
@@ -6593,7 +6593,7 @@
         26
       ],
       "flags": {},
-      "order": 126,
+      "order": 128,
       "mode": 4,
       "inputs": [
         {
@@ -6713,7 +6713,7 @@
         26
       ],
       "flags": {},
-      "order": 140,
+      "order": 141,
       "mode": 0,
       "inputs": [
         {
@@ -6752,7 +6752,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 176,
+      "order": 174,
       "mode": 0,
       "inputs": [
         {
@@ -6795,7 +6795,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 182,
+      "order": 180,
       "mode": 0,
       "inputs": [
         {
@@ -6879,7 +6879,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 189,
+      "order": 188,
       "mode": 0,
       "inputs": [
         {
@@ -6963,7 +6963,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 187,
+      "order": 185,
       "mode": 0,
       "inputs": [
         {
@@ -7006,7 +7006,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 180,
+      "order": 178,
       "mode": 0,
       "inputs": [
         {
@@ -7023,7 +7023,8 @@
           "name": "",
           "type": "STRING",
           "links": [
-            891
+            891,
+            1026
           ],
           "slot_index": 0
         }
@@ -7049,7 +7050,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 174,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -7093,7 +7094,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 179,
+      "order": 177,
       "mode": 0,
       "inputs": [
         {
@@ -7123,151 +7124,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 420,
-      "type": "UltimateSDUpscale",
-      "pos": [
-        3712.001953125,
-        3089.4931640625
-      ],
-      "size": [
-        315,
-        690
-      ],
-      "flags": {},
-      "order": 227,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 758
-        },
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 782
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 780
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 781
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 783
-        },
-        {
-          "name": "upscale_model",
-          "type": "UPSCALE_MODEL",
-          "link": 767
-        },
-        {
-          "name": "upscale_by",
-          "type": "FLOAT",
-          "pos": [
-            10,
-            136
-          ],
-          "widget": {
-            "name": "upscale_by"
-          },
-          "link": 768
-        },
-        {
-          "name": "steps",
-          "type": "INT",
-          "pos": [
-            10,
-            184
-          ],
-          "widget": {
-            "name": "steps"
-          },
-          "link": 784
-        },
-        {
-          "name": "sampler_name",
-          "type": "COMBO",
-          "pos": [
-            10,
-            232
-          ],
-          "widget": {
-            "name": "sampler_name"
-          },
-          "link": 770
-        },
-        {
-          "name": "scheduler",
-          "type": "COMBO",
-          "pos": [
-            10,
-            256
-          ],
-          "widget": {
-            "name": "scheduler"
-          },
-          "link": 771
-        },
-        {
-          "name": "seed",
-          "type": "INT",
-          "pos": [
-            10,
-            160
-          ],
-          "widget": {
-            "name": "seed"
-          },
-          "link": 772
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            773,
-            776
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui_ultimatesdupscale",
-        "ver": "ff3fdfeee03de46d4462211cffd165d27155e858",
-        "Node name for S&R": "UltimateSDUpscale"
-      },
-      "widgets_values": [
-        2,
-        1050223216168156,
-        "randomize",
-        20,
-        1,
-        "ipndm",
-        "ddim_uniform",
-        0.2,
-        "Linear",
-        768,
-        576,
-        8,
-        32,
-        "None",
-        1,
-        64,
-        8,
-        16,
-        true,
-        false
-      ]
-    },
-    {
       "id": 490,
       "type": "Save Text File",
       "pos": [
@@ -7281,7 +7137,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 211,
+      "order": 218,
       "mode": 4,
       "inputs": [
         {
@@ -7414,7 +7270,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 230,
+      "order": 238,
       "mode": 4,
       "inputs": [
         {
@@ -7521,7 +7377,7 @@
         500
       ],
       "flags": {},
-      "order": 79,
+      "order": 80,
       "mode": 4,
       "inputs": [
         {
@@ -7619,7 +7475,7 @@
         26
       ],
       "flags": {},
-      "order": 139,
+      "order": 140,
       "mode": 0,
       "inputs": [
         {
@@ -7744,7 +7600,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 160,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -7783,43 +7639,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 445,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -4476.71630859375,
-        807.8278198242188
-      ],
-      "size": [
-        1233.6463623046875,
-        462.3016662597656
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 118,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 821
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "好的，我现在需要处理用户提供的主题“高清桌面壁纸，一拳超人中战裂的龙卷”。首先，按照工作流程，生成一个英文标题，最多三个单词，用下划线分隔。用户提到“一拳超人”中的角色“战栗的龙卷”，所以标题应该是Tatsumaki_Desktop_Wallpaper。\n\n接下来是扩展场景内容，生成英文提示词。根据用户的要求，需要包含环境、场景、拍摄视角、人物特征等。首先，角色是龙卷，来自《一拳超人》，所以需要注明她的出处。人物特征包括绿色卷发、哥特式连衣裙、纤细身材、悬浮姿势。动作方面，她正在使用超能力，周围有能量漩涡和碎片。环境方面，需要破坏的城市景观，倒塌的摩天大楼、裂缝的地面、飞扬的瓦砾。拍摄视角选用低角度（Low Angle），以增强她的威严感。场景细节需要动态的天气效果，如闪电和风暴云，霓虹色能量光环，赛博朋克元素如全息广告和飞行汽车。画面风格要详细，比如超详细的纹理、动态照明、鲜艳的对比色。风格方面，用户提供的列表中有“anime”，所以选择anime作为画面风格。\n\n然后翻译成中文，确保所有元素都准确对应，比如“green curly hair”翻译为“翠绿色卷发”，“Gothic-style dress”是“哥特式连衣裙”等。同时注意保持描述的连贯性和丰富性，比如“neon-colored energy aura”对应“霓虹色能量光环”，“cyberpunk elements”翻译为“赛博朋克元素”。\n\n最后检查是否遵守所有规则：仅用英文和中文，没有多余格式，分段正确，风格选择正确。确认没有使用hashtag或markdown，输出符合示例格式。确保所有提示词在150-180个词左右，覆盖主体、环境、视角、人物细节等。现在整合所有部分，形成最终输出。"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 402,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -7834,7 +7653,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 157,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -7871,7 +7690,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 170,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -7943,78 +7762,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 384,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4339.6640625,
-        -160.04782104492188
-      ],
-      "size": [
-        428.7169189453125,
-        368.8460998535156
-      ],
-      "flags": {},
-      "order": 186,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 888
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 382,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4337.44384765625,
-        -384.21026611328125
-      ],
-      "size": [
-        434.6526794433594,
-        183.7159881591797
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 166,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 706
-        }
-      ],
-      "outputs": [],
-      "title": "图片内容",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 136,
       "type": "PrimitiveNode",
       "pos": [
@@ -8064,7 +7811,7 @@
         170
       ],
       "flags": {},
-      "order": 105,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -8133,7 +7880,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 161,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -8171,7 +7918,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 155,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -8245,7 +7992,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
@@ -8285,7 +8032,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 130,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -8326,7 +8073,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 83,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -8397,7 +8144,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 102,
       "mode": 4,
       "inputs": [
         {
@@ -8446,7 +8193,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -8502,68 +8249,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 442,
-      "type": "Evaluate Strings",
-      "pos": [
-        -4430.75,
-        753.532958984375
-      ],
-      "size": [
-        302.5815734863281,
-        174
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 85,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 806
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": 807
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            808
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b + c",
-        "False",
-        "Hello",
-        "我的主题是：",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 521,
       "type": "CR Split String",
       "pos": [
@@ -8578,7 +8263,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 152,
+      "order": 150,
       "mode": 0,
       "inputs": [
         {
@@ -8757,7 +8442,7 @@
         170
       ],
       "flags": {},
-      "order": 117,
+      "order": 119,
       "mode": 4,
       "inputs": [
         {
@@ -8825,7 +8510,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -8886,7 +8571,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 114,
       "mode": 4,
       "inputs": [
         {
@@ -8958,7 +8643,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -8976,7 +8661,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Tatsumaki_Desktop_Wallpaper\n---\nBird's Eye View, Tatsumaki from One-Punch Man, green curly hair flowing with psychic energy, intense glowing green eyes, pale porcelain skin, Gothic-style dress with black lace details, levitating pose with outstretched hands, swirling vortex of telekinetic power, dynamic wind effects lifting debris and concrete chunks, destroyed urban battlefield with cracked skyscrapers and overturned vehicles, massive energy tornado connecting earth to stormy clouds, lightning strikes illuminating the scene, neon-colored psychic aura radiating from body, floating rubble frozen mid-air, hyper-detailed fabric textures on billowing dress, reflective glass shards swirling around figure, perspective distortion showing curvature of psychic storm, cyberpunk-style holographic damage indicators floating in air, chromatic aberration effects, cinematic depth of field with bokeh light particles, ultra-high contrast between emerald energy and dark apocalyptic skyline, dramatic shadows cast through atmospheric dust, glowing cracks spreading across ground surface, flying military drones disintegrating at tornado's edge\n---\n鸟瞰视角，来自《一拳超人》的战栗的龙卷，翠绿色卷发随念动力飘动，散发强烈绿光的双眸，陶瓷般白皙肌肤，哥特风格黑色蕾丝装饰连衣裙，悬浮姿势双手伸展，旋转的念力漩涡，动态风力效果扬起碎石混凝土块，被摧毁的都市战场布满龟裂摩天楼和翻覆车辆，连接地面与雷云的能量龙卷风，闪电照亮场景，身体辐射霓虹色念力光晕，悬浮空中的碎石定格瞬间，飘扬裙摆的超精细布料纹理，环绕人物的反光玻璃碎片，透视畸变展现能量风暴的弧度，赛博朋克风格全息损伤指示器悬浮空中，色差特效，电影级景深配合光斑粒子，翡翠色能量与末日暗色天际线的极致对比，穿透大气尘埃的戏剧性阴影，地面蔓延的发光裂痕，军用无人机在龙卷边缘崩解\n---\nanime"
+        "Tatsumaki_Desktop_Wallpaper  \n---  \nLow Angle, Tatsumaki from One-Punch Man, flowing neon-green hair, dynamic swirling psychic energy, destroyed cityscape background, floating debris and shattered concrete, glowing eyes with intense focus, black dress with torn edges, levitating pose, swirling tornado effects, cracked ground beneath, energy particles radiating outward, stormy skies with lightning flashes, high-contrast lighting, cinematic depth of field, hyper-detailed textures, anime-style shading, holographic energy rings, wind-blown fabric movement, dramatic shadows, perspective distortion emphasizing power, wide aspect ratio composition, vibrant emerald and electric purple color palette, cinematic rim lighting, motion blur on debris, sharp linework, ultra-high resolution, wallpaper-optimized symmetry, glowing aura effects, atmospheric dust particles  \n---  \n低角度镜头，《一拳超人》中的战栗龙卷，流动的霓虹绿发丝，动态旋转的超能力能量场，背景为被摧毁的城市景观，漂浮的瓦砾与碎裂混凝土，发光瞳孔中凝聚强烈专注力，黑色连衣裙边缘破损，悬浮姿态，环绕的龙卷风特效，地面龟裂痕迹，向外辐射的能量粒子，闪电划过的暴风云层，高对比度光照，电影级景深，超精细纹理，动漫风格着色，全息能量环，布料随风飘动效果，戏剧性阴影，透视变形强化力量感，宽幅构图，鲜艳的翡翠绿与电光紫配色，电影级轮廓光，碎片上的动态模糊，锐利线条，超高分辨率，壁纸专用对称设计，发光光晕特效，悬浮尘埃氛围  \n---  \nanime"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -9253,7 +8938,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -9302,7 +8987,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 108,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -9395,7 +9080,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -9506,7 +9191,7 @@
         82
       ],
       "flags": {},
-      "order": 217,
+      "order": 225,
       "mode": 0,
       "inputs": [
         {
@@ -9539,7 +9224,7 @@
         82
       ],
       "flags": {},
-      "order": 109,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -9574,7 +9259,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 120,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -9636,7 +9321,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 134,
+      "order": 135,
       "mode": 4,
       "inputs": [
         {
@@ -9728,7 +9413,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
@@ -9772,7 +9457,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 148,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -9851,52 +9536,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4124.3583984375,
-        1408.1083984375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 52,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            951
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 106,
       "type": "LoadImage",
       "pos": [
@@ -9908,7 +9547,7 @@
         314
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9953,7 +9592,7 @@
         314
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9995,7 +9634,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 86,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -10057,7 +9696,7 @@
         82
       ],
       "flags": {},
-      "order": 229,
+      "order": 237,
       "mode": 4,
       "inputs": [
         {
@@ -10082,15 +9721,15 @@
       "id": 557,
       "type": "KSampler",
       "pos": [
-        4509.57861328125,
-        4582.62744140625
+        5469.556640625,
+        4532.03125
       ],
       "size": [
         315,
         262
       ],
       "flags": {},
-      "order": 141,
+      "order": 211,
       "mode": 4,
       "inputs": [
         {
@@ -10131,7 +9770,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        78242860193997,
+        945926289526222,
         "randomize",
         20,
         6,
@@ -10144,15 +9783,15 @@
       "id": 561,
       "type": "LayerUtility: PurgeVRAM",
       "pos": [
-        4923.80126953125,
-        4393.443359375
+        5883.779296875,
+        4342.84716796875
       ],
       "size": [
         315,
         82
       ],
       "flags": {},
-      "order": 147,
+      "order": 217,
       "mode": 4,
       "inputs": [
         {
@@ -10177,8 +9816,8 @@
       "id": 550,
       "type": "CLIPVisionEncode",
       "pos": [
-        3578.124755859375,
-        4773.662109375
+        4538.10302734375,
+        4723.06591796875
       ],
       "size": [
         253.60000610351562,
@@ -10232,7 +9871,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 207,
+      "order": 212,
       "mode": 4,
       "inputs": [
         {
@@ -10293,7 +9932,7 @@
         26
       ],
       "flags": {},
-      "order": 203,
+      "order": 207,
       "mode": 4,
       "inputs": [
         {
@@ -10328,15 +9967,15 @@
       "id": 564,
       "type": "Reroute",
       "pos": [
-        4763.2373046875,
-        4263.67333984375
+        5723.21533203125,
+        4213.0771484375
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 204,
+      "order": 208,
       "mode": 4,
       "inputs": [
         {
@@ -10367,124 +10006,11 @@
       }
     },
     {
-      "id": 565,
-      "type": "Evaluate Strings",
-      "pos": [
-        5079.9169921875,
-        4326.53125
-      ],
-      "size": [
-        315,
-        174
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 208,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "pos": [
-            10,
-            84
-          ],
-          "widget": {
-            "name": "a"
-          },
-          "link": 990
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "pos": [
-            10,
-            132
-          ],
-          "widget": {
-            "name": "c"
-          },
-          "link": 993
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            992
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "c + \"/\" + a + \"_\" + b ",
-        "False",
-        "Hello",
-        "video",
-        "!"
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159",
-      "shape": 1
-    },
-    {
-      "id": 559,
-      "type": "VAEDecode",
-      "pos": [
-        4920.86279296875,
-        4582.31396484375
-      ],
-      "size": [
-        210,
-        46
-      ],
-      "flags": {},
-      "order": 146,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 973
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 974
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            988
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "VAEDecode"
-      },
-      "widgets_values": []
-    },
-    {
       "id": 566,
       "type": "String",
       "pos": [
-        4748.1982421875,
-        4338.7255859375
+        5708.17626953125,
+        4288.12939453125
       ],
       "size": [
         561.4890747070312,
@@ -10493,7 +10019,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 55,
+      "order": 54,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10525,15 +10051,15 @@
       "id": 555,
       "type": "CLIPTextEncode",
       "pos": [
-        3294.60302734375,
-        4534.45263671875
+        4254.5810546875,
+        4483.8564453125
       ],
       "size": [
         425.27801513671875,
         180.6060791015625
       ],
       "flags": {},
-      "order": 89,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -10569,50 +10095,11 @@
       "bgcolor": "#533"
     },
     {
-      "id": 573,
-      "type": "Reroute",
-      "pos": [
-        4305.8759765625,
-        4236.81982421875
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 91,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "widget": {
-            "name": "value"
-          },
-          "link": 1005
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "FLOAT",
-          "links": [
-            1004
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 576,
       "type": "CR Float To Integer",
       "pos": [
-        3551.809326171875,
-        5042.41796875
+        4511.78759765625,
+        4991.82177734375
       ],
       "size": [
         315,
@@ -10666,8 +10153,8 @@
       "id": 577,
       "type": "easy mathInt",
       "pos": [
-        3583.761962890625,
-        5095.60400390625
+        4543.740234375,
+        5045.0078125
       ],
       "size": [
         315,
@@ -10676,7 +10163,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 111,
       "mode": 4,
       "inputs": [
         {
@@ -10731,8 +10218,8 @@
       "id": 578,
       "type": "easy mathInt",
       "pos": [
-        3733.451171875,
-        5095.52001953125
+        4693.42919921875,
+        5044.923828125
       ],
       "size": [
         315,
@@ -10741,7 +10228,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -10784,15 +10271,15 @@
       "id": 548,
       "type": "CLIPVisionLoader",
       "pos": [
-        3225.6591796875,
-        4774.3955078125
+        4185.63720703125,
+        4723.79931640625
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10818,15 +10305,15 @@
       "id": 560,
       "type": "Reroute",
       "pos": [
-        4099.001953125,
-        4603.88916015625
+        5058.97998046875,
+        4553.29296875
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 90,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -10851,54 +10338,18 @@
       }
     },
     {
-      "id": 574,
-      "type": "Int",
-      "pos": [
-        2812.29150390625,
-        4325.01318359375
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 57,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            1010
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "视频长度",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
-      },
-      "widgets_values": [
-        "2"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 553,
       "type": "CLIPLoader",
       "pos": [
-        2799.210205078125,
-        4849.41748046875
+        3759.1884765625,
+        4798.8212890625
       ],
       "size": [
         390,
         98
       ],
       "flags": {},
-      "order": 58,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10927,15 +10378,15 @@
       "id": 552,
       "type": "UNETLoader",
       "pos": [
-        2816.167724609375,
-        4721.67236328125
+        3776.14599609375,
+        4671.076171875
       ],
       "size": [
         346.7470703125,
         82
       ],
       "flags": {},
-      "order": 59,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10959,54 +10410,18 @@
       ]
     },
     {
-      "id": 558,
-      "type": "VAELoader",
-      "pos": [
-        3546.663818359375,
-        5172.99365234375
-      ],
-      "size": [
-        306.36004638671875,
-        58
-      ],
-      "flags": {},
-      "order": 60,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "VAE",
-          "type": "VAE",
-          "links": [
-            974,
-            989,
-            1012
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "VAELoader"
-      },
-      "widgets_values": [
-        "wan_2.1_vae.safetensors"
-      ]
-    },
-    {
       "id": 551,
       "type": "WanImageToVideo",
       "pos": [
-        3979.468017578125,
-        4765.1884765625
+        4939.44580078125,
+        4714.59228515625
       ],
       "size": [
         342.5999755859375,
         270
       ],
       "flags": {},
-      "order": 133,
+      "order": 204,
       "mode": 4,
       "inputs": [
         {
@@ -11115,15 +10530,15 @@
       "id": 579,
       "type": "Int",
       "pos": [
-        2819.537353515625,
-        4455.67041015625
+        3779.515625,
+        4405.07421875
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 61,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11142,7 +10557,7 @@
         "Node name for S&R": "Int"
       },
       "widgets_values": [
-        "512"
+        "832"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -11151,15 +10566,15 @@
       "id": 580,
       "type": "Int",
       "pos": [
-        2819.537353515625,
-        4565.66796875
+        3779.515625,
+        4515.07177734375
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 62,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11178,7 +10593,663 @@
         "Node name for S&R": "Int"
       },
       "widgets_values": [
-        "512"
+        "480"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 559,
+      "type": "VAEDecode",
+      "pos": [
+        5880.8408203125,
+        4531.7177734375
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {},
+      "order": 216,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 973
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 974
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            988,
+            1015
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 573,
+      "type": "Reroute",
+      "pos": [
+        5265.85400390625,
+        4186.2236328125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 91,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1005
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "FLOAT",
+          "links": [
+            1004,
+            1016
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 565,
+      "type": "Evaluate Strings",
+      "pos": [
+        6039.89501953125,
+        4275.93505859375
+      ],
+      "size": [
+        315,
+        174
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 213,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            84
+          ],
+          "widget": {
+            "name": "a"
+          },
+          "link": 990
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            132
+          ],
+          "widget": {
+            "name": "c"
+          },
+          "link": 993
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            992,
+            1017
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "c + \"/\" + a + \"_\" + b ",
+        "False",
+        "Hello",
+        "video",
+        "!"
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159",
+      "shape": 1
+    },
+    {
+      "id": 558,
+      "type": "VAELoader",
+      "pos": [
+        4506.64208984375,
+        5122.3974609375
+      ],
+      "size": [
+        306.36004638671875,
+        58
+      ],
+      "flags": {},
+      "order": 60,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "links": [
+            974,
+            989,
+            1012,
+            1018
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "wan_2.1_vae.safetensors"
+      ]
+    },
+    {
+      "id": 581,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        6375.56787109375,
+        4478.75
+      ],
+      "size": [
+        510.8055419921875,
+        278
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 223,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1015
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1018
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "pos": [
+            10,
+            144
+          ],
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1017
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT",
+          "pos": [
+            10,
+            96
+          ],
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1016
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "124c913ccdd8a585734ea758c35fa1bab8499c99",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "hunyuan",
+        "format": "image/gif",
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.gif",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "image/gif",
+            "frame_rate": 24,
+            "workflow": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.gif"
+          },
+          "muted": false
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 445,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -4476.71630859375,
+        807.8278198242188
+      ],
+      "size": [
+        1233.6463623046875,
+        462.3016662597656
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 120,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 821
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "嗯，用户让我生成一个关于“高清桌面壁纸，一拳超人中战栗的龙卷”的提示词。首先，我需要明确用户的需求。他们想要的是适合作为桌面壁纸的高质量图像，主题是《一拳超人》中的龙卷，也就是Tatsumaki。\n\n接下来，按照流程，我需要生成标题。根据规则，标题用英文单词，最多三个，用下划线分隔。所以可能用Tatsumaki_Desktop_Wallpaper。这样简洁明了，也符合壁纸的主题。\n\n然后，扩展场景内容。用户提到使用黑森林实验室的Flux模型，可能需要考虑模型的特性，比如是否适合动漫风格。但用户已经指定了模型，所以我需要确保提示词符合该模型的要求。不过根据例子，可能不需要特别调整，只要按照常规的提示词生成即可。\n\n接下来，提示词需要包含环境、场景、拍摄视角、人物特征等。龙卷的特征是绿色卷发，黑色连衣裙，高跟靴子，还有她的超能力。环境方面，可能需要一个被摧毁的城市，漂浮的瓦砾，能量漩涡，闪电等动态元素。视角方面，低角度（Low Angle）可以突出她的威严和力量，同时增强视觉冲击力，适合壁纸。\n\n画面风格方面，用户提供的选项中，可能选anime，因为《一拳超人》本身就是动漫。但例子中用了game-retro game，但这里更合适的是动漫风格，所以选anime。\n\n然后要详细描述周围场景，比如被摧毁的摩天大楼，能量漩涡，闪电，漂浮的瓦砾，风暴云，绿色能量光环，破碎的混凝土，扭曲的金属，飞扬的碎片，深紫和蓝的色调，动态照明，超现实光影，高对比度，锐利的细节，流动的能量轨迹，速度线，戏剧性构图，强大气场，适合宽屏显示，4K分辨率，干净的背景元素，焦点集中在她身上，适合桌面使用。\n\n人物特征方面，要包括她的外貌：娇小身材，绿色卷发，锐利的眼睛，黑色连衣裙，高跟靴子，发光的绿色能量，漂浮姿势，自信的表情，风的效果，头发和衣服的动态飘动，强调力量和优雅的结合。\n\n需要检查是否有著名角色，这里龙卷来自《一拳超人》，必须注明出处。所以提示词里要写Tatsumaki from One-Punch Man。\n\n最后，确保提示词符合所有规则：英文短语，不分段，无markdown，风格选anime。翻译成中文时也要准确，保持相同的细节。检查是否遗漏任何元素，比如视角、环境、人物细节等，确保所有要求都被满足。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 442,
+      "type": "Evaluate Strings",
+      "pos": [
+        -4430.75,
+        753.532958984375
+      ],
+      "size": [
+        302.5815734863281,
+        174
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 86,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 806
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 807
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            808
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的主题是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 382,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4337.44384765625,
+        -384.21026611328125
+      ],
+      "size": [
+        434.6526794433594,
+        183.7159881591797
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 164,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 706
+        }
+      ],
+      "outputs": [],
+      "title": "图片内容",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 384,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4339.6640625,
+        -160.04782104492188
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {},
+      "order": 184,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 888
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 420,
+      "type": "UltimateSDUpscale",
+      "pos": [
+        3712.001953125,
+        3089.4931640625
+      ],
+      "size": [
+        315,
+        690
+      ],
+      "flags": {},
+      "order": 235,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 758
+        },
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 782
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 780
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 781
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 783
+        },
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 767
+        },
+        {
+          "name": "upscale_by",
+          "type": "FLOAT",
+          "pos": [
+            10,
+            136
+          ],
+          "widget": {
+            "name": "upscale_by"
+          },
+          "link": 768
+        },
+        {
+          "name": "steps",
+          "type": "INT",
+          "pos": [
+            10,
+            184
+          ],
+          "widget": {
+            "name": "steps"
+          },
+          "link": 784
+        },
+        {
+          "name": "sampler_name",
+          "type": "COMBO",
+          "pos": [
+            10,
+            232
+          ],
+          "widget": {
+            "name": "sampler_name"
+          },
+          "link": 770
+        },
+        {
+          "name": "scheduler",
+          "type": "COMBO",
+          "pos": [
+            10,
+            256
+          ],
+          "widget": {
+            "name": "scheduler"
+          },
+          "link": 771
+        },
+        {
+          "name": "seed",
+          "type": "INT",
+          "pos": [
+            10,
+            160
+          ],
+          "widget": {
+            "name": "seed"
+          },
+          "link": 772
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            773,
+            776
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui_ultimatesdupscale",
+        "ver": "ff3fdfeee03de46d4462211cffd165d27155e858",
+        "Node name for S&R": "UltimateSDUpscale"
+      },
+      "widgets_values": [
+        2,
+        685333030831122,
+        "randomize",
+        20,
+        1,
+        "ipndm",
+        "ddim_uniform",
+        0.2,
+        "Linear",
+        768,
+        576,
+        8,
+        32,
+        "None",
+        1,
+        64,
+        8,
+        16,
+        true,
+        false
+      ]
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4124.3583984375,
+        1408.1083984375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 61,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            951
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "cute girl",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -11187,15 +11258,15 @@
       "id": 572,
       "type": "Float",
       "pos": [
-        2810.72021484375,
-        4226.17333984375
+        3770.69873046875,
+        4175.5771484375
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 63,
+      "order": 62,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11221,20 +11292,190 @@
       "bgcolor": "#353"
     },
     {
+      "id": 556,
+      "type": "CLIPTextEncode",
+      "pos": [
+        4256.84912109375,
+        4410.798828125
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 200,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 986
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "pos": [
+            10,
+            36
+          ],
+          "widget": {
+            "name": "text"
+          },
+          "link": 1027
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            979
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "美女跳舞",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 584,
+      "type": "DeepseekReasonerNode",
+      "pos": [
+        3223.660888671875,
+        5785.7353515625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 193,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "pos": [
+            10,
+            56
+          ],
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 1019
+        }
+      ],
+      "outputs": [
+        {
+          "name": "reasoning",
+          "type": "STRING",
+          "links": [
+            1021
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "answer",
+          "type": "STRING",
+          "links": [
+            1020,
+            1027
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
+        "Node name for S&R": "DeepseekReasonerNode"
+      },
+      "widgets_values": [
+        "",
+        true,
+        1,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 549,
+      "type": "LoadImage",
+      "pos": [
+        2762.622314453125,
+        4184.09619140625
+      ],
+      "size": [
+        885.3557739257812,
+        792.4426879882812
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            969,
+            971
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Tatsumaki_Desktop_Wallpaper_1036724031167633_low_0001.png",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 562,
       "type": "VHS_VideoCombine",
       "pos": [
-        5264.41064453125,
-        4591.5283203125
+        6022.57177734375,
+        4703.49365234375
       ],
       "size": [
         510.8055419921875,
-        878.8055419921875
+        374
       ],
       "flags": {
         "collapsed": false
       },
-      "order": 212,
+      "order": 222,
       "mode": 4,
       "inputs": [
         {
@@ -11312,13 +11553,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Colorful_Juice_Drips_493680724734047_video_00001.mp4",
+            "filename": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.mp4",
             "subfolder": "wan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Colorful_Juice_Drips_493680724734047_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_493680724734047_video_00001.mp4"
+            "workflow": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.mp4"
           },
           "muted": false
         }
@@ -11327,95 +11568,362 @@
       "bgcolor": "#000"
     },
     {
-      "id": 549,
-      "type": "LoadImage",
+      "id": 586,
+      "type": "Display Any (rgthree)",
       "pos": [
-        2795.191650390625,
-        4993.39501953125
+        4577.9951171875,
+        5290.9345703125
       ],
       "size": [
-        477.42425537109375,
-        535.2120361328125
+        688.2203979492188,
+        438.680908203125
       ],
-      "flags": {},
+      "flags": {
+        "collapsed": false
+      },
+      "order": 198,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1021
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "好的，我现在需要处理用户提供的图像提示词，并按照之前的规则和例子生成视频内容的提示词。首先，我需要仔细阅读用户给的输入，确保理解每一个部分。用户给的输入是关于一个动漫风格的Tatsumaki，来自《一拳超人》的角色，有很多细节描述，比如流动的霓虹绿头发、动态旋转的精神能量、被摧毁的城市背景等等。\n\n接下来，我要按照用户定义的规则来分解这些内容。规则中提到，视频提示词需要包含运镜描述、主体描述、场景描述、运动描述、镜头语言、氛围词和风格化。我需要确保每个部分都被覆盖，同时避免使用无关的格式或标签。\n\n首先，运镜描述。用户例子中的运镜是从满屏的屏风开始向左平移，露出后面的主体。我需要根据输入中的元素，比如低角度（Low Angle）、动态效果等，设计合适的镜头运动。可能用低角度开始，镜头缓慢推进，突出角色的悬浮姿态和周围旋转的能量。\n\n主体描述包括Tatsumaki的外貌特征：霓虹绿头发、黑色撕裂边缘的连衣裙、发光的眼睛等。这部分需要简明扼要地列出，保持形容词和短句。\n\n场景描述是被摧毁的城市景观，漂浮的碎片、破碎的混凝土、风暴天空和闪电。需要将这些元素组织成连贯的场景描述，可能强调破碎的背景和天气效果。\n\n运动描述方面，输入中提到动态旋转的精神能量、碎片悬浮、能量粒子辐射等。需要描述这些运动的幅度和速率，比如能量剧烈旋转，碎片缓慢漂浮，粒子向外辐射。\n\n镜头语言部分包括低角度、景别（可能是全景或中景）、镜头类型（比如动态镜头）、运镜方式（推进、旋转）等。需要结合用户提到的视角和效果，如景深、透视扭曲等。\n\n氛围词方面，用户提到了戏剧性的阴影、高对比度照明、电影级的光效，所以氛围应该是紧张、充满力量、充满动感。\n\n风格化是动漫风格，特别是工作室动画，高细节，鲜艳色彩。需要明确指出这些风格元素。\n\n现在需要将所有这些元素整合成一个连贯的提示词，按照例子中的结构，以中文呈现，不使用任何markdown格式，不分段，不加标题或标签。需要确保每个部分都涵盖，但不要重复或冗余。同时注意运镜的时间控制在5秒内，不过于复杂。\n\n检查是否有遗漏的部分，比如悬浮的姿势、龙卷风效果、地面裂缝等，这些需要包含在场景或主体描述中。另外，颜色调色板如翡翠绿和电紫色可能需要融入氛围或风格化部分。\n\n最后，确保输出符合用户的所有规则，特别是不要有无关的词语，保持纯文本，结构紧凑。参考之前的例子，确保句子流畅，各部分自然衔接。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 585,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        5299.8564453125,
+        5164.19775390625
+      ],
+      "size": [
+        680.6343383789062,
+        437.22064208984375
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 199,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1020
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "镜头从低角度缓慢推进，聚焦悬浮在空中的战栗龙卷，霓虹绿发丝在能量漩涡中剧烈飘动，黑色裙摆边缘的撕裂布料被飓风拉扯，环绕周身的荧光紫精神能量形成螺旋形冲击波，破碎的混凝土块以慢速0.5倍速绕体旋转，地面辐射状裂纹中迸发翡翠色光粒，俯视视角展现后方倾斜的摩天楼群废墟，镜头伴随下坠的钢筋残骸做环绕运镜，闪电划破铅灰色云层时切换动态模糊，赛博朋克色调的霓虹光晕在角色轮廓形成高光镶边，超广角构图强化空间纵深感，能量粒子以运动轨迹线形式向外扩散，4K动画电影级渲染配合水墨质感的光效处理"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 582,
+      "type": "String",
+      "pos": [
+        2772.996337890625,
+        5102.8623046875
+      ],
+      "size": [
+        876.6028442382812,
+        602.5018920898438
+      ],
+      "flags": {
+        "collapsed": false
+      },
       "order": 64,
       "mode": 4,
       "inputs": [],
       "outputs": [
         {
-          "name": "IMAGE",
-          "type": "IMAGE",
+          "name": "STRING",
+          "type": "STRING",
           "links": [
-            969,
-            971
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "flux_dev_example.png",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 556,
-      "type": "CLIPTextEncode",
-      "pos": [
-        3277.543701171875,
-        4215.51806640625
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {},
-      "order": 88,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 986
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            979
+            1028
           ],
           "slot_index": 0
         }
       ],
-      "title": "CLIP Text Encode (Positive Prompt)",
+      "title": "模板",
       "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "CLIPTextEncode"
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
       },
       "widgets_values": [
-        "美女跳舞",
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜。\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
         [
           false,
           true
         ]
       ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 574,
+      "type": "Int",
+      "pos": [
+        3772.27001953125,
+        4274.4169921875
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1010,
+            1029
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "视频长度",
+      "properties": {
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Int"
+      },
+      "widgets_values": [
+        "2"
+      ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 590,
+      "type": "Text Find and Replace",
+      "pos": [
+        3687.12841796875,
+        5197.4482421875
+      ],
+      "size": [
+        317.4000244140625,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 112,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "pos": [
+            10,
+            96
+          ],
+          "widget": {
+            "name": "text"
+          },
+          "link": 1028
+        },
+        {
+          "name": "replace",
+          "type": "STRING",
+          "pos": [
+            10,
+            144
+          ],
+          "widget": {
+            "name": "replace"
+          },
+          "link": 1030
+        }
+      ],
+      "outputs": [
+        {
+          "name": "result_text",
+          "type": "STRING",
+          "links": [
+            1031
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "replacement_count_number",
+          "type": "NUMBER",
+          "links": null
+        },
+        {
+          "name": "replacement_count_float",
+          "type": "FLOAT",
+          "links": null
+        },
+        {
+          "name": "replacement_count_int",
+          "type": "INT",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
+        "Node name for S&R": "Text Find and Replace"
+      },
+      "widgets_values": [
+        "",
+        "<length>",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 591,
+      "type": "CR Integer To String",
+      "pos": [
+        3687.12841796875,
+        5109.33203125
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 94,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "int_",
+          "type": "INT",
+          "pos": [
+            10,
+            56
+          ],
+          "widget": {
+            "name": "int_"
+          },
+          "link": 1029
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1030
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Integer To String"
+      },
+      "widgets_values": [
+        0
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 583,
+      "type": "Evaluate Strings",
+      "pos": [
+        3013.914794921875,
+        5786.1474609375
+      ],
+      "size": [
+        302.5815734863281,
+        174
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 186,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            84
+          ],
+          "widget": {
+            "name": "a"
+          },
+          "link": 1031
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            132
+          ],
+          "widget": {
+            "name": "c"
+          },
+          "link": 1026
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1019
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的图像提示词是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
     }
   ],
   "links": [
@@ -13770,6 +14278,110 @@
       551,
       7,
       "INT"
+    ],
+    [
+      1015,
+      559,
+      0,
+      581,
+      0,
+      "IMAGE"
+    ],
+    [
+      1016,
+      573,
+      0,
+      581,
+      5,
+      "FLOAT"
+    ],
+    [
+      1017,
+      565,
+      0,
+      581,
+      4,
+      "STRING"
+    ],
+    [
+      1018,
+      558,
+      0,
+      581,
+      3,
+      "VAE"
+    ],
+    [
+      1019,
+      583,
+      0,
+      584,
+      0,
+      "STRING"
+    ],
+    [
+      1020,
+      584,
+      1,
+      585,
+      0,
+      "*"
+    ],
+    [
+      1021,
+      584,
+      0,
+      586,
+      0,
+      "*"
+    ],
+    [
+      1026,
+      494,
+      0,
+      583,
+      1,
+      "STRING"
+    ],
+    [
+      1027,
+      584,
+      1,
+      556,
+      1,
+      "STRING"
+    ],
+    [
+      1028,
+      582,
+      0,
+      590,
+      0,
+      "STRING"
+    ],
+    [
+      1029,
+      574,
+      0,
+      591,
+      0,
+      "INT"
+    ],
+    [
+      1030,
+      591,
+      0,
+      590,
+      1,
+      "STRING"
+    ],
+    [
+      1031,
+      590,
+      0,
+      583,
+      0,
+      "STRING"
     ]
   ],
   "groups": [
@@ -13959,10 +14571,10 @@
       "id": 26,
       "title": "图像生成 05 - 图生视频",
       "bounding": [
-        2735.52294921875,
-        4128.97021484375,
-        3066.97314453125,
-        1425.9140625
+        2729.21923828125,
+        4101.97705078125,
+        3979.5986328125,
+        1725.544677734375
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -13972,10 +14584,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.2100000000000006,
+      "scale": 1.3310000000000004,
       "offset": [
-        2985.5492865994966,
-        -516.3835258897877
+        2854.5638781029265,
+        -272.47950090215636
       ]
     },
     "groupNodes": {},
