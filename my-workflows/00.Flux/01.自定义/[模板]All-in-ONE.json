@@ -145,6 +145,7 @@
         }
       ],
       "properties": {
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
@@ -263,6 +264,7 @@
         }
       ],
       "properties": {
+        "aux_id": "city96/ComfyUI-GGUF",
         "ver": "5875c52f59baca3a9372d68c43a3775e21846fe0",
         "Node name for S&R": "UnetLoaderGGUF"
       },
@@ -1131,6 +1133,7 @@
         }
       ],
       "properties": {
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
@@ -3746,6 +3749,7 @@
         }
       ],
       "properties": {
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
         "Node name for S&R": "ReduxAdvanced"
       },
@@ -3793,7 +3797,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Tatsumaki_Desktop_Wallpaper_1036724031167633_low"
+        "Elven_Archer_522390937263091_low"
       ]
     },
     {
@@ -4060,6 +4064,7 @@
         }
       ],
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR String To Combo"
       },
@@ -4243,7 +4248,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "",
+        "qwq:latest",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n>>>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n>>>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
         1744717106,
         "randomize",
@@ -4492,7 +4497,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        310199901773551,
+        940737866264122,
         "randomize",
         25,
         1,
@@ -4590,7 +4595,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        266331201726641,
+        126914304492481,
         "randomize",
         20,
         1,
@@ -4672,12 +4677,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_zrxyv_00001_.png&type=temp&subfolder=&rand=0.5894991924953112"
+            "url": "/api/view?filename=rgthree.compare._temp_ucfin_00001_.png&type=temp&subfolder=&rand=0.91587081000772"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_zrxyv_00002_.png&type=temp&subfolder=&rand=0.16471012899378712"
+            "url": "/api/view?filename=rgthree.compare._temp_ucfin_00002_.png&type=temp&subfolder=&rand=0.7935207665434263"
           }
         ]
       ],
@@ -4711,6 +4716,7 @@
       ],
       "title": "Steps",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -4909,7 +4915,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Fantasy_Maiden_Wallpaper_531536416661350_low_0001.png",
+        "Elven_Archer_522390937263091_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -5000,6 +5006,7 @@
       ],
       "title": "Upscale Steps",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -5173,7 +5180,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        490979600442349,
+        729277987775874,
         "randomize"
       ],
       "color": "#232",
@@ -5331,7 +5338,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -5767,6 +5774,7 @@
       ],
       "title": "开关",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -6004,7 +6012,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        807715561822850,
+        54097892487740,
         "randomize",
         40,
         1,
@@ -6302,6 +6310,7 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
@@ -6646,6 +6655,7 @@
       ],
       "title": "Height",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -6688,6 +6698,7 @@
       ],
       "title": "提示词 - 画质",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
@@ -6852,6 +6863,7 @@
         }
       ],
       "properties": {
+        "aux_id": "giriss/comfy-image-saver",
         "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
         "Node name for S&R": "String Literal"
       },
@@ -6936,6 +6948,7 @@
         }
       ],
       "properties": {
+        "aux_id": "giriss/comfy-image-saver",
         "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
         "Node name for S&R": "String Literal"
       },
@@ -7330,42 +7343,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 338,
-      "type": "Float",
-      "pos": [
-        3239.1728515625,
-        3341.550537109375
-      ],
-      "size": [
-        219.0121612548828,
-        58
-      ],
-      "flags": {},
-      "order": 36,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "4"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 487,
       "type": "easy humanSegmentation",
       "pos": [
@@ -7439,7 +7416,7 @@
         58
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7454,6 +7431,7 @@
       ],
       "title": "Width",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -7511,7 +7489,7 @@
         106
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7554,7 +7532,7 @@
         106
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7629,6 +7607,7 @@
       ],
       "title": "画面风格",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR String To Combo"
       },
@@ -7773,7 +7752,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7953,7 +7932,7 @@
         82
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8073,7 +8052,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 84,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -8193,7 +8172,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
+      "order": 92,
       "mode": 4,
       "inputs": [
         {
@@ -8224,6 +8203,7 @@
         }
       ],
       "properties": {
+        "aux_id": "yichengup/Comfyui-Deepseek",
         "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
         "Node name for S&R": "DeepseekAdvancedNode"
       },
@@ -8328,6 +8308,7 @@
         }
       ],
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
@@ -8350,7 +8331,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8371,6 +8352,7 @@
       ],
       "title": "提示词 - 美女(可选)",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
@@ -8383,118 +8365,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 43,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "eimiFukada,",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 459,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -574.1238403320312,
-        913.31884765625
-      ],
-      "size": [
-        352.2490539550781,
-        170
-      ],
-      "flags": {},
-      "order": 119,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 837
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 838
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            843
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            844
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\02_动漫\\01_动漫角色\\Tatsumaki_One_Punch_Man_FLUX.safetensors",
-          "image": "loras/01_Flux\\02_动漫\\01_动漫角色\\Tatsumaki_One_Punch_Man_FLUX.jpeg"
-        },
-        1,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 440,
@@ -8510,7 +8380,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 108,
+      "order": 111,
       "mode": 4,
       "inputs": [
         {
@@ -8542,6 +8412,7 @@
         }
       ],
       "properties": {
+        "aux_id": "yichengup/Comfyui-Deepseek",
         "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
         "Node name for S&R": "DeepseekReasonerNode"
       },
@@ -8619,6 +8490,7 @@
         }
       ],
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Split String"
       },
@@ -8643,7 +8515,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -8667,96 +8539,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 464,
-      "type": "CR Text",
-      "pos": [
-        -640.8151245117188,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 44,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            849
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "Tat$umaki",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -487.5561218261719
-      ],
-      "size": [
-        726.5386962890625,
-        225.73260498046875
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 45,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "高清桌面壁纸，一拳超人中战栗的龙卷",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 413,
       "type": "easy string",
       "pos": [
@@ -8771,7 +8553,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 46,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8811,7 +8593,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 47,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8828,6 +8610,7 @@
       ],
       "title": "模板",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
@@ -8855,7 +8638,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 48,
+      "order": 44,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8892,7 +8675,7 @@
         78
       ],
       "flags": {},
-      "order": 49,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8987,7 +8770,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -9038,7 +8821,7 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 50,
+      "order": 46,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9053,6 +8836,7 @@
       ],
       "title": "画面风格",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
@@ -9080,7 +8864,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -9149,7 +8933,7 @@
         314
       ],
       "flags": {},
-      "order": 51,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9224,7 +9008,7 @@
         82
       ],
       "flags": {},
-      "order": 110,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -9259,7 +9043,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 122,
+      "order": 120,
       "mode": 4,
       "inputs": [
         {
@@ -9522,6 +9306,7 @@
       ],
       "title": "图片Info",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text Input Switch (4 way)"
       },
@@ -9547,7 +9332,7 @@
         314
       ],
       "flags": {},
-      "order": 52,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9592,7 +9377,7 @@
         314
       ],
       "flags": {},
-      "order": 53,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9634,7 +9419,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 87,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -9770,7 +9555,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        945926289526222,
+        839371376437162,
         "randomize",
         20,
         6,
@@ -9824,7 +9609,7 @@
         78
       ],
       "flags": {},
-      "order": 93,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -10019,7 +9804,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 54,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10034,6 +9819,7 @@
       ],
       "title": "保存目录",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
@@ -10059,7 +9845,7 @@
         180.6060791015625
       ],
       "flags": {},
-      "order": 88,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -10108,7 +9894,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -10140,6 +9926,7 @@
         }
       ],
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Float To Integer"
       },
@@ -10163,7 +9950,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -10228,7 +10015,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -10279,7 +10066,7 @@
         58
       ],
       "flags": {},
-      "order": 55,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10313,7 +10100,7 @@
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -10349,7 +10136,7 @@
         98
       ],
       "flags": {},
-      "order": 56,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10386,7 +10173,7 @@
         82
       ],
       "flags": {},
-      "order": 57,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10538,7 +10325,7 @@
         58
       ],
       "flags": {},
-      "order": 58,
+      "order": 54,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10553,6 +10340,7 @@
       ],
       "title": "Width",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -10574,7 +10362,7 @@
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10589,6 +10377,7 @@
       ],
       "title": "Height",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -10654,7 +10443,7 @@
         26
       ],
       "flags": {},
-      "order": 91,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -10765,7 +10554,7 @@
         58
       ],
       "flags": {},
-      "order": 60,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10878,13 +10667,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.gif",
+            "filename": "Elven_Archer_136970220701950_video_00001.gif",
             "subfolder": "wan_video",
             "type": "output",
             "format": "image/gif",
             "frame_rate": 24,
-            "workflow": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Tatsumaki_Desktop_Wallpaper_257972532070023_video_00001.gif"
+            "workflow": "Elven_Archer_136970220701950_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Elven_Archer_136970220701950_video_00001.gif"
           },
           "muted": false
         }
@@ -10906,7 +10695,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 120,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -10943,7 +10732,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -11187,7 +10976,7 @@
       },
       "widgets_values": [
         2,
-        685333030831122,
+        451382383584268,
         "randomize",
         20,
         1,
@@ -11220,7 +11009,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 61,
+      "order": 57,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11241,6 +11030,7 @@
       ],
       "title": "提示词",
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Text"
       },
@@ -11266,7 +11056,7 @@
         58
       ],
       "flags": {},
-      "order": 62,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11282,6 +11072,7 @@
       ],
       "title": "帧率",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Float"
       },
@@ -11402,6 +11193,7 @@
         }
       ],
       "properties": {
+        "aux_id": "yichengup/Comfyui-Deepseek",
         "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
         "Node name for S&R": "DeepseekReasonerNode"
       },
@@ -11418,50 +11210,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 549,
-      "type": "LoadImage",
-      "pos": [
-        2762.622314453125,
-        4184.09619140625
-      ],
-      "size": [
-        885.3557739257812,
-        792.4426879882812
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            969,
-            971
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Tatsumaki_Desktop_Wallpaper_1036724031167633_low_0001.png",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 562,
       "type": "VHS_VideoCombine",
       "pos": [
@@ -11470,7 +11218,7 @@
       ],
       "size": [
         510.8055419921875,
-        374
+        671.1570434570312
       ],
       "flags": {
         "collapsed": false
@@ -11553,13 +11301,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.mp4",
+            "filename": "Elven_Archer_136970220701950_video_00002.mp4",
             "subfolder": "wan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Tatsumaki_Desktop_Wallpaper_257972532070023_video_00002.mp4"
+            "workflow": "Elven_Archer_136970220701950_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Elven_Archer_136970220701950_video_00002.mp4"
           },
           "muted": false
         }
@@ -11599,7 +11347,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "好的，我现在需要处理用户提供的图像提示词，并按照之前的规则和例子生成视频内容的提示词。首先，我需要仔细阅读用户给的输入，确保理解每一个部分。用户给的输入是关于一个动漫风格的Tatsumaki，来自《一拳超人》的角色，有很多细节描述，比如流动的霓虹绿头发、动态旋转的精神能量、被摧毁的城市背景等等。\n\n接下来，我要按照用户定义的规则来分解这些内容。规则中提到，视频提示词需要包含运镜描述、主体描述、场景描述、运动描述、镜头语言、氛围词和风格化。我需要确保每个部分都被覆盖，同时避免使用无关的格式或标签。\n\n首先，运镜描述。用户例子中的运镜是从满屏的屏风开始向左平移，露出后面的主体。我需要根据输入中的元素，比如低角度（Low Angle）、动态效果等，设计合适的镜头运动。可能用低角度开始，镜头缓慢推进，突出角色的悬浮姿态和周围旋转的能量。\n\n主体描述包括Tatsumaki的外貌特征：霓虹绿头发、黑色撕裂边缘的连衣裙、发光的眼睛等。这部分需要简明扼要地列出，保持形容词和短句。\n\n场景描述是被摧毁的城市景观，漂浮的碎片、破碎的混凝土、风暴天空和闪电。需要将这些元素组织成连贯的场景描述，可能强调破碎的背景和天气效果。\n\n运动描述方面，输入中提到动态旋转的精神能量、碎片悬浮、能量粒子辐射等。需要描述这些运动的幅度和速率，比如能量剧烈旋转，碎片缓慢漂浮，粒子向外辐射。\n\n镜头语言部分包括低角度、景别（可能是全景或中景）、镜头类型（比如动态镜头）、运镜方式（推进、旋转）等。需要结合用户提到的视角和效果，如景深、透视扭曲等。\n\n氛围词方面，用户提到了戏剧性的阴影、高对比度照明、电影级的光效，所以氛围应该是紧张、充满力量、充满动感。\n\n风格化是动漫风格，特别是工作室动画，高细节，鲜艳色彩。需要明确指出这些风格元素。\n\n现在需要将所有这些元素整合成一个连贯的提示词，按照例子中的结构，以中文呈现，不使用任何markdown格式，不分段，不加标题或标签。需要确保每个部分都涵盖，但不要重复或冗余。同时注意运镜的时间控制在5秒内，不过于复杂。\n\n检查是否有遗漏的部分，比如悬浮的姿势、龙卷风效果、地面裂缝等，这些需要包含在场景或主体描述中。另外，颜色调色板如翡翠绿和电紫色可能需要融入氛围或风格化部分。\n\n最后，确保输出符合用户的所有规则，特别是不要有无关的词语，保持纯文本，结构紧凑。参考之前的例子，确保句子流畅，各部分自然衔接。"
+        "好的，我现在需要处理用户提供的图像提示词，生成一个2秒视频内容的提示词。首先，我得仔细看看用户给的例子和规则，确保自己理解正确。\n\n用户给的例子是描述一个古风场景，镜头从左平移，展示屏风后的女孩。根据规则，提示词要包含运镜、主体、场景、运动、镜头语言、氛围和风格化，并且要避免多余的内容，比如标题、分段或hashtag。\n\n现在用户提供的输入是关于一个精灵弓箭手的奇幻场景，有很多细节，比如金色盔甲、神秘森林、发光植物等。我需要把这些元素拆解到各个部分中。\n\n首先确定运镜描述。因为是2秒视频，运镜需要简洁。例子中用了平移，这里可能需要另一个合适的运镜方式，比如缓慢推进或旋转，来展示主体和环境。\n\n主体描述包括精灵弓箭手的外貌特征：金色盔甲、银发、尖耳、长弓等。需要将这些用简短的形容词或短语列出。\n\n场景描述有神秘森林、古老树木、发光植物、薄雾、阳光穿透树冠等元素，需要整合进去。\n\n运动描述可能涉及弓箭手的动作，比如准备射箭的姿态，或者周围植物的轻微摇动。但用户例子中的运动描述是“慢慢平移”，所以这里可能需要更动态的动作，比如弓箭手拉弓或周围的光点飘动。\n\n镜头语言包括视角（比如高角度）、景别（可能是中景或全景）、镜头类型（比如IMAX70mm）以及运镜方式。\n\n氛围词已经有宏伟、空灵、梦幻等，需要保留。\n\n风格化方面，用户提到了赛博朋克等，但这里明显是奇幻风格，所以可能需要调整，但用户例子中用了电影风格，所以保持cinematic film style。\n\n接下来，整合这些元素，确保符合规则，比如时间控制在5秒内，但用户要求的是2秒，所以运镜要更简短。可能需要一个缓慢的推进镜头，突出主体的准备动作，同时展示周围环境的变化。\n\n检查是否有无关内容，比如不要用markdown，保持纯文本，不分段，不添加标题或标签。然后按照示例的结构，把各部分组合起来，用中文表达，确保流畅自然。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -11636,52 +11384,10 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "镜头从低角度缓慢推进，聚焦悬浮在空中的战栗龙卷，霓虹绿发丝在能量漩涡中剧烈飘动，黑色裙摆边缘的撕裂布料被飓风拉扯，环绕周身的荧光紫精神能量形成螺旋形冲击波，破碎的混凝土块以慢速0.5倍速绕体旋转，地面辐射状裂纹中迸发翡翠色光粒，俯视视角展现后方倾斜的摩天楼群废墟，镜头伴随下坠的钢筋残骸做环绕运镜，闪电划破铅灰色云层时切换动态模糊，赛博朋克色调的霓虹光晕在角色轮廓形成高光镶边，超广角构图强化空间纵深感，能量粒子以运动轨迹线形式向外扩散，4K动画电影级渲染配合水墨质感的光效处理"
+        "镜头从高角度缓缓推进，聚焦于身着繁复雕纹金色盔甲的精灵弓箭手，她银发在光雾中飘动，翡翠色瞳孔锐利凝视前方，双手持握长弓呈满弦待发状，周围荧光植物随气流动态摇曳，光束穿透古老树冠在铠甲表面形成流动光斑，神秘雾气在林间螺旋升腾，远处山脉轮廓笼罩在魔法光晕中，全景镜头搭配浅景深凸显空间层次，空灵圣洁与蓄势待发的张力并存，8K电影级质感配合IMAX70mm画幅呈现史诗奇幻美学"
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 582,
-      "type": "String",
-      "pos": [
-        2772.996337890625,
-        5102.8623046875
-      ],
-      "size": [
-        876.6028442382812,
-        602.5018920898438
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 64,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1028
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
-      },
-      "widgets_values": [
-        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜。\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 574,
@@ -11695,7 +11401,7 @@
         58
       ],
       "flags": {},
-      "order": 65,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11711,6 +11417,7 @@
       ],
       "title": "视频长度",
       "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "Int"
       },
@@ -11734,7 +11441,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -11814,7 +11521,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 94,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -11846,6 +11553,7 @@
         }
       ],
       "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
         "Node name for S&R": "CR Integer To String"
       },
@@ -11924,6 +11632,335 @@
       "color": "#223",
       "bgcolor": "#335",
       "shape": 1
+    },
+    {
+      "id": 549,
+      "type": "LoadImage",
+      "pos": [
+        2762.622314453125,
+        4184.09619140625
+      ],
+      "size": [
+        885.3557739257812,
+        792.4426879882812
+      ],
+      "flags": {},
+      "order": 60,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            969,
+            971
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Elven_Archer_599949819140763_high_0001.jpg",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -487.5561218261719
+      ],
+      "size": [
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 61,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "魔幻电影中的精灵族弓箭手，黄金铠甲配色，高贵的气质",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 62,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "eimiFukada,",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 459,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -574.1238403320312,
+        913.31884765625
+      ],
+      "size": [
+        352.2490539550781,
+        170
+      ],
+      "flags": {},
+      "order": 119,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 837
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 838
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            843
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            844
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\03_画面风格\\cinematic film IMAX70mm Filmstrip style v1.safetensors",
+          "image": null
+        },
+        1,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 464,
+      "type": "CR Text",
+      "pos": [
+        -640.8151245117188,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            849
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
+      },
+      "widgets_values": [
+        "cinematic film style, IMAX70mm , filmstrip border",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 338,
+      "type": "Float",
+      "pos": [
+        3239.1728515625,
+        3341.550537109375
+      ],
+      "size": [
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 64,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "2"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 582,
+      "type": "String",
+      "pos": [
+        2772.996337890625,
+        5102.8623046875
+      ],
+      "size": [
+        876.6028442382812,
+        602.5018920898438
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 65,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1028
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -14584,10 +14621,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.3310000000000004,
+      "scale": 1.1000000000000005,
       "offset": [
-        2854.5638781029265,
-        -272.47950090215636
+        3246.8841019942647,
+        -373.36823820606025
       ]
     },
     "groupNodes": {},
