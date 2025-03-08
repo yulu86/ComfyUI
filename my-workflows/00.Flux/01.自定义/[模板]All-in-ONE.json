@@ -3797,7 +3797,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Elven_Archer_522390937263091_low"
+        "Yui_Hatano_Lingerie_Bathtub_643158476973127_low"
       ]
     },
     {
@@ -4497,7 +4497,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        940737866264122,
+        176853184958102,
         "randomize",
         25,
         1,
@@ -4595,7 +4595,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        126914304492481,
+        431853016354118,
         "randomize",
         20,
         1,
@@ -4677,12 +4677,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ucfin_00001_.png&type=temp&subfolder=&rand=0.91587081000772"
+            "url": "/api/view?filename=rgthree.compare._temp_dtgxc_00001_.png&type=temp&subfolder=&rand=0.30438052945242755"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_ucfin_00002_.png&type=temp&subfolder=&rand=0.7935207665434263"
+            "url": "/api/view?filename=rgthree.compare._temp_dtgxc_00002_.png&type=temp&subfolder=&rand=0.40065754725657343"
           }
         ]
       ],
@@ -4915,7 +4915,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Elven_Archer_522390937263091_low_0001.png",
+        "Yui_Hatano_Lingerie_Bathtub_643158476973127_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -5180,7 +5180,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        729277987775874,
+        800019397411762,
         "randomize"
       ],
       "color": "#232",
@@ -6012,7 +6012,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        54097892487740,
+        45572806169879,
         "randomize",
         40,
         1,
@@ -7779,72 +7779,6 @@
       "bgcolor": "#533"
     },
     {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1112.324951171875,
-        913.31884765625
-      ],
-      "size": [
-        354.12896728515625,
-        170
-      ],
-      "flags": {},
-      "order": 106,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 835
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 836
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            837
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            838
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\01_美女\\01_真人角色\\eimiFukada_eimifukada.safetensors",
-          "image": "loras/01_Flux\\01_美女\\01_真人角色\\eimiFukada_eimifukada.jpeg"
-        },
-        0.9,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 514,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -8320,53 +8254,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 41,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 440,
       "type": "DeepseekReasonerNode",
       "pos": [
@@ -8533,7 +8420,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Tatsumaki_Desktop_Wallpaper  \n---  \nLow Angle, Tatsumaki from One-Punch Man, flowing neon-green hair, dynamic swirling psychic energy, destroyed cityscape background, floating debris and shattered concrete, glowing eyes with intense focus, black dress with torn edges, levitating pose, swirling tornado effects, cracked ground beneath, energy particles radiating outward, stormy skies with lightning flashes, high-contrast lighting, cinematic depth of field, hyper-detailed textures, anime-style shading, holographic energy rings, wind-blown fabric movement, dramatic shadows, perspective distortion emphasizing power, wide aspect ratio composition, vibrant emerald and electric purple color palette, cinematic rim lighting, motion blur on debris, sharp linework, ultra-high resolution, wallpaper-optimized symmetry, glowing aura effects, atmospheric dust particles  \n---  \n低角度镜头，《一拳超人》中的战栗龙卷，流动的霓虹绿发丝，动态旋转的超能力能量场，背景为被摧毁的城市景观，漂浮的瓦砾与碎裂混凝土，发光瞳孔中凝聚强烈专注力，黑色连衣裙边缘破损，悬浮姿态，环绕的龙卷风特效，地面龟裂痕迹，向外辐射的能量粒子，闪电划过的暴风云层，高对比度光照，电影级景深，超精细纹理，动漫风格着色，全息能量环，布料随风飘动效果，戏剧性阴影，透视变形强化力量感，宽幅构图，鲜艳的翡翠绿与电光紫配色，电影级轮廓光，碎片上的动态模糊，锐利线条，超高分辨率，壁纸专用对称设计，发光光晕特效，悬浮尘埃氛围  \n---  \nanime"
+        "Yui_Hatano_Lingerie_Bathtub  \n---  \nFull Body Shot, soft diffused lighting, Yui Hatano wearing sheer black lace lingerie with intricate embroidery, hourglass figure, wavy chestnut hair cascading over shoulders, subtle smokey eye makeup, glossy lips, leaning against vintage clawfoot bathtub, steam rising from bubbly water filled with rose petals, marble bathroom floor with gold accents, art deco wall sconces casting warm ambient glow, floor-to-ceiling frosted windows with raindrop trails, silver perfume bottles and candles on floating shelf, misty atmosphere, relaxed posture with one hand resting on hip, genuine warm smile directed at viewer, reflections in polished brass fixtures, delicate chain anklet, velvet bathrobe draped over towel rack, droplets on bathtub's copper edge, soft bokeh of city skyline through fogged glass  \n---  \n全身照，柔和的漫射光线，Yui Hatano穿着半透明黑色蕾丝内衣搭配精致刺绣，沙漏型身材，栗色波浪长发垂落肩头，微醺烟熏眼妆，水润唇彩，倚靠在复古爪足浴缸边沿，充满玫瑰花瓣的起泡水面升起蒸汽，带金色装饰的大理石浴室地板，装饰艺术风格壁灯投射温暖环境光，布满雨痕的落地磨砂窗，漂浮搁板上的银质香水瓶与香薰蜡烛，朦胧雾气氛围，放松姿态单手叉腰，朝观众展现真诚温暖笑容，黄铜五金件上的倒影，脚踝精致链饰，天鹅绒浴袍悬挂毛巾架，浴缸铜边水珠，透过雾面玻璃呈现都市天际线的柔美散景  \n---  \nphoto-glamour"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8553,7 +8440,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 42,
+      "order": 41,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8593,7 +8480,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 43,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8638,7 +8525,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 44,
+      "order": 43,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8675,7 +8562,7 @@
         78
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8821,7 +8708,7 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8933,7 +8820,7 @@
         314
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9332,7 +9219,7 @@
         314
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9377,7 +9264,7 @@
         314
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9555,7 +9442,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        839371376437162,
+        709066233222461,
         "randomize",
         20,
         6,
@@ -9804,7 +9691,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10066,7 +9953,7 @@
         58
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10136,7 +10023,7 @@
         98
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10173,7 +10060,7 @@
         82
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10325,7 +10212,7 @@
         58
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10362,7 +10249,7 @@
         58
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10554,7 +10441,7 @@
         58
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10667,13 +10554,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Elven_Archer_136970220701950_video_00001.gif",
+            "filename": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.gif",
             "subfolder": "wan_video",
             "type": "output",
             "format": "image/gif",
             "frame_rate": 24,
-            "workflow": "Elven_Archer_136970220701950_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Elven_Archer_136970220701950_video_00001.gif"
+            "workflow": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.gif"
           },
           "muted": false
         }
@@ -10713,7 +10600,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "嗯，用户让我生成一个关于“高清桌面壁纸，一拳超人中战栗的龙卷”的提示词。首先，我需要明确用户的需求。他们想要的是适合作为桌面壁纸的高质量图像，主题是《一拳超人》中的龙卷，也就是Tatsumaki。\n\n接下来，按照流程，我需要生成标题。根据规则，标题用英文单词，最多三个，用下划线分隔。所以可能用Tatsumaki_Desktop_Wallpaper。这样简洁明了，也符合壁纸的主题。\n\n然后，扩展场景内容。用户提到使用黑森林实验室的Flux模型，可能需要考虑模型的特性，比如是否适合动漫风格。但用户已经指定了模型，所以我需要确保提示词符合该模型的要求。不过根据例子，可能不需要特别调整，只要按照常规的提示词生成即可。\n\n接下来，提示词需要包含环境、场景、拍摄视角、人物特征等。龙卷的特征是绿色卷发，黑色连衣裙，高跟靴子，还有她的超能力。环境方面，可能需要一个被摧毁的城市，漂浮的瓦砾，能量漩涡，闪电等动态元素。视角方面，低角度（Low Angle）可以突出她的威严和力量，同时增强视觉冲击力，适合壁纸。\n\n画面风格方面，用户提供的选项中，可能选anime，因为《一拳超人》本身就是动漫。但例子中用了game-retro game，但这里更合适的是动漫风格，所以选anime。\n\n然后要详细描述周围场景，比如被摧毁的摩天大楼，能量漩涡，闪电，漂浮的瓦砾，风暴云，绿色能量光环，破碎的混凝土，扭曲的金属，飞扬的碎片，深紫和蓝的色调，动态照明，超现实光影，高对比度，锐利的细节，流动的能量轨迹，速度线，戏剧性构图，强大气场，适合宽屏显示，4K分辨率，干净的背景元素，焦点集中在她身上，适合桌面使用。\n\n人物特征方面，要包括她的外貌：娇小身材，绿色卷发，锐利的眼睛，黑色连衣裙，高跟靴子，发光的绿色能量，漂浮姿势，自信的表情，风的效果，头发和衣服的动态飘动，强调力量和优雅的结合。\n\n需要检查是否有著名角色，这里龙卷来自《一拳超人》，必须注明出处。所以提示词里要写Tatsumaki from One-Punch Man。\n\n最后，确保提示词符合所有规则：英文短语，不分段，无markdown，风格选anime。翻译成中文时也要准确，保持相同的细节。检查是否遗漏任何元素，比如视角、环境、人物细节等，确保所有要求都被满足。"
+        "好的，我现在需要处理用户提供的主题，生成符合要求的提示词。首先，用户给出的主题是：“美女Yui Hatano身穿性感内衣站在浴缸边，朝镜头微笑，全身照”。我需要按照之前设定的规则和工作流程来逐步处理。\n\n首先，根据Workflow的第一步，生成图像标题。标题要求是三个英文单词以内，用下划线分隔。这里的关键元素是“Yui Hatano”、“性感内衣”和“浴缸边”。可能合适的标题是“Yui_Hatano_Lingerie”或者“Yui_Lingerie_Bathtub”。但用户示例中使用了角色名加场景，所以可能更倾向于“Yui_Hatano_Lingerie”这样的结构，但需要确保不超过三个单词。Yui Hatano是名字，可能需要合并为Yui_Hatano，然后加上Lingerie和Bathtub？不过这样可能超过三个单词。所以可能简化为“Yui_Lingerie_Bathtub”。\n\n接下来是生成英文提示词。需要包含内容主体、细节、环境、场景、拍摄视角等。主体是Yui Hatano，穿着性感内衣，站在浴缸边，微笑，全身照。需要详细扩展场景，比如浴室的装饰、灯光、颜色，可能还有水、雾气等元素。拍摄视角方面，用户示例中用了低角度，但这里可能需要全身照，所以Eye Level或者Full Body Shot更合适。另外，人物特征需要详细描述，如外貌、身材、动作姿势，比如长发、妆容、姿势等。\n\n环境方面，浴室可能有现代风格，大理石台面，蒸汽，柔和的灯光，花瓣，蜡烛等细节。周围可能有瓷砖、镜子、浴缸的水等。需要添加这些元素以丰富画面。\n\n然后，需要选择一个画面风格，从提供的列表中选择。可能适合的是“cinematic”或者“photographic”，但用户示例中用了游戏风格，这里可能更倾向于“photo-glamour”或“ads-fashion editorial”，因为涉及性感内衣和时尚元素。\n\n接下来，翻译成中文提示词，确保准确对应英文内容。\n\n检查是否符合所有规则：不使用markdown，仅英文和中文，不分段，不含多余内容，风格选择正确，提示词足够详细，包含视角、环境、人物细节等。\n\n可能需要注意Yui Hatano是否是真实人物或角色，如果是真人，是否需要特别注明？但根据用户示例中的处理方式，可能直接使用名字即可，但用户要求如果涉及著名角色要注明出处。但Yui Hatano可能是指某个特定角色，需要确认。不过根据主题描述，可能指的是真实人物，所以可能不需要出处。因此按用户提供的处理即可。\n\n最后，整合所有元素，确保提示词长度在150-180词左右，使用短语和形容词，详细描述每个部分，并正确选择风格。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -10976,7 +10863,7 @@
       },
       "widgets_values": [
         2,
-        451382383584268,
+        1080318273927429,
         "randomize",
         20,
         1,
@@ -11009,7 +10896,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11056,7 +10943,7 @@
         58
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11301,13 +11188,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Elven_Archer_136970220701950_video_00002.mp4",
+            "filename": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.mp4",
             "subfolder": "wan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Elven_Archer_136970220701950_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Elven_Archer_136970220701950_video_00002.mp4"
+            "workflow": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.mp4"
           },
           "muted": false
         }
@@ -11347,7 +11234,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "好的，我现在需要处理用户提供的图像提示词，生成一个2秒视频内容的提示词。首先，我得仔细看看用户给的例子和规则，确保自己理解正确。\n\n用户给的例子是描述一个古风场景，镜头从左平移，展示屏风后的女孩。根据规则，提示词要包含运镜、主体、场景、运动、镜头语言、氛围和风格化，并且要避免多余的内容，比如标题、分段或hashtag。\n\n现在用户提供的输入是关于一个精灵弓箭手的奇幻场景，有很多细节，比如金色盔甲、神秘森林、发光植物等。我需要把这些元素拆解到各个部分中。\n\n首先确定运镜描述。因为是2秒视频，运镜需要简洁。例子中用了平移，这里可能需要另一个合适的运镜方式，比如缓慢推进或旋转，来展示主体和环境。\n\n主体描述包括精灵弓箭手的外貌特征：金色盔甲、银发、尖耳、长弓等。需要将这些用简短的形容词或短语列出。\n\n场景描述有神秘森林、古老树木、发光植物、薄雾、阳光穿透树冠等元素，需要整合进去。\n\n运动描述可能涉及弓箭手的动作，比如准备射箭的姿态，或者周围植物的轻微摇动。但用户例子中的运动描述是“慢慢平移”，所以这里可能需要更动态的动作，比如弓箭手拉弓或周围的光点飘动。\n\n镜头语言包括视角（比如高角度）、景别（可能是中景或全景）、镜头类型（比如IMAX70mm）以及运镜方式。\n\n氛围词已经有宏伟、空灵、梦幻等，需要保留。\n\n风格化方面，用户提到了赛博朋克等，但这里明显是奇幻风格，所以可能需要调整，但用户例子中用了电影风格，所以保持cinematic film style。\n\n接下来，整合这些元素，确保符合规则，比如时间控制在5秒内，但用户要求的是2秒，所以运镜要更简短。可能需要一个缓慢的推进镜头，突出主体的准备动作，同时展示周围环境的变化。\n\n检查是否有无关内容，比如不要用markdown，保持纯文本，不分段，不添加标题或标签。然后按照示例的结构，把各部分组合起来，用中文表达，确保流畅自然。"
+        "好的，我现在需要帮用户生成一个2秒视频内容的提示词。用户给了一个详细的图像提示词，里面有很多元素，比如性感的美女、黑色蕾丝内衣、复古浴缸、蒸汽、玫瑰花瓣等等。首先，我得按照规则分解这些元素到不同的部分：运镜描述、主体描述、场景描述、运动描述、动作描述、镜头语言、氛围词和风格化。\n\n用户给的例子是镜头从屏风开始平移，然后露出后面的女孩，所以运镜可能需要一个缓慢的移动，比如缓慢推进或者平移。主体是Yui Hatano穿着黑色蕾丝内衣，身材沙漏，栗色波浪发，烟熏妆，这些都要在主体描述里体现。场景是复古浴缸、大理石地板、金色装饰、磨砂窗等等，要详细描述环境。运动方面，可能有蒸汽上升、玫瑰花瓣漂浮，或者水滴滑落。动作描述里，她靠着浴缸，手放在臀部，微笑，这些动作要保持。镜头语言要考虑景别，比如全身镜头，视角可能是低角度或平视。氛围词要突出奢华、性感、优雅，风格化则是高时尚、高对比度。\n\n需要注意的是用户要求2秒的视频，所以运镜不能太复杂，时间控制在5秒内，这里可能用缓慢推进比较合适。然后要把所有元素自然地组合成一句流畅的话，不用分段或标点。检查有没有遗漏的部分，比如风格化和氛围词是否都包含进去了。最后确保不用markdown，纯文本输出，符合例子中的格式。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -11384,7 +11271,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "镜头从高角度缓缓推进，聚焦于身着繁复雕纹金色盔甲的精灵弓箭手，她银发在光雾中飘动，翡翠色瞳孔锐利凝视前方，双手持握长弓呈满弦待发状，周围荧光植物随气流动态摇曳，光束穿透古老树冠在铠甲表面形成流动光斑，神秘雾气在林间螺旋升腾，远处山脉轮廓笼罩在魔法光晕中，全景镜头搭配浅景深凸显空间层次，空灵圣洁与蓄势待发的张力并存，8K电影级质感配合IMAX70mm画幅呈现史诗奇幻美学"
+        "镜头缓慢推进，全身镜头中的Yui Hatano穿着半透明黑色蕾丝内衣斜倚在复古浴缸边缘，蒸汽裹挟着玫瑰花瓣从水面升腾，栗色波浪卷发垂落在白皙肩头，右手轻搭胯部时指尖挑起水珠，磨砂玻璃外的城市光晕在雾面形成柔焦光斑，奢华的大理石浴室里金色装饰反射着烛光，她微微侧头向镜头绽放温暖笑容，水珠沿着铜质浴缸边缘缓缓滑落，高对比度的光影勾勒出沙漏身材曲线，氤氲水汽中漂浮着细小的虹彩泡泡"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -11401,7 +11288,7 @@
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11645,7 +11532,7 @@
         792.4426879882812
       ],
       "flags": {},
-      "order": 60,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11671,62 +11558,163 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Elven_Archer_599949819140763_high_0001.jpg",
+        "Yui_Hatano_Lingerie_Bathtub_110957787008834_high_0001.jpg",
         "image"
       ],
       "color": "#232",
       "bgcolor": "#353"
     },
     {
-      "id": 359,
-      "type": "String",
+      "id": 338,
+      "type": "Float",
       "pos": [
-        -5429.1181640625,
-        -487.5561218261719
+        3239.1728515625,
+        3341.550537109375
       ],
       "size": [
-        726.5386962890625,
-        225.73260498046875
+        219.0121612548828,
+        58
+      ],
+      "flags": {},
+      "order": 60,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            768
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "Upscale Factor",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "2"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 582,
+      "type": "String",
+      "pos": [
+        2772.996337890625,
+        5102.8623046875
+      ],
+      "size": [
+        876.6028442382812,
+        602.5018920898438
       ],
       "flags": {
-        "pinned": true
+        "collapsed": false
       },
       "order": 61,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
           "name": "STRING",
           "type": "STRING",
           "links": [
-            676,
-            727,
-            807
+            1028
           ],
           "slot_index": 0
         }
       ],
-      "title": "主题",
+      "title": "模板",
       "properties": {
         "aux_id": "M1kep/ComfyLiterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "魔幻电影中的精灵族弓箭手，黄金铠甲配色，高贵的气质",
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
         [
           false,
           true
         ]
       ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 458,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1112.324951171875,
+        913.31884765625
+      ],
+      "size": [
+        354.12896728515625,
+        170
+      ],
+      "flags": {},
+      "order": 106,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 835
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 836
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            837
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            838
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\01_美女\\01_真人角色\\BDYJY.safetensors",
+          "image": null
+        },
+        1,
+        1,
+        "[none]"
+      ],
       "color": "#232",
       "bgcolor": "#353"
     },
     {
-      "id": 463,
+      "id": 464,
       "type": "CR Text",
       "pos": [
-        -1174.0216064453125,
+        -640.8151245117188,
         609.2631225585938
       ],
       "size": [
@@ -11742,7 +11730,7 @@
           "name": "text",
           "type": "*",
           "links": [
-            848
+            849
           ],
           "slot_index": 0
         },
@@ -11760,7 +11748,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "eimiFukada,",
+        "cinematic film style, IMAX70mm , filmstrip border",
         [
           false,
           true
@@ -11782,7 +11770,7 @@
       ],
       "flags": {},
       "order": 119,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "model",
@@ -11828,7 +11816,7 @@
           "content": "01_Flux\\03_画面风格\\cinematic film IMAX70mm Filmstrip style v1.safetensors",
           "image": null
         },
-        1,
+        0.3,
         1,
         "[none]"
       ],
@@ -11836,10 +11824,55 @@
       "bgcolor": "#353"
     },
     {
-      "id": 464,
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -487.5561218261719
+      ],
+      "size": [
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String"
+      },
+      "widgets_values": [
+        "美女Yui Hatano身穿性感内衣站在浴缸边，朝镜头微笑，全身照",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
       "type": "CR Text",
       "pos": [
-        -640.8151245117188,
+        -1174.0216064453125,
         609.2631225585938
       ],
       "size": [
@@ -11847,15 +11880,15 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 63,
-      "mode": 0,
+      "order": 64,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
           "name": "text",
           "type": "*",
           "links": [
-            849
+            848
           ],
           "slot_index": 0
         },
@@ -11873,7 +11906,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "cinematic film style, IMAX70mm , filmstrip border",
+        "meinv+You construct the required natural language vocabulary through imagination",
         [
           false,
           true
@@ -11883,77 +11916,44 @@
       "bgcolor": "#353"
     },
     {
-      "id": 338,
-      "type": "Float",
+      "id": 276,
+      "type": "CR Text",
       "pos": [
-        3239.1728515625,
-        3341.550537109375
+        -1690.298095703125,
+        -336.18994140625
       ],
       "size": [
-        219.0121612548828,
-        58
+        308.7655334472656,
+        225.3144989013672
       ],
       "flags": {},
-      "order": 64,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            768
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "Upscale Factor",
-      "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "2"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 582,
-      "type": "String",
-      "pos": [
-        2772.996337890625,
-        5102.8623046875
-      ],
-      "size": [
-        876.6028442382812,
-        602.5018920898438
-      ],
-      "flags": {
-        "collapsed": false
-      },
       "order": 65,
       "mode": 4,
       "inputs": [],
       "outputs": [
         {
-          "name": "STRING",
-          "type": "STRING",
+          "name": "text",
+          "type": "*",
           "links": [
-            1028
+            486
           ],
           "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
         }
       ],
-      "title": "模板",
+      "title": "提示词 - 美女(可选)",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
+        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
         [
           false,
           true
@@ -14621,10 +14621,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1000000000000005,
+      "scale": 0.6830134553650705,
       "offset": [
-        3246.8841019942647,
-        -373.36823820606025
+        3739.267304752648,
+        451.88654698957447
       ]
     },
     "groupNodes": {},
