@@ -1,6 +1,6 @@
 {
-  "last_node_id": 592,
-  "last_link_id": 1032,
+  "last_node_id": 594,
+  "last_link_id": 1035,
   "nodes": [
     {
       "id": 144,
@@ -94,7 +94,7 @@
         234
       ],
       "flags": {},
-      "order": 183,
+      "order": 187,
       "mode": 4,
       "inputs": [
         {
@@ -288,7 +288,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 179,
+      "order": 182,
       "mode": 0,
       "inputs": [
         {
@@ -326,7 +326,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 187,
+      "order": 190,
       "mode": 0,
       "inputs": [
         {
@@ -477,7 +477,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 170,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -516,7 +516,7 @@
         46
       ],
       "flags": {},
-      "order": 224,
+      "order": 226,
       "mode": 0,
       "inputs": [
         {
@@ -562,7 +562,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 228,
+      "order": 230,
       "mode": 0,
       "inputs": [
         {
@@ -667,7 +667,7 @@
         174
       ],
       "flags": {},
-      "order": 191,
+      "order": 197,
       "mode": 4,
       "inputs": [
         {
@@ -736,7 +736,7 @@
         88
       ],
       "flags": {},
-      "order": 196,
+      "order": 202,
       "mode": 4,
       "inputs": [
         {
@@ -775,7 +775,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 242,
+      "order": 244,
       "mode": 4,
       "inputs": [
         {
@@ -824,7 +824,7 @@
         46
       ],
       "flags": {},
-      "order": 239,
+      "order": 241,
       "mode": 4,
       "inputs": [
         {
@@ -1534,7 +1534,7 @@
         174
       ],
       "flags": {},
-      "order": 201,
+      "order": 205,
       "mode": 4,
       "inputs": [
         {
@@ -1603,7 +1603,7 @@
         88
       ],
       "flags": {},
-      "order": 205,
+      "order": 210,
       "mode": 4,
       "inputs": [
         {
@@ -1644,7 +1644,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 206,
+      "order": 211,
       "mode": 4,
       "inputs": [
         {
@@ -1902,7 +1902,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 233,
+      "order": 235,
       "mode": 0,
       "inputs": [
         {
@@ -1940,7 +1940,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 232,
+      "order": 234,
       "mode": 0,
       "inputs": [
         {
@@ -2175,7 +2175,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 176,
+      "order": 179,
       "mode": 0,
       "inputs": [
         {
@@ -2254,7 +2254,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 197,
+      "order": 203,
       "mode": 0,
       "inputs": [
         {
@@ -2329,7 +2329,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 220,
+      "order": 224,
       "mode": 0,
       "inputs": [
         {
@@ -2371,7 +2371,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 209,
+      "order": 214,
       "mode": 0,
       "inputs": [
         {
@@ -2497,7 +2497,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 210,
+      "order": 215,
       "mode": 0,
       "inputs": [
         {
@@ -2537,7 +2537,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 214,
+      "order": 218,
       "mode": 0,
       "inputs": [
         {
@@ -2577,7 +2577,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 226,
+      "order": 228,
       "mode": 0,
       "inputs": [
         {
@@ -2666,7 +2666,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 175,
+      "order": 178,
       "mode": 0,
       "inputs": [
         {
@@ -2708,7 +2708,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 182,
+      "order": 186,
       "mode": 0,
       "inputs": [
         {
@@ -2754,7 +2754,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 243,
+      "order": 245,
       "mode": 4,
       "inputs": [
         {
@@ -2894,7 +2894,7 @@
         190
       ],
       "flags": {},
-      "order": 165,
+      "order": 166,
       "mode": 4,
       "inputs": [
         {
@@ -3064,7 +3064,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 221,
+      "order": 225,
       "mode": 0,
       "inputs": [
         {
@@ -3186,7 +3186,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 230,
+      "order": 232,
       "mode": 0,
       "inputs": [
         {
@@ -3338,7 +3338,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 215,
+      "order": 219,
       "mode": 0,
       "inputs": [
         {
@@ -3483,7 +3483,7 @@
         138
       ],
       "flags": {},
-      "order": 234,
+      "order": 236,
       "mode": 4,
       "inputs": [
         {
@@ -3561,7 +3561,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 231,
+      "order": 233,
       "mode": 4,
       "inputs": [
         {
@@ -3601,7 +3601,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 169,
+      "order": 171,
       "mode": 4,
       "inputs": [
         {
@@ -3698,7 +3698,7 @@
         234
       ],
       "flags": {},
-      "order": 192,
+      "order": 198,
       "mode": 4,
       "inputs": [
         {
@@ -3773,7 +3773,7 @@
         88
       ],
       "flags": {},
-      "order": 189,
+      "order": 195,
       "mode": 0,
       "inputs": [
         {
@@ -3797,7 +3797,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Yui_Hatano_Lingerie_Bathtub_643158476973127_low"
+        "Mikami_Yua_Bathtub_898463928498588_low"
       ]
     },
     {
@@ -3886,7 +3886,7 @@
         186
       ],
       "flags": {},
-      "order": 203,
+      "order": 207,
       "mode": 4,
       "inputs": [
         {
@@ -4387,7 +4387,7 @@
         82
       ],
       "flags": {},
-      "order": 240,
+      "order": 242,
       "mode": 4,
       "inputs": [
         {
@@ -4420,7 +4420,7 @@
         298
       ],
       "flags": {},
-      "order": 236,
+      "order": 238,
       "mode": 4,
       "inputs": [
         {
@@ -4497,7 +4497,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        176853184958102,
+        616931475946293,
         "randomize",
         25,
         1,
@@ -4595,7 +4595,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        431853016354118,
+        776863354113695,
         "randomize",
         20,
         1,
@@ -4649,7 +4649,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 241,
+      "order": 243,
       "mode": 4,
       "inputs": [
         {
@@ -4677,12 +4677,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dtgxc_00001_.png&type=temp&subfolder=&rand=0.30438052945242755"
+            "url": "/api/view?filename=rgthree.compare._temp_pexfu_00001_.png&type=temp&subfolder=&rand=0.28683129783401506"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_dtgxc_00002_.png&type=temp&subfolder=&rand=0.40065754725657343"
+            "url": "/api/view?filename=rgthree.compare._temp_pexfu_00002_.png&type=temp&subfolder=&rand=0.032068778801730646"
           }
         ]
       ],
@@ -4915,7 +4915,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Yui_Hatano_Lingerie_Bathtub_643158476973127_low_0001.png",
+        "Mikami_Yua_Bathtub_898463928498588_low_0001.png",
         "image"
       ],
       "color": "#232",
@@ -4936,7 +4936,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 167,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -5180,7 +5180,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        800019397411762,
+        550838582825708,
         "randomize"
       ],
       "color": "#232",
@@ -5200,7 +5200,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 173,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -5257,7 +5257,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 171,
+      "order": 173,
       "mode": 0,
       "inputs": [
         {
@@ -5519,7 +5519,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 181,
+      "order": 185,
       "mode": 0,
       "inputs": [
         {
@@ -5582,7 +5582,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 227,
+      "order": 229,
       "mode": 0,
       "inputs": [
         {
@@ -5630,6 +5630,9 @@
         {
           "name": "",
           "type": "*",
+          "widget": {
+            "name": "value"
+          },
           "link": 925
         }
       ],
@@ -5638,7 +5641,8 @@
           "name": "",
           "type": "*",
           "links": [
-            706
+            706,
+            1033
           ],
           "slot_index": 0
         }
@@ -5671,43 +5675,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 403,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        -2372.569580078125,
-        220.8515167236328
-      ],
-      "size": [
-        603.0744018554688,
-        348.3393859863281
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 157,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 936
-        }
-      ],
-      "outputs": [],
-      "title": " 提示词(中文)",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
     },
     {
       "id": 373,
@@ -5894,7 +5861,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 229,
+      "order": 231,
       "mode": 0,
       "inputs": [
         {
@@ -5923,7 +5890,7 @@
         318
       ],
       "flags": {},
-      "order": 219,
+      "order": 223,
       "mode": 0,
       "inputs": [
         {
@@ -6012,7 +5979,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        45572806169879,
+        1105987930367985,
         "randomize",
         40,
         1,
@@ -6338,7 +6305,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 202,
+      "order": 206,
       "mode": 0,
       "inputs": [
         {
@@ -6384,7 +6351,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 195,
+      "order": 201,
       "mode": 0,
       "inputs": [
         {
@@ -6430,7 +6397,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 190,
+      "order": 196,
       "mode": 0,
       "inputs": [
         {
@@ -6473,7 +6440,7 @@
         246
       ],
       "flags": {},
-      "order": 166,
+      "order": 167,
       "mode": 4,
       "inputs": [
         {
@@ -6763,7 +6730,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 174,
+      "order": 176,
       "mode": 0,
       "inputs": [
         {
@@ -6806,7 +6773,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 180,
+      "order": 183,
       "mode": 0,
       "inputs": [
         {
@@ -6891,7 +6858,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 188,
+      "order": 191,
       "mode": 0,
       "inputs": [
         {
@@ -6976,7 +6943,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 185,
+      "order": 189,
       "mode": 0,
       "inputs": [
         {
@@ -7019,7 +6986,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 178,
+      "order": 181,
       "mode": 0,
       "inputs": [
         {
@@ -7036,8 +7003,7 @@
           "name": "",
           "type": "STRING",
           "links": [
-            891,
-            1026
+            891
           ],
           "slot_index": 0
         }
@@ -7063,7 +7029,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 172,
+      "order": 174,
       "mode": 0,
       "inputs": [
         {
@@ -7107,7 +7073,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 177,
+      "order": 180,
       "mode": 0,
       "inputs": [
         {
@@ -7150,7 +7116,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 218,
+      "order": 220,
       "mode": 4,
       "inputs": [
         {
@@ -7203,7 +7169,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 194,
+      "order": 199,
       "mode": 4,
       "inputs": [
         {
@@ -7283,7 +7249,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 238,
+      "order": 240,
       "mode": 4,
       "inputs": [
         {
@@ -7669,7 +7635,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 168,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -8420,7 +8386,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "Yui_Hatano_Lingerie_Bathtub  \n---  \nFull Body Shot, soft diffused lighting, Yui Hatano wearing sheer black lace lingerie with intricate embroidery, hourglass figure, wavy chestnut hair cascading over shoulders, subtle smokey eye makeup, glossy lips, leaning against vintage clawfoot bathtub, steam rising from bubbly water filled with rose petals, marble bathroom floor with gold accents, art deco wall sconces casting warm ambient glow, floor-to-ceiling frosted windows with raindrop trails, silver perfume bottles and candles on floating shelf, misty atmosphere, relaxed posture with one hand resting on hip, genuine warm smile directed at viewer, reflections in polished brass fixtures, delicate chain anklet, velvet bathrobe draped over towel rack, droplets on bathtub's copper edge, soft bokeh of city skyline through fogged glass  \n---  \n全身照，柔和的漫射光线，Yui Hatano穿着半透明黑色蕾丝内衣搭配精致刺绣，沙漏型身材，栗色波浪长发垂落肩头，微醺烟熏眼妆，水润唇彩，倚靠在复古爪足浴缸边沿，充满玫瑰花瓣的起泡水面升起蒸汽，带金色装饰的大理石浴室地板，装饰艺术风格壁灯投射温暖环境光，布满雨痕的落地磨砂窗，漂浮搁板上的银质香水瓶与香薰蜡烛，朦胧雾气氛围，放松姿态单手叉腰，朝观众展现真诚温暖笑容，黄铜五金件上的倒影，脚踝精致链饰，天鹅绒浴袍悬挂毛巾架，浴缸铜边水珠，透过雾面玻璃呈现都市天际线的柔美散景  \n---  \nphoto-glamour"
+        "Mikami_Yua_Bathtub  \n---  \nFull Body Shot, Eye Level, Mikami Yua, beautiful Japanese woman, long black hair, almond-shaped eyes, red lips, wearing black lace lingerie, elegant posture, standing beside freestanding bathtub, one foot slightly raised on bathtub edge, hand gently touching hair, warm smile directed at viewer, minimalist luxury bathroom interior, marble floor tiles, gold-accented fixtures, modern rainfall shower system, frosted glass partition, indirect LED lighting creating soft shadows, steam rising from bathtub surface, white ceramic vase with orchids, geometric-patterned accent wall, floor-to-ceiling windows reflecting city nightscape, soft focus background with bokeh lights, natural skin texture details, satin robe draped over towel rack, pearl earrings, subtle makeup with glossy finish, ambient humidity effect, contemporary bathroom accessories, clean lines and neutral color palette  \n---  \n全身照，眼平视角，Mikami Yua，美丽的日本女性，黑色长发，杏仁眼，红唇，穿着黑色蕾丝内衣，优雅姿态，站在独立浴缸旁，单脚微微抬起搭在浴缸边缘，手指轻抚发丝，向观众展露温暖笑容，简约奢华浴室空间，大理石地砖，金色装饰配件，现代雨淋式花洒系统，磨砂玻璃隔断，间接LED照明营造柔和阴影，浴缸表面蒸腾热气，白色陶瓷花瓶插着兰花，几何图案装饰墙，全景落地窗映出城市夜景，背景虚化光斑效果，自然肌肤纹理细节，真丝浴袍搭在毛巾架上，珍珠耳环，淡妆带珠光效果，环境湿气氛围，现代卫浴配件，干净线条与中性色调  \n---  \nphoto-glamour"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -8862,7 +8828,7 @@
         82
       ],
       "flags": {},
-      "order": 225,
+      "order": 227,
       "mode": 0,
       "inputs": [
         {
@@ -9368,7 +9334,7 @@
         82
       ],
       "flags": {},
-      "order": 237,
+      "order": 239,
       "mode": 4,
       "inputs": [
         {
@@ -9401,7 +9367,7 @@
         262
       ],
       "flags": {},
-      "order": 211,
+      "order": 204,
       "mode": 4,
       "inputs": [
         {
@@ -9442,7 +9408,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        709066233222461,
+        319867529455619,
         "randomize",
         20,
         6,
@@ -9463,7 +9429,7 @@
         82
       ],
       "flags": {},
-      "order": 217,
+      "order": 209,
       "mode": 4,
       "inputs": [
         {
@@ -9543,7 +9509,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 212,
+      "order": 216,
       "mode": 4,
       "inputs": [
         {
@@ -9604,7 +9570,7 @@
         26
       ],
       "flags": {},
-      "order": 207,
+      "order": 212,
       "mode": 4,
       "inputs": [
         {
@@ -9647,7 +9613,7 @@
         26
       ],
       "flags": {},
-      "order": 208,
+      "order": 213,
       "mode": 4,
       "inputs": [
         {
@@ -10095,7 +10061,7 @@
         270
       ],
       "flags": {},
-      "order": 204,
+      "order": 200,
       "mode": 4,
       "inputs": [
         {
@@ -10286,7 +10252,7 @@
         46
       ],
       "flags": {},
-      "order": 216,
+      "order": 208,
       "mode": 4,
       "inputs": [
         {
@@ -10372,7 +10338,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 213,
+      "order": 217,
       "mode": 4,
       "inputs": [
         {
@@ -10480,7 +10446,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 223,
+      "order": 222,
       "mode": 4,
       "inputs": [
         {
@@ -10554,13 +10520,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.gif",
+            "filename": "Mikami_Yua_Bathtub_714740496611117_video_00001.gif",
             "subfolder": "wan_video",
             "type": "output",
             "format": "image/gif",
             "frame_rate": 24,
-            "workflow": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00001.gif"
+            "workflow": "Mikami_Yua_Bathtub_714740496611117_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Mikami_Yua_Bathtub_714740496611117_video_00001.gif"
           },
           "muted": false
         }
@@ -10600,7 +10566,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "好的，我现在需要处理用户提供的主题，生成符合要求的提示词。首先，用户给出的主题是：“美女Yui Hatano身穿性感内衣站在浴缸边，朝镜头微笑，全身照”。我需要按照之前设定的规则和工作流程来逐步处理。\n\n首先，根据Workflow的第一步，生成图像标题。标题要求是三个英文单词以内，用下划线分隔。这里的关键元素是“Yui Hatano”、“性感内衣”和“浴缸边”。可能合适的标题是“Yui_Hatano_Lingerie”或者“Yui_Lingerie_Bathtub”。但用户示例中使用了角色名加场景，所以可能更倾向于“Yui_Hatano_Lingerie”这样的结构，但需要确保不超过三个单词。Yui Hatano是名字，可能需要合并为Yui_Hatano，然后加上Lingerie和Bathtub？不过这样可能超过三个单词。所以可能简化为“Yui_Lingerie_Bathtub”。\n\n接下来是生成英文提示词。需要包含内容主体、细节、环境、场景、拍摄视角等。主体是Yui Hatano，穿着性感内衣，站在浴缸边，微笑，全身照。需要详细扩展场景，比如浴室的装饰、灯光、颜色，可能还有水、雾气等元素。拍摄视角方面，用户示例中用了低角度，但这里可能需要全身照，所以Eye Level或者Full Body Shot更合适。另外，人物特征需要详细描述，如外貌、身材、动作姿势，比如长发、妆容、姿势等。\n\n环境方面，浴室可能有现代风格，大理石台面，蒸汽，柔和的灯光，花瓣，蜡烛等细节。周围可能有瓷砖、镜子、浴缸的水等。需要添加这些元素以丰富画面。\n\n然后，需要选择一个画面风格，从提供的列表中选择。可能适合的是“cinematic”或者“photographic”，但用户示例中用了游戏风格，这里可能更倾向于“photo-glamour”或“ads-fashion editorial”，因为涉及性感内衣和时尚元素。\n\n接下来，翻译成中文提示词，确保准确对应英文内容。\n\n检查是否符合所有规则：不使用markdown，仅英文和中文，不分段，不含多余内容，风格选择正确，提示词足够详细，包含视角、环境、人物细节等。\n\n可能需要注意Yui Hatano是否是真实人物或角色，如果是真人，是否需要特别注明？但根据用户示例中的处理方式，可能直接使用名字即可，但用户要求如果涉及著名角色要注明出处。但Yui Hatano可能是指某个特定角色，需要确认。不过根据主题描述，可能指的是真实人物，所以可能不需要出处。因此按用户提供的处理即可。\n\n最后，整合所有元素，确保提示词长度在150-180词左右，使用短语和形容词，详细描述每个部分，并正确选择风格。"
+        "好的，我现在需要处理用户提供的主题，生成符合要求的提示词。首先，用户提到使用黑森林实验室的Flux模型生成图片，所以我要确保提示词适配这个模型的特性。主题是“美女mikami yua身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格”。\n\n首先，按照工作流程，第一步是生成图像标题。用户要求最多三个英文单词，用下划线分隔。这里的关键元素是Mikami Yua、浴缸边、性感内衣，所以标题可能是“Mikami_Yua_Bathtub”。\n\n接下来是扩展场景内容生成英文提示词。需要包含环境、场景、拍摄视角，以及人物特征等。用户提到全身照，所以拍摄视角应该是Full Body Shot或者Eye Level。简约高级的装修风格可以描述为minimalist luxury bathroom，大理石、金色装饰等细节。人物方面，Mikami Yua需要详细描述外貌：长黑发、杏仁眼、红唇，穿着黑色蕾丝内衣，姿态优雅，站在浴缸边缘，手轻抚头发，对着镜头微笑。环境方面，可以加入柔和的灯光、蒸汽效果，白色瓷砖墙，现代卫浴设施，窗外城市夜景，增加画面层次感。\n\n然后需要翻译成中文，同时保持描述的准确和流畅。要注意用户提到的规则，比如不要使用markdown，仅用英文和中文短语，避免分段。最后选择画面风格，根据主题可能适合的是“photo-glamour”或者“artstyle-hyperrealism”，但用户提供的风格选项中可能有更合适的。查看列表，发现“photo-glamour”属于照片风格，符合用户可能想要的高级性感风格，所以选这个。\n\n检查是否遗漏了任何要求，比如人物名字和出处，这里Mikami Yua可能是一个现实人物或虚拟角色，但用户没有特别说明出处，所以不需要额外注明。最后确保提示词在150-180个词左右，包含足够细节，如材质、颜色、光线效果等，符合Flux模型的需求。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -10668,78 +10634,6 @@
       "shape": 1
     },
     {
-      "id": 382,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4337.44384765625,
-        -384.21026611328125
-      ],
-      "size": [
-        434.6526794433594,
-        183.7159881591797
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 164,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 706
-        }
-      ],
-      "outputs": [],
-      "title": "图片内容",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 384,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4339.6640625,
-        -160.04782104492188
-      ],
-      "size": [
-        428.7169189453125,
-        368.8460998535156
-      ],
-      "flags": {},
-      "order": 184,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 888
-        }
-      ],
-      "outputs": [],
-      "title": "Show Positive  Prompt",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        ""
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 420,
       "type": "UltimateSDUpscale",
       "pos": [
@@ -10751,7 +10645,7 @@
         690
       ],
       "flags": {},
-      "order": 235,
+      "order": 237,
       "mode": 4,
       "inputs": [
         {
@@ -10863,7 +10757,7 @@
       },
       "widgets_values": [
         2,
-        1080318273927429,
+        182462371460425,
         "randomize",
         20,
         1,
@@ -10983,7 +10877,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 200,
+      "order": 194,
       "mode": 4,
       "inputs": [
         {
@@ -11044,7 +10938,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 193,
+      "order": 184,
       "mode": 4,
       "inputs": [
         {
@@ -11110,7 +11004,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 222,
+      "order": 221,
       "mode": 4,
       "inputs": [
         {
@@ -11188,13 +11082,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.mp4",
+            "filename": "Mikami_Yua_Bathtub_714740496611117_video_00002.mp4",
             "subfolder": "wan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Yui_Hatano_Lingerie_Bathtub_9514372522811_video_00002.mp4"
+            "workflow": "Mikami_Yua_Bathtub_714740496611117_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Mikami_Yua_Bathtub_714740496611117_video_00002.mp4"
           },
           "muted": false
         }
@@ -11216,7 +11110,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 198,
+      "order": 192,
       "mode": 4,
       "inputs": [
         {
@@ -11234,7 +11128,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "好的，我现在需要帮用户生成一个2秒视频内容的提示词。用户给了一个详细的图像提示词，里面有很多元素，比如性感的美女、黑色蕾丝内衣、复古浴缸、蒸汽、玫瑰花瓣等等。首先，我得按照规则分解这些元素到不同的部分：运镜描述、主体描述、场景描述、运动描述、动作描述、镜头语言、氛围词和风格化。\n\n用户给的例子是镜头从屏风开始平移，然后露出后面的女孩，所以运镜可能需要一个缓慢的移动，比如缓慢推进或者平移。主体是Yui Hatano穿着黑色蕾丝内衣，身材沙漏，栗色波浪发，烟熏妆，这些都要在主体描述里体现。场景是复古浴缸、大理石地板、金色装饰、磨砂窗等等，要详细描述环境。运动方面，可能有蒸汽上升、玫瑰花瓣漂浮，或者水滴滑落。动作描述里，她靠着浴缸，手放在臀部，微笑，这些动作要保持。镜头语言要考虑景别，比如全身镜头，视角可能是低角度或平视。氛围词要突出奢华、性感、优雅，风格化则是高时尚、高对比度。\n\n需要注意的是用户要求2秒的视频，所以运镜不能太复杂，时间控制在5秒内，这里可能用缓慢推进比较合适。然后要把所有元素自然地组合成一句流畅的话，不用分段或标点。检查有没有遗漏的部分，比如风格化和氛围词是否都包含进去了。最后确保不用markdown，纯文本输出，符合例子中的格式。"
+        "好的，我现在需要帮用户生成一个2秒视频内容的提示词。首先，用户给了一个图像提示词，里面有很多细节，我得仔细分析每个部分。\n\n用户提供的图像描述是关于一个日本女性Mikami Yua，站在奢华浴室里，有很多细节，比如黑色蕾丝内衣、浴缸、大理石地砖、城市夜景等。按照规则，我需要将这些元素分解到运镜、主体、场景、运动、动作、镜头语言、氛围和风格化中。\n\n首先，运镜描述要控制在5秒内，这里用户要求的是2秒，所以运镜要简短。例子中的运镜是平移，可能这里可以选择缓慢推进，因为时间较短，推进能突出主体。接下来，主体描述包括她的外貌特征：黑色长发、红唇、蕾丝内衣、珍珠耳环等，这些都要包含进去。场景方面，浴室里的细节比如大理石地砖、金色装饰、落地窗夜景都需要提到。\n\n运动描述可能涉及她轻抚发丝、抬脚的动作，这些动作需要描述速度和效果，比如轻柔地抚过发丝，缓慢抬起脚。动作描述要具体，比如搭在浴缸边缘，微笑。镜头语言方面，中景和眼平视角比较合适，能展示全身和部分环境。氛围词是优雅、奢华、温暖，风格化可能需要现代简约，符合浴室的描述。\n\n需要检查是否有遗漏的部分，比如LED照明、蒸汽、兰花等，这些环境元素要融入场景描述中。同时，确保不加入无关内容，比如标题或分段，严格按照规则输出。最后，保持语言简洁，用逗号分隔各部分，不用markdown，确保符合示例的格式。"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -11253,7 +11147,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 199,
+      "order": 193,
       "mode": 4,
       "inputs": [
         {
@@ -11271,7 +11165,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "镜头缓慢推进，全身镜头中的Yui Hatano穿着半透明黑色蕾丝内衣斜倚在复古浴缸边缘，蒸汽裹挟着玫瑰花瓣从水面升腾，栗色波浪卷发垂落在白皙肩头，右手轻搭胯部时指尖挑起水珠，磨砂玻璃外的城市光晕在雾面形成柔焦光斑，奢华的大理石浴室里金色装饰反射着烛光，她微微侧头向镜头绽放温暖笑容，水珠沿着铜质浴缸边缘缓缓滑落，高对比度的光影勾勒出沙漏身材曲线，氤氲水汽中漂浮着细小的虹彩泡泡"
+        "镜头从Mikami Yua的珍珠耳环特写缓慢后拉，黑色蕾丝内衣勾勒的身形逐渐完整展现，右手轻柔抚过垂落胸前的发丝，左脚缓慢抬起时带动浴缸表面蒸汽微颤，中景眼平视角呈现她倚靠浴缸的优雅曲线，大理石台面倒映着落地窗外流动的城市光轨，LED灯带在磨砂玻璃上晕染出柔光涟漪，现代简约风格浴室充盈着蒸腾水雾的氤氲感"
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -11451,76 +11345,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 583,
-      "type": "Evaluate Strings",
-      "pos": [
-        3013.914794921875,
-        5786.1474609375
-      ],
-      "size": [
-        302.5815734863281,
-        174
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 186,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "pos": [
-            10,
-            84
-          ],
-          "widget": {
-            "name": "a"
-          },
-          "link": 1031
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "pos": [
-            10,
-            132
-          ],
-          "widget": {
-            "name": "c"
-          },
-          "link": 1026
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1019
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b + c",
-        "False",
-        "Hello",
-        "我的图像提示词是：",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
       "id": 549,
       "type": "LoadImage",
       "pos": [
@@ -11558,7 +11382,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Yui_Hatano_Lingerie_Bathtub_110957787008834_high_0001.jpg",
+        "Mikami_Yua_Bathtub_860086757217470_high_0001.jpg",
         "image"
       ],
       "color": "#232",
@@ -11643,72 +11467,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1112.324951171875,
-        913.31884765625
-      ],
-      "size": [
-        354.12896728515625,
-        170
-      ],
-      "flags": {},
-      "order": 106,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 835
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 836
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            837
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            838
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\01_美女\\01_真人角色\\BDYJY.safetensors",
-          "image": null
-        },
-        1,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 464,
@@ -11824,6 +11582,121 @@
       "bgcolor": "#353"
     },
     {
+      "id": 403,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -2372.569580078125,
+        220.8515167236328
+      ],
+      "size": [
+        603.0744018554688,
+        348.3393859863281
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 157,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 936
+        }
+      ],
+      "outputs": [],
+      "title": " 提示词(中文)",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 382,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4337.44384765625,
+        -384.21026611328125
+      ],
+      "size": [
+        434.6526794433594,
+        183.7159881591797
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 164,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 706
+        }
+      ],
+      "outputs": [],
+      "title": "图片内容",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 593,
+      "type": "Reroute",
+      "pos": [
+        54.00770950317383,
+        464.6148681640625
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 165,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1033
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "*",
+          "links": [
+            1034
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
       "id": 359,
       "type": "String",
       "pos": [
@@ -11859,7 +11732,7 @@
         "Node name for S&R": "String"
       },
       "widgets_values": [
-        "美女Yui Hatano身穿性感内衣站在浴缸边，朝镜头微笑，全身照",
+        "美女mikami yua身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
         [
           false,
           true
@@ -11867,6 +11740,181 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 458,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1112.324951171875,
+        913.31884765625
+      ],
+      "size": [
+        354.12896728515625,
+        170
+      ],
+      "flags": {},
+      "order": 106,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 835
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 836
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            837
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            838
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\01_美女\\01_真人角色\\ssyy_f1a.safetensors",
+          "image": null
+        },
+        0.9,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 594,
+      "type": "Reroute",
+      "pos": [
+        1866.2554931640625,
+        4075.093017578125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 170,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1034
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "*",
+          "links": [
+            1035
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 583,
+      "type": "Evaluate Strings",
+      "pos": [
+        3013.914794921875,
+        5786.1474609375
+      ],
+      "size": [
+        302.5815734863281,
+        174
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 177,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            84
+          ],
+          "widget": {
+            "name": "a"
+          },
+          "link": 1031
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "pos": [
+            10,
+            132
+          ],
+          "widget": {
+            "name": "c"
+          },
+          "link": 1035
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1019
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的图像提示词是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
     },
     {
       "id": 463,
@@ -11906,7 +11954,7 @@
         "Node name for S&R": "CR Text"
       },
       "widgets_values": [
-        "meinv+You construct the required natural language vocabulary through imagination",
+        "she is mikami yua",
         [
           false,
           true
@@ -11961,6 +12009,41 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 384,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4339.6640625,
+        -160.04782104492188
+      ],
+      "size": [
+        428.7169189453125,
+        368.8460998535156
+      ],
+      "flags": {},
+      "order": 188,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 888
+        }
+      ],
+      "outputs": [],
+      "title": "Show Positive  Prompt",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -14373,14 +14456,6 @@
       "*"
     ],
     [
-      1026,
-      494,
-      0,
-      583,
-      1,
-      "STRING"
-    ],
-    [
       1027,
       584,
       1,
@@ -14418,6 +14493,30 @@
       0,
       583,
       0,
+      "STRING"
+    ],
+    [
+      1033,
+      383,
+      0,
+      593,
+      0,
+      "*"
+    ],
+    [
+      1034,
+      593,
+      0,
+      594,
+      0,
+      "*"
+    ],
+    [
+      1035,
+      594,
+      0,
+      583,
+      1,
       "STRING"
     ]
   ],
@@ -14621,10 +14720,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650705,
+      "scale": 0.6830134553650709,
       "offset": [
-        3739.267304752648,
-        451.88654698957447
+        6267.830556024645,
+        1216.2788304352089
       ]
     },
     "groupNodes": {},
