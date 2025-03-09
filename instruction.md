@@ -12,13 +12,19 @@ conda activate ComfyUI
 - windows
 
 ```
-python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+# python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+
+# 执行nvidia-smi查看cuda版本，pytorch对应的版本查看https://pytorch.org/官网
+python -m pip install --pre torch torchvision torchaudio torchmetrics torchsde torchvision --index-url https://download.pytorch.org/whl/nightly/cu128
+
 python -m pip install -r requirements.txt
 ```
 
 > 更新troch的方式
 > ```
-> python -m pip install --upgrade torch torchvision torchaudio torchmetrics torchsde torchvision --index-url https://download.pytorch.org/whl/cu121
+> # python -m pip install --upgrade torch torchvision torchaudio torchmetrics torchsde torchvision --index-url https://download.pytorch.org/whl/cu121
+> # 执行nvidia-smi查看cuda版本，pytorch对应的版本查看https://pytorch.org/官网
+> python -m pip install --pre --upgrade torch torchvision torchaudio torchmetrics torchsde torchvision --index-url https://download.pytorch.org/whl/nightly/cu128
 > ```
 
 - mac
