@@ -12,6 +12,9 @@ rgthree-comfy=https://gh-proxy.com/https://github.com/rgthree/rgthree-comfy.git
 ComfyUi_String_Function_Tree=https://gh-proxy.com/https://github.com/wolfden/ComfyUi_String_Function_Tree.git
 # 效率节点
 efficiency-nodes-comfyui=https://gh-proxy.com/https://github.com/jags111/efficiency-nodes-comfyui.git
+comfyui_controlnet_aux=https://gh-proxy.com/https://github.com/Fannovel16/comfyui_controlnet_aux.git
+ComfyUI-Advanced-ControlNet=https://gh-proxy.com/https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+ComfyUI-AnimateDiff-Evolved=https://gh-proxy.com/https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
 # 细节增强
 ComfyUI-Detail-Daemon=https://gh-proxy.com/https://github.com/Jonseed/ComfyUI-Detail-Daemon.git
 # SD
