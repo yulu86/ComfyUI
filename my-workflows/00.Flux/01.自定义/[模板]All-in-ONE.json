@@ -3745,7 +3745,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Mikami_Yua_Bathtub_898463928498588_low"
+        "Seductive_Bathroom_Glamour_1006922579773036_low"
       ]
     },
     {
@@ -3945,8 +3945,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 94,
-      "mode": 4,
+      "order": 91,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -4080,8 +4080,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
-      "mode": 4,
+      "order": 110,
+      "mode": 0,
       "inputs": [
         {
           "name": "context",
@@ -4196,7 +4196,7 @@
       ],
       "flags": {},
       "order": 16,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -4232,7 +4232,7 @@
         "collapsed": true
       },
       "order": 74,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "text_a",
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        616931475946293,
+        435416537666262,
         "randomize",
         25,
         1,
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        776863354113695,
+        16778459427436,
         "randomize",
         20,
         1,
@@ -4916,7 +4916,7 @@
         "collapsed": true
       },
       "order": 21,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -4955,7 +4955,7 @@
         "collapsed": true
       },
       "order": 22,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -5065,7 +5065,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        550838582825708,
+        83571400147904,
         "randomize"
       ],
       "color": "#232",
@@ -5364,7 +5364,7 @@
       ],
       "flags": {},
       "order": 26,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -5547,7 +5547,7 @@
       ],
       "flags": {},
       "order": 27,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -5571,7 +5571,7 @@
       ],
       "flags": {},
       "order": 134,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "source",
@@ -5588,7 +5588,7 @@
         "Node name for S&R": "Display Any (rgthree)"
       },
       "widgets_values": [
-        "<think>\n嗯，我现在需要帮助用户生成一个AI绘画提示词。用户给的主题是“高清桌面壁纸，一拳超人中战栗的龙卷”。首先，我得理解用户的需求是什么。他们想要一张适合用作桌面壁纸的图片，主题是《一拳超人》中的角色龙卷，而且要表现出她的“战栗”感。\n\n接下来，我要考虑提示词需要包含哪些元素。根据用户的指示，提示词应该包括环境、场景、拍摄视角，以及人物特征如服饰、外貌、动作等。同时，用户希望生成的提示词是英文的，并且在后面翻译成中文，还要选择一个合适画面风格。\n\n首先，确定画面标题。标题需要用三个以内的英文单词，用下划线连接。“高清桌面壁纸”可能对应“HD_desktop_wallpaper”，但更准确的是直接体现主题，所以可能会选“Tatsuki_in_Hero_Sounds”或者类似的名字，不过用户给的例子中用了角色名字和作品名的组合，比如“Rebecca_ from_Cyberpunk”。这里龙卷来自《一拳超人》，可能标题可以是“Tatsuki_from_One_Punch_Man”。\n\n接下来，生成英文提示词。需要详细描述环境、场景、人物特征等。例如，环境可能是夜晚的城市街道，有霓虹灯和摩天大楼的倒影。龙卷应该穿着她标志性的白色连衣裙，红色披风飘扬，表情紧张，充满力量感。动作方面，她可能站在屋顶边缘，双手紧握拳头，散发出强大的气场。\n\n拍摄视角方面，可以选择高角度（High Angle）来突出她的存在感和周围环境的广阔。同时，加入一些动态元素，比如风吹动她的头发和披风，增加画面的动感。背景可以描绘城市的繁忙景象，霓虹灯闪烁，营造一种紧张而充满力量的氛围。\n\n然后是中文提示词，需要将英文内容准确翻译，并保持描述的详细程度。最后，选择合适画面风格，可能选“game-retro game”或者其他适合动漫风格的选项。\n\n在生成过程中，我还需要确保不使用任何markdown格式，只用纯文本，避免多余的内容，严格按照用户的要求输出。同时，检查是否需要包含角色的名字和出处，这里龙卷来自《一拳超人》，所以要明确写出来。\n\n最后，整合所有元素，按照示例的格式组织内容，包括标题、分割线、英文提示词、中文翻译以及画面风格选择。确保每个部分都清晰明了，符合用户的期望。"
+        ""
       ],
       "color": "#222",
       "bgcolor": "#000"
@@ -5649,7 +5649,7 @@
         "collapsed": true
       },
       "order": 78,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -5846,7 +5846,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1105987930367985,
+        821870803845066,
         "randomize",
         40,
         1,
@@ -7797,7 +7797,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 93,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -7917,7 +7917,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -8079,7 +8079,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 112,
       "mode": 4,
       "inputs": [
         {
@@ -8141,8 +8141,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
-      "mode": 4,
+      "order": 121,
+      "mode": 0,
       "inputs": [
         {
           "name": "text",
@@ -8215,7 +8215,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 122,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -8279,53 +8279,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -211.74111938476562
-      ],
-      "size": [
-        846.5399780273438,
-        996.5400390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 41,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            747,
-            748,
-            806
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 426,
       "type": "Simple String",
       "pos": [
@@ -8339,8 +8292,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 42,
-      "mode": 0,
+      "order": 41,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8376,7 +8329,7 @@
         78
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8423,7 +8376,7 @@
         "collapsed": true
       },
       "order": 124,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "a",
@@ -8522,8 +8475,8 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 44,
-      "mode": 0,
+      "order": 43,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -8567,7 +8520,7 @@
         "collapsed": true
       },
       "order": 86,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "a",
@@ -8635,7 +8588,7 @@
         314
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9035,7 +8988,7 @@
         314
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9080,7 +9033,7 @@
         314
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9258,7 +9211,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        319867529455619,
+        269491961646018,
         "randomize",
         20,
         6,
@@ -9499,7 +9452,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 48,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9747,7 +9700,7 @@
         58
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9817,7 +9770,7 @@
         98
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9854,7 +9807,7 @@
         82
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9994,7 +9947,7 @@
         58
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10032,7 +9985,7 @@
         58
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10217,7 +10170,7 @@
         58
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10350,7 +10303,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 121,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -10387,7 +10340,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 94,
       "mode": 4,
       "inputs": [
         {
@@ -10539,7 +10492,7 @@
       },
       "widgets_values": [
         2,
-        182462371460425,
+        1077666410433290,
         "randomize",
         20,
         1,
@@ -10572,8 +10525,8 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 55,
-      "mode": 0,
+      "order": 54,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -10620,7 +10573,7 @@
         58
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10950,7 +10903,7 @@
         58
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11114,7 +11067,7 @@
         792.4426879882812
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11158,7 +11111,7 @@
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11198,7 +11151,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 60,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11240,7 +11193,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 61,
+      "order": 60,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11458,118 +11411,6 @@
       }
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -487.5561218261719
-      ],
-      "size": [
-        726.5386962890625,
-        225.73260498046875
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 62,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "美女mikami yua身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1112.324951171875,
-        913.31884765625
-      ],
-      "size": [
-        354.12896728515625,
-        170
-      ],
-      "flags": {},
-      "order": 105,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 835
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 836
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            837
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            838
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\01_美女\\01_真人角色\\ssyy_f1a.safetensors",
-          "image": null
-        },
-        0.9,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 583,
       "type": "Evaluate Strings",
       "pos": [
@@ -11630,102 +11471,6 @@
       "color": "#223",
       "bgcolor": "#335",
       "shape": 1
-    },
-    {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "she is mikami yua",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 64,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
     },
     {
       "id": 384,
@@ -11817,8 +11562,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 65,
-      "mode": 4,
+      "order": 61,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -11838,6 +11583,261 @@
       },
       "widgets_values": [
         "qwq"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 458,
+      "type": "LoraLoader|pysssss",
+      "pos": [
+        -1112.324951171875,
+        913.31884765625
+      ],
+      "size": [
+        354.12896728515625,
+        170
+      ],
+      "flags": {},
+      "order": 105,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 835
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 836
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            837
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            838
+          ],
+          "slot_index": 1
+        },
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-custom-scripts",
+        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
+        "Node name for S&R": "LoraLoader|pysssss"
+      },
+      "widgets_values": [
+        {
+          "content": "01_Flux\\01_美女\\01_真人角色\\c1.safetensors",
+          "image": "loras/01_Flux\\01_美女\\01_真人角色\\c1.png"
+        },
+        1,
+        1,
+        "[none]"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 62,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "c1",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -487.5561218261719
+      ],
+      "size": [
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 64,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "美女身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -211.74111938476562
+      ],
+      "size": [
+        846.5399780273438,
+        996.5400390625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            747,
+            748,
+            806
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并y严格按照 <Output> 要求，参考 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -14517,10 +14517,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.26333125430607984,
+      "scale": 1.1,
       "offset": [
-        5477.274570991207,
-        1967.2642167916667
+        4676.991760548356,
+        509.2218034461946
       ]
     },
     "groupNodes": {},
