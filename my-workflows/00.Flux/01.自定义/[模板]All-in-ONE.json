@@ -1,6 +1,6 @@
 {
-  "last_node_id": 594,
-  "last_link_id": 1035,
+  "last_node_id": 604,
+  "last_link_id": 1047,
   "nodes": [
     {
       "id": 144,
@@ -3745,7 +3745,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Seductive_Bathroom_Glamour_1006922579773036_low"
+        "Bathroom_Glamour_Portrait_25741730114306_low"
       ]
     },
     {
@@ -3769,7 +3769,7 @@
           "type": "CLIP",
           "shape": 3,
           "links": [
-            828
+            1041
           ],
           "slot_index": 0
         }
@@ -3945,7 +3945,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -4080,7 +4080,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        435416537666262,
+        752862504996680,
         "randomize",
         25,
         1,
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        16778459427436,
+        593771472041324,
         "randomize",
         20,
         1,
@@ -5065,7 +5065,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        83571400147904,
+        616125356432260,
         "randomize"
       ],
       "color": "#232",
@@ -5223,7 +5223,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -5570,7 +5570,7 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 134,
+      "order": 132,
       "mode": 0,
       "inputs": [
         {
@@ -5846,7 +5846,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        821870803845066,
+        936382713294041,
         "randomize",
         40,
         1,
@@ -5854,72 +5854,6 @@
         "ddim_uniform",
         1
       ]
-    },
-    {
-      "id": 455,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -1638.5693359375,
-        913.31884765625
-      ],
-      "size": [
-        352.91259765625,
-        170
-      ],
-      "flags": {},
-      "order": 82,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 829
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 828
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            835
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            836
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\03_画面风格\\abstract_arts_flux_lora_03.safetensors",
-          "image": "loras/01_Flux\\03_画面风格\\abstract_arts_flux_lora_03.jpeg"
-        },
-        0.8,
-        1,
-        "[none]"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 161,
@@ -7666,43 +7600,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 93,
-      "type": "UNETLoader",
-      "pos": [
-        -1091.235107421875,
-        -398.1095275878906
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 39,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            829
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.15",
-        "Node name for S&R": "UNETLoader"
-      },
-      "widgets_values": [
-        "flux1-dev.safetensors",
-        "fp8_e4m3fn"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 462,
       "type": "Reroute",
       "pos": [
@@ -7716,13 +7613,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 132,
+      "order": 134,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 844
+          "link": 1047
         }
       ],
       "outputs": [
@@ -7756,13 +7653,13 @@
       "flags": {
         "pinned": true
       },
-      "order": 131,
+      "order": 133,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 843
+          "link": 1046
         }
       ],
       "outputs": [
@@ -7797,7 +7694,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 92,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -7917,7 +7814,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 93,
+      "order": 92,
       "mode": 4,
       "inputs": [
         {
@@ -8079,7 +7976,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 111,
       "mode": 4,
       "inputs": [
         {
@@ -8141,7 +8038,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 121,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -8215,7 +8112,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -8253,7 +8150,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 40,
+      "order": 39,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8292,7 +8189,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 41,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8329,7 +8226,7 @@
         78
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8424,7 +8321,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -8475,7 +8372,7 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8519,7 +8416,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -8588,7 +8485,7 @@
         314
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8663,7 +8560,7 @@
         82
       ],
       "flags": {},
-      "order": 107,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -8698,7 +8595,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 118,
       "mode": 4,
       "inputs": [
         {
@@ -8852,7 +8749,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 131,
       "mode": 0,
       "inputs": [
         {
@@ -8988,7 +8885,7 @@
         314
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9033,7 +8930,7 @@
         314
       ],
       "flags": {},
-      "order": 46,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9075,7 +8972,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 83,
+      "order": 82,
       "mode": 4,
       "inputs": [
         {
@@ -9211,7 +9108,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        269491961646018,
+        149403453636242,
         "randomize",
         20,
         6,
@@ -9265,7 +9162,7 @@
         78
       ],
       "flags": {},
-      "order": 90,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -9452,7 +9349,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9494,7 +9391,7 @@
         180.6060791015625
       ],
       "flags": {},
-      "order": 84,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -9543,7 +9440,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -9596,7 +9493,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 108,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -9653,7 +9550,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 120,
+      "order": 119,
       "mode": 4,
       "inputs": [
         {
@@ -9700,7 +9597,7 @@
         58
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9734,7 +9631,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -9770,7 +9667,7 @@
         98
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9807,7 +9704,7 @@
         82
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9947,7 +9844,7 @@
         58
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9985,7 +9882,7 @@
         58
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10067,7 +9964,7 @@
         26
       ],
       "flags": {},
-      "order": 87,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -10170,7 +10067,7 @@
         58
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10303,7 +10200,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 122,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -10340,7 +10237,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 94,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -10492,7 +10389,7 @@
       },
       "widgets_values": [
         2,
-        1077666410433290,
+        965002134802876,
         "randomize",
         20,
         1,
@@ -10525,7 +10422,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 54,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10573,7 +10470,7 @@
         58
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10903,7 +10800,7 @@
         58
       ],
       "flags": {},
-      "order": 56,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10944,7 +10841,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -11016,7 +10913,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -11067,7 +10964,7 @@
         792.4426879882812
       ],
       "flags": {},
-      "order": 57,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11111,7 +11008,7 @@
         58
       ],
       "flags": {},
-      "order": 58,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11151,7 +11048,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 59,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11193,7 +11090,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 60,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11225,72 +11122,6 @@
           false,
           true
         ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 459,
-      "type": "LoraLoader|pysssss",
-      "pos": [
-        -574.1238403320312,
-        913.31884765625
-      ],
-      "size": [
-        352.2490539550781,
-        170
-      ],
-      "flags": {},
-      "order": 118,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 837
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 838
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            843
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            844
-          ],
-          "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
-      },
-      "widgets_values": [
-        {
-          "content": "01_Flux\\03_画面风格\\cinematic film IMAX70mm Filmstrip style v1.safetensors",
-          "image": null
-        },
-        0.3,
-        1,
-        "[none]"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -11562,7 +11393,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 61,
+      "order": 60,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11588,29 +11419,75 @@
       "bgcolor": "#335"
     },
     {
-      "id": 458,
-      "type": "LoraLoader|pysssss",
+      "id": 359,
+      "type": "String",
       "pos": [
-        -1112.324951171875,
-        913.31884765625
+        -5429.1181640625,
+        -487.5561218261719
       ],
       "size": [
-        354.12896728515625,
-        170
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 61,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "美女身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 596,
+      "type": "LoraLoader",
+      "pos": [
+        -1108.1763916015625,
+        945.2117309570312
+      ],
+      "size": [
+        315,
+        126
       ],
       "flags": {},
-      "order": 105,
-      "mode": 0,
+      "order": 112,
+      "mode": 4,
       "inputs": [
         {
           "name": "model",
           "type": "MODEL",
-          "link": 835
+          "link": 1042
         },
         {
           "name": "clip",
           "type": "CLIP",
-          "link": 836
+          "link": 1043
         }
       ],
       "outputs": [
@@ -11618,7 +11495,7 @@
           "name": "MODEL",
           "type": "MODEL",
           "links": [
-            837
+            1044
           ],
           "slot_index": 0
         },
@@ -11626,29 +11503,134 @@
           "name": "CLIP",
           "type": "CLIP",
           "links": [
-            838
+            1045
           ],
           "slot_index": 1
-        },
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": null
         }
       ],
       "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "bbda5e52ad580c13ceaa53136d9c2bed9137bd2e",
-        "Node name for S&R": "LoraLoader|pysssss"
+        "cnr_id": "comfy-core",
+        "ver": "0.3.24",
+        "Node name for S&R": "LoraLoader"
       },
       "widgets_values": [
+        "01_Flux\\01_美女\\01_真人角色\\jbmz.safetensors",
+        1,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 603,
+      "type": "LoraLoader",
+      "pos": [
+        -1673.9571533203125,
+        945.2117309570312
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 94,
+      "mode": 4,
+      "inputs": [
         {
-          "content": "01_Flux\\01_美女\\01_真人角色\\c1.safetensors",
-          "image": "loras/01_Flux\\01_美女\\01_真人角色\\c1.png"
+          "name": "model",
+          "type": "MODEL",
+          "link": 1040
         },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1041
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1042
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1043
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.24",
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "01_Flux\\01_美女\\01_真人角色\\dqwj.safetensors",
         1,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 604,
+      "type": "LoraLoader",
+      "pos": [
+        -577.8649291992188,
+        945.2117309570312
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 123,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1044
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1045
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1046
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1047
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.24",
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "01_Flux\\01_美女\\01_真人角色\\dqwj.safetensors",
         1,
-        "[none]"
+        1
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -11666,7 +11648,7 @@
       ],
       "flags": {},
       "order": 62,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -11692,7 +11674,7 @@
         "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
-        "c1",
+        "meinv+You construct the required natural language vocabulary through imagination",
         [
           false,
           true
@@ -11714,7 +11696,7 @@
       ],
       "flags": {},
       "order": 63,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -11750,52 +11732,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -487.5561218261719
-      ],
-      "size": [
-        726.5386962890625,
-        225.73260498046875
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 64,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "美女身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 408,
       "type": "String",
       "pos": [
@@ -11810,7 +11746,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 65,
+      "order": 64,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11833,7 +11769,7 @@
         "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并y严格按照 <Output> 要求，参考 <Examples> 的格式返回。",
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并严格按照 <Output> 要求，参考 <Examples> 的格式返回。",
         [
           false,
           true
@@ -11841,6 +11777,43 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 93,
+      "type": "UNETLoader",
+      "pos": [
+        -1091.235107421875,
+        -398.1095275878906
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1040
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "flux1-dev.safetensors",
+        "fp8_e4m3fn"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -13373,60 +13346,12 @@
       "*"
     ],
     [
-      828,
-      11,
-      0,
-      455,
-      1,
-      "CLIP"
-    ],
-    [
-      829,
-      93,
-      0,
-      455,
-      0,
-      "MODEL"
-    ],
-    [
       834,
       457,
       0,
       82,
       0,
       "*"
-    ],
-    [
-      835,
-      455,
-      0,
-      458,
-      0,
-      "MODEL"
-    ],
-    [
-      836,
-      455,
-      1,
-      458,
-      1,
-      "CLIP"
-    ],
-    [
-      837,
-      458,
-      0,
-      459,
-      0,
-      "MODEL"
-    ],
-    [
-      838,
-      458,
-      1,
-      459,
-      1,
-      "CLIP"
     ],
     [
       841,
@@ -13443,22 +13368,6 @@
       6,
       0,
       "CLIP"
-    ],
-    [
-      843,
-      459,
-      0,
-      461,
-      0,
-      "*"
-    ],
-    [
-      844,
-      459,
-      1,
-      462,
-      0,
-      "*"
     ],
     [
       845,
@@ -14315,6 +14224,70 @@
       583,
       1,
       "STRING"
+    ],
+    [
+      1040,
+      93,
+      0,
+      603,
+      0,
+      "MODEL"
+    ],
+    [
+      1041,
+      11,
+      0,
+      603,
+      1,
+      "CLIP"
+    ],
+    [
+      1042,
+      603,
+      0,
+      596,
+      0,
+      "MODEL"
+    ],
+    [
+      1043,
+      603,
+      1,
+      596,
+      1,
+      "CLIP"
+    ],
+    [
+      1044,
+      596,
+      0,
+      604,
+      0,
+      "MODEL"
+    ],
+    [
+      1045,
+      596,
+      1,
+      604,
+      1,
+      "CLIP"
+    ],
+    [
+      1046,
+      604,
+      0,
+      461,
+      0,
+      "*"
+    ],
+    [
+      1047,
+      604,
+      1,
+      462,
+      0,
+      "*"
     ]
   ],
   "groups": [
@@ -14517,10 +14490,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1,
+      "scale": 0.6830134553650705,
       "offset": [
-        4676.991760548356,
-        509.2218034461946
+        1760.607989770111,
+        304.2030906545288
       ]
     },
     "groupNodes": {},
