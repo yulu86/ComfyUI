@@ -145,9 +145,10 @@
         }
       ],
       "properties": {
-        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
+        "cnr_id": "advancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
-        "Node name for S&R": "ReduxAdvanced"
+        "Node name for S&R": "ReduxAdvanced",
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl"
       },
       "widgets_values": [
         2,
@@ -264,9 +265,10 @@
         }
       ],
       "properties": {
-        "aux_id": "city96/ComfyUI-GGUF",
+        "cnr_id": "comfyui-gguf",
         "ver": "5875c52f59baca3a9372d68c43a3775e21846fe0",
-        "Node name for S&R": "UnetLoaderGGUF"
+        "Node name for S&R": "UnetLoaderGGUF",
+        "aux_id": "city96/ComfyUI-GGUF"
       },
       "widgets_values": [
         "myhumanFlux_myh13GGUF.gguf"
@@ -1133,9 +1135,10 @@
         }
       ],
       "properties": {
-        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
+        "cnr_id": "advancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
-        "Node name for S&R": "ReduxAdvanced"
+        "Node name for S&R": "ReduxAdvanced",
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl"
       },
       "widgets_values": [
         1,
@@ -3749,9 +3752,10 @@
         }
       ],
       "properties": {
-        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl",
+        "cnr_id": "advancedRefluxControl",
         "ver": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
-        "Node name for S&R": "ReduxAdvanced"
+        "Node name for S&R": "ReduxAdvanced",
+        "aux_id": "kaibioinfo/ComfyUI_AdvancedRefluxControl"
       },
       "widgets_values": [
         2,
@@ -4064,9 +4068,10 @@
         }
       ],
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR String To Combo"
+        "Node name for S&R": "CR String To Combo",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         ""
@@ -4716,9 +4721,10 @@
       ],
       "title": "Steps",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "40"
@@ -5006,9 +5012,10 @@
       ],
       "title": "Upscale Steps",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "12"
@@ -5741,9 +5748,10 @@
       ],
       "title": "开关",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "0"
@@ -6277,9 +6285,10 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "abstract_arts",
@@ -6622,9 +6631,10 @@
       ],
       "title": "Height",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "768"
@@ -6665,9 +6675,10 @@
       ],
       "title": "提示词 - 画质",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "(8k, best quality, masterpiece:1.2),ultra-detailed,",
@@ -6830,9 +6841,10 @@
         }
       ],
       "properties": {
-        "aux_id": "giriss/comfy-image-saver",
+        "cnr_id": "image-saver",
         "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
-        "Node name for S&R": "String Literal"
+        "Node name for S&R": "String Literal",
+        "aux_id": "giriss/comfy-image-saver"
       },
       "widgets_values": [
         "Negative Prompt:",
@@ -6915,9 +6927,10 @@
         }
       ],
       "properties": {
-        "aux_id": "giriss/comfy-image-saver",
+        "cnr_id": "image-saver",
         "ver": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
-        "Node name for S&R": "String Literal"
+        "Node name for S&R": "String Literal",
+        "aux_id": "giriss/comfy-image-saver"
       },
       "widgets_values": [
         "Positive Prompt:",
@@ -7397,9 +7410,10 @@
       ],
       "title": "Width",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "1024"
@@ -7573,9 +7587,10 @@
       ],
       "title": "画面风格",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR String To Combo"
+        "Node name for S&R": "CR String To Combo",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         ""
@@ -8208,9 +8223,10 @@
         }
       ],
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Split String"
+        "Node name for S&R": "CR Split String",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "text",
@@ -8343,9 +8359,10 @@
         }
       ],
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Split String"
+        "Node name for S&R": "CR Split String",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "text",
@@ -8463,9 +8480,10 @@
       ],
       "title": "模板",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回。",
@@ -8689,9 +8707,10 @@
       ],
       "title": "画面风格",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "base",
@@ -9159,9 +9178,10 @@
       ],
       "title": "图片Info",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text Input Switch (4 way)"
+        "Node name for S&R": "CR Text Input Switch (4 way)",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         1,
@@ -9672,9 +9692,10 @@
       ],
       "title": "保存目录",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "wan_video",
@@ -9779,9 +9800,10 @@
         }
       ],
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Float To Integer"
+        "Node name for S&R": "CR Float To Integer",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         0
@@ -10193,9 +10215,10 @@
       ],
       "title": "Width",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "832"
@@ -10230,9 +10253,10 @@
       ],
       "title": "Height",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "480"
@@ -10811,9 +10835,10 @@
       ],
       "title": "提示词",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "cute girl",
@@ -10853,9 +10878,10 @@
       ],
       "title": "帧率",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float"
+        "Node name for S&R": "Float",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "24"
@@ -11198,9 +11224,10 @@
       ],
       "title": "视频长度",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Int"
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "2"
@@ -11334,9 +11361,10 @@
         }
       ],
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Integer To String"
+        "Node name for S&R": "CR Integer To String",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         0
@@ -11415,9 +11443,10 @@
       ],
       "title": "Upscale Factor",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float"
+        "Node name for S&R": "Float",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "2"
@@ -11454,9 +11483,10 @@
       ],
       "title": "模板",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像提示词，生成<length>秒视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
@@ -11501,9 +11531,10 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "cinematic film style, IMAX70mm , filmstrip border",
@@ -11727,9 +11758,10 @@
       ],
       "title": "主题",
       "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
+        "cnr_id": "comfyliterals",
         "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String"
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
       },
       "widgets_values": [
         "美女mikami yua身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
@@ -11806,45 +11838,6 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
-    },
-    {
-      "id": 594,
-      "type": "Reroute",
-      "pos": [
-        1866.2554931640625,
-        4075.093017578125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 170,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "widget": {
-            "name": "value"
-          },
-          "link": 1034
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "*",
-          "links": [
-            1035
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
     },
     {
       "id": 583,
@@ -11949,9 +11942,10 @@
       ],
       "title": "提示词 - Lora 触发词",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "she is mikami yua",
@@ -11996,9 +11990,10 @@
       ],
       "title": "提示词 - 美女(可选)",
       "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "cnr_id": "comfyroll",
         "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text"
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
       },
       "widgets_values": [
         "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
@@ -12044,6 +12039,47 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 594,
+      "type": "Reroute",
+      "pos": [
+        1866.2554931640625,
+        4075.093017578125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 170,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1034
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "*",
+          "links": [
+            1035
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
     }
   ],
   "links": [
@@ -14720,10 +14756,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650709,
+      "scale": 0.23939204936916395,
       "offset": [
-        6267.830556024645,
-        1216.2788304352089
+        4808.620021980175,
+        675.1184371007687
       ]
     },
     "groupNodes": {},
