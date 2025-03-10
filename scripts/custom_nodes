@@ -4,8 +4,14 @@ ComfyUI-Manager=https://gh-proxy.com/https://github.com/ltdrdata/ComfyUI-Manager
 ComfyUI_Custom_Nodes_AlekPet=https://gh-proxy.com/https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
 # Ollama插件
 comfyui-ollama=https://gh-proxy.com/https://github.com/stavsap/comfyui-ollama.git
+# Comfyui-Deepseek
+Comfyui-Deepseek=https://gh-proxy.com/https://github.com/yichengup/Comfyui-Deepseek.git
 # 百度翻译
 ComfyUI_Prompt_Translate_to_English=https://gh-proxy.com/https://github.com/pengchengmi/ComfyUI_Prompt_Translate_to_English.git
+# ComfyUI-GGUF
+ComfyUI-GGUF=https://gh-proxy.com/https://github.com/city96/ComfyUI-GGUF.git
+# ComfyUI-Janus-Pro
+ComfyUI-Janus-Pro=https://gh-proxy.com/https://github.com/CY-CHENYUE/ComfyUI-Janus-Pro.git
 # rgthree-comfy
 rgthree-comfy=https://gh-proxy.com/https://github.com/rgthree/rgthree-comfy.git
 # ComfyUi_String_Function_Tree
@@ -37,8 +43,6 @@ ComfyLiterals=https://gh-proxy.com/https://github.com/M1kep/ComfyLiterals.git
 Comfyui_TTP_Toolset=https://gh-proxy.com/https://github.com/TTPlanetPig/Comfyui_TTP_Toolset.git
 # comfy-image-saver
 comfy-image-saver=https://gh-proxy.com/https://github.com/giriss/comfy-image-saver.git
-# ComfyUI-GGUF
-ComfyUI-GGUF=https://gh-proxy.com/https://github.com/city96/ComfyUI-GGUF.git
 # was-node-suite-comfyui
 was-node-suite-comfyui=https://gh-proxy.com/https://github.com/WASasquatch/was-node-suite-comfyui.git
 # ComfyUI_UltimateSDUpscale
@@ -73,13 +77,9 @@ ComfyUI-VideoHelperSuite=https://gh-proxy.com/https://github.com/Kosinkadink/Com
 ComfyUI-HunyuanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyUI-HunyuanVideoWrapper.git
 # ComfyUI-HunyuanLoom
 ComfyUI-HunyuanLoom=https://gh-proxy.com/https://github.com/logtd/ComfyUI-HunyuanLoom.git
-# Comfyui-Deepseek
-Comfyui-Deepseek=https://gh-proxy.com/https://github.com/yichengup/Comfyui-Deepseek.git
 # ComfyUI-Custom-Scripts
 ComfyUI-Custom-Scripts=https://gh-proxy.com/https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
 # ComfyUI-Florence2
 ComfyUI-Florence2=https://gh-proxy.com/https://github.com/kijai/ComfyUI-Florence2.git
 # comfyui-tensorops
 comfyui-tensorops=https://gh-proxy.com/https://github.com/un-seen/comfyui-tensorops.git
-# ComfyUI-Janus-Pro
-ComfyUI-Janus-Pro=https://gh-proxy.com/https://github.com/CY-CHENYUE/ComfyUI-Janus-Pro.git
