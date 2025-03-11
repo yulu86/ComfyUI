@@ -83,3 +83,7 @@ ComfyUI-Custom-Scripts=https://gh-proxy.com/https://github.com/pythongosssss/Com
 ComfyUI-Florence2=https://gh-proxy.com/https://github.com/kijai/ComfyUI-Florence2.git
 # comfyui-tensorops
 comfyui-tensorops=https://gh-proxy.com/https://github.com/un-seen/comfyui-tensorops.git
+# ComfyUI-WanVideoWrapper
+ComfyUI-WanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyUI-WanVideoWrapper.git
+# ComfyUI_TiledKSampler
+ComfyUI_TiledKSampler=https://gh-proxy.com/https://github.com/BlenderNeko/ComfyUI_TiledKSampler.git
