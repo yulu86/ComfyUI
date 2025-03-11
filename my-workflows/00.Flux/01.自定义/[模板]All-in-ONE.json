@@ -170,7 +170,7 @@
         26
       ],
       "flags": {},
-      "order": 103,
+      "order": 102,
       "mode": 4,
       "inputs": [
         {
@@ -437,7 +437,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 75,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2033,7 +2033,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 73,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -2192,7 +2192,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 81,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -2435,7 +2435,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 105,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -2599,7 +2599,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 77,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -2940,7 +2940,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -2981,7 +2981,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -3105,7 +3105,7 @@
         26
       ],
       "flags": {},
-      "order": 101,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -3391,7 +3391,7 @@
         112
       ],
       "flags": {},
-      "order": 76,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -3745,7 +3745,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Lady_in_Bath_Suite_409386058876959_low"
+        "Nagi_Poolside_Glamour_49141533722320_low"
       ]
     },
     {
@@ -3945,7 +3945,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 86,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4080,7 +4080,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 108,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -4231,7 +4231,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 74,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        798056169176437,
+        274906602052826,
         "randomize",
         25,
         1,
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1053868454933866,
+        1072114100999629,
         "randomize",
         20,
         1,
@@ -4560,12 +4560,12 @@
           {
             "name": "A",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_oljbg_00001_.png&type=temp&subfolder=&rand=0.417339276809942"
+            "url": "/api/view?filename=rgthree.compare._temp_onrvz_00001_.png&type=temp&subfolder=&rand=0.4204923339208406"
           },
           {
             "name": "B",
             "selected": true,
-            "url": "/api/view?filename=rgthree.compare._temp_oljbg_00002_.png&type=temp&subfolder=&rand=0.42805290887366354"
+            "url": "/api/view?filename=rgthree.compare._temp_onrvz_00002_.png&type=temp&subfolder=&rand=0.6590423523151465"
           }
         ]
       ],
@@ -4624,7 +4624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 100,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -4663,7 +4663,7 @@
         26
       ],
       "flags": {},
-      "order": 72,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -4699,7 +4699,7 @@
         26
       ],
       "flags": {},
-      "order": 99,
+      "order": 113,
       "mode": 4,
       "inputs": [
         {
@@ -4757,53 +4757,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 195,
-      "type": "LoadImage",
-      "pos": [
-        2768.161865234375,
-        3173.8671875
-      ],
-      "size": [
-        366.3084411621094,
-        388.9892578125
-      ],
-      "flags": {},
-      "order": 19,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "shape": 3,
-          "links": [
-            492,
-            758
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "shape": 3,
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "加载需要高清化的图像",
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.15",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Lady_in_Bath_Suite_409386058876959_low_0001.png",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 304,
@@ -4875,7 +4828,7 @@
         58
       ],
       "flags": {},
-      "order": 20,
+      "order": 19,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4915,7 +4868,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 21,
+      "order": 20,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4954,7 +4907,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 22,
+      "order": 21,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -4993,7 +4946,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 23,
+      "order": 22,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5026,7 +4979,7 @@
         142
       ],
       "flags": {},
-      "order": 24,
+      "order": 23,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5065,7 +5018,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        288108433854458,
+        772463207595606,
         "randomize"
       ],
       "color": "#232",
@@ -5197,7 +5150,7 @@
         195.27806091308594
       ],
       "flags": {},
-      "order": 25,
+      "order": 24,
       "mode": 0,
       "inputs": [],
       "outputs": [],
@@ -5363,7 +5316,7 @@
         82
       ],
       "flags": {},
-      "order": 26,
+      "order": 25,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5546,7 +5499,7 @@
         100.44618225097656
       ],
       "flags": {},
-      "order": 27,
+      "order": 26,
       "mode": 4,
       "inputs": [],
       "outputs": [],
@@ -5608,7 +5561,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 28,
+      "order": 27,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -5648,7 +5601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 78,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -5846,7 +5799,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        150951665237932,
+        1101930184529780,
         "randomize",
         40,
         1,
@@ -6008,7 +5961,7 @@
         314.0000305175781
       ],
       "flags": {},
-      "order": 29,
+      "order": 28,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6053,7 +6006,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 30,
+      "order": 29,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6389,7 +6342,7 @@
         58
       ],
       "flags": {},
-      "order": 31,
+      "order": 30,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6427,7 +6380,7 @@
         112.69139862060547
       ],
       "flags": {},
-      "order": 32,
+      "order": 31,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -6600,7 +6553,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 33,
+      "order": 32,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -6686,7 +6639,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 34,
+      "order": 33,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7106,7 +7059,7 @@
         500
       ],
       "flags": {},
-      "order": 79,
+      "order": 78,
       "mode": 4,
       "inputs": [
         {
@@ -7168,7 +7121,7 @@
         58
       ],
       "flags": {},
-      "order": 35,
+      "order": 34,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7242,7 +7195,7 @@
         106
       ],
       "flags": {},
-      "order": 36,
+      "order": 35,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7282,7 +7235,7 @@
         106
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7500,7 +7453,7 @@
         279.6590576171875
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -7694,7 +7647,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 92,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -7765,7 +7718,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 102,
+      "order": 101,
       "mode": 4,
       "inputs": [
         {
@@ -7814,7 +7767,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 87,
+      "order": 92,
       "mode": 4,
       "inputs": [
         {
@@ -7976,7 +7929,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 111,
       "mode": 4,
       "inputs": [
         {
@@ -8112,7 +8065,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 122,
+      "order": 125,
       "mode": 4,
       "inputs": [
         {
@@ -8150,7 +8103,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 39,
+      "order": 38,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8189,7 +8142,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 40,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8226,7 +8179,7 @@
         78
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8321,7 +8274,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -8372,7 +8325,7 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 42,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8416,7 +8369,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -8485,7 +8438,7 @@
         314
       ],
       "flags": {},
-      "order": 43,
+      "order": 42,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8560,7 +8513,7 @@
         82
       ],
       "flags": {},
-      "order": 107,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -8885,7 +8838,7 @@
         314
       ],
       "flags": {},
-      "order": 44,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8930,7 +8883,7 @@
         314
       ],
       "flags": {},
-      "order": 45,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8972,7 +8925,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 82,
+      "order": 81,
       "mode": 4,
       "inputs": [
         {
@@ -9056,101 +9009,6 @@
       "color": "rgba(38, 73, 116, 0.7)"
     },
     {
-      "id": 557,
-      "type": "KSampler",
-      "pos": [
-        5469.556640625,
-        4532.03125
-      ],
-      "size": [
-        315,
-        262
-      ],
-      "flags": {},
-      "order": 207,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 984
-        },
-        {
-          "name": "positive",
-          "type": "CONDITIONING",
-          "link": 981
-        },
-        {
-          "name": "negative",
-          "type": "CONDITIONING",
-          "link": 982
-        },
-        {
-          "name": "latent_image",
-          "type": "LATENT",
-          "link": 978
-        }
-      ],
-      "outputs": [
-        {
-          "name": "LATENT",
-          "type": "LATENT",
-          "links": [
-            973,
-            985
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "KSampler"
-      },
-      "widgets_values": [
-        67105431262528,
-        "randomize",
-        20,
-        6,
-        "uni_pc",
-        "simple",
-        1
-      ]
-    },
-    {
-      "id": 561,
-      "type": "LayerUtility: PurgeVRAM",
-      "pos": [
-        5883.779296875,
-        4342.84716796875
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 212,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "anything",
-          "type": "*",
-          "link": 985
-        }
-      ],
-      "outputs": [],
-      "properties": {
-        "cnr_id": "comfyui_layerstyle",
-        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
-        "Node name for S&R": "LayerUtility: PurgeVRAM"
-      },
-      "widgets_values": [
-        false,
-        true
-      ],
-      "color": "rgba(38, 73, 116, 0.7)"
-    },
-    {
       "id": 550,
       "type": "CLIPVisionEncode",
       "pos": [
@@ -9162,7 +9020,7 @@
         78
       ],
       "flags": {},
-      "order": 90,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -9349,7 +9207,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 46,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9391,7 +9249,7 @@
         180.6060791015625
       ],
       "flags": {},
-      "order": 83,
+      "order": 82,
       "mode": 4,
       "inputs": [
         {
@@ -9440,7 +9298,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 94,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -9493,7 +9351,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 113,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -9550,7 +9408,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 125,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -9597,7 +9455,7 @@
         58
       ],
       "flags": {},
-      "order": 47,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9631,7 +9489,7 @@
         26
       ],
       "flags": {},
-      "order": 84,
+      "order": 83,
       "mode": 4,
       "inputs": [
         {
@@ -9667,7 +9525,7 @@
         98
       ],
       "flags": {},
-      "order": 48,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9704,7 +9562,7 @@
         82
       ],
       "flags": {},
-      "order": 49,
+      "order": 48,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9844,7 +9702,7 @@
         58
       ],
       "flags": {},
-      "order": 50,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9871,49 +9729,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 559,
-      "type": "VAEDecode",
-      "pos": [
-        5880.8408203125,
-        4531.7177734375
-      ],
-      "size": [
-        210,
-        46
-      ],
-      "flags": {},
-      "order": 211,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 973
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 974
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            1053
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "VAEDecode"
-      },
-      "widgets_values": []
-    },
-    {
       "id": 573,
       "type": "Reroute",
       "pos": [
@@ -9925,7 +9740,7 @@
         26
       ],
       "flags": {},
-      "order": 93,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -9966,7 +9781,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 121,
+      "order": 124,
       "mode": 4,
       "inputs": [
         {
@@ -10003,7 +9818,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 93,
       "mode": 4,
       "inputs": [
         {
@@ -10155,7 +9970,7 @@
       },
       "widgets_values": [
         2,
-        910131472564340,
+        588387407759577,
         "randomize",
         20,
         1,
@@ -10188,7 +10003,7 @@
         302.068603515625
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10344,80 +10159,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 586,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4577.9951171875,
-        5290.9345703125
-      ],
-      "size": [
-        688.2203979492188,
-        438.680908203125
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 195,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1021
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "好的，我需要处理用户的这个请求，生成符合要求的视频提示词。首先，我得仔细分析用户提供的规则和示例，确保自己完全理解每个部分的要求。用户给了一个详细的图像描述，我需要从中提取关键元素，并按照运镜描述、主体描述、场景描述等结构来组织。\n\n首先，用户强调提示词要由运镜描述、主体描述、场景描述、运动描述、动作描述、镜头语言、氛围词和风格化组成。我需要确保每个部分都被涵盖，同时避免多余的内容。用户特别指出不要用markdown，只需要纯文本，所以输出必须简洁，没有分段或标题。\n\n接下来看用户提供的例子，例子中的结构是先运镜，再逐步展开场景和主体，结合动作和镜头语言。我需要按照同样的逻辑来组织内容。用户的图像提示词里有很多细节，比如“中景镜头”、“柔和自然光线”、“黑色蕾丝边性感内衣套装的美女”等，这些都需要分解到各个部分。\n\n运镜描述部分，用户提到要控制在5秒内，所以3秒的视频需要合适的镜头运动。原例中使用的是平移，可能需要类似的缓慢移动，比如从某个元素开始，然后移动展示其他部分。比如从浴缸边缘开始，缓慢上移，展示美女。\n\n主体描述包括美女的外貌特征，如湿漉漉的长发、温暖微笑、蕾丝内衣等。场景描述涉及浴室的细节，如大理石墙面、原木地板、蒸汽等。动作描述方面，用户提到朝镜头微笑，可以加入轻微调整内衣的动作，增加动态感。\n\n镜头语言需要包括景别、视角等，比如中景、低角度，镜头可能用广角或特写。氛围词方面，原图有朦胧蒸汽、柔焦光影，所以氛围可能是温暖、朦胧。风格化是极简主义，需要保留。\n\n需要注意的是，用户要求不要用任何多余格式，比如hashtag或标题，所以必须保持纯文本，连续不断。同时，要确保每个部分都涵盖，但不要遗漏任何规则中的要点，比如时间控制在3秒，运镜合理。\n\n现在开始组织各部分内容：运镜从浴缸边缘开始，缓慢上移，展示美女。主体描述包括黑色蕾丝内衣、湿发、温暖微笑、细腻肌肤。场景有现代浴缸、大理石墙面、原木地板、蒸汽、毛巾、水珠反光等。动作可能有调整内衣或梳理头发。镜头语言用中景、低角度、广角。氛围温暖朦胧，风格极简。\n\n检查是否有遗漏的部分，比如运动描述可能包括蒸汽的流动，水珠的反光变化。动作描述部分需要具体，比如“轻轻拨弄湿发”或“调整肩带”。确保所有元素连贯，符合3秒时长，镜头运动自然。\n\n最后，整合所有元素，按照示例的结构，用中文连贯地表达，避免使用专业术语过于复杂，保持流畅自然。确保没有使用禁止的格式，严格按照用户的要求输出。"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 585,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        5299.8564453125,
-        5164.19775390625
-      ],
-      "size": [
-        680.6343383789062,
-        437.22064208984375
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 196,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1020
-        }
-      ],
-      "outputs": [],
-      "title": "返回的答案",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "镜头从现代独立浴缸的鎏金边缘特写缓缓上移，黑色蕾丝内衣包裹的窈窕身形逐渐入画，湿漉卷发垂落在莹润肩头微微颤动，修长指尖轻抚浴缸流线型边沿，蒸汽在广角镜头中形成螺旋上升的光晕轨迹，低角度拍摄突显大理石纹墙面与原木地板的材质对比，朦胧水珠沿磨砂玻璃窗缓缓滑落留下蜿蜒轨迹，美人侧身时蕾丝腰封折射出细碎金光，发梢水滴滴落浴凳白毛巾瞬间溅起晶莹水花，柔焦效果弱化背景强化肌肤绸缎质感，暖调照明使铜质毛巾架在墙面投下几何光影，极简构图中鲜花随蒸汽微微摇曳"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 338,
       "type": "Float",
       "pos": [
@@ -10429,7 +10170,7 @@
         58
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10467,7 +10208,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 53,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10708,7 +10449,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 54,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10734,52 +10475,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 359,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -487.5561218261719
-      ],
-      "size": [
-        726.5386962890625,
-        225.73260498046875
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 55,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            676,
-            727,
-            807
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "美女身穿性感内衣站在浴缸边，朝镜头微笑，全身照，简约高级的装修风格",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 603,
       "type": "LoraLoader",
       "pos": [
@@ -10791,7 +10486,7 @@
         126
       ],
       "flags": {},
-      "order": 89,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -10848,7 +10543,7 @@
         126
       ],
       "flags": {},
-      "order": 123,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -10908,7 +10603,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 56,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10952,7 +10647,7 @@
         82
       ],
       "flags": {},
-      "order": 57,
+      "order": 55,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10978,63 +10673,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 596,
-      "type": "LoraLoader",
-      "pos": [
-        -1108.1763916015625,
-        945.2117309570312
-      ],
-      "size": [
-        315,
-        126
-      ],
-      "flags": {},
-      "order": 110,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1042
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 1043
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1044
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            1045
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.24",
-        "Node name for S&R": "LoraLoader"
-      },
-      "widgets_values": [
-        "01_Flux\\01_美女\\01_真人角色\\AkaAsuka-HikaruNagi_rank16_bf16-step03000.safetensors",
-        1,
-        1
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 549,
       "type": "LoadImage",
       "pos": [
@@ -11046,7 +10684,7 @@
         792.4426879882812
       ],
       "flags": {},
-      "order": 58,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11072,7 +10710,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "Lady_in_Bath_Suite_754834821483195_high_0001.jpg",
+        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
         "image"
       ],
       "color": "#232",
@@ -11090,7 +10728,7 @@
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11193,7 +10831,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 60,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11237,7 +10875,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 95,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -11289,7 +10927,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -11361,7 +10999,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 124,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -11433,7 +11071,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -11473,41 +11111,6 @@
       "bgcolor": "#3f5159"
     },
     {
-      "id": 606,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        3879.550048828125,
-        5102.5908203125
-      ],
-      "size": [
-        675.8611450195312,
-        705.8143310546875
-      ],
-      "flags": {},
-      "order": 187,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1050
-        }
-      ],
-      "outputs": [],
-      "title": "提问",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成3秒长，每秒24.0帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。我的图像提示词是：中景镜头，柔和自然光线，身穿黑色蕾丝边性感内衣套装的美女站在现代独立浴缸旁，朝镜头展现温暖微笑，湿漉漉的长发带有自然卷曲弧度，光滑细腻的肌肤质感，紧身面料凸显修长健美身形曲线，极简主义浴室设计包含大理石墙面与原木纹地板，卫浴五金采用低调金色装饰元素，朦胧蒸汽营造柔焦光影效果，纯白毛巾整齐叠放在加热浴凳上，磨砂玻璃窗透进的阳光在浴缸边缘形成水珠反光，铜质毛巾架简洁线条构图，梳妆台上精致鲜花摆设，高调照明突显织物与水面细节纹理。"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 574,
       "type": "Int",
       "pos": [
@@ -11519,7 +11122,7 @@
         58
       ],
       "flags": {},
-      "order": 61,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11547,189 +11150,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 62,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "hikarunagi，long black hair",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 609,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        6298.36767578125,
-        4782.4501953125
-      ],
-      "size": [
-        376.7587890625,
-        374
-      ],
-      "flags": {},
-      "order": 225,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 1054
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "shape": 7,
-          "link": 1055
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT,INT",
-          "widget": {
-            "name": "frame_rate"
-          },
-          "link": 1056
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 1057
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 8,
-        "loop_count": 0,
-        "filename_prefix": "AnimateDiff",
-        "format": "video/nvenc_h264-mp4",
-        "pix_fmt": "yuv420p",
-        "bitrate": 10,
-        "megabit": true,
-        "save_metadata": true,
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {}
-        }
-      },
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 558,
       "type": "VAELoader",
       "pos": [
@@ -11741,7 +11161,7 @@
         58
       ],
       "flags": {},
-      "order": 64,
+      "order": 60,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11778,7 +11198,7 @@
         58
       ],
       "flags": {},
-      "order": 65,
+      "order": 61,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11871,11 +11291,352 @@
       "shape": 1
     },
     {
+      "id": 359,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -487.5561218261719
+      ],
+      "size": [
+        726.5386962890625,
+        225.73260498046875
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 62,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            676,
+            727,
+            807
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "美女Nagi身穿性感内衣站在无边泳池边，朝镜头微笑，全身照，简约高级的装修风格",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 596,
+      "type": "LoraLoader",
+      "pos": [
+        -1108.1763916015625,
+        945.2117309570312
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 108,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1042
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1043
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1044
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            1045
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.24",
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "01_Flux\\01_美女\\01_真人角色\\AkaAsuka-HikaruNagi_rank16_bf16-step03000.safetensors",
+        1,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 64,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "hikarunagi，long black hair",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 195,
+      "type": "LoadImage",
+      "pos": [
+        2768.161865234375,
+        3173.8671875
+      ],
+      "size": [
+        366.3084411621094,
+        388.9892578125
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "shape": 3,
+          "links": [
+            492,
+            758
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "shape": 3,
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "加载需要高清化的图像",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.15",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Nagi_Poolside_Glamour_49141533722320_low_0001.png",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 557,
+      "type": "KSampler",
+      "pos": [
+        5335.83447265625,
+        4696.98779296875
+      ],
+      "size": [
+        315,
+        262
+      ],
+      "flags": {},
+      "order": 207,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 984
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 981
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 982
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 978
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "links": [
+            973,
+            985
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        785143631271847,
+        "randomize",
+        20,
+        6,
+        "uni_pc",
+        "simple",
+        1
+      ]
+    },
+    {
+      "id": 561,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        5702.22998046875,
+        4423.861328125
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 212,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 985
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
       "id": 610,
       "type": "VHS_VideoCombine",
       "pos": [
-        6392.14990234375,
-        4712.19873046875
+        6235.001953125,
+        4484.7734375
       ],
       "size": [
         376.7587890625,
@@ -11949,9 +11710,186 @@
         "videopreview": {
           "hidden": false,
           "paused": false,
-          "params": {}
+          "params": {
+            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00001.gif",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "image/gif",
+            "frame_rate": 24,
+            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00001.gif"
+          }
         }
       },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 609,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        6231.99462890625,
+        4557.953125
+      ],
+      "size": [
+        376.7587890625,
+        655.569091796875
+      ],
+      "flags": {},
+      "order": 225,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1054
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1055
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT,INT",
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1056
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1057
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 8,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "video/nvenc_h264-mp4",
+        "pix_fmt": "yuv420p",
+        "bitrate": 10,
+        "megabit": true,
+        "save_metadata": true,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00002.mp4",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "video/nvenc_h264-mp4",
+            "frame_rate": 24,
+            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00002.mp4"
+          }
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 586,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        4784.0625,
+        5247.66845703125
+      ],
+      "size": [
+        688.2203979492188,
+        438.680908203125
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 195,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1021
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "好的，我现在需要帮用户生成一个3秒长的视频提示词，每秒24帧，总共72帧。首先，我得仔细分析用户提供的图像内容，然后按照规则和结构来构建提示词。\n\n用户给的图像描述是中景视角，柔和的自然光线，动漫角色Nagi，健美体型，瓷白肌肤，黑色长发带蓝调高光，香槟色蕾丝内衣，在无边际泳池边俯瞰海崖。场景是极简现代风格，有抛光混凝土地板、磨砂玻璃墙、流线型不锈钢家具和隐藏LED灯带。水面倒映黄昏阳光，右手扶泳池边，头微侧微笑，有酒窝，锁骨有水珠，动态构图，超高清细节，妆容精致，珊瑚色腮红和闪粉，浅景深，单色调加暖金属。\n\n根据规则，提示词需要包含运镜描述、主体、场景、运动、动作、镜头语言、氛围和风格化。用户给的例子是镜头从屏风左移，展示后面的女孩。我需要类似的结构，但要结合当前内容。\n\n首先运镜描述：用户例子是平移，这里可能需要缓慢推进或环绕，展示角色和环境。比如镜头从泳池边缘开始，缓慢推进，同时可能带点环绕，突出角色和背景。时间控制在5秒内，但用户要的是3秒视频，所以运镜不能太复杂，可能用缓慢推进或小幅环绕。\n\n主体描述：Nagi的细节，黑色长发蓝调高光，瓷白肌肤，香槟色蕾丝内衣，健美体型，妆容细节，水珠在锁骨，酒窝微笑，右手扶泳池边，头部微侧。\n\n场景描述：无边际泳池，海崖背景，极简设计，抛光混凝土地板，磨砂玻璃墙，流线家具，隐藏LED灯带，水面倒映黄昏阳光，浅景深虚化背景建筑，动态构图平衡天空和水面。\n\n运动描述：可能水面轻微波动，倒影闪烁，或者微风拂动发丝。右手轻扶泳池边的静态动作，但可能有细微动作，比如水珠滑落。\n\n动作描述：头部微侧，微笑，右手扶边沿，锁骨水珠闪烁。\n\n镜头语言：中景视角，浅景深，可能低角度或水平视角，超高清细节，动态构图，黄昏光线，暖色调。\n\n氛围：自信、迷人，黄昏的宁静与现代感，结合极简和自然元素。\n\n风格化：动漫风格，超高清材质，单色调点缀暖金属，类似《Love Rhythm》的视觉。\n\n需要确保各部分都涵盖，不遗漏。例如，运镜用缓慢推进，从泳池边缘开始，展示角色和环境；主体和场景描述要详细；镜头语言包括景别、视角、光线等；氛围词是自信迷人，黄昏宁静；风格化是动漫超高清。\n\n检查是否有不符合规则的地方，比如不添加无关内容，不分段，不用markdown。然后按例子格式组织语言，确保流畅自然，时间控制在3秒内，运镜合理。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 585,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        5489.43505859375,
+        5247.416015625
+      ],
+      "size": [
+        680.6343383789062,
+        437.22064208984375
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 196,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1020
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "镜头从无边际泳池的波光边缘缓缓推进，香槟色蕾丝包裹的瓷白肌肤在暮色中泛着柔光，Nagi倚着流线型不锈钢扶手微微侧转身体，黑色发丝被海风带起蓝调高光，隐藏式LED灯带在磨砂玻璃墙面晕染出渐变光晕，水面碎金随着呼吸起伏漫过指尖，低角度构图将天际线与泳池边际线重合，珊瑚色眼妆随眨眼泛起星芒，浅景深使远方层叠的海崖虚化成莫兰迪色块，现代极简空间里飘落两片樱花打破几何秩序"
+      ],
       "color": "#222",
       "bgcolor": "#000"
     },
@@ -11959,8 +11897,8 @@
       "id": 608,
       "type": "RIFE VFI",
       "pos": [
-        5731.20166015625,
-        4906.82958984375
+        5686.498046875,
+        4888.68798828125
       ],
       "size": [
         478.8000183105469,
@@ -12008,6 +11946,84 @@
       ],
       "color": "#2a363b",
       "bgcolor": "#3f5159"
+    },
+    {
+      "id": 559,
+      "type": "VAEDecode",
+      "pos": [
+        5689.98388671875,
+        4770.05615234375
+      ],
+      "size": [
+        210,
+        46
+      ],
+      "flags": {},
+      "order": 211,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 973
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 974
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1053
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "VAEDecode"
+      },
+      "widgets_values": []
+    },
+    {
+      "id": 606,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        3883.454345703125,
+        5095.75830078125
+      ],
+      "size": [
+        675.8611450195312,
+        705.8143310546875
+      ],
+      "flags": {},
+      "order": 187,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1050
+        }
+      ],
+      "outputs": [],
+      "title": "提问",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成3秒长，每秒24.0帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。我的图像提示词是：中景视角，柔和的自然光线，来自动漫《Love Rhythm: Cosmo Caress》中的Nagi角色形象，曲线玲珑的健美体型，瓷白光滑肌肤，黑色长发带有蓝调高光，身着香槟色透明蕾丝内衣，站在无边际泳池边缘俯瞰海崖，极简现代风格室内设计包含抛光混凝土地板与磨砂玻璃墙体，流线型不锈钢家具，隐藏式LED灯带营造环境氛围，水面倒映黄昏金色阳光，右手轻扶湿润的泳池边沿，头部微侧展现自信迷人微笑露出酒窝，锁骨处有水珠闪烁，动态构图平衡天空与水面的负空间，超高清材质细节呈现衣物褶皱和发丝纹理，妆容精致带有珊瑚色腮红和眼睑闪粉，浅景深虚化背景建筑结构，单色调配色点缀暖金属色调"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -14713,8 +14729,8 @@
       "bounding": [
         2729.21923828125,
         4101.97705078125,
-        3979.5986328125,
-        1725.544677734375
+        3933.457275390625,
+        1706.91064453125
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -14724,10 +14740,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.1000000000000003,
+      "scale": 1.7715610000000013,
       "offset": [
-        3145.013122232186,
-        -233.39652427441695
+        2897.218778721167,
+        -460.0266737686594
       ]
     },
     "groupNodes": {},
