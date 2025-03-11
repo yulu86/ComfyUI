@@ -87,3 +87,7 @@ comfyui-tensorops=https://gh-proxy.com/https://github.com/un-seen/comfyui-tensor
 ComfyUI-WanVideoWrapper=https://gh-proxy.com/https://github.com/kijai/ComfyUI-WanVideoWrapper.git
 # ComfyUI_TiledKSampler
 ComfyUI_TiledKSampler=https://gh-proxy.com/https://github.com/BlenderNeko/ComfyUI_TiledKSampler.git
+# tiled_ksampler
+tiled_ksampler=https://gh-proxy.com/https://github.com/FlyingFireCo/tiled_ksampler.git
+# ComfyUI-Frame-Interpolation
+ComfyUI-Frame-Interpolation=https://gh-proxy.com/https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git
