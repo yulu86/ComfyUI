@@ -4663,7 +4663,7 @@
         26
       ],
       "flags": {},
-      "order": 95,
+      "order": 94,
       "mode": 4,
       "inputs": [
         {
@@ -4699,7 +4699,7 @@
         26
       ],
       "flags": {},
-      "order": 113,
+      "order": 112,
       "mode": 4,
       "inputs": [
         {
@@ -5176,7 +5176,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 112,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -7647,7 +7647,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 94,
+      "order": 95,
       "mode": 0,
       "inputs": [
         {
@@ -11397,7 +11397,7 @@
       ],
       "flags": {},
       "order": 108,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "model",
@@ -11442,54 +11442,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 463,
-      "type": "CR Text",
-      "pos": [
-        -1174.0216064453125,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 64,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            848
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "hikarunagi，long black hair",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 195,
       "type": "LoadImage",
       "pos": [
@@ -11501,7 +11453,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 65,
+      "order": 64,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12024,6 +11976,54 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
+    },
+    {
+      "id": 463,
+      "type": "CR Text",
+      "pos": [
+        -1174.0216064453125,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            848
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "hikarunagi，long black hair",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -14740,10 +14740,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.7715610000000013,
+      "scale": 1.4641000000000006,
       "offset": [
-        2897.218778721167,
-        -460.0266737686594
+        2830.14634783278,
+        -366.8225081052837
       ]
     },
     "groupNodes": {},
