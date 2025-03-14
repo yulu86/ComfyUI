@@ -11629,101 +11629,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 609,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        6231.99462890625,
-        4557.953125
-      ],
-      "size": [
-        376.7587890625,
-        655.569091796875
-      ],
-      "flags": {},
-      "order": 225,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 1054
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "shape": 7,
-          "link": 1055
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT,INT",
-          "widget": {
-            "name": "frame_rate"
-          },
-          "link": 1056
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 1057
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 8,
-        "loop_count": 0,
-        "filename_prefix": "AnimateDiff",
-        "format": "video/nvenc_h264-mp4",
-        "pix_fmt": "yuv420p",
-        "bitrate": 10,
-        "megabit": true,
-        "save_metadata": true,
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00002.mp4",
-            "subfolder": "wan_video",
-            "type": "output",
-            "format": "video/nvenc_h264-mp4",
-            "frame_rate": 24,
-            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00002.mp4"
-          }
-        }
-      },
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 586,
       "type": "Display Any (rgthree)",
       "pos": [
@@ -12024,6 +11929,101 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 609,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        6231.99462890625,
+        4557.953125
+      ],
+      "size": [
+        376.7587890625,
+        655.569091796875
+      ],
+      "flags": {},
+      "order": 225,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1054
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1055
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT,INT",
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1056
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1057
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 8,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 19,
+        "save_metadata": true,
+        "trim_to_audio": false,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00002.mp4",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "video/nvenc_h264-mp4",
+            "frame_rate": 24,
+            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00002.mp4"
+          }
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -14740,10 +14740,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.2100000000000002,
+      "scale": 1,
       "offset": [
-        2964.2733108665,
-        -314.2971689632378
+        -5319.549332416753,
+        -4351.040022071106
       ]
     },
     "groupNodes": {},
