@@ -11337,54 +11337,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 276,
-      "type": "CR Text",
-      "pos": [
-        -1690.298095703125,
-        -336.18994140625
-      ],
-      "size": [
-        308.7655334472656,
-        225.3144989013672
-      ],
-      "flags": {},
-      "order": 63,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            486
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词 - 美女(可选)",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 596,
       "type": "LoraLoader",
       "pos": [
@@ -11453,7 +11405,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 64,
+      "order": 63,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11989,7 +11941,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 65,
+      "order": 64,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12024,6 +11976,54 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 276,
+      "type": "CR Text",
+      "pos": [
+        -1690.298095703125,
+        -336.18994140625
+      ],
+      "size": [
+        308.7655334472656,
+        225.3144989013672
+      ],
+      "flags": {},
+      "order": 65,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            486
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词 - 美女(可选)",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "solo, 1girl, (portait:1.5), sexy, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, depth of field, (small head:1.4),",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
     }
   ],
   "links": [
@@ -14740,10 +14740,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.4641000000000006,
+      "scale": 1.2100000000000002,
       "offset": [
-        2830.14634783278,
-        -366.8225081052837
+        2964.2733108665,
+        -314.2971689632378
       ]
     },
     "groupNodes": {},
