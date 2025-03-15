@@ -9440,7 +9440,7 @@
         26
       ],
       "flags": {},
-      "order": 122,
+      "order": 120,
       "mode": 4,
       "inputs": [
         {
@@ -11399,7 +11399,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 121,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -11790,7 +11790,7 @@
         26
       ],
       "flags": {},
-      "order": 99,
+      "order": 100,
       "mode": 0,
       "inputs": [
         {
@@ -11814,49 +11814,6 @@
         "showOutputText": false,
         "horizontal": false
       }
-    },
-    {
-      "id": 549,
-      "type": "LoadImage",
-      "pos": [
-        -762.0582275390625,
-        4121.25439453125
-      ],
-      "size": [
-        885.3557739257812,
-        792.4426879882812
-      ],
-      "flags": {},
-      "order": 65,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            1062
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 583,
@@ -11935,7 +11892,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 66,
+      "order": 65,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11977,7 +11934,7 @@
         26
       ],
       "flags": {},
-      "order": 120,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -12384,7 +12341,7 @@
         82
       ],
       "flags": {},
-      "order": 67,
+      "order": 66,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12419,7 +12376,7 @@
         340.9159851074219
       ],
       "flags": {},
-      "order": 68,
+      "order": 67,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12734,7 +12691,7 @@
         340.9159851074219
       ],
       "flags": {},
-      "order": 69,
+      "order": 68,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12782,7 +12739,7 @@
         82
       ],
       "flags": {},
-      "order": 100,
+      "order": 99,
       "mode": 4,
       "inputs": [
         {
@@ -12809,6 +12766,51 @@
       "widgets_values": [
         "03_wan\\bounceV_01.safetensors",
         1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 549,
+      "type": "LoadImage",
+      "pos": [
+        -762.0582275390625,
+        4121.25439453125
+      ],
+      "size": [
+        885.3557739257812,
+        792.4426879882812
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 69,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1062
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
+        "image"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -15484,7 +15486,9 @@
       ],
       "color": "#A88",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 3,
@@ -15497,7 +15501,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 8,
@@ -15510,7 +15516,9 @@
       ],
       "color": "#b06634",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 13,
@@ -15523,7 +15531,9 @@
       ],
       "color": "#8AA",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 15,
@@ -15536,7 +15546,9 @@
       ],
       "color": "#b06634",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 17,
@@ -15549,7 +15561,9 @@
       ],
       "color": "#b06634",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 18,
@@ -15562,7 +15576,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 19,
@@ -15575,7 +15591,9 @@
       ],
       "color": "#b06634",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 20,
@@ -15588,7 +15606,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 21,
@@ -15601,7 +15621,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 22,
@@ -15614,7 +15636,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 23,
@@ -15627,7 +15651,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 24,
@@ -15640,7 +15666,9 @@
       ],
       "color": "#A88",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 25,
@@ -15653,7 +15681,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 26,
@@ -15666,7 +15696,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 27,
@@ -15679,7 +15711,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 28,
@@ -15692,7 +15726,9 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     },
     {
       "id": 29,
@@ -15718,16 +15754,18 @@
       ],
       "color": "#3f789e",
       "font_size": 24,
-      "flags": {}
+      "flags": {
+        "pinned": true
+      }
     }
   ],
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5644739300537773,
+      "scale": 0.7513148009015793,
       "offset": [
-        5419.627129893602,
-        -33.24361644567433
+        2421.1313523459066,
+        -40.48503174184683
       ]
     },
     "groupNodes": {},
