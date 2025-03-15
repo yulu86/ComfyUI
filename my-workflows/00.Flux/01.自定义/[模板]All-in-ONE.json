@@ -1,6 +1,6 @@
 {
-  "last_node_id": 610,
-  "last_link_id": 1061,
+  "last_node_id": 627,
+  "last_link_id": 1085,
   "nodes": [
     {
       "id": 144,
@@ -94,7 +94,7 @@
         234
       ],
       "flags": {},
-      "order": 190,
+      "order": 201,
       "mode": 4,
       "inputs": [
         {
@@ -170,7 +170,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 106,
       "mode": 4,
       "inputs": [
         {
@@ -290,7 +290,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 184,
+      "order": 195,
       "mode": 0,
       "inputs": [
         {
@@ -328,7 +328,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 193,
+      "order": 204,
       "mode": 0,
       "inputs": [
         {
@@ -437,7 +437,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 74,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -479,7 +479,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 174,
+      "order": 185,
       "mode": 0,
       "inputs": [
         {
@@ -518,7 +518,7 @@
         46
       ],
       "flags": {},
-      "order": 230,
+      "order": 241,
       "mode": 0,
       "inputs": [
         {
@@ -564,7 +564,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 234,
+      "order": 247,
       "mode": 0,
       "inputs": [
         {
@@ -631,7 +631,7 @@
         26
       ],
       "flags": {},
-      "order": 66,
+      "order": 69,
       "mode": 4,
       "inputs": [
         {
@@ -669,7 +669,7 @@
         174
       ],
       "flags": {},
-      "order": 200,
+      "order": 211,
       "mode": 4,
       "inputs": [
         {
@@ -730,7 +730,7 @@
         88
       ],
       "flags": {},
-      "order": 205,
+      "order": 216,
       "mode": 4,
       "inputs": [
         {
@@ -769,7 +769,7 @@
         603.8963623046875
       ],
       "flags": {},
-      "order": 248,
+      "order": 261,
       "mode": 4,
       "inputs": [
         {
@@ -818,7 +818,7 @@
         46
       ],
       "flags": {},
-      "order": 245,
+      "order": 258,
       "mode": 4,
       "inputs": [
         {
@@ -912,7 +912,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 69,
+      "order": 72,
       "mode": 4,
       "inputs": [
         {
@@ -961,7 +961,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 68,
+      "order": 71,
       "mode": 4,
       "inputs": [
         {
@@ -1076,7 +1076,7 @@
         234
       ],
       "flags": {},
-      "order": 96,
+      "order": 100,
       "mode": 4,
       "inputs": [
         {
@@ -1152,7 +1152,7 @@
         58
       ],
       "flags": {},
-      "order": 114,
+      "order": 121,
       "mode": 4,
       "inputs": [
         {
@@ -1193,7 +1193,7 @@
         150
       ],
       "flags": {},
-      "order": 127,
+      "order": 137,
       "mode": 4,
       "inputs": [
         {
@@ -1247,7 +1247,7 @@
         102
       ],
       "flags": {},
-      "order": 139,
+      "order": 150,
       "mode": 4,
       "inputs": [
         {
@@ -1295,7 +1295,7 @@
         138
       ],
       "flags": {},
-      "order": 149,
+      "order": 160,
       "mode": 4,
       "inputs": [
         {
@@ -1371,7 +1371,7 @@
         58
       ],
       "flags": {},
-      "order": 146,
+      "order": 157,
       "mode": 4,
       "inputs": [
         {
@@ -1446,7 +1446,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 70,
       "mode": 4,
       "inputs": [
         {
@@ -1521,7 +1521,7 @@
         174
       ],
       "flags": {},
-      "order": 208,
+      "order": 219,
       "mode": 4,
       "inputs": [
         {
@@ -1582,7 +1582,7 @@
         88
       ],
       "flags": {},
-      "order": 213,
+      "order": 223,
       "mode": 4,
       "inputs": [
         {
@@ -1623,7 +1623,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 214,
+      "order": 224,
       "mode": 4,
       "inputs": [
         {
@@ -1690,7 +1690,7 @@
         26
       ],
       "flags": {},
-      "order": 140,
+      "order": 151,
       "mode": 4,
       "inputs": [
         {
@@ -1728,7 +1728,7 @@
         26
       ],
       "flags": {},
-      "order": 141,
+      "order": 152,
       "mode": 4,
       "inputs": [
         {
@@ -1766,7 +1766,7 @@
         26
       ],
       "flags": {},
-      "order": 130,
+      "order": 140,
       "mode": 4,
       "inputs": [
         {
@@ -1804,7 +1804,7 @@
         26
       ],
       "flags": {},
-      "order": 131,
+      "order": 141,
       "mode": 4,
       "inputs": [
         {
@@ -1881,7 +1881,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 239,
+      "order": 252,
       "mode": 0,
       "inputs": [
         {
@@ -1919,7 +1919,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 238,
+      "order": 251,
       "mode": 0,
       "inputs": [
         {
@@ -1957,7 +1957,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 150,
+      "order": 161,
       "mode": 0,
       "inputs": [
         {
@@ -1995,7 +1995,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 97,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -2033,7 +2033,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
@@ -2072,7 +2072,7 @@
         26
       ],
       "flags": {},
-      "order": 70,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -2112,7 +2112,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 71,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2154,7 +2154,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 181,
+      "order": 192,
       "mode": 0,
       "inputs": [
         {
@@ -2192,7 +2192,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 80,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -2233,7 +2233,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 206,
+      "order": 217,
       "mode": 0,
       "inputs": [
         {
@@ -2308,7 +2308,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 228,
+      "order": 238,
       "mode": 0,
       "inputs": [
         {
@@ -2350,7 +2350,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 217,
+      "order": 227,
       "mode": 0,
       "inputs": [
         {
@@ -2394,7 +2394,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 118,
+      "order": 125,
       "mode": 0,
       "inputs": [
         {
@@ -2435,7 +2435,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 104,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -2476,7 +2476,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 218,
+      "order": 228,
       "mode": 0,
       "inputs": [
         {
@@ -2516,7 +2516,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 222,
+      "order": 232,
       "mode": 0,
       "inputs": [
         {
@@ -2556,7 +2556,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 232,
+      "order": 243,
       "mode": 0,
       "inputs": [
         {
@@ -2599,7 +2599,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 76,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -2645,7 +2645,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 180,
+      "order": 191,
       "mode": 0,
       "inputs": [
         {
@@ -2687,7 +2687,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 189,
+      "order": 200,
       "mode": 0,
       "inputs": [
         {
@@ -2729,7 +2729,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 249,
+      "order": 262,
       "mode": 4,
       "inputs": [
         {
@@ -2796,7 +2796,7 @@
         282.9503479003906
       ],
       "flags": {},
-      "order": 145,
+      "order": 156,
       "mode": 4,
       "inputs": [
         {
@@ -2825,7 +2825,7 @@
         46
       ],
       "flags": {},
-      "order": 162,
+      "order": 173,
       "mode": 4,
       "inputs": [
         {
@@ -2869,7 +2869,7 @@
         190
       ],
       "flags": {},
-      "order": 168,
+      "order": 179,
       "mode": 4,
       "inputs": [
         {
@@ -2940,7 +2940,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 103,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -2981,7 +2981,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 79,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -3023,7 +3023,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 229,
+      "order": 239,
       "mode": 0,
       "inputs": [
         {
@@ -3066,7 +3066,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 98,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -3105,7 +3105,7 @@
         26
       ],
       "flags": {},
-      "order": 100,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -3145,7 +3145,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 236,
+      "order": 249,
       "mode": 0,
       "inputs": [
         {
@@ -3187,7 +3187,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 151,
+      "order": 162,
       "mode": 0,
       "inputs": [
         {
@@ -3226,7 +3226,7 @@
         26
       ],
       "flags": {},
-      "order": 147,
+      "order": 158,
       "mode": 0,
       "inputs": [
         {
@@ -3266,7 +3266,7 @@
         292.66668701171875
       ],
       "flags": {},
-      "order": 138,
+      "order": 149,
       "mode": 4,
       "inputs": [
         {
@@ -3297,7 +3297,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 223,
+      "order": 233,
       "mode": 0,
       "inputs": [
         {
@@ -3337,7 +3337,7 @@
         126
       ],
       "flags": {},
-      "order": 132,
+      "order": 142,
       "mode": 0,
       "inputs": [
         {
@@ -3391,7 +3391,7 @@
         112
       ],
       "flags": {},
-      "order": 75,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3430,7 +3430,7 @@
         138
       ],
       "flags": {},
-      "order": 240,
+      "order": 253,
       "mode": 4,
       "inputs": [
         {
@@ -3508,7 +3508,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 237,
+      "order": 250,
       "mode": 4,
       "inputs": [
         {
@@ -3548,7 +3548,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 173,
+      "order": 184,
       "mode": 4,
       "inputs": [
         {
@@ -3599,7 +3599,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 164,
+      "order": 175,
       "mode": 0,
       "inputs": [
         {
@@ -3645,7 +3645,7 @@
         234
       ],
       "flags": {},
-      "order": 201,
+      "order": 212,
       "mode": 4,
       "inputs": [
         {
@@ -3721,7 +3721,7 @@
         88
       ],
       "flags": {},
-      "order": 198,
+      "order": 209,
       "mode": 0,
       "inputs": [
         {
@@ -3834,7 +3834,7 @@
         186
       ],
       "flags": {},
-      "order": 210,
+      "order": 221,
       "mode": 4,
       "inputs": [
         {
@@ -3945,8 +3945,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 85,
-      "mode": 0,
+      "order": 87,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -3998,7 +3998,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 156,
+      "order": 167,
       "mode": 0,
       "inputs": [
         {
@@ -4039,7 +4039,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 154,
+      "order": 165,
       "mode": 0,
       "inputs": [
         {
@@ -4080,8 +4080,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
-      "mode": 0,
+      "order": 111,
+      "mode": 4,
       "inputs": [
         {
           "name": "context",
@@ -4196,7 +4196,7 @@
       ],
       "flags": {},
       "order": 16,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -4231,8 +4231,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 73,
-      "mode": 0,
+      "order": 76,
+      "mode": 4,
       "inputs": [
         {
           "name": "text_a",
@@ -4294,7 +4294,7 @@
         82
       ],
       "flags": {},
-      "order": 246,
+      "order": 259,
       "mode": 4,
       "inputs": [
         {
@@ -4327,7 +4327,7 @@
         298
       ],
       "flags": {},
-      "order": 242,
+      "order": 255,
       "mode": 4,
       "inputs": [
         {
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        274906602052826,
+        781104345297449,
         "randomize",
         25,
         1,
@@ -4413,7 +4413,7 @@
         298
       ],
       "flags": {},
-      "order": 153,
+      "order": 164,
       "mode": 4,
       "inputs": [
         {
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1072114100999629,
+        907572280385948,
         "randomize",
         20,
         1,
@@ -4499,7 +4499,7 @@
         82
       ],
       "flags": {},
-      "order": 163,
+      "order": 174,
       "mode": 4,
       "inputs": [
         {
@@ -4532,7 +4532,7 @@
         755.3240356445312
       ],
       "flags": {},
-      "order": 247,
+      "order": 260,
       "mode": 4,
       "inputs": [
         {
@@ -4624,7 +4624,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 99,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -4663,7 +4663,7 @@
         26
       ],
       "flags": {},
-      "order": 94,
+      "order": 92,
       "mode": 4,
       "inputs": [
         {
@@ -4699,7 +4699,7 @@
         26
       ],
       "flags": {},
-      "order": 112,
+      "order": 115,
       "mode": 4,
       "inputs": [
         {
@@ -4773,7 +4773,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 170,
+      "order": 181,
       "mode": 0,
       "inputs": [
         {
@@ -4869,7 +4869,7 @@
         "collapsed": true
       },
       "order": 20,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -4908,7 +4908,7 @@
         "collapsed": true
       },
       "order": 21,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -4941,7 +4941,7 @@
       ],
       "size": [
         527.960693359375,
-        418
+        490
       ],
       "flags": {
         "pinned": true
@@ -5018,7 +5018,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        772463207595606,
+        1047162898008463,
         "randomize"
       ],
       "color": "#232",
@@ -5038,7 +5038,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 177,
+      "order": 188,
       "mode": 0,
       "inputs": [
         {
@@ -5095,7 +5095,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 175,
+      "order": 186,
       "mode": 0,
       "inputs": [
         {
@@ -5176,7 +5176,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 113,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -5247,7 +5247,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 165,
+      "order": 176,
       "mode": 0,
       "inputs": [
         {
@@ -5317,7 +5317,7 @@
       ],
       "flags": {},
       "order": 25,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -5354,7 +5354,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 188,
+      "order": 199,
       "mode": 0,
       "inputs": [
         {
@@ -5417,7 +5417,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 233,
+      "order": 244,
       "mode": 0,
       "inputs": [
         {
@@ -5459,7 +5459,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 158,
+      "order": 169,
       "mode": 0,
       "inputs": [
         {
@@ -5500,7 +5500,7 @@
       ],
       "flags": {},
       "order": 26,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [],
       "title": "Note - 常用提示词",
@@ -5523,8 +5523,8 @@
         462.3016662597656
       ],
       "flags": {},
-      "order": 134,
-      "mode": 0,
+      "order": 144,
+      "mode": 4,
       "inputs": [
         {
           "name": "source",
@@ -5588,55 +5588,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 480,
-      "type": "easy mathInt",
-      "pos": [
-        -3359.442138671875,
-        317.8764343261719
-      ],
-      "size": [
-        315,
-        106
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 77,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "INT",
-          "widget": {
-            "name": "a"
-          },
-          "link": 868
-        }
-      ],
-      "outputs": [
-        {
-          "name": "INT",
-          "type": "INT",
-          "links": [
-            869
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-easy-use",
-        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
-        "Node name for S&R": "easy mathInt"
-      },
-      "widgets_values": [
-        0,
-        1,
-        "add"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 482,
       "type": "easy mathInt",
       "pos": [
@@ -5650,7 +5601,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 115,
+      "order": 122,
       "mode": 4,
       "inputs": [
         {
@@ -5697,7 +5648,7 @@
         616.7319946289062
       ],
       "flags": {},
-      "order": 235,
+      "order": 248,
       "mode": 0,
       "inputs": [
         {
@@ -5726,7 +5677,7 @@
         318
       ],
       "flags": {},
-      "order": 227,
+      "order": 237,
       "mode": 0,
       "inputs": [
         {
@@ -5799,7 +5750,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1101930184529780,
+        708278292726583,
         "randomize",
         40,
         1,
@@ -5820,7 +5771,7 @@
         102
       ],
       "flags": {},
-      "order": 128,
+      "order": 138,
       "mode": 4,
       "inputs": [
         {
@@ -5869,7 +5820,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 116,
+      "order": 123,
       "mode": 4,
       "inputs": [
         {
@@ -6056,7 +6007,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 209,
+      "order": 220,
       "mode": 0,
       "inputs": [
         {
@@ -6098,7 +6049,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 204,
+      "order": 215,
       "mode": 0,
       "inputs": [
         {
@@ -6140,7 +6091,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 199,
+      "order": 210,
       "mode": 0,
       "inputs": [
         {
@@ -6179,7 +6130,7 @@
         246
       ],
       "flags": {},
-      "order": 169,
+      "order": 180,
       "mode": 4,
       "inputs": [
         {
@@ -6210,7 +6161,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 117,
+      "order": 124,
       "mode": 4,
       "inputs": [
         {
@@ -6304,7 +6255,7 @@
         26
       ],
       "flags": {},
-      "order": 129,
+      "order": 139,
       "mode": 4,
       "inputs": [
         {
@@ -6428,7 +6379,7 @@
         26
       ],
       "flags": {},
-      "order": 143,
+      "order": 154,
       "mode": 0,
       "inputs": [
         {
@@ -6467,7 +6418,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 178,
+      "order": 189,
       "mode": 0,
       "inputs": [
         {
@@ -6510,7 +6461,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 185,
+      "order": 196,
       "mode": 0,
       "inputs": [
         {
@@ -6596,7 +6547,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 194,
+      "order": 205,
       "mode": 0,
       "inputs": [
         {
@@ -6682,7 +6633,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 192,
+      "order": 203,
       "mode": 0,
       "inputs": [
         {
@@ -6725,7 +6676,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 183,
+      "order": 194,
       "mode": 0,
       "inputs": [
         {
@@ -6768,7 +6719,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 176,
+      "order": 187,
       "mode": 0,
       "inputs": [
         {
@@ -6812,7 +6763,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 182,
+      "order": 193,
       "mode": 0,
       "inputs": [
         {
@@ -6855,7 +6806,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 224,
+      "order": 236,
       "mode": 4,
       "inputs": [
         {
@@ -6908,7 +6859,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 202,
+      "order": 213,
       "mode": 4,
       "inputs": [
         {
@@ -6988,7 +6939,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 244,
+      "order": 257,
       "mode": 4,
       "inputs": [
         {
@@ -7059,7 +7010,7 @@
         500
       ],
       "flags": {},
-      "order": 78,
+      "order": 81,
       "mode": 4,
       "inputs": [
         {
@@ -7159,7 +7110,7 @@
         26
       ],
       "flags": {},
-      "order": 142,
+      "order": 153,
       "mode": 0,
       "inputs": [
         {
@@ -7278,7 +7229,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 160,
+      "order": 171,
       "mode": 0,
       "inputs": [
         {
@@ -7333,7 +7284,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 157,
+      "order": 168,
       "mode": 0,
       "inputs": [
         {
@@ -7370,7 +7321,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 171,
+      "order": 182,
       "mode": 0,
       "inputs": [
         {
@@ -7491,7 +7442,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 161,
+      "order": 172,
       "mode": 0,
       "inputs": [
         {
@@ -7529,7 +7480,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 155,
+      "order": 166,
       "mode": 0,
       "inputs": [
         {
@@ -7566,7 +7517,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 136,
+      "order": 146,
       "mode": 0,
       "inputs": [
         {
@@ -7606,7 +7557,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 135,
+      "order": 145,
       "mode": 0,
       "inputs": [
         {
@@ -7647,7 +7598,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 95,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -7718,7 +7669,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 101,
+      "order": 105,
       "mode": 4,
       "inputs": [
         {
@@ -7767,7 +7718,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 92,
+      "order": 90,
       "mode": 4,
       "inputs": [
         {
@@ -7838,7 +7789,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 152,
+      "order": 163,
       "mode": 0,
       "inputs": [
         {
@@ -7929,7 +7880,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 111,
+      "order": 114,
       "mode": 4,
       "inputs": [
         {
@@ -7991,8 +7942,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 120,
-      "mode": 0,
+      "order": 127,
+      "mode": 4,
       "inputs": [
         {
           "name": "text",
@@ -8065,7 +8016,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 125,
+      "order": 131,
       "mode": 4,
       "inputs": [
         {
@@ -8143,7 +8094,7 @@
         "collapsed": false
       },
       "order": 39,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8225,8 +8176,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 126,
-      "mode": 4,
+      "order": 136,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -8274,7 +8225,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 105,
+      "order": 109,
       "mode": 4,
       "inputs": [
         {
@@ -8326,7 +8277,7 @@
       ],
       "flags": {},
       "order": 41,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -8369,8 +8320,8 @@
       "flags": {
         "collapsed": true
       },
-      "order": 84,
-      "mode": 4,
+      "order": 94,
+      "mode": 0,
       "inputs": [
         {
           "name": "a",
@@ -8480,7 +8431,7 @@
         82
       ],
       "flags": {},
-      "order": 231,
+      "order": 242,
       "mode": 0,
       "inputs": [
         {
@@ -8513,7 +8464,7 @@
         82
       ],
       "flags": {},
-      "order": 106,
+      "order": 110,
       "mode": 4,
       "inputs": [
         {
@@ -8548,7 +8499,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 119,
+      "order": 126,
       "mode": 4,
       "inputs": [
         {
@@ -8610,7 +8561,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 137,
+      "order": 148,
       "mode": 4,
       "inputs": [
         {
@@ -8659,7 +8610,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 144,
+      "order": 155,
       "mode": 0,
       "inputs": [
         {
@@ -8702,7 +8653,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 133,
+      "order": 143,
       "mode": 0,
       "inputs": [
         {
@@ -8746,7 +8697,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 148,
+      "order": 159,
       "mode": 0,
       "inputs": [
         {
@@ -8925,7 +8876,7 @@
         440.4901123046875
       ],
       "flags": {},
-      "order": 81,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -8987,7 +8938,7 @@
         82
       ],
       "flags": {},
-      "order": 243,
+      "order": 256,
       "mode": 4,
       "inputs": [
         {
@@ -9012,15 +8963,15 @@
       "id": 550,
       "type": "CLIPVisionEncode",
       "pos": [
-        4538.10302734375,
-        4723.06591796875
+        3759.978515625,
+        4768.0224609375
       ],
       "size": [
         253.60000610351562,
         78
       ],
       "flags": {},
-      "order": 87,
+      "order": 134,
       "mode": 4,
       "inputs": [
         {
@@ -9031,7 +8982,7 @@
         {
           "name": "image",
           "type": "IMAGE",
-          "link": 969
+          "link": 1066
         }
       ],
       "outputs": [
@@ -9067,7 +9018,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 220,
+      "order": 230,
       "mode": 4,
       "inputs": [
         {
@@ -9128,7 +9079,7 @@
         26
       ],
       "flags": {},
-      "order": 215,
+      "order": 225,
       "mode": 4,
       "inputs": [
         {
@@ -9159,15 +9110,15 @@
       "id": 564,
       "type": "Reroute",
       "pos": [
-        5723.21533203125,
-        4213.0771484375
+        4945.091796875,
+        4258.03369140625
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 216,
+      "order": 226,
       "mode": 4,
       "inputs": [
         {
@@ -9197,8 +9148,8 @@
       "id": 566,
       "type": "String",
       "pos": [
-        5708.17626953125,
-        4288.12939453125
+        4930.052734375,
+        4333.0859375
       ],
       "size": [
         561.4890747070312,
@@ -9241,15 +9192,15 @@
       "id": 555,
       "type": "CLIPTextEncode",
       "pos": [
-        4254.5810546875,
-        4483.8564453125
+        3476.457275390625,
+        4528.81298828125
       ],
       "size": [
         425.27801513671875,
         180.6060791015625
       ],
       "flags": {},
-      "order": 82,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -9288,8 +9239,8 @@
       "id": 576,
       "type": "CR Float To Integer",
       "pos": [
-        4511.78759765625,
-        4991.82177734375
+        3733.663330078125,
+        5036.7783203125
       ],
       "size": [
         315,
@@ -9298,7 +9249,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 90,
+      "order": 96,
       "mode": 4,
       "inputs": [
         {
@@ -9341,8 +9292,8 @@
       "id": 577,
       "type": "easy mathInt",
       "pos": [
-        4543.740234375,
-        5045.0078125
+        3765.61572265625,
+        5089.96435546875
       ],
       "size": [
         315,
@@ -9351,7 +9302,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 110,
+      "order": 117,
       "mode": 4,
       "inputs": [
         {
@@ -9398,8 +9349,8 @@
       "id": 578,
       "type": "easy mathInt",
       "pos": [
-        4693.42919921875,
-        5044.923828125
+        3915.30419921875,
+        5089.88037109375
       ],
       "size": [
         315,
@@ -9408,7 +9359,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 123,
+      "order": 132,
       "mode": 4,
       "inputs": [
         {
@@ -9447,8 +9398,8 @@
       "id": 548,
       "type": "CLIPVisionLoader",
       "pos": [
-        4185.63720703125,
-        4723.79931640625
+        3407.513427734375,
+        4768.755859375
       ],
       "size": [
         315,
@@ -9481,15 +9432,15 @@
       "id": 560,
       "type": "Reroute",
       "pos": [
-        5058.97998046875,
-        4553.29296875
+        4280.8564453125,
+        4598.24951171875
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 83,
+      "order": 86,
       "mode": 4,
       "inputs": [
         {
@@ -9517,8 +9468,8 @@
       "id": 553,
       "type": "CLIPLoader",
       "pos": [
-        3759.1884765625,
-        4798.8212890625
+        2981.06494140625,
+        4843.77783203125
       ],
       "size": [
         390,
@@ -9554,8 +9505,8 @@
       "id": 552,
       "type": "UNETLoader",
       "pos": [
-        3776.14599609375,
-        4671.076171875
+        2998.0224609375,
+        4716.03271484375
       ],
       "size": [
         346.7470703125,
@@ -9589,15 +9540,15 @@
       "id": 551,
       "type": "WanImageToVideo",
       "pos": [
-        4939.44580078125,
-        4714.59228515625
+        4161.322265625,
+        4759.548828125
       ],
       "size": [
         342.5999755859375,
         270
       ],
       "flags": {},
-      "order": 203,
+      "order": 222,
       "mode": 4,
       "inputs": [
         {
@@ -9625,7 +9576,7 @@
           "name": "start_image",
           "type": "IMAGE",
           "shape": 7,
-          "link": 971
+          "link": 1065
         },
         {
           "name": "length",
@@ -9694,8 +9645,8 @@
       "id": 580,
       "type": "Int",
       "pos": [
-        3779.515625,
-        4515.07177734375
+        3001.39208984375,
+        4560.0283203125
       ],
       "size": [
         315,
@@ -9732,15 +9683,15 @@
       "id": 573,
       "type": "Reroute",
       "pos": [
-        5265.85400390625,
-        4186.2236328125
+        4487.73046875,
+        4231.18017578125
       ],
       "size": [
         75,
         26
       ],
       "flags": {},
-      "order": 89,
+      "order": 95,
       "mode": 4,
       "inputs": [
         {
@@ -9781,7 +9732,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 124,
+      "order": 130,
       "mode": 4,
       "inputs": [
         {
@@ -9818,7 +9769,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 93,
+      "order": 91,
       "mode": 4,
       "inputs": [
         {
@@ -9878,7 +9829,7 @@
         690
       ],
       "flags": {},
-      "order": 241,
+      "order": 254,
       "mode": 4,
       "inputs": [
         {
@@ -9970,7 +9921,7 @@
       },
       "widgets_values": [
         2,
-        588387407759577,
+        598489301531264,
         "randomize",
         20,
         1,
@@ -9992,173 +9943,6 @@
       ]
     },
     {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4124.3583984375,
-        1408.1083984375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 50,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            951
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "cute girl",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 556,
-      "type": "CLIPTextEncode",
-      "pos": [
-        4256.84912109375,
-        4410.798828125
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 197,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 986
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 1027
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            979
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Positive Prompt)",
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "美女跳舞",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 584,
-      "type": "DeepseekReasonerNode",
-      "pos": [
-        3223.660888671875,
-        5785.7353515625
-      ],
-      "size": [
-        400,
-        200
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 186,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "prompt",
-          "type": "STRING",
-          "widget": {
-            "name": "prompt"
-          },
-          "link": 1019
-        }
-      ],
-      "outputs": [
-        {
-          "name": "reasoning",
-          "type": "STRING",
-          "links": [
-            1021
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "answer",
-          "type": "STRING",
-          "links": [
-            1020,
-            1027
-          ],
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "aux_id": "yichengup/Comfyui-Deepseek",
-        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
-        "Node name for S&R": "DeepseekReasonerNode"
-      },
-      "widgets_values": [
-        "",
-        true,
-        1,
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 338,
       "type": "Float",
       "pos": [
@@ -10170,7 +9954,7 @@
         58
       ],
       "flags": {},
-      "order": 51,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10208,7 +9992,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 52,
+      "order": 51,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10258,7 +10042,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 159,
+      "order": 170,
       "mode": 0,
       "inputs": [
         {
@@ -10295,7 +10079,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 166,
+      "order": 177,
       "mode": 0,
       "inputs": [
         {
@@ -10332,7 +10116,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 167,
+      "order": 178,
       "mode": 0,
       "inputs": [
         {
@@ -10371,7 +10155,7 @@
         368.8460998535156
       ],
       "flags": {},
-      "order": 191,
+      "order": 202,
       "mode": 0,
       "inputs": [
         {
@@ -10408,7 +10192,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 172,
+      "order": 183,
       "mode": 0,
       "inputs": [
         {
@@ -10449,8 +10233,8 @@
       "flags": {
         "collapsed": false
       },
-      "order": 53,
-      "mode": 0,
+      "order": 52,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -10486,7 +10270,7 @@
         126
       ],
       "flags": {},
-      "order": 86,
+      "order": 88,
       "mode": 4,
       "inputs": [
         {
@@ -10543,7 +10327,7 @@
         126
       ],
       "flags": {},
-      "order": 121,
+      "order": 128,
       "mode": 4,
       "inputs": [
         {
@@ -10603,7 +10387,7 @@
         "collapsed": false,
         "pinned": true
       },
-      "order": 54,
+      "order": 53,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10647,7 +10431,7 @@
         82
       ],
       "flags": {},
-      "order": 55,
+      "order": 54,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10673,62 +10457,18 @@
       "bgcolor": "#353"
     },
     {
-      "id": 549,
-      "type": "LoadImage",
-      "pos": [
-        2762.622314453125,
-        4184.09619140625
-      ],
-      "size": [
-        885.3557739257812,
-        792.4426879882812
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            969,
-            971
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 579,
       "type": "Int",
       "pos": [
-        3779.515625,
-        4405.07421875
+        3001.39208984375,
+        4450.03076171875
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 57,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10755,118 +10495,11 @@
       "bgcolor": "#353"
     },
     {
-      "id": 583,
-      "type": "Evaluate Strings",
-      "pos": [
-        3013.914794921875,
-        5786.1474609375
-      ],
-      "size": [
-        302.5815734863281,
-        174
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 179,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 1049
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": 1035
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1019,
-            1050
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "a + b + c",
-        "False",
-        "Hello",
-        "我的图像提示词是：",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
-    },
-    {
-      "id": 582,
-      "type": "String",
-      "pos": [
-        2772.996337890625,
-        5102.8623046875
-      ],
-      "size": [
-        876.6028442382812,
-        602.5018920898438
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 58,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1028
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "String",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成<length>秒长，每秒<frame>帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 607,
       "type": "CR Float To String",
       "pos": [
-        3680.917236328125,
-        5361.12060546875
+        -213.4481201171875,
+        5369.51171875
       ],
       "size": [
         315,
@@ -10875,7 +10508,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 91,
+      "order": 97,
       "mode": 4,
       "inputs": [
         {
@@ -10917,8 +10550,8 @@
       "id": 590,
       "type": "Text Find and Replace",
       "pos": [
-        3680.917236328125,
-        5418.39501953125
+        -213.4481201171875,
+        5426.7861328125
       ],
       "size": [
         317.4000244140625,
@@ -10927,7 +10560,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 109,
+      "order": 113,
       "mode": 4,
       "inputs": [
         {
@@ -10986,83 +10619,11 @@
       "bgcolor": "#3f5159"
     },
     {
-      "id": 605,
-      "type": "Text Find and Replace",
-      "pos": [
-        3680.917236328125,
-        5477.9912109375
-      ],
-      "size": [
-        317.4000244140625,
-        166
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 122,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 1048
-        },
-        {
-          "name": "replace",
-          "type": "STRING",
-          "widget": {
-            "name": "replace"
-          },
-          "link": 1052
-        }
-      ],
-      "outputs": [
-        {
-          "name": "result_text",
-          "type": "STRING",
-          "links": [
-            1049
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "replacement_count_number",
-          "type": "NUMBER",
-          "links": null
-        },
-        {
-          "name": "replacement_count_float",
-          "type": "FLOAT",
-          "links": null
-        },
-        {
-          "name": "replacement_count_int",
-          "type": "INT",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "was-node-suite-comfyui",
-        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
-        "Node name for S&R": "Text Find and Replace"
-      },
-      "widgets_values": [
-        "",
-        "<frame>",
-        ""
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159"
-    },
-    {
       "id": 591,
       "type": "CR Integer To String",
       "pos": [
-        3680.917236328125,
-        5302.771484375
+        -213.4481201171875,
+        5311.16259765625
       ],
       "size": [
         315,
@@ -11071,7 +10632,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 89,
       "mode": 4,
       "inputs": [
         {
@@ -11114,15 +10675,15 @@
       "id": 574,
       "type": "Int",
       "pos": [
-        3772.27001953125,
-        4274.4169921875
+        2994.146484375,
+        4319.37353515625
       ],
       "size": [
         315,
         58
       ],
       "flags": {},
-      "order": 59,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11153,15 +10714,15 @@
       "id": 558,
       "type": "VAELoader",
       "pos": [
-        4588.2763671875,
-        5113.5244140625
+        3810.151611328125,
+        5158.48095703125
       ],
       "size": [
         306.36004638671875,
         58
       ],
       "flags": {},
-      "order": 60,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11187,52 +10748,11 @@
       ]
     },
     {
-      "id": 572,
-      "type": "Float",
-      "pos": [
-        3770.69873046875,
-        4175.5771484375
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 61,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            1005,
-            1009,
-            1051,
-            1061
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "帧率",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float",
-        "aux_id": "M1kep/ComfyLiterals"
-      },
-      "widgets_values": [
-        "24"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 565,
       "type": "Evaluate Strings",
       "pos": [
-        6040.8701171875,
-        4273.98291015625
+        5262.74658203125,
+        4318.939453125
       ],
       "size": [
         315,
@@ -11241,7 +10761,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 221,
+      "order": 231,
       "mode": 4,
       "inputs": [
         {
@@ -11304,7 +10824,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 62,
+      "order": 58,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11348,7 +10868,7 @@
         126
       ],
       "flags": {},
-      "order": 108,
+      "order": 112,
       "mode": 4,
       "inputs": [
         {
@@ -11405,7 +10925,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 63,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11444,15 +10964,15 @@
       "id": 557,
       "type": "KSampler",
       "pos": [
-        5335.83447265625,
-        4696.98779296875
+        4557.7109375,
+        4741.9443359375
       ],
       "size": [
         315,
         262
       ],
       "flags": {},
-      "order": 207,
+      "order": 229,
       "mode": 4,
       "inputs": [
         {
@@ -11493,7 +11013,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        785143631271847,
+        1110948029673820,
         "randomize",
         20,
         6,
@@ -11506,15 +11026,15 @@
       "id": 561,
       "type": "LayerUtility: PurgeVRAM",
       "pos": [
-        5702.22998046875,
-        4423.861328125
+        4924.1064453125,
+        4468.81787109375
       ],
       "size": [
         315,
         82
       ],
       "flags": {},
-      "order": 212,
+      "order": 235,
       "mode": 4,
       "inputs": [
         {
@@ -11536,185 +11056,18 @@
       "color": "rgba(38, 73, 116, 0.7)"
     },
     {
-      "id": 610,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        6235.001953125,
-        4484.7734375
-      ],
-      "size": [
-        376.7587890625,
-        278
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 226,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 1058
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "shape": 7,
-          "link": 1059
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT,INT",
-          "widget": {
-            "name": "frame_rate"
-          },
-          "link": 1061
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 1060
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 8,
-        "loop_count": 0,
-        "filename_prefix": "AnimateDiff",
-        "format": "image/gif",
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00001.gif",
-            "subfolder": "wan_video",
-            "type": "output",
-            "format": "image/gif",
-            "frame_rate": 24,
-            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00001.gif"
-          }
-        }
-      },
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 586,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        4784.0625,
-        5247.66845703125
-      ],
-      "size": [
-        688.2203979492188,
-        438.680908203125
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 195,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1021
-        }
-      ],
-      "outputs": [],
-      "title": "思考过程",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "好的，我现在需要帮用户生成一个3秒长的视频提示词，每秒24帧，总共72帧。首先，我得仔细分析用户提供的图像内容，然后按照规则和结构来构建提示词。\n\n用户给的图像描述是中景视角，柔和的自然光线，动漫角色Nagi，健美体型，瓷白肌肤，黑色长发带蓝调高光，香槟色蕾丝内衣，在无边际泳池边俯瞰海崖。场景是极简现代风格，有抛光混凝土地板、磨砂玻璃墙、流线型不锈钢家具和隐藏LED灯带。水面倒映黄昏阳光，右手扶泳池边，头微侧微笑，有酒窝，锁骨有水珠，动态构图，超高清细节，妆容精致，珊瑚色腮红和闪粉，浅景深，单色调加暖金属。\n\n根据规则，提示词需要包含运镜描述、主体、场景、运动、动作、镜头语言、氛围和风格化。用户给的例子是镜头从屏风左移，展示后面的女孩。我需要类似的结构，但要结合当前内容。\n\n首先运镜描述：用户例子是平移，这里可能需要缓慢推进或环绕，展示角色和环境。比如镜头从泳池边缘开始，缓慢推进，同时可能带点环绕，突出角色和背景。时间控制在5秒内，但用户要的是3秒视频，所以运镜不能太复杂，可能用缓慢推进或小幅环绕。\n\n主体描述：Nagi的细节，黑色长发蓝调高光，瓷白肌肤，香槟色蕾丝内衣，健美体型，妆容细节，水珠在锁骨，酒窝微笑，右手扶泳池边，头部微侧。\n\n场景描述：无边际泳池，海崖背景，极简设计，抛光混凝土地板，磨砂玻璃墙，流线家具，隐藏LED灯带，水面倒映黄昏阳光，浅景深虚化背景建筑，动态构图平衡天空和水面。\n\n运动描述：可能水面轻微波动，倒影闪烁，或者微风拂动发丝。右手轻扶泳池边的静态动作，但可能有细微动作，比如水珠滑落。\n\n动作描述：头部微侧，微笑，右手扶边沿，锁骨水珠闪烁。\n\n镜头语言：中景视角，浅景深，可能低角度或水平视角，超高清细节，动态构图，黄昏光线，暖色调。\n\n氛围：自信、迷人，黄昏的宁静与现代感，结合极简和自然元素。\n\n风格化：动漫风格，超高清材质，单色调点缀暖金属，类似《Love Rhythm》的视觉。\n\n需要确保各部分都涵盖，不遗漏。例如，运镜用缓慢推进，从泳池边缘开始，展示角色和环境；主体和场景描述要详细；镜头语言包括景别、视角、光线等；氛围词是自信迷人，黄昏宁静；风格化是动漫超高清。\n\n检查是否有不符合规则的地方，比如不添加无关内容，不分段，不用markdown。然后按例子格式组织语言，确保流畅自然，时间控制在3秒内，运镜合理。"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 585,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        5489.43505859375,
-        5247.416015625
-      ],
-      "size": [
-        680.6343383789062,
-        437.22064208984375
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 196,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1020
-        }
-      ],
-      "outputs": [],
-      "title": "返回的答案",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "镜头从无边际泳池的波光边缘缓缓推进，香槟色蕾丝包裹的瓷白肌肤在暮色中泛着柔光，Nagi倚着流线型不锈钢扶手微微侧转身体，黑色发丝被海风带起蓝调高光，隐藏式LED灯带在磨砂玻璃墙面晕染出渐变光晕，水面碎金随着呼吸起伏漫过指尖，低角度构图将天际线与泳池边际线重合，珊瑚色眼妆随眨眼泛起星芒，浅景深使远方层叠的海崖虚化成莫兰迪色块，现代极简空间里飘落两片樱花打破几何秩序"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 608,
       "type": "RIFE VFI",
       "pos": [
-        5686.498046875,
-        4888.68798828125
+        4908.37451171875,
+        4933.64453125
       ],
       "size": [
         478.8000183105469,
         198
       ],
       "flags": {},
-      "order": 219,
+      "order": 240,
       "mode": 4,
       "inputs": [
         {
@@ -11760,15 +11113,15 @@
       "id": 559,
       "type": "VAEDecode",
       "pos": [
-        5689.98388671875,
-        4770.05615234375
+        4911.8603515625,
+        4815.0126953125
       ],
       "size": [
         210,
         46
       ],
       "flags": {},
-      "order": 211,
+      "order": 234,
       "mode": 4,
       "inputs": [
         {
@@ -11800,41 +11153,6 @@
       "widgets_values": []
     },
     {
-      "id": 606,
-      "type": "Display Any (rgthree)",
-      "pos": [
-        3883.454345703125,
-        5095.75830078125
-      ],
-      "size": [
-        675.8611450195312,
-        705.8143310546875
-      ],
-      "flags": {},
-      "order": 187,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "source",
-          "type": "*",
-          "dir": 3,
-          "link": 1050
-        }
-      ],
-      "outputs": [],
-      "title": "提问",
-      "properties": {
-        "cnr_id": "rgthree-comfy",
-        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
-        "Node name for S&R": "Display Any (rgthree)"
-      },
-      "widgets_values": [
-        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成3秒长，每秒24.0帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。我的图像提示词是：中景视角，柔和的自然光线，来自动漫《Love Rhythm: Cosmo Caress》中的Nagi角色形象，曲线玲珑的健美体型，瓷白光滑肌肤，黑色长发带有蓝调高光，身着香槟色透明蕾丝内衣，站在无边际泳池边缘俯瞰海崖，极简现代风格室内设计包含抛光混凝土地板与磨砂玻璃墙体，流线型不锈钢家具，隐藏式LED灯带营造环境氛围，水面倒映黄昏金色阳光，右手轻扶湿润的泳池边沿，头部微侧展现自信迷人微笑露出酒窝，锁骨处有水珠闪烁，动态构图平衡天空与水面的负空间，超高清材质细节呈现衣物褶皱和发丝纹理，妆容精致带有珊瑚色腮红和眼睑闪粉，浅景深虚化背景建筑结构，单色调配色点缀暖金属色调"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 463,
       "type": "CR Text",
       "pos": [
@@ -11846,7 +11164,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 64,
+      "order": 60,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11894,7 +11212,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 65,
+      "order": 61,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11931,18 +11249,1231 @@
       "bgcolor": "#335"
     },
     {
+      "id": 616,
+      "type": "LayerUtility: PurgeVRAM",
+      "pos": [
+        1442.3568115234375,
+        4807.73046875
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 135,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "anything",
+          "type": "*",
+          "link": 1068
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfyui_layerstyle",
+        "ver": "7b326d13e43fc4022cd80e472c7af67027409b1e",
+        "Node name for S&R": "LayerUtility: PurgeVRAM"
+      },
+      "widgets_values": [
+        false,
+        true
+      ],
+      "color": "rgba(38, 73, 116, 0.7)"
+    },
+    {
+      "id": 480,
+      "type": "easy mathInt",
+      "pos": [
+        -3359.442138671875,
+        317.8764343261719
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 80,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 868
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            869
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        1,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 613,
+      "type": "JanusModelLoader",
+      "pos": [
+        477.8869934082031,
+        4449.0888671875
+      ],
+      "size": [
+        315,
+        78
+      ],
+      "flags": {},
+      "order": 62,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "model",
+          "type": "JANUS_MODEL",
+          "links": [
+            1071
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "processor",
+          "type": "JANUS_PROCESSOR",
+          "links": [
+            1072
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "janus-pro",
+        "ver": "4400129e5c33664ae6e927162a39ba4116f44b8b",
+        "Node name for S&R": "JanusModelLoader"
+      },
+      "widgets_values": [
+        "deepseek-ai/Janus-Pro-7B"
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4124.3583984375,
+        1408.1083984375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 63,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            951
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "cute girl",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 620,
+      "type": "JanusImageUnderstanding",
+      "pos": [
+        956.6810913085938,
+        4449.8505859375
+      ],
+      "size": [
+        418.62762451171875,
+        440.4901123046875
+      ],
+      "flags": {},
+      "order": 120,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "JANUS_MODEL",
+          "link": 1071
+        },
+        {
+          "name": "processor",
+          "type": "JANUS_PROCESSOR",
+          "link": 1072
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 1075
+        }
+      ],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "links": [
+            1068,
+            1081
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "janus-pro",
+        "ver": "4400129e5c33664ae6e927162a39ba4116f44b8b",
+        "Node name for S&R": "JanusImageUnderstanding"
+      },
+      "widgets_values": [
+        "你是一个艺术专家，请尽可能详细地描述这张图片。描述要包含图像中的内容，包含画面风格、环境、场景细节等150-180个描述性形容词或关键词。如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词。请只用英文输出。",
+        851942698642849,
+        "fixed",
+        0.1,
+        0.95,
+        512,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 605,
+      "type": "Text Find and Replace",
+      "pos": [
+        -213.4481201171875,
+        5486.38232421875
+      ],
+      "size": [
+        317.4000244140625,
+        166
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 129,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 1048
+        },
+        {
+          "name": "replace",
+          "type": "STRING",
+          "widget": {
+            "name": "replace"
+          },
+          "link": 1052
+        }
+      ],
+      "outputs": [
+        {
+          "name": "result_text",
+          "type": "STRING",
+          "links": [
+            1049
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "replacement_count_number",
+          "type": "NUMBER",
+          "links": null
+        },
+        {
+          "name": "replacement_count_float",
+          "type": "FLOAT",
+          "links": null
+        },
+        {
+          "name": "replacement_count_int",
+          "type": "INT",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "was-node-suite-comfyui",
+        "ver": "3ed45af34a14551dc28cb3127235cc7197d4633f",
+        "Node name for S&R": "Text Find and Replace"
+      },
+      "widgets_values": [
+        "",
+        "<frame>",
+        ""
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
+    },
+    {
+      "id": 586,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        697.0053100585938,
+        5337.5986328125
+      ],
+      "size": [
+        688.2203979492188,
+        438.680908203125
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 206,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1021
+        }
+      ],
+      "outputs": [],
+      "title": "思考过程",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "好的，我现在需要帮用户生成一个3秒长的视频提示词，每秒24帧，总共72帧。首先，我得仔细分析用户提供的图像内容，然后按照规则和结构来构建提示词。\n\n用户给的图像描述是中景视角，柔和的自然光线，动漫角色Nagi，健美体型，瓷白肌肤，黑色长发带蓝调高光，香槟色蕾丝内衣，在无边际泳池边俯瞰海崖。场景是极简现代风格，有抛光混凝土地板、磨砂玻璃墙、流线型不锈钢家具和隐藏LED灯带。水面倒映黄昏阳光，右手扶泳池边，头微侧微笑，有酒窝，锁骨有水珠，动态构图，超高清细节，妆容精致，珊瑚色腮红和闪粉，浅景深，单色调加暖金属。\n\n根据规则，提示词需要包含运镜描述、主体、场景、运动、动作、镜头语言、氛围和风格化。用户给的例子是镜头从屏风左移，展示后面的女孩。我需要类似的结构，但要结合当前内容。\n\n首先运镜描述：用户例子是平移，这里可能需要缓慢推进或环绕，展示角色和环境。比如镜头从泳池边缘开始，缓慢推进，同时可能带点环绕，突出角色和背景。时间控制在5秒内，但用户要的是3秒视频，所以运镜不能太复杂，可能用缓慢推进或小幅环绕。\n\n主体描述：Nagi的细节，黑色长发蓝调高光，瓷白肌肤，香槟色蕾丝内衣，健美体型，妆容细节，水珠在锁骨，酒窝微笑，右手扶泳池边，头部微侧。\n\n场景描述：无边际泳池，海崖背景，极简设计，抛光混凝土地板，磨砂玻璃墙，流线家具，隐藏LED灯带，水面倒映黄昏阳光，浅景深虚化背景建筑，动态构图平衡天空和水面。\n\n运动描述：可能水面轻微波动，倒影闪烁，或者微风拂动发丝。右手轻扶泳池边的静态动作，但可能有细微动作，比如水珠滑落。\n\n动作描述：头部微侧，微笑，右手扶边沿，锁骨水珠闪烁。\n\n镜头语言：中景视角，浅景深，可能低角度或水平视角，超高清细节，动态构图，黄昏光线，暖色调。\n\n氛围：自信、迷人，黄昏的宁静与现代感，结合极简和自然元素。\n\n风格化：动漫风格，超高清材质，单色调点缀暖金属，类似《Love Rhythm》的视觉。\n\n需要确保各部分都涵盖，不遗漏。例如，运镜用缓慢推进，从泳池边缘开始，展示角色和环境；主体和场景描述要详细；镜头语言包括景别、视角、光线等；氛围词是自信迷人，黄昏宁静；风格化是动漫超高清。\n\n检查是否有不符合规则的地方，比如不添加无关内容，不分段，不用markdown。然后按例子格式组织语言，确保流畅自然，时间控制在3秒内，运镜合理。"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 585,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        1471.4248046875,
+        5337.5986328125
+      ],
+      "size": [
+        680.6343383789062,
+        437.22064208984375
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 207,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1020
+        }
+      ],
+      "outputs": [],
+      "title": "返回的答案",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "镜头从无边际泳池的波光边缘缓缓推进，香槟色蕾丝包裹的瓷白肌肤在暮色中泛着柔光，Nagi倚着流线型不锈钢扶手微微侧转身体，黑色发丝被海风带起蓝调高光，隐藏式LED灯带在磨砂玻璃墙面晕染出渐变光晕，水面碎金随着呼吸起伏漫过指尖，低角度构图将天际线与泳池边际线重合，珊瑚色眼妆随眨眼泛起星芒，浅景深使远方层叠的海崖虚化成莫兰迪色块，现代极简空间里飘落两片樱花打破几何秩序"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 627,
+      "type": "Reroute",
+      "pos": [
+        21.35772705078125,
+        5676.75439453125
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 208,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1082
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "STRING",
+          "links": [
+            1083
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 572,
+      "type": "Float",
+      "pos": [
+        2992.5751953125,
+        4220.53369140625
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 64,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            1005,
+            1009,
+            1051,
+            1061
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "帧率",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Float",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "24"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 626,
+      "type": "CR Text Input Switch (4 way)",
+      "pos": [
+        2539.505615234375,
+        4979.53662109375
+      ],
+      "size": [
+        390.5999755859375,
+        234
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 214,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text1",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text1"
+          },
+          "link": 1081
+        },
+        {
+          "name": "text2",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text2"
+          },
+          "link": 1083
+        },
+        {
+          "name": "text3",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text3"
+          },
+          "link": 1084
+        },
+        {
+          "name": "text4",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "text4"
+          },
+          "link": null
+        },
+        {
+          "name": "Input",
+          "type": "INT",
+          "widget": {
+            "name": "Input"
+          },
+          "link": 1080
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1085
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "title": "图片Info",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text Input Switch (4 way)",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        1,
+        "",
+        "",
+        "",
+        ""
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 621,
+      "type": "Int",
+      "pos": [
+        2047.1163330078125,
+        4300.068359375
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {
+        "collapsed": true,
+        "pinned": true
+      },
+      "order": 65,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1074
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "开关",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Int",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "0"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 584,
+      "type": "DeepseekReasonerNode",
+      "pos": [
+        -468.1701354980469,
+        5787.58642578125
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 197,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 1019
+        }
+      ],
+      "outputs": [
+        {
+          "name": "reasoning",
+          "type": "STRING",
+          "links": [
+            1021
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "answer",
+          "type": "STRING",
+          "links": [
+            1020,
+            1082
+          ],
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "aux_id": "yichengup/Comfyui-Deepseek",
+        "ver": "38a649aa8e06598900e41e743f2505c8e45ef849",
+        "Node name for S&R": "DeepseekReasonerNode"
+      },
+      "widgets_values": [
+        "",
+        true,
+        1,
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 611,
+      "type": "Reroute",
+      "pos": [
+        536.1446533203125,
+        4120.7802734375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 99,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1062
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "IMAGE",
+          "links": [
+            1064,
+            1075
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 549,
+      "type": "LoadImage",
+      "pos": [
+        -762.0582275390625,
+        4121.25439453125
+      ],
+      "size": [
+        885.3557739257812,
+        792.4426879882812
+      ],
+      "flags": {},
+      "order": 66,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1062
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 583,
+      "type": "Evaluate Strings",
+      "pos": [
+        -880.4490356445312,
+        5794.53857421875
+      ],
+      "size": [
+        302.5815734863281,
+        174
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 190,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 1049
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": 1035
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1019,
+            1050
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + b + c",
+        "False",
+        "Hello",
+        "我的图像提示词是：",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 582,
+      "type": "String",
+      "pos": [
+        -1167.5670166015625,
+        5048.9189453125
+      ],
+      "size": [
+        876.6028442382812,
+        602.5018920898438
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 67,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1028
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "String",
+        "aux_id": "M1kep/ComfyLiterals"
+      },
+      "widgets_values": [
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成<length>秒长，每秒<frame>帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 619,
+      "type": "Reroute",
+      "pos": [
+        2426.884033203125,
+        5087.5859375
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 147,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "widget": {
+            "name": "value"
+          },
+          "link": 1079
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1080
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": true,
+        "horizontal": false
+      },
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
+    },
+    {
+      "id": 612,
+      "type": "Reroute",
+      "pos": [
+        2811.5654296875,
+        4132.68603515625
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 119,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1064
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "IMAGE",
+          "links": [
+            1065,
+            1066
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 622,
+      "type": "easy mathInt",
+      "pos": [
+        2019.31396484375,
+        4430.96435546875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 98,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 1074
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1077
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        1,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 623,
+      "type": "easy mathInt",
+      "pos": [
+        1989.9608154296875,
+        5066.08544921875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 118,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 1077
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1078
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        2,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 625,
+      "type": "easy mathInt",
+      "pos": [
+        1948.2318115234375,
+        5983.70654296875
+      ],
+      "size": [
+        315,
+        106
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 133,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "INT",
+          "widget": {
+            "name": "a"
+          },
+          "link": 1078
+        }
+      ],
+      "outputs": [
+        {
+          "name": "INT",
+          "type": "INT",
+          "links": [
+            1079
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "aadbb0b38945eba3e15be6099a7f4e5c0327c175",
+        "Node name for S&R": "easy mathInt"
+      },
+      "widgets_values": [
+        0,
+        3,
+        "add"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 606,
+      "type": "Display Any (rgthree)",
+      "pos": [
+        -7.337060451507568,
+        5099.58740234375
+      ],
+      "size": [
+        675.8611450195312,
+        705.8143310546875
+      ],
+      "flags": {},
+      "order": 198,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "source",
+          "type": "*",
+          "dir": 3,
+          "link": 1050
+        }
+      ],
+      "outputs": [],
+      "title": "提问",
+      "properties": {
+        "cnr_id": "rgthree-comfy",
+        "ver": "32142fe476878a354dda6e2d4b5ea98960de3ced",
+        "Node name for S&R": "Display Any (rgthree)"
+      },
+      "widgets_values": [
+        "# Role: 视频创作者\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: 中文\n- Description: 你是一个资深的视频创作者，擅长创作完美的视频画面。\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 提示词由 运镜描述+主体描述+场景描述+运动描述+动作描述+镜头语言+氛围词+风格化 组成\n4. 运镜描述：运镜描述是对镜头运动的具体描述，在时间线上，将镜头运动和画面内容的变化有效结合可以有效提升视频叙事的丰富性和专业度。用户可以通过代入导演的视角来想象和书写运镜过程。时间上，需要注意将镜头运动的时长合理控制在5s内，避免过于复杂的运镜\n5. 主体描述：主体描述是对主体外观特征细节的描述，可通过形容词或短句列举\n6. 场景描述：场景描述是对主体所处环境特征细节的描述，可通过形容词或短句列举。\n7. 运动描述：运动描述是对运动特征细节的描述，包含运动的幅度、速率和运动作用的效果，例如\"猛烈地摇摆\"、\"缓慢地移动\"、\"打碎了玻璃\"等\n8. 动作描述: 主体的动作，例如“挥舞双手”、“快速奔跑”等\n8. 镜头语言：镜头语言包含景别、视角、镜头、运镜等\n9. 氛围词：氛围词是对预期画面氛围的描述，例如\"梦幻\"、\"孤独\"、\"宏伟\"等\n10. 风格化：风格化是对画面风格语言的描述，例如\"赛博朋克\"、\"勾线插画\"、\"废土风格\"等\n11. 不需要输出其他无关的词例如“response”\n12. 不需要输出标题\n13. 不需要分段输出\n14. 不需要hash tag\n15. 不要用markdown格式输出\n\n## Workflow\n根据我提供的图像内容，生成3秒长，每秒24.0帧的视频内容的提示词\n\n## Output\n请以plain text格式返回\n\n## Examples\n\n```\n镜头从满屏的古色古香的木制屏风开始，慢慢向左平移，露出屏风后面端坐着的古风女孩，女孩穿着蜀绣汉服，发髻高高盘起，不停地交谈，进行着线上视频会议\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，参考 <Examples> 的样式和格式返回。我的图像提示词是：中景视角，柔和的自然光线，来自动漫《Love Rhythm: Cosmo Caress》中的Nagi角色形象，曲线玲珑的健美体型，瓷白光滑肌肤，黑色长发带有蓝调高光，身着香槟色透明蕾丝内衣，站在无边际泳池边缘俯瞰海崖，极简现代风格室内设计包含抛光混凝土地板与磨砂玻璃墙体，流线型不锈钢家具，隐藏式LED灯带营造环境氛围，水面倒映黄昏金色阳光，右手轻扶湿润的泳池边沿，头部微侧展现自信迷人微笑露出酒窝，锁骨处有水珠闪烁，动态构图平衡天空与水面的负空间，超高清材质细节呈现衣物褶皱和发丝纹理，妆容精致带有珊瑚色腮红和眼睑闪粉，浅景深虚化背景建筑结构，单色调配色点缀暖金属色调"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 624,
+      "type": "CR Text",
+      "pos": [
+        1080.8974609375,
+        5980.95361328125
+      ],
+      "size": [
+        779.1257934570312,
+        340.9159851074219
+      ],
+      "flags": {},
+      "order": 68,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            1084
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "美女抖动胸部",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 556,
+      "type": "CLIPTextEncode",
+      "pos": [
+        3478.725341796875,
+        4455.75537109375
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 218,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 986
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 1085
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            979
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "美女跳舞",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 609,
       "type": "VHS_VideoCombine",
       "pos": [
-        6231.99462890625,
-        4557.953125
+        5473.392578125,
+        4451.17724609375
       ],
       "size": [
         376.7587890625,
         655.569091796875
       ],
       "flags": {},
-      "order": 225,
+      "order": 245,
       "mode": 4,
       "inputs": [
         {
@@ -11998,7 +12529,7 @@
         "Node name for S&R": "VHS_VideoCombine"
       },
       "widgets_values": {
-        "frame_rate": 8,
+        "frame_rate": 24,
         "loop_count": 0,
         "filename_prefix": "AnimateDiff",
         "format": "video/h264-mp4",
@@ -12012,13 +12543,106 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Nagi_Poolside_Glamour_887125994755742_video_00002.mp4",
+            "filename": "Colorful_Juice_Drips_772463207595606_video_00001.mp4",
             "subfolder": "wan_video",
             "type": "output",
-            "format": "video/nvenc_h264-mp4",
+            "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Nagi_Poolside_Glamour_887125994755742_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Nagi_Poolside_Glamour_887125994755742_video_00002.mp4"
+            "workflow": "Colorful_Juice_Drips_772463207595606_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_772463207595606_video_00001.mp4"
+          }
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 610,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        5476.9931640625,
+        4388.86572265625
+      ],
+      "size": [
+        376.7587890625,
+        278
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 246,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1058
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1059
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT,INT",
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1061
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1060
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "image/gif",
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Colorful_Juice_Drips_772463207595606_video_00002.gif",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "image/gif",
+            "frame_rate": 24,
+            "workflow": "Colorful_Juice_Drips_772463207595606_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_772463207595606_video_00002.gif"
           }
         }
       },
@@ -14068,28 +14692,12 @@
       "CLIP_VISION"
     ],
     [
-      969,
-      549,
-      0,
-      550,
-      1,
-      "IMAGE"
-    ],
-    [
       970,
       550,
       0,
       551,
       3,
       "CLIP_VISION_OUTPUT"
-    ],
-    [
-      971,
-      549,
-      0,
-      551,
-      4,
-      "IMAGE"
     ],
     [
       973,
@@ -14306,14 +14914,6 @@
       586,
       0,
       "*"
-    ],
-    [
-      1027,
-      584,
-      1,
-      556,
-      1,
-      "STRING"
     ],
     [
       1028,
@@ -14538,6 +15138,150 @@
       610,
       4,
       "FLOAT,INT"
+    ],
+    [
+      1062,
+      549,
+      0,
+      611,
+      0,
+      "*"
+    ],
+    [
+      1064,
+      611,
+      0,
+      612,
+      0,
+      "*"
+    ],
+    [
+      1065,
+      612,
+      0,
+      551,
+      4,
+      "IMAGE"
+    ],
+    [
+      1066,
+      612,
+      0,
+      550,
+      1,
+      "IMAGE"
+    ],
+    [
+      1068,
+      620,
+      0,
+      616,
+      0,
+      "*"
+    ],
+    [
+      1071,
+      613,
+      0,
+      620,
+      0,
+      "JANUS_MODEL"
+    ],
+    [
+      1072,
+      613,
+      1,
+      620,
+      1,
+      "JANUS_PROCESSOR"
+    ],
+    [
+      1074,
+      621,
+      0,
+      622,
+      0,
+      "INT"
+    ],
+    [
+      1075,
+      611,
+      0,
+      620,
+      2,
+      "IMAGE"
+    ],
+    [
+      1077,
+      622,
+      0,
+      623,
+      0,
+      "INT"
+    ],
+    [
+      1078,
+      623,
+      0,
+      625,
+      0,
+      "INT"
+    ],
+    [
+      1079,
+      625,
+      0,
+      619,
+      0,
+      "*"
+    ],
+    [
+      1080,
+      619,
+      0,
+      626,
+      4,
+      "INT"
+    ],
+    [
+      1081,
+      620,
+      0,
+      626,
+      0,
+      "STRING"
+    ],
+    [
+      1082,
+      584,
+      1,
+      627,
+      0,
+      "*"
+    ],
+    [
+      1083,
+      627,
+      0,
+      626,
+      1,
+      "STRING"
+    ],
+    [
+      1084,
+      624,
+      0,
+      626,
+      2,
+      "STRING"
+    ],
+    [
+      1085,
+      626,
+      0,
+      556,
+      1,
+      "STRING"
     ]
   ],
   "groups": [
@@ -14725,12 +15469,51 @@
     },
     {
       "id": 26,
-      "title": "图像生成 05 - 图生视频",
+      "title": "视频生成 执行",
       "bounding": [
-        2729.21923828125,
-        4101.97705078125,
-        3933.457275390625,
-        1706.91064453125
+        2734.40673828125,
+        4082.95703125,
+        3210.59912109375,
+        1168.349853515625
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 27,
+      "title": "视频生成 提示词 01 - Janus ",
+      "bounding": [
+        442.15130615234375,
+        4343.484375,
+        1726.366455078125,
+        564.10107421875
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 28,
+      "title": "视频生成 提示词 02 - DeepSeek-r1",
+      "bounding": [
+        -1177.5670166015625,
+        4975.31884765625,
+        3339.626220703125,
+        851.6165771484375
+      ],
+      "color": "#3f789e",
+      "font_size": 24,
+      "flags": {}
+    },
+    {
+      "id": 29,
+      "title": "视频生成 提示词 03 - 手工",
+      "bounding": [
+        1042.0062255859375,
+        5890.68212890625,
+        1123.2718505859375,
+        454.1689453125
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -14740,10 +15523,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1,
+      "scale": 1.2100000000000006,
       "offset": [
-        -5319.549332416753,
-        -4351.040022071106
+        3092.5970812632745,
+        -515.1436866196348
       ]
     },
     "groupNodes": {},
