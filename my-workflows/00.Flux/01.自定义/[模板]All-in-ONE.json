@@ -1,6 +1,6 @@
 {
-  "last_node_id": 630,
-  "last_link_id": 1090,
+  "last_node_id": 631,
+  "last_link_id": 1091,
   "nodes": [
     {
       "id": 144,
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        528993534275256,
+        756190222784831,
         "randomize",
         25,
         1,
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        463979601444594,
+        1123312925105846,
         "randomize",
         20,
         1,
@@ -5018,7 +5018,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        39536798083100,
+        427326993958692,
         "randomize"
       ],
       "color": "#232",
@@ -5465,10 +5465,10 @@
         {
           "name": "",
           "type": "*",
+          "link": 925,
           "widget": {
             "name": "value"
-          },
-          "link": 925
+          }
         }
       ],
       "outputs": [
@@ -5750,7 +5750,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        680365632619006,
+        832866923117935,
         "randomize",
         40,
         1,
@@ -9886,7 +9886,7 @@
       },
       "widgets_values": [
         2,
-        697544437311510,
+        940418830326264,
         "randomize",
         20,
         1,
@@ -10087,10 +10087,10 @@
         {
           "name": "",
           "type": "*",
+          "link": 1033,
           "widget": {
             "name": "value"
-          },
-          "link": 1033
+          }
         }
       ],
       "outputs": [
@@ -10142,47 +10142,6 @@
       ],
       "color": "#222",
       "bgcolor": "#000"
-    },
-    {
-      "id": 594,
-      "type": "Reroute",
-      "pos": [
-        1866.2554931640625,
-        4075.093017578125
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {
-        "pinned": true
-      },
-      "order": 185,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "widget": {
-            "name": "value"
-          },
-          "link": 1034
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "*",
-          "links": [
-            1035
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
     },
     {
       "id": 380,
@@ -10978,7 +10937,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        2780322614846,
+        380808896994518,
         "randomize",
         20,
         6,
@@ -12223,13 +12182,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Colorful_Juice_Drips_1047162898008463_video_00001.mp4",
+            "filename": "Colorful_Juice_Drips_865754210976984_video_00001.mp4",
             "subfolder": "wan_video",
             "type": "output",
             "format": "video/h264-mp4",
             "frame_rate": 24,
-            "workflow": "Colorful_Juice_Drips_1047162898008463_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_1047162898008463_video_00001.mp4"
+            "workflow": "Colorful_Juice_Drips_865754210976984_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_865754210976984_video_00001.mp4"
           }
         }
       },
@@ -12316,13 +12275,13 @@
           "hidden": false,
           "paused": false,
           "params": {
-            "filename": "Colorful_Juice_Drips_1047162898008463_video_00002.gif",
+            "filename": "Colorful_Juice_Drips_865754210976984_video_00002.gif",
             "subfolder": "wan_video",
             "type": "output",
             "format": "image/gif",
             "frame_rate": 24,
-            "workflow": "Colorful_Juice_Drips_1047162898008463_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_1047162898008463_video_00002.gif"
+            "workflow": "Colorful_Juice_Drips_865754210976984_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_865754210976984_video_00002.gif"
           }
         }
       },
@@ -12404,63 +12363,6 @@
       },
       "widgets_values": [
         "美女抖动胸部",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 556,
-      "type": "CLIPTextEncode",
-      "pos": [
-        3478.725341796875,
-        4455.75537109375
-      ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 224,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 986
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "widget": {
-            "name": "text"
-          },
-          "link": 1090
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            979
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "CLIP Text Encode (Positive Prompt)",
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "CLIPTextEncode"
-      },
-      "widgets_values": [
-        "美女跳舞",
         [
           false,
           true
@@ -12608,6 +12510,199 @@
       "bgcolor": "#3f5159"
     },
     {
+      "id": 549,
+      "type": "LoadImage",
+      "pos": [
+        -762.0582275390625,
+        4121.25439453125
+      ],
+      "size": [
+        885.3557739257812,
+        792.4426879882812
+      ],
+      "flags": {
+        "pinned": true
+      },
+      "order": 68,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1062
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
+        "image"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 628,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        2804.27490234375,
+        5406.32763671875
+      ],
+      "size": [
+        315,
+        82
+      ],
+      "flags": {},
+      "order": 99,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1086
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            1087
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.26",
+        "Node name for S&R": "LoraLoaderModelOnly"
+      },
+      "widgets_values": [
+        "03_wan\\Spinning V2.safetensors",
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 629,
+      "type": "CR Text",
+      "pos": [
+        3192.8466796875,
+        5400.8740234375
+      ],
+      "size": [
+        779.1257934570312,
+        340.9159851074219
+      ],
+      "flags": {},
+      "order": 69,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "links": [
+            1089
+          ],
+          "slot_index": 0
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": [],
+          "slot_index": 1
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      },
+      "widgets_values": [
+        "原地旋转",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 556,
+      "type": "CLIPTextEncode",
+      "pos": [
+        3478.725341796875,
+        4455.75537109375
+      ],
+      "size": [
+        422.84503173828125,
+        164.31304931640625
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 224,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 986
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 1090
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            979
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "CLIP Text Encode (Positive Prompt)",
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.18",
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        "美女跳舞",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
       "id": 630,
       "type": "Evaluate Strings",
       "pos": [
@@ -12669,7 +12764,7 @@
         "Node name for S&R": "Evaluate Strings"
       },
       "widgets_values": [
-        "b + ',' + 'a'",
+        "b + ',' + a",
         "True",
         "Hello",
         " World",
@@ -12680,140 +12775,45 @@
       "shape": 1
     },
     {
-      "id": 629,
-      "type": "CR Text",
+      "id": 594,
+      "type": "Reroute",
       "pos": [
-        3192.8466796875,
-        5400.8740234375
+        -1331.1046142578125,
+        5763.79248046875
       ],
       "size": [
-        779.1257934570312,
-        340.9159851074219
-      ],
-      "flags": {},
-      "order": 68,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "links": [
-            1089
-          ],
-          "slot_index": 0
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "links": [],
-          "slot_index": 1
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes"
-      },
-      "widgets_values": [
-        "her breasts are bouncing",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 628,
-      "type": "LoraLoaderModelOnly",
-      "pos": [
-        2804.27490234375,
-        5406.32763671875
-      ],
-      "size": [
-        315,
-        82
-      ],
-      "flags": {},
-      "order": 99,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1086
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            1087
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.26",
-        "Node name for S&R": "LoraLoaderModelOnly"
-      },
-      "widgets_values": [
-        "03_wan\\bounceV_01.safetensors",
-        1
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 549,
-      "type": "LoadImage",
-      "pos": [
-        -762.0582275390625,
-        4121.25439453125
-      ],
-      "size": [
-        885.3557739257812,
-        792.4426879882812
+        75,
+        26
       ],
       "flags": {
         "pinned": true
       },
-      "order": 69,
+      "order": 185,
       "mode": 0,
-      "inputs": [],
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1034,
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
       "outputs": [
         {
-          "name": "IMAGE",
-          "type": "IMAGE",
+          "name": "",
+          "type": "*",
           "links": [
-            1062
+            1035
           ],
           "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null,
-          "slot_index": 1
         }
       ],
       "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.18",
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "Nagi_Poolside_Glamour_567351375329461_high_0001.jpg",
-        "image"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
+        "showOutputText": false,
+        "horizontal": false
+      }
     }
   ],
   "links": [
@@ -15762,10 +15762,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.7513148009015793,
+      "scale": 0.2896643797366879,
       "offset": [
-        2421.1313523459066,
-        -40.48503174184683
+        5783.391767679477,
+        -835.4336543659371
       ]
     },
     "groupNodes": {},
