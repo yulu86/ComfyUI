@@ -12205,194 +12205,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 610,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        5532.3271484375,
-        4208.19873046875
-      ],
-      "size": [
-        376.7587890625,
-        278
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 257,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 1058
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "shape": 7,
-          "link": 1059
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT,INT",
-          "widget": {
-            "name": "frame_rate"
-          },
-          "link": 1095
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 1060
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "AnimateDiff",
-        "format": "image/gif",
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "Colorful_Juice_Drips_369507456961331_video_00002.gif",
-            "subfolder": "wan_video",
-            "type": "output",
-            "format": "image/gif",
-            "frame_rate": 36,
-            "workflow": "Colorful_Juice_Drips_369507456961331_video_00002.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_369507456961331_video_00002.gif"
-          }
-        }
-      },
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
-      "id": 609,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        5536.0595703125,
-        4547.1767578125
-      ],
-      "size": [
-        376.7587890625,
-        655.569091796875
-      ],
-      "flags": {},
-      "order": 256,
-      "mode": 4,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "LATENT",
-          "link": 1054
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "shape": 7,
-          "link": null
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "shape": 7,
-          "link": 1055
-        },
-        {
-          "name": "frame_rate",
-          "type": "FLOAT,INT",
-          "widget": {
-            "name": "frame_rate"
-          },
-          "link": 1096
-        },
-        {
-          "name": "filename_prefix",
-          "type": "STRING",
-          "widget": {
-            "name": "filename_prefix"
-          },
-          "link": 1057
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "links": null
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
-        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "AnimateDiff",
-        "format": "video/h264-mp4",
-        "pix_fmt": "yuv420p",
-        "crf": 19,
-        "save_metadata": true,
-        "trim_to_audio": false,
-        "pingpong": false,
-        "save_output": true,
-        "videopreview": {
-          "hidden": false,
-          "paused": false,
-          "params": {
-            "filename": "Colorful_Juice_Drips_369507456961331_video_00001.mp4",
-            "subfolder": "wan_video",
-            "type": "output",
-            "format": "video/h264-mp4",
-            "frame_rate": 36,
-            "workflow": "Colorful_Juice_Drips_369507456961331_video_00001.png",
-            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_369507456961331_video_00001.mp4"
-          }
-        }
-      },
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 565,
       "type": "Evaluate Strings",
       "pos": [
@@ -12950,6 +12762,198 @@
       "color": "#222",
       "bgcolor": "#000",
       "shape": 1
+    },
+    {
+      "id": 610,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        5588.20751953125,
+        4190.3974609375
+      ],
+      "size": [
+        376.7587890625,
+        374
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 257,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1058
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1059
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT,INT",
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1095
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1060
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "video/webm",
+        "pix_fmt": "yuv420p",
+        "crf": 20,
+        "save_metadata": true,
+        "trim_to_audio": false,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Colorful_Juice_Drips_369507456961331_video_00002.gif",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "image/gif",
+            "frame_rate": 36,
+            "workflow": "Colorful_Juice_Drips_369507456961331_video_00002.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_369507456961331_video_00002.gif"
+          }
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
+    },
+    {
+      "id": 609,
+      "type": "VHS_VideoCombine",
+      "pos": [
+        5513.29248046875,
+        4285.564453125
+      ],
+      "size": [
+        376.7587890625,
+        374
+      ],
+      "flags": {},
+      "order": 256,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "LATENT",
+          "link": 1054
+        },
+        {
+          "name": "audio",
+          "type": "AUDIO",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "meta_batch",
+          "type": "VHS_BatchManager",
+          "shape": 7,
+          "link": null
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "shape": 7,
+          "link": 1055
+        },
+        {
+          "name": "frame_rate",
+          "type": "FLOAT,INT",
+          "widget": {
+            "name": "frame_rate"
+          },
+          "link": 1096
+        },
+        {
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          },
+          "link": 1057
+        }
+      ],
+      "outputs": [
+        {
+          "name": "Filenames",
+          "type": "VHS_FILENAMES",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-videohelpersuite",
+        "ver": "031c4ae301c9b6403e2f472eb91f0ff87bbb5385",
+        "Node name for S&R": "VHS_VideoCombine"
+      },
+      "widgets_values": {
+        "frame_rate": 24,
+        "loop_count": 0,
+        "filename_prefix": "AnimateDiff",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 19,
+        "save_metadata": true,
+        "trim_to_audio": false,
+        "pingpong": false,
+        "save_output": true,
+        "videopreview": {
+          "hidden": false,
+          "paused": false,
+          "params": {
+            "filename": "Colorful_Juice_Drips_369507456961331_video_00001.mp4",
+            "subfolder": "wan_video",
+            "type": "output",
+            "format": "video/h264-mp4",
+            "frame_rate": 36,
+            "workflow": "Colorful_Juice_Drips_369507456961331_video_00001.png",
+            "fullpath": "D:\\workspace\\code\\01_AI\\ComfyUI\\output\\wan_video\\Colorful_Juice_Drips_369507456961331_video_00001.mp4"
+          }
+        }
+      },
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -15922,10 +15926,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.35049389948139237,
+      "scale": 1.6105100000000008,
       "offset": [
-        7633.070355725192,
-        1775.170484029904
+        -4876.205833173552,
+        -4207.859256904477
       ]
     },
     "groupNodes": {},
