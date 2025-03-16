@@ -12674,43 +12674,6 @@
       }
     },
     {
-      "id": 638,
-      "type": "Float",
-      "pos": [
-        3500.587890625,
-        4320.98583984375
-      ],
-      "size": [
-        315,
-        58
-      ],
-      "flags": {},
-      "order": 68,
-      "mode": 4,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "FLOAT",
-          "type": "FLOAT",
-          "links": [
-            1097
-          ],
-          "slot_index": 0
-        }
-      ],
-      "title": "播放速度",
-      "properties": {
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "Node name for S&R": "Float"
-      },
-      "widgets_values": [
-        "1.5"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 636,
       "type": "MathExpression|pysssss",
       "pos": [
@@ -12888,7 +12851,7 @@
         58
       ],
       "flags": {},
-      "order": 69,
+      "order": 68,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12927,7 +12890,7 @@
         98
       ],
       "flags": {},
-      "order": 70,
+      "order": 69,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12951,6 +12914,43 @@
         "wan",
         "default"
       ]
+    },
+    {
+      "id": 638,
+      "type": "Float",
+      "pos": [
+        3500.587890625,
+        4320.98583984375
+      ],
+      "size": [
+        315,
+        58
+      ],
+      "flags": {},
+      "order": 70,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "FLOAT",
+          "type": "FLOAT",
+          "links": [
+            1097
+          ],
+          "slot_index": 0
+        }
+      ],
+      "title": "播放速度",
+      "properties": {
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "Node name for S&R": "Float"
+      },
+      "widgets_values": [
+        "1.25"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -15923,10 +15923,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.16350799082655798,
+      "scale": 1.2100000000000006,
       "offset": [
-        8094.975763464249,
-        2355.608357110148
+        -2904.6897830585017,
+        -3790.8539715480974
       ]
     },
     "groupNodes": {},
