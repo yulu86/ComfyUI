@@ -11962,78 +11962,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 630,
-      "type": "Evaluate Strings",
-      "pos": [
-        4074.910400390625,
-        5344.099609375
-      ],
-      "size": [
-        315,
-        194
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 223,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "a"
-          },
-          "link": 1088
-        },
-        {
-          "name": "b",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "b"
-          },
-          "link": 1089
-        },
-        {
-          "name": "c",
-          "type": "STRING",
-          "shape": 7,
-          "widget": {
-            "name": "c"
-          },
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            1090
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "Node name for S&R": "Evaluate Strings"
-      },
-      "widgets_values": [
-        "b + ',' + a",
-        "True",
-        "Hello",
-        " World",
-        "!"
-      ],
-      "color": "#222",
-      "bgcolor": "#000",
-      "shape": 1
-    },
-    {
       "id": 594,
       "type": "Reroute",
       "pos": [
@@ -12951,6 +12879,77 @@
       ],
       "color": "#232",
       "bgcolor": "#353"
+    },
+    {
+      "id": 630,
+      "type": "Evaluate Strings",
+      "pos": [
+        3072.365966796875,
+        5189.49609375
+      ],
+      "size": [
+        315,
+        194
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 223,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "a",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "a"
+          },
+          "link": 1088
+        },
+        {
+          "name": "b",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "b"
+          },
+          "link": 1089
+        },
+        {
+          "name": "c",
+          "type": "STRING",
+          "shape": 7,
+          "widget": {
+            "name": "c"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1090
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "b + ',' + a",
+        "True",
+        "Hello",
+        " World",
+        "!"
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
     }
   ],
   "links": [
@@ -15923,10 +15922,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6830134553650709,
+      "scale": 0.35049389948139237,
       "offset": [
-        4424.613604454101,
-        792.0211326328674
+        7633.070355725192,
+        1775.170484029904
       ]
     },
     "groupNodes": {},
