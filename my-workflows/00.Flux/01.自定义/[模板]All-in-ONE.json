@@ -3745,7 +3745,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_427326993958692_low"
+        "Colorful_Juice_Drips_646961338432818_low"
       ]
     },
     {
@@ -4158,7 +4158,7 @@
         "",
         false,
         "http://127.0.0.1:11434",
-        "",
+        "qwq:latest",
         "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用AI创建几张照片，用于发布到小红书以吸引粉丝\n2. 你的任务是根据我提供的主题创建一个详细的提示词\n3. 提示词是需要包含在图像中的内容，包含风格、内容主体等150-180个描述性形容词或关键词，尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n4. 详细描述周围的场景，以增加画面的色彩和丰富程度\n5. 如果主题中包含人物，提示词还需要包含服饰、外貌、身材、动作、姿势、拍摄视角相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n>>>\n8bit pixel art style, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n>>>\n8比特像素艺术风格，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n\n```\n\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并按 <Output> 要求，以 <Examples> 的格式返回",
         1744717106,
         "randomize",
@@ -4392,7 +4392,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        855431993796789,
+        969094421264354,
         "randomize",
         25,
         1,
@@ -4478,7 +4478,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        887529958070875,
+        183856268898251,
         "randomize",
         20,
         1,
@@ -5018,7 +5018,7 @@
         "Node name for S&R": "Seed"
       },
       "widgets_values": [
-        646961338432818,
+        662398362471918,
         "randomize"
       ],
       "color": "#232",
@@ -5750,7 +5750,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        914569474682493,
+        654894086076375,
         "randomize",
         40,
         1,
@@ -9662,7 +9662,7 @@
       },
       "widgets_values": [
         2,
-        90497549064966,
+        870850624735984,
         "randomize",
         20,
         1,
@@ -12570,7 +12570,7 @@
         "Node name for S&R": "KSampler"
       },
       "widgets_values": [
-        1008683839504579,
+        174755301477939,
         "randomize",
         20,
         6,
@@ -15836,7 +15836,7 @@
     },
     {
       "id": 25,
-      "title": "0A 图片生成 提示词 05- 图片",
+      "title": "0A 图片生成 提示词 05- Janus",
       "bounding": [
         -4528.34912109375,
         1771.85595703125,
@@ -15926,10 +15926,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.6105100000000008,
+      "scale": 1.2100000000000002,
       "offset": [
-        -4876.205833173552,
-        -4207.859256904477
+        3406.3205733231875,
+        -419.3503758984625
       ]
     },
     "groupNodes": {},
