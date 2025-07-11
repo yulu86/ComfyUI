@@ -1,8 +1,8 @@
 {
   "id": "647c7cda-2353-456b-9579-bd34a0c8ec18",
   "revision": 0,
-  "last_node_id": 670,
-  "last_link_id": 1139,
+  "last_node_id": 671,
+  "last_link_id": 1143,
   "nodes": [
     {
       "id": 144,
@@ -3416,7 +3416,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Colorful_Juice_Drips_325848650577091_low"
+        "Rebecca_from_Cyberpunk_754364402798865_low"
       ]
     },
     {
@@ -4059,7 +4059,7 @@
         }
       },
       "widgets_values": [
-        633755911810381,
+        1082867019204663,
         "randomize",
         25,
         1,
@@ -4150,7 +4150,7 @@
         }
       },
       "widgets_values": [
-        544956343968216,
+        93635084351240,
         "randomize",
         20,
         1,
@@ -4735,82 +4735,6 @@
       ],
       "color": "#432",
       "bgcolor": "#653"
-    },
-    {
-      "id": 275,
-      "type": "Evaluate Strings",
-      "pos": [
-        -1309.5203857421875,
-        -163.29815673828125
-      ],
-      "size": [
-        428.66986083984375,
-        282.8832702636719
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 133,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "a"
-          },
-          "link": 485
-        },
-        {
-          "name": "b",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "b"
-          },
-          "link": 486
-        },
-        {
-          "name": "c",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "c"
-          },
-          "link": 850
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "slot_index": 0,
-          "links": [
-            664
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings",
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "widget_ue_connectable": {
-          "c": true,
-          "a": true,
-          "b": true
-        }
-      },
-      "widgets_values": [
-        "a +  c + ',' +  b",
-        "False",
-        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
-        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
-        "!"
-      ],
-      "color": "#223",
-      "bgcolor": "#335",
-      "shape": 1
     },
     {
       "id": 367,
@@ -6855,83 +6779,6 @@
       "bgcolor": "#000"
     },
     {
-      "id": 466,
-      "type": "Evaluate Strings",
-      "pos": [
-        28.1531925201416,
-        1023.9706420898438
-      ],
-      "size": [
-        315,
-        194
-      ],
-      "flags": {
-        "collapsed": true,
-        "pinned": true
-      },
-      "order": 108,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "a",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "a"
-          },
-          "link": 847
-        },
-        {
-          "name": "b",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "b"
-          },
-          "link": 848
-        },
-        {
-          "name": "c",
-          "shape": 7,
-          "type": "STRING",
-          "widget": {
-            "name": "c"
-          },
-          "link": 849
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "slot_index": 0,
-          "links": [
-            850
-          ]
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Evaluate Strings",
-        "cnr_id": "efficiency-nodes-comfyui",
-        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
-        "widget_ue_connectable": {
-          "a": true,
-          "b": true,
-          "c": true
-        }
-      },
-      "widgets_values": [
-        "a + ',' + b +  ',' + c",
-        "False",
-        "Hello",
-        " World",
-        "!"
-      ],
-      "color": "#222",
-      "bgcolor": "#000",
-      "shape": 1
-    },
-    {
       "id": 481,
       "type": "easy mathInt",
       "pos": [
@@ -6997,7 +6844,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 107,
       "mode": 4,
       "inputs": [
         {
@@ -7071,7 +6918,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 132,
+      "order": 133,
       "mode": 4,
       "inputs": [
         {
@@ -7279,46 +7126,6 @@
       "bgcolor": "#335"
     },
     {
-      "id": 426,
-      "type": "Simple String",
-      "pos": [
-        -4520.822265625,
-        1407.50244140625
-      ],
-      "size": [
-        377.4978942871094,
-        60.6619987487793
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 36,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "slot_index": 0,
-          "links": [
-            938
-          ]
-        }
-      ],
-      "title": "主题",
-      "properties": {
-        "Node name for S&R": "Simple String",
-        "cnr_id": "cg-use-everywhere",
-        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
-        "widget_ue_connectable": {}
-      },
-      "widgets_values": [
-        "Colorful_Juice_Drips"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 106,
       "type": "LoadImage",
       "pos": [
@@ -7330,7 +7137,7 @@
         314
       ],
       "flags": {},
-      "order": 37,
+      "order": 36,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7376,7 +7183,7 @@
         314
       ],
       "flags": {},
-      "order": 38,
+      "order": 37,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7678,7 +7485,7 @@
         58
       ],
       "flags": {},
-      "order": 39,
+      "order": 38,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -7900,7 +7707,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 107,
+      "order": 108,
       "mode": 4,
       "inputs": [
         {
@@ -8063,7 +7870,7 @@
       },
       "widgets_values": [
         2,
-        474236397366434,
+        963417028664053,
         "randomize",
         20,
         1,
@@ -8096,7 +7903,7 @@
         58
       ],
       "flags": {},
-      "order": 40,
+      "order": 39,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8135,7 +7942,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 41,
+      "order": 40,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8144,7 +7951,7 @@
           "type": "*",
           "slot_index": 0,
           "links": [
-            849
+            1142
           ]
         },
         {
@@ -8340,7 +8147,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 42,
+      "order": 41,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8425,54 +8232,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 408,
-      "type": "String",
-      "pos": [
-        -5429.1181640625,
-        -211.74111938476562
-      ],
-      "size": [
-        846.5399780273438,
-        996.5400390625
-      ],
-      "flags": {
-        "collapsed": false,
-        "pinned": true
-      },
-      "order": 43,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "slot_index": 0,
-          "links": [
-            747,
-            748,
-            806
-          ]
-        }
-      ],
-      "title": "模板",
-      "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
-        "Node name for S&R": "String",
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "widget_ue_connectable": {}
-      },
-      "widgets_values": [
-        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并严格按照 <Output> 要求，参考 <Examples> 的格式返回。",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#223",
-      "bgcolor": "#335"
-    },
-    {
       "id": 93,
       "type": "UNETLoader",
       "pos": [
@@ -8484,7 +8243,7 @@
         82
       ],
       "flags": {},
-      "order": 44,
+      "order": 42,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -8690,7 +8449,7 @@
         58
       ],
       "flags": {},
-      "order": 45,
+      "order": 43,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8786,7 +8545,7 @@
         388.9892578125
       ],
       "flags": {},
-      "order": 46,
+      "order": 44,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8965,7 +8724,7 @@
         243.9886016845703
       ],
       "flags": {},
-      "order": 47,
+      "order": 45,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -8974,7 +8733,7 @@
           "type": "*",
           "slot_index": 0,
           "links": [
-            848
+            1141
           ]
         },
         {
@@ -9100,7 +8859,7 @@
         78
       ],
       "flags": {},
-      "order": 48,
+      "order": 46,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9132,55 +8891,6 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
-    },
-    {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4124.3583984375,
-        1408.1083984375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 49,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "slot_index": 0,
-          "links": [
-            951
-          ]
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "slot_index": 1,
-          "links": []
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
-        "Node name for S&R": "CR Text",
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "widget_ue_connectable": {}
-      },
-      "widgets_values": [
-        "cute girl",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
     },
     {
       "id": 620,
@@ -9441,7 +9151,7 @@
         58
       ],
       "flags": {},
-      "order": 50,
+      "order": 47,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9485,7 +9195,7 @@
         "collapsed": true,
         "pinned": true
       },
-      "order": 51,
+      "order": 48,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -9696,7 +9406,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 52,
+      "order": 49,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -9969,7 +9679,7 @@
         340.9159851074219
       ],
       "flags": {},
-      "order": 53,
+      "order": 50,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10146,7 +9856,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 54,
+      "order": 51,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -10292,7 +10002,7 @@
         58
       ],
       "flags": {},
-      "order": 55,
+      "order": 52,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10375,7 +10085,7 @@
         340.9159851074219
       ],
       "flags": {},
-      "order": 56,
+      "order": 53,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10424,7 +10134,7 @@
         82
       ],
       "flags": {},
-      "order": 57,
+      "order": 54,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10460,7 +10170,7 @@
         58
       ],
       "flags": {},
-      "order": 58,
+      "order": 55,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10746,7 +10456,7 @@
         106
       ],
       "flags": {},
-      "order": 59,
+      "order": 56,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10784,7 +10494,7 @@
         58
       ],
       "flags": {},
-      "order": 60,
+      "order": 57,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -10980,7 +10690,7 @@
         58
       ],
       "flags": {},
-      "order": 61,
+      "order": 58,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11022,7 +10732,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 62,
+      "order": 59,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11065,7 +10775,7 @@
         142
       ],
       "flags": {},
-      "order": 63,
+      "order": 60,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -11105,7 +10815,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        1125726489037796,
+        113744805676429,
         "randomize"
       ],
       "color": "#232",
@@ -11175,7 +10885,7 @@
         }
       },
       "widgets_values": [
-        1045003456337216,
+        122276222139592,
         "randomize",
         20,
         6,
@@ -11196,7 +10906,7 @@
         82
       ],
       "flags": {},
-      "order": 64,
+      "order": 61,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -11219,7 +10929,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        93499294311889,
+        204199411573258,
         "randomize"
       ],
       "color": "#223",
@@ -11789,7 +11499,7 @@
         130
       ],
       "flags": {},
-      "order": 65,
+      "order": 62,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12001,7 +11711,7 @@
         82
       ],
       "flags": {},
-      "order": 66,
+      "order": 63,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12040,7 +11750,7 @@
         60.429901123046875
       ],
       "flags": {},
-      "order": 67,
+      "order": 64,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12076,7 +11786,7 @@
         58
       ],
       "flags": {},
-      "order": 68,
+      "order": 65,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -12310,7 +12020,7 @@
         }
       },
       "widgets_values": [
-        254044329792472,
+        207088304633176,
         "randomize",
         40,
         1,
@@ -12331,7 +12041,7 @@
         58
       ],
       "flags": {},
-      "order": 69,
+      "order": 66,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12407,7 +12117,7 @@
         82
       ],
       "flags": {},
-      "order": 70,
+      "order": 67,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -12426,7 +12136,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        246977675998943,
+        279885871760069,
         "randomize"
       ]
     },
@@ -13168,7 +12878,7 @@
         792.4426879882812
       ],
       "flags": {},
-      "order": 71,
+      "order": 68,
       "mode": 4,
       "inputs": [],
       "outputs": [
@@ -13263,7 +12973,7 @@
       "flags": {
         "pinned": true
       },
-      "order": 72,
+      "order": 69,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -13366,7 +13076,7 @@
         225.3144989013672
       ],
       "flags": {},
-      "order": 73,
+      "order": 70,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -13416,7 +13126,7 @@
       ],
       "flags": {},
       "order": 88,
-      "mode": 0,
+      "mode": 4,
       "inputs": [
         {
           "name": "model",
@@ -13457,98 +13167,6 @@
         "01_Flux\\Flux1.D\\03_画面风格\\darkdescent-pixel-art_(pixel art).safetensors",
         1,
         1
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1686.1072998046875,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 74,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "slot_index": 0,
-          "links": [
-            847
-          ]
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "slot_index": 1,
-          "links": []
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
-        "Node name for S&R": "CR Text",
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "widget_ue_connectable": {}
-      },
-      "widgets_values": [
-        "create a pixel art cozy",
-        [
-          false,
-          true
-        ]
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 518,
-      "type": "String",
-      "pos": [
-        -3549.040771484375,
-        1530.6171875
-      ],
-      "size": [
-        358.6899719238281,
-        174.6638946533203
-      ],
-      "flags": {},
-      "order": 75,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "slot_index": 0,
-          "links": [
-            940
-          ]
-        }
-      ],
-      "title": "画面风格",
-      "properties": {
-        "aux_id": "M1kep/ComfyLiterals",
-        "Node name for S&R": "String",
-        "cnr_id": "comfyliterals",
-        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
-        "widget_ue_connectable": {}
-      },
-      "widgets_values": [
-        "base",
-        [
-          false,
-          true
-        ]
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -13943,6 +13561,380 @@
       },
       "color": "#2a363b",
       "bgcolor": "#3f5159"
+    },
+    {
+      "id": 671,
+      "type": "Evaluate Strings",
+      "pos": [
+        35.152164459228516,
+        1032.9842529296875
+      ],
+      "size": [
+        270,
+        154
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 106,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "a"
+          },
+          "link": 1140
+        },
+        {
+          "name": "b",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "b"
+          },
+          "link": 1141
+        },
+        {
+          "name": "c",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "c"
+          },
+          "link": 1142
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1143
+          ]
+        }
+      ],
+      "properties": {
+        "widget_ue_connectable": {},
+        "Node name for S&R": "Evaluate Strings"
+      },
+      "widgets_values": [
+        "a + ',' + b +  ',' + c",
+        "False",
+        "",
+        "",
+        ""
+      ],
+      "color": "#222",
+      "bgcolor": "#000",
+      "shape": 1
+    },
+    {
+      "id": 275,
+      "type": "Evaluate Strings",
+      "pos": [
+        -1309.5203857421875,
+        -163.29815673828125
+      ],
+      "size": [
+        428.66986083984375,
+        282.8832702636719
+      ],
+      "flags": {
+        "collapsed": true
+      },
+      "order": 132,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "a",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "a"
+          },
+          "link": 485
+        },
+        {
+          "name": "b",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "b"
+          },
+          "link": 486
+        },
+        {
+          "name": "c",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "c"
+          },
+          "link": 1143
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "slot_index": 0,
+          "links": [
+            664
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Evaluate Strings",
+        "cnr_id": "efficiency-nodes-comfyui",
+        "ver": "3ead4afd120833f3bffdefeca0d6545df8051798",
+        "widget_ue_connectable": {
+          "c": true,
+          "a": true,
+          "b": true
+        }
+      },
+      "widgets_values": [
+        "a +  c + ',' +  b",
+        "False",
+        "(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, ",
+        "solo, 1girl, (portait:1.5), sexy, smile, (detailed face), (heavy_markup), (skin dentation), (large breasts:1.3), (breasts out:1.5), (professional lighting, bokeh), (blouse:1.3), gorgeous, bloom, floating hair,(light particles, lens flare, glowing particles:0.6), (dynamic pose), specular lighting, soft lighting, head tilt, (Boyfriend's point of view),  depth of field, (small head:1.4), gradient background, ",
+        "!"
+      ],
+      "color": "#223",
+      "bgcolor": "#335",
+      "shape": 1
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1686.1072998046875,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 71,
+      "mode": 4,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "slot_index": 0,
+          "links": [
+            1140
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "slot_index": 1,
+          "links": []
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "Node name for S&R": "CR Text",
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "create a pixel art cozy",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4124.3583984375,
+        1408.1083984375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 72,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "slot_index": 0,
+          "links": [
+            951
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "slot_index": 1,
+          "links": []
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "Node name for S&R": "CR Text",
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "Low Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 426,
+      "type": "Simple String",
+      "pos": [
+        -4520.822265625,
+        1407.50244140625
+      ],
+      "size": [
+        377.4978942871094,
+        60.6619987487793
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 73,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "slot_index": 0,
+          "links": [
+            938
+          ]
+        }
+      ],
+      "title": "主题",
+      "properties": {
+        "Node name for S&R": "Simple String",
+        "cnr_id": "cg-use-everywhere",
+        "ver": "8017bc6b063f45db6b986d9fc8bb76bd3234b838",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "Rebecca_from_Cyberpunk"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 408,
+      "type": "String",
+      "pos": [
+        -5429.1181640625,
+        -211.74111938476562
+      ],
+      "size": [
+        846.5399780273438,
+        996.5400390625
+      ],
+      "flags": {
+        "collapsed": false,
+        "pinned": true
+      },
+      "order": 74,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "slot_index": 0,
+          "links": [
+            747,
+            748,
+            806
+          ]
+        }
+      ],
+      "title": "模板",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "Node name for S&R": "String",
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "# Role: 提示词生成器\n\n## Profile\n\n- Author: yuluxu\n- Version: 0.1\n- Language: English\n- Description: 你是一个艺术专家，擅长创作完美的艺术画面，具备丰富的经验生成AI绘画提示词。请按照以下信息生成提示词。\n\n### Generate Prompts\n1. 我准备用黑森林实验室的Flux模型生成图片\n2. 你的任务是根据我提供的主题创建详细的提示词\n3. 提示词是需要包含在图像中的内容，包含内容主体、相关细节等150-180个描述性形容词或关键词\n4. 提示词需要包含环境、场景\n5. 提示词需要包含拍摄视角，例如: Eye Level, High Angle, Over the shoulder shot, Dutch Angle, Bird's Eye View, Worm's Eye View, Low Angle, Far Shot, Middle Shot等\n6. 请尽可能发挥想象力，详细地分解和扩展主题中的内容，并描述出来，越详细越好\n7. 详细描述周围的场景，以增加画面的色彩和丰富程度\n8. 如果主题中包含人物，提示词还需要包含人物特征、服饰、外貌、身材、动作、姿势相关的提示词\n\n## Rules\n1. Don't break character under any circumstance. \n2. Avoid any superfluous pre and post descriptive text.\n3. 仅以英文语句和短语返回\n4. 不需要输出其他词例如“response”\n5. 不需要输出标题\n6. 不需要分段输出\n7. 不需要hash tag\n8. 不要用markdown格式输出\n9. 不要用英文以外的其他语言输出\n10. 从以下画面风格中选取一个合适的:\"3d-model, analog film, anime, cinematic, comic book, craft clay, digital art, enhance, fantasy art, isometric, line art, lowpoly, neonpunk, origami, photographic, pixel art, texture, ads-advertising, ads-automotive, ads-corporate, ads-fashion editorial, ads-food photography, ads-gourmet food photography, ads-luxury, ads-real estate, ads-retail, artstyle-abstract, artstyle-abstract expressionism, artstyle-art deco, artstyle-art nouveau, artstyle-constructivist, artstyle-cubist, artstyle-expressionist, artstyle-graffiti, artstyle-hyperrealism, artstyle-impressionist, artstyle-pointillism, artstyle-pop art, artstyle-psychedelic, artstyle-renaissance, artstyle-steampunk, artstyle-surrealist, artstyle-typography, artstyle-watercolor, futuristic-biomechanical, futuristic-biomechanical cyberpunk, futuristic-cybernetic, futuristic-cybernetic robot, futuristic-cyberpunk cityscape, futuristic-futuristic, futuristic-retro cyberpunk, futuristic-retro futurism, futuristic-sci-fi, futuristic-vaporwave, game-bubble bobble, game-cyberpunk game, game-fighting game, game-gta, game-mario, game-minecraft, game-pokemon, game-retro arcade, game-retro game, game-rpg fantasy game, game-strategy game, game-streetfighter, game-zelda, misc-architectural, misc-disco, misc-dreamscape, misc-dystopian, misc-fairy tale, misc-gothic, misc-grunge, misc-horror, misc-kawaii, misc-lovecraftian, misc-macabre, misc-manga, misc-metropolis, misc-minimalist, misc-monochrome, misc-nautical, misc-space, misc-stained glass, misc-techwear fashion, misc-tribal, misc-zentangle, papercraft-collage, papercraft-flat papercut, papercraft-kirigami, papercraft-paper mache, papercraft-paper quilling, papercraft-papercut collage, papercraft-papercut shadow box, papercraft-stacked papercut, papercraft-thick layered papercut, photo-alien, photo-film noir, photo-glamour, photo-hdr, photo-iphone photographic, photo-long exposure, photo-neon noir, photo-silhouette, photo-tilt-shift\"\n\n## Workflow\n1. 根据我提供的图像主题，生成图像标题，仅以英文单词返回，最多3个英文单词，单词间用_分隔\n2. 根据我提供的图像主题扩展场景内容，生成图像的英文提示词\n3. 把英文提示词翻译成中文\n\n## Output\n1. 如果涉及到著名的角色或人物，请写明人物名字\n2. 如果涉及到著名的角色或人物，请写明人物出自哪部动漫、电影、剧集、小说\n3. 请以plain text格式返回\n4. 仅以英文语句和英文短语返回\n5. 返回的格式是标题、分割线、英文提示词、分割线、中文提示词、分割线、画面风格\n\n## Examples\n\n```\nRebecca_from_Cyberpunk\n---\nLow Angle, vibrant colors, Rebecca from Cyberpunk 2077: Edgerunner, iconic red jacket, tactical gear, sunglasses, futuristic cyborg appearance, holding a long assault rifle, intense focus, dynamic action pose, mid-jump, neon-lit retro video game environment reminiscent of Contra I side-scrolling world, high-contrast visuals, angular geometric shapes, multiple enemies approaching, glowing cybernetic enhancements, metallic textures, detailed pixel art details, dark background with neon accents, explosions and smoke effects, energy beams, futuristic cityscape elements like pipes and glowing signs in the background, retro video game aesthetic, bold color palette, sharp lines, dynamic lighting, high-energy action scene\n---\n低角度镜头，鲜明的色彩，来自《赛博朋克2077：边缘行者》中的Rebecca角色形象，标志性的红色夹克，战术装备，墨镜，未来感十足的赛博人形象，手持长型突击步枪，专注目光如炬，充满动感的动作姿势，腾空而起的瞬间，霓虹灯光映衬下的怀旧游戏世界，让人联想到经典横版过关游戏《魂斗罗》的世界观，高对比度的画面效果，锐利的几何线条，多个敌人逼近，发光的赛博强化部件，金属质感，精致细腻的像素艺术细节，黑色背景搭配霓虹光效点缀，爆炸与烟雾效果，能量束攻击，未来城市元素如管道和发光招牌出现在背景，复古游戏美学风格，鲜明的色调组合，锐利的线条勾勒，充满活力的光线效果，高能动作场景氛围。\n---\ngame-retro game\n```\n\n## Initialization\n作为 <Role>, 你必须遵守 <Rules>, 你默认使用 <Language>，执行 <Workflow>，并严格按照 <Output> 要求，参考 <Examples> 的格式返回。",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#223",
+      "bgcolor": "#335"
+    },
+    {
+      "id": 518,
+      "type": "String",
+      "pos": [
+        -3549.040771484375,
+        1530.6171875
+      ],
+      "size": [
+        358.6899719238281,
+        174.6638946533203
+      ],
+      "flags": {},
+      "order": 75,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "slot_index": 0,
+          "links": [
+            940
+          ]
+        }
+      ],
+      "title": "画面风格",
+      "properties": {
+        "aux_id": "M1kep/ComfyLiterals",
+        "Node name for S&R": "String",
+        "cnr_id": "comfyliterals",
+        "ver": "bdddb08ca82d90d75d97b1d437a652e0284a32ac",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "game-retro game",
+        [
+          false,
+          true
+        ]
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -15515,38 +15507,6 @@
       "*"
     ],
     [
-      847,
-      273,
-      0,
-      466,
-      0,
-      "STRING"
-    ],
-    [
-      848,
-      463,
-      0,
-      466,
-      1,
-      "STRING"
-    ],
-    [
-      849,
-      464,
-      0,
-      466,
-      2,
-      "STRING"
-    ],
-    [
-      850,
-      466,
-      0,
-      275,
-      2,
-      "STRING"
-    ],
-    [
       868,
       478,
       0,
@@ -16785,6 +16745,38 @@
       521,
       0,
       "STRING"
+    ],
+    [
+      1140,
+      273,
+      0,
+      671,
+      0,
+      "STRING"
+    ],
+    [
+      1141,
+      463,
+      0,
+      671,
+      1,
+      "STRING"
+    ],
+    [
+      1142,
+      464,
+      0,
+      671,
+      2,
+      "STRING"
+    ],
+    [
+      1143,
+      671,
+      0,
+      275,
+      2,
+      "STRING"
     ]
   ],
   "groups": [
@@ -17073,10 +17065,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.895430243255272,
+      "scale": 0.3452271214393291,
       "offset": [
-        3380.3370119941783,
-        -234.1218850488654
+        2320.930847516633,
+        1466.8871370086442
       ]
     },
     "groupNodes": {},
