@@ -3667,7 +3667,7 @@
         }
       },
       "widgets_values": [
-        "Rebecca_from_Cyberpunk_368902182117885_low"
+        "Rebecca_from_Cyberpunk_732598096565263_low"
       ]
     },
     {
@@ -4357,7 +4357,7 @@
         }
       },
       "widgets_values": [
-        203500729108427,
+        75524049129870,
         "randomize",
         25,
         1,
@@ -4452,7 +4452,7 @@
         }
       },
       "widgets_values": [
-        263679691073859,
+        655619265723666,
         "randomize",
         20,
         1,
@@ -8125,7 +8125,7 @@
       },
       "widgets_values": [
         2,
-        505468581247605,
+        332470171807823,
         "randomize",
         20,
         1,
@@ -11234,7 +11234,7 @@
         }
       },
       "widgets_values": [
-        1094662434585733,
+        190120480047675,
         "randomize"
       ],
       "color": "#232",
@@ -11308,7 +11308,7 @@
         }
       },
       "widgets_values": [
-        856821317685856,
+        798301522299484,
         "randomize",
         20,
         6,
@@ -11360,7 +11360,7 @@
         }
       },
       "widgets_values": [
-        88113962673860,
+        416376913176901,
         "randomize"
       ],
       "color": "#223",
@@ -12263,7 +12263,7 @@
         }
       },
       "widgets_values": [
-        317689284728580,
+        926019004207134,
         "randomize",
         40,
         1,
@@ -12345,7 +12345,7 @@
         }
       },
       "widgets_values": [
-        639690926067431,
+        399187258054035,
         "randomize"
       ]
     },
@@ -14060,68 +14060,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 603,
-      "type": "LoraLoader",
-      "pos": [
-        -1673.9571533203125,
-        945.2117309570312
-      ],
-      "size": [
-        315,
-        126
-      ],
-      "flags": {},
-      "order": 89,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 1040
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 1041
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "slot_index": 0,
-          "links": [
-            1042
-          ]
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "slot_index": 1,
-          "links": [
-            1043
-          ]
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfy-core",
-        "ver": "0.3.24",
-        "Node name for S&R": "LoraLoader",
-        "ue_properties": {
-          "version": "7.1",
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {}
-        }
-      },
-      "widgets_values": [
-        "01_Flux\\Flux1.D\\03_画面风格\\darkdescent-pixel-art_(pixel art).safetensors",
-        1,
-        1
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 291,
       "type": "Int",
       "pos": [
@@ -14648,55 +14586,6 @@
       "bgcolor": "#353"
     },
     {
-      "id": 273,
-      "type": "CR Text",
-      "pos": [
-        -1686.1072998046875,
-        609.2631225585938
-      ],
-      "size": [
-        461.1338806152344,
-        243.9886016845703
-      ],
-      "flags": {},
-      "order": 75,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "slot_index": 0,
-          "links": [
-            1140
-          ]
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "slot_index": 1,
-          "links": []
-        }
-      ],
-      "title": "提示词 - Lora 触发词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
-        "ue_properties": {
-          "version": "7.1",
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {}
-        }
-      },
-      "widgets_values": [
-        "pixel art"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 518,
       "type": "String",
       "pos": [
@@ -14708,7 +14597,7 @@
         174.6638946533203
       ],
       "flags": {},
-      "order": 76,
+      "order": 75,
       "mode": 0,
       "inputs": [],
       "outputs": [
@@ -14735,55 +14624,6 @@
       },
       "widgets_values": [
         "pixel art"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
-      "id": 425,
-      "type": "CR Text",
-      "pos": [
-        -4124.3583984375,
-        1408.1083984375
-      ],
-      "size": [
-        524.8606567382812,
-        302.068603515625
-      ],
-      "flags": {},
-      "order": 77,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "text",
-          "type": "*",
-          "slot_index": 0,
-          "links": [
-            951
-          ]
-        },
-        {
-          "name": "show_help",
-          "type": "STRING",
-          "slot_index": 1,
-          "links": []
-        }
-      ],
-      "title": "提示词",
-      "properties": {
-        "cnr_id": "comfyroll",
-        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
-        "Node name for S&R": "CR Text",
-        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
-        "ue_properties": {
-          "version": "7.1",
-          "widget_ue_connectable": {},
-          "input_ue_unconnectable": {}
-        }
-      },
-      "widgets_values": [
-        "Low Angle, 32x32 pixel art, lone warrior, silver helmet, crimson plume, chainmail vest, leather belt, iron sword raised, round wooden shield, muscular silhouette, square jaw, determined eyes, wide stance, rocky cliff edge, stormy violet sky, distant lightning, flying wyvern silhouette, mossy stones, sparse dead grass, cracked ground, dark pine forest below, glowing ember particles, sharp geometric shadows, limited palette of black, crimson, silver, moss green, violet, ember orange, no shadows under feet, pure black background, bold outlines, retro game sprite, heroic pose, wind-torn cape, pixel-perfect dithering, high-contrast shading, centered composition, no extra elements, 6-color limit"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -14928,7 +14768,8 @@
         "0, 0, 0",
         "center",
         4,
-        "gpu"
+        "gpu",
+        "<tr><td>Output: </td><td><b>1</b> x <b>128</b> x <b>128 | 0.25MB</b></td></tr>"
       ]
     },
     {
@@ -15293,7 +15134,8 @@
         "0, 0, 0",
         "center",
         4,
-        "gpu"
+        "gpu",
+        "<tr><td>Output: </td><td><b>1</b> x <b>32</b> x <b>32 | 0.02MB</b></td></tr>"
       ]
     },
     {
@@ -15510,6 +15352,166 @@
       ],
       "color": "#323",
       "bgcolor": "#535"
+    },
+    {
+      "id": 603,
+      "type": "LoraLoader",
+      "pos": [
+        -1673.9571533203125,
+        945.2117309570312
+      ],
+      "size": [
+        315,
+        126
+      ],
+      "flags": {},
+      "order": 89,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 1040
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1041
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "slot_index": 0,
+          "links": [
+            1042
+          ]
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "slot_index": 1,
+          "links": [
+            1043
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.24",
+        "Node name for S&R": "LoraLoader",
+        "ue_properties": {
+          "version": "7.1",
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "01_Flux\\Flux1.D\\03_画面风格\\dvr-pixel-flux.safetensors",
+        1,
+        1
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 273,
+      "type": "CR Text",
+      "pos": [
+        -1686.1072998046875,
+        609.2631225585938
+      ],
+      "size": [
+        461.1338806152344,
+        243.9886016845703
+      ],
+      "flags": {},
+      "order": 76,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "slot_index": 0,
+          "links": [
+            1140
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "slot_index": 1,
+          "links": []
+        }
+      ],
+      "title": "提示词 - Lora 触发词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "ue_properties": {
+          "version": "7.1",
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "dvr-pixel-flux"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 425,
+      "type": "CR Text",
+      "pos": [
+        -4124.3583984375,
+        1408.1083984375
+      ],
+      "size": [
+        524.8606567382812,
+        302.068603515625
+      ],
+      "flags": {},
+      "order": 77,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "text",
+          "type": "*",
+          "slot_index": 0,
+          "links": [
+            951
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "slot_index": 1,
+          "links": []
+        }
+      ],
+      "title": "提示词",
+      "properties": {
+        "cnr_id": "comfyroll",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Text",
+        "aux_id": "Suzie1/ComfyUI_Comfyroll_CustomNodes",
+        "ue_properties": {
+          "version": "7.1",
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {}
+        }
+      },
+      "widgets_values": [
+        "Low Angle, centered, pixel art, 32x32 sprite, Mario from Super Mario Bros, iconic red cap with M emblem, blue overalls, yellow buttons, brown shoes, white gloves, cheerful expression, mustache, plump nose, round belly, standing pose, arms slightly out, pixel-perfect shading, classic 8-bit color palette, pure black background, no shadows, high contrast, crisp edges, blocky limbs, retro game aesthetic, minimal detail, bold outlines, limited colors, nostalgic charm, vintage video game style, sprite sheet ready, game asset, side-scrolling hero, 1980s arcade vibe, pixel grid alignment, no anti-aliasing, dithering-free, clean silhouette, toy-like proportions, bright red, bright blue, golden yellow, chestnut brown, milky white, deep black"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
     }
   ],
   "links": [
@@ -18725,10 +18727,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.8140274938685063,
+      "scale": 0.2143588810000289,
       "offset": [
-        5847.960274528755,
-        825.5326520740967
+        6382.151048719198,
+        2302.0026065886013
       ]
     },
     "groupNodes": {},
